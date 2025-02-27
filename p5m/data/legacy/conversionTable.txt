@@ -1,0 +1,110 @@
+﻿# TPA	Sampa	Acapela	CereProc_eng	CereProc_swe	Tacotron_1	IPA	NST
+
+# Plosives
+p	p	p	p	p	p	p	p
+b	b	b	b	b	b	b	b
+t	t	t	t	t	t	t	t
+rt	rt	rt	t	rt	rt	ʈ	t`
+d	d	d	d	d	d	d	d
+rd	rd	rd	d	rd	rd	ɖ	d`
+k	k	k	k	k	k	k	k
+g	g	g	g	g	g	ɡ	g
+
+# Fricatives
+f	f	f	f	f	f	f	f
+v	v	v	v	v	v	v	v
+s	s	s	s	s	s	s	s
+rs	rs	rs	sh	rs	rs	ʂ	s`
+rs3	Z	S	zh	rs	rs	ʒ	-
+z	z	z	z	z	s	z	-
+dh	D	D	dh	dh	d	ð	D	
+th	T	T	th	th	t	θ	T
+h	h	h	h	h	h	h	h
+sj	x\	S	sh	x	sj	ɧ	x\
+sj3	x	x	rs	xx	sj	x	-
+tj	C	C	ch	c	tj	ç	s'
+
+# Affricates
+tj3	tS	tS	ch	ch	t_tj	t̠ʃ	tC
+j3	dZ	dZ	jh	jh	d_j	d̠ʒ	-
+
+# Nasals
+m	m	m	m	m	m	m	m
+n	n	n	n	n	n	n	n
+rn	rn	rn	n	rn	rn	ɳ	n`
+ng	N	N	ng	ng	ng	ŋ	N
+
+# Approximants
+r	r	r	r	r	r	r	r
+l	l	l	l	l	l	l	l
+rl	rl	rl	l	rl	rl	ɭ	l`
+j	j	j	y	j	j	j	j
+w	w	w	w	w	w	w	w
+r3	r3	r	r	rh	r	ɾ	-
+r0	r0	r	R	rh	r	ɾ	-
+r4	R	r	r	rrh	r	ʀ	-
+
+
+
+
+# Front vowels
+i2:	i:	i:	ii	ii	i:	iː	i:
+i	I	I	i	i	i	ɪ	I
+i3	I	I	i	i	i	j	-
+
+y2:	y:	y:	ii	yy	y:	yː	y:
+y	Y	Y	i	y	y	ʏ	Y
+
+e2:	e:	e:	i@	ee	e:	eː	e:
+e	E	e	e	e	e	ɛ	e
+e3	E	e	e	e	e	e	-
+ë	@	@	@	eh	ë	ə	-
+
+ä2:	E:	E:	e@	eex	ä:	ɛː	E:
+ä	E	E	e	e	e	ɛ	E
+ä3:	{:	{:	e@	aae	ää:	æː	-
+ä3	{	{	a	ae	ää	æ	-
+
+ö2:	2:	2:	ou	oox	ö:	øː	2:
+ö	2	2	ou	ox	ö	ø	9
+ö3:	9:	9:	@@	ooe	öö:	œː	-
+ö3	9	9	ou	oe	öö	œ	-
+
+# Back vowels
+o2:	u:	u:	uu	uu	o:	uː	u:
+o	U	U	u	u	o	u	U
+o3	U	U	u	u	o	u	U
+
+å2:	o:	o:	oo	oo	å:	oː	o:
+å	O	O	o	o	å	ɔ	O
+
+# U vowels
+u2:	}:	}:	uu	uux	u:	ʉː	}:
+u	u0	u	u	ux	u	ɵ	u0
+u3	u0	u	u	ux	u	ʉ	u0
+u4:	o2:	u:	uu	uw	o:	ʊː	-
+u4	u	U	u	u	o	ʊ	-
+
+# A vowels
+a2:	A:	A:	aa	aa	a:	ɒː	A:
+a	a	a	uh	a	a	a	a
+a3:	a:	a	aa	aah	a	aː	-
+
+# Swedish diphthongs
+au	aU	a_U	au	au	a_w	aʊ	a*U
+eu	Ew	E_U	y_uu	eu	e_w	ɛʊ	-
+
+# English diphthongs
+ei	eI	E_j	ei	e_j	e_j	eɪ	-	way
+ai	AI	a_j	ai	a_j	a_j	aɪ	ai	hi
+åi	OI	O_j	oi	o_j	å_j	ɔɪ	oi	boy
+öw	@U	2_U	ou	ou	ö_w	əʊ	oU	goat
+eë	E@	{:	e@	eeh	e_ë	eə	-	where
+ië	I@	I_@	i@	ie	i_ë	ɪə	-	peer
+uë	U@	U_@	u@	euh	o_åe	ʊə	-	pure
+
+# Nasalized vowels
+an	a~	a~	a_ng	an	a_ng	̃ɑ̃̃	-
+en	e~	e~	e_ng	in	e_ng	̃ɛ̃	-
+on	o~	o~	o_ng	on	o_ng	õ	-
+ön	9~	9~	u_ng	un	u_ng	̃œ̃	-

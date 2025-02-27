@@ -1,0 +1,289 @@
+#
+ac	"a2: ~ s `e2:	ACR NOM	swe	swe
+ad	"a2: ~ d `e2:	ACR NOM	swe	swe
+ae	"a2: ~ `e2:	ACR NOM	swe	swe
+af	"a2: ~ `ä f	ACR NOM	swe	swe
+ag	"a2: ~ g `e2:	ACR NOM	swe	swe
+ai	"a2: ~ `i2:	ACR NOM	swe	swe
+al	"a2: ~ `ä l	ACR NOM	swe	swe
+am	"a2: ~ `ä m	ACR NOM	swe	swe
+an	"a2: ~ `ä n	ACR NOM	swe	swe
+ao	"a2: ~ `o2:	ACR NOM	swe	swe
+aq	"a2: ~ k `u2:	ACR NOM	swe	swe
+ar	"a2: ~ `ä3 r	ACR NOM	swe	swe
+as	"a2: ~ `ä s	ACR NOM	swe	swe
+at	"a2: ~ t `e2:	ACR NOM	swe	swe
+au	"a2: ~ `u2:	ACR NOM	swe	swe
+aw	'a2: | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+ax	"a2: ~ `ä k s	ACR NOM	swe	swe
+az	"a2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+ba	b "e2: ~ `a2:	ACR NOM	swe	swe
+bb	b "e2: ~ b `e2:	ACR NOM	swe	swe
+bd	b "e2: ~ d `e2:	ACR NOM	swe	swe
+be	b "e2: ~ `e2:	ACR NOM	swe	swe
+bf	b "e2: ~ `ä f	ACR NOM	swe	swe
+bg	b "e2: ~ g `e2:	ACR NOM	swe	swe
+bh	b "e2: ~ h `å2:	ACR NOM	swe	swe
+bi	b "e2: ~ `i2:	ACR NOM	swe	swe
+bj	b "e2: ~ j `i2:	ACR NOM	swe	swe
+bm	b "e2: ~ `ä m	ACR NOM	swe	swe
+bn	b "e2: ~ `ä n	ACR NOM	swe	swe
+bo	b "e2: ~ `o2:	ACR NOM	swe	swe
+br	b "e2: ~ `ä3 r	ACR NOM	swe	swe
+bs	b "e2: ~ `ä s	ACR NOM	swe	swe
+bt	b "e2: ~ t `e2:	ACR NOM	swe	swe
+bv	b "e2: ~ v `e2:	ACR NOM	swe	swe
+bw	b 'e2: | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+by	b "e2: ~ `y2:	ACR NOM	swe	swe
+bz	b "e2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+ca	s "e2: ~ `a2:	ACR NOM	swe	swe
+cc	s "e2: ~ s `e2:	ACR NOM	swe	swe
+cd	s "e2: ~ d `e2:	ACR NOM	swe	swe
+cf	s "e2: ~ `ä f	ACR NOM	swe	swe
+cg	s "e2: ~ s `e2:	ACR NOM	swe	swe
+ch	s "e2: ~ h `å2:	ACR NOM	swe	swe
+ci	s "e2: ~ `i2:	ACR NOM	swe	swe
+ck	s "e2: ~ k `å2:	ACR NOM	swe	swe
+cl	s "e2: ~ `ä l	ACR NOM	swe	swe
+cm	s "e2: ~ `ä m	ACR NOM	swe	swe
+cn	s "e2: ~ `ä n	ACR NOM	swe	swe
+co	s "e2: ~ `o2:	ACR NOM	swe	swe
+cr	s "e2: ~ `ä3 r	ACR NOM	swe	swe
+cs	s "e2: ~ `ä s	ACR NOM	swe	swe
+cu	s "e2: ~ `u2:	ACR NOM	swe	swe
+cv	s "e2: ~ v `e2:	ACR NOM	swe	swe
+cx	s "e2: ~ `ä k s	ACR NOM	swe	swe
+cy	s "e2: ~ `y2:	ACR NOM	swe	swe
+cz	s "e2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+dd	d "e2: ~ d `e2:	ACR NOM	swe	swe
+de	d "e2: ~ `e2:	ACR NOM	swe	swe
+dj	d "e2: ~ j `i2:	ACR NOM	swe	swe
+dk	d "e2: ~ k `å2:	ACR NOM	swe	swe
+dm	d "e2: ~ `ä m	ACR NOM	swe	swe
+do	d "e2: ~ `o2:	ACR NOM	swe	swe
+dz	d "e2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+ec	"e2: ~ s `e2:	ACR NOM	swe	swe
+ee	"e2: ~ `e2:	ACR NOM	swe	swe
+eg	"e2: ~ g `e2:	ACR NOM	swe	swe
+eh	"e2: ~ h `å2:	ACR NOM	swe	swe
+er	"e2: ~ `ä3 r	ACR NOM	swe	swe
+es	"e2: ~ `ä s	ACR NOM	swe	swe
+et	"e2: ~ t `e2:	ACR NOM	swe	swe
+eu	"e2: ~ `u2:	ACR NOM	swe	swe
+fi	"ä f ~ `i2:	ACR NOM	swe	swe
+fj	"ä f ~ j `i2:	ACR NOM	swe	swe
+fk	"ä f ~ k `å2:	ACR NOM	swe	swe
+fm	"ä f ~ `ä m	ACR NOM	swe	swe
+fo	"ä f ~ `o2:	ACR NOM	swe	swe
+fr	"ä f ~ `ä3 r	ACR NOM	swe	swe
+ga	g "e2: ~ `a2:	ACR NOM	swe	swe
+gb	g "e2: ~ b `e2:	ACR NOM	swe	swe
+gd	g "e2: ~ d `e2:	ACR NOM	swe	swe
+ge	g "e2: ~ `e2:	ACR NOM	swe	swe
+gf	g "e2: ~ `ä f	ACR NOM	swe	swe
+gg	g "e2: ~ g `e2:	ACR NOM	swe	swe
+gh	g "e2: ~ h `å2:	ACR NOM	swe	swe
+gi	g "e2: ~ `i2:	ACR NOM	swe	swe
+gl	g "e2: ~ `ä l	ACR NOM	swe	swe
+gm	g "e2: ~ `ä m	ACR NOM	swe	swe
+gn	g "e2: ~ `ä n	ACR NOM	swe	swe
+gp	g "e2: ~ p `e2:	ACR NOM	swe	swe
+gq	g "e2: ~ k `u2:	ACR NOM	swe	swe
+gr	g "e2: ~ `ä3 r	ACR NOM	swe	swe
+gs	g "e2: ~ `ä s	ACR NOM	swe	swe
+gt	g "e2: ~ t `e2:	ACR NOM	swe	swe
+gu	g "e2: ~ `u2:	ACR NOM	swe	swe
+gw	g 'e2: | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+gy	g "e2: ~ `y2:	ACR NOM	swe	swe
+hk	h "å2: ~ k `å2:	ACR NOM	swe	swe
+hm	h "å2: ~ `ä m	ACR NOM	swe	swe
+hn	h "å2: ~ `ä n	ACR NOM	swe	swe
+hr	h "å2: ~ `ä3 r	ACR NOM	swe	swe
+ht	h "å2: ~ t `e2:	ACR NOM	swe	swe
+hu	h "å2: ~ `u2:	ACR NOM	swe	swe
+id	"i2: ~ d `e2:	ACR NOM	swe	swe
+ie	"i2: ~ `e2:	ACR NOM	swe	swe
+il	"i2: ~ `ä l	ACR NOM	swe	swe
+im	"i2: ~ `ä m	ACR NOM	swe	swe
+in	"i2: ~ `ä r	ACR NOM	swe	swe
+io	"i2: ~ `o2:	ACR NOM	swe	swe
+iq	"i2: ~ k `u2:	ACR NOM	swe	swe
+ir	"i2: ~ `ä3 r	ACR NOM	swe	swe
+is	"i2: ~ `ä s	ACR NOM	swe	swe
+it	"i2: ~ t `e2:	ACR NOM	swe	swe
+je	j "i2: ~ `e2:	ACR NOM	swe	swe
+jm	j "i2: ~ `ä m	ACR NOM	swe	swe
+jo	j "i2: ~ `o2:	ACR NOM	swe	swe
+jp	j "i2: ~ p `e2:	ACR NOM	swe	swe
+ke	k "å2: ~ `e2:	ACR NOM	swe	swe
+kg	k "å2: ~ g `e2:	ACR NOM	swe	swe
+kh	k "å2: ~ h `å2:	ACR NOM	swe	swe
+ki	k "å2: ~ `i2:	ACR NOM	swe	swe
+km	k "å2: ~ `ä m	ACR NOM	swe	swe
+kn	k "å2: ~ `ä n	ACR NOM	swe	swe
+kp	k "å2: ~ p `e2:	ACR NOM	swe	swe
+kr	k "å2: ~ `ä3 r	ACR NOM	swe	swe
+kw	k 'å2: | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+ky	k "å2: ~ `y2:	ACR NOM	swe	swe
+kz	k "å2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+la	"ä l ~ `a2:	ACR NOM	swe	swe
+lb	"ä l ~ b `e2:	ACR NOM	swe	swe
+lc	"ä l ~ s `e2:	ACR NOM	swe	swe
+li	"ä l ~ `i2:	ACR NOM	swe	swe
+lk	"ä l ~ k `å2:	ACR NOM	swe	swe
+lr	"ä l ~ `ä3 r	ACR NOM	swe	swe
+ls	"ä l ~ `ä s	ACR NOM	swe	swe
+lt	"ä l ~ t `e2:	ACR NOM	swe	swe
+lu	"ä l ~ `u2:	ACR NOM	swe	swe
+lv	"ä l ~ v `e2:	ACR NOM	swe	swe
+ly	"ä l ~ `y2:	ACR NOM	swe	swe
+ma	"ä m ~ `a2:	ACR NOM	swe	swe
+mc	"ä m ~ s `e2:	ACR NOM	swe	swe
+md	"ä m ~ d `e2:	ACR NOM	swe	swe
+me	"ä m ~ `e2:	ACR NOM	swe	swe
+mg	"ä m ~ g `e2:	ACR NOM	swe	swe
+mh	"ä m ~ h `å2:	ACR NOM	swe	swe
+mk	"ä m ~ k `å2:	ACR NOM	swe	swe
+ml	"ä m ~ `ä l	ACR NOM	swe	swe
+mm	"ä m ~ `ä m	ACR NOM	swe	swe
+mn	"ä m ~ `ä n	ACR NOM	swe	swe
+mo	"ä m ~ `o2:	ACR NOM	swe	swe
+mp	"ä m ~ p `i2:	ACR NOM	swe	swe
+mq	"ä m ~ k `u2:	ACR NOM	swe	swe
+mr	"ä m ~ `ä3 r	ACR NOM	swe	swe
+ms	"ä m ~ `ä s	ACR NOM	swe	swe
+mt	"ä m ~ t `i2:	ACR NOM	swe	swe
+mu	"ä m ~ `u2:	ACR NOM	swe	swe
+mv	"ä m ~ v `e2:	ACR NOM	swe	swe
+mw	'ä m | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+mx	"ä m ~ `ä k s	ACR NOM	swe	swe
+my	"ä m ~ `y2:	ACR NOM	swe	swe
+mz	"ä m ~ s `ä2: $ t a	ACR NOM	swe	swe
+na	"ä n ~ `a2:	ACR NOM	swe	swe
+nc	"ä n ~ s `e2:	ACR NOM	swe	swe
+ne	"ä n ~ `e2:	ACR NOM	swe	swe
+nf	"ä n ~ `ä f	ACR NOM	swe	swe
+ng	"ä n ~ g `e2:	ACR NOM	swe	swe
+ni	"ä n ~ `i2:	ACR NOM	swe	swe
+nl	"ä n ~ `ä l	ACR NOM	swe	swe
+no	"ä n ~ `o2:	ACR NOM	swe	swe
+np	"ä n ~ p `e2:	ACR NOM	swe	swe
+nr	"ä n ~ `ä3 r	ACR NOM	swe	swe
+nu	"ä n ~ `u2:	ACR NOM	swe	swe
+nz	"ä n ~ s `ä2: $ t a	ACR NOM	swe	swe
+om	"o2: ~ `ä m	ACR NOM	swe	swe
+oz	"o2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+pa	p "e2: ~ `a2:	ACR NOM	swe	swe
+pe	p "e2: ~ `e2:	ACR NOM	swe	swe
+pf	p "e2: ~ `ä f	ACR NOM	swe	swe
+pg	p "e2: ~ g `e2:	ACR NOM	swe	swe
+ph	p "e2: ~ h `å2:	ACR NOM	swe	swe
+pk	p "e2: ~ k `å2:	ACR NOM	swe	swe
+pl	p "e2: ~ `ä l	ACR NOM	swe	swe
+pm	p "e2: ~ `ä m	ACR NOM	swe	swe
+pn	p "e2: ~ `ä n	ACR NOM	swe	swe
+pr	p "e2: ~ `ä3 r	ACR NOM	swe	swe
+ps	p "e2: ~ `ä s	ACR NOM	swe	swe
+pt	p "e2: ~ t `e2:	ACR NOM	swe	swe
+pw	p 'e2: | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+py	p "e2: ~ `y2:	ACR NOM	swe	swe
+qa	k "u2: ~ `a2:	ACR NOM	swe	swe
+re	"ä3 r ~ `e2:	ACR NOM	swe	swe
+ro	"ä3 r ~ `o2:	ACR NOM	swe	swe
+rs	"ä3 r ~ `ä s	ACR NOM	swe	swe
+ru	"ä3 r ~ `u2:	ACR NOM	swe	swe
+rw	'ä3 r | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+sa	"ä s ~ `a2:	ACR NOM	swe	swe
+sb	"ä s ~ b `e2:	ACR NOM	swe	swe
+sc	"ä s ~ s `e2:	ACR NOM	swe	swe
+sd	"ä s ~ d `e2:	ACR NOM	swe	swe
+se	"ä s ~ `e2:	ACR NOM	swe	swe
+sg	"ä s ~ g `e2:	ACR NOM	swe	swe
+sh	"ä s ~ h `å2:	ACR NOM	swe	swe
+si	"ä s ~ `i2:	ACR NOM	swe	swe
+sj	"ä s ~ j `i2:	ACR NOM	swe	swe
+sk	"ä s ~ k `å2:	ACR NOM	swe	swe
+sl	"ä s ~ `ä l	ACR NOM	swe	swe
+sm	"ä s ~ `ä m	ACR NOM	swe	swe
+sn	"ä s ~ `ä n	ACR NOM	swe	swe
+so	"ä s ~ `o2:	ACR NOM	swe	swe
+sr	"ä s ~ `ä3 r	ACR NOM	swe	swe
+ss	"ä s ~ `ä s	ACR NOM	swe	swe
+st	"ä s ~ t `e2:	ACR NOM	swe	swe
+su	"ä s ~ `u2:	ACR NOM	swe	swe
+sv	"ä s ~ v `e2:	ACR NOM	swe	swe
+sy	"ä s ~ `y2:	ACR NOM	swe	swe
+sz	"ä s ~ s `ä2: $ t a	ACR NOM	swe	swe
+tc	t "e2: ~ s `e2:	ACR NOM	swe	swe
+td	t "e2: ~ d `e2:	ACR NOM	swe	swe
+tf	t "e2: ~ `ä f	ACR NOM	swe	swe
+tg	t "e2: ~ g `e2:	ACR NOM	swe	swe
+th	t "e2: ~ h `å2:	ACR NOM	swe	swe
+tj	t "e2: ~ j `i2:	ACR NOM	swe	swe
+tk	t "e2: ~ k `å2:	ACR NOM	swe	swe
+tl	t "e2: ~ `ä l	ACR NOM	swe	swe
+tm	t "e2: ~ `ä m	ACR NOM	swe	swe
+tn	t "e2: ~ `ä n	ACR NOM	swe	swe
+to	t "e2: ~ `o2:	ACR NOM	swe	swe
+tp	t "e2: ~ p `e2:	ACR NOM	swe	swe
+tr	t "e2: ~ `ä3 r	ACR NOM	swe	swe
+tt	t "e2: ~ t `e2:	ACR NOM	swe	swe
+tv	t "e2: ~ v `e2:	ACR NOM	swe	swe
+tw	t 'e2: | d "u $ b ë l $ v `e2:	ACR NOM	swe	swe
+tz	t "e2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+ua	"u2: ~ `a2:	ACR NOM	swe	swe
+ug	"u2: ~ g `e2:	ACR NOM	swe	swe
+uk	"u2: ~ k `å2:	ACR NOM	swe	swe
+um	"u2: ~ `ä m	ACR NOM	swe	swe
+us	"u2: ~ `ä s	ACR NOM	swe	swe
+uy	"u2: ~ `y2:	ACR NOM	swe	swe
+uz	"u2: ~ s `ä2: $ t a	ACR NOM	swe	swe
+va	v "e2: ~ `a2:	ACR NOM	swe	swe
+vc	v "e2: ~ s `e2:	ACR NOM	swe	swe
+ve	v "e2: ~ `e2:	ACR NOM	swe	swe
+vg	v "e2: ~ g `e2:	ACR NOM	swe	swe
+vi	v "e2: ~ `i2:	ACR NOM	swe	swe
+vn	v "e2: ~ `ä n	ACR NOM	swe	swe
+vu	v "e2: ~ `u2:	ACR NOM	swe	swe
+wf	d "u $ b ë l - v `e2: | 'ä f	ACR NOM	swe	swe
+ws	d "u $ b ë l - v `e2: | 'ä s	ACR NOM	swe	swe
+ye	"y2: ~ `e2:	ACR NOM	swe	swe
+yt	"y2: ~ t `e2:	ACR NOM	swe	swe
+yu	"y2: ~ `u2:	ACR NOM	swe	swe
+za	s "ä2: $ t `a | 'a2:	ACR NOM	swe	swe
+zm	s "ä2: $ t `a | 'ä m	ACR NOM	swe	swe
+zr	s "ä2: $ t `a | 'ä3 r	ACR NOM	swe	swe
+zw	s "ä2: $ t `a | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
+aero	'ä3: $ r o	PM NOM	swe	swe
+arpa	"a r $ p `a	PM NOM	swe	swe
+asia	'e j $ rs a	PM NOM	swe	swe
+bitnet	b 'i t ~ n e t	PM NOM	swe	swe
+biz	b 'i s	PM NOM	swe	swe
+cat	s e2: ~ a2: ~ t 'e2:	ACR NOM	swe	swe
+com	k 'å m	PM NOM	swe	swe
+coop	k 'o2: p	PM NOM	swe	swe
+edu	e2: ~ d e2: ~ 'u2:	ACR NOM	swe	swe
+eus	e2: ~ u2: ~ 'ä s	ACR NOM	swe	swe
+example	e k $ s 'a2: m $ p ë l	PM NOM	eng	swe
+gov	g 'å v	PM NOM	swe	swe
+info	'i n $ f o	PM NOM	swe	swe
+int	'i n t	PM NOM	swe	swe
+invalid	i n $ v 'ä3 $ l i d		JJ	eng	eng
+jobs	j3 'å b s	NN	eng	eng
+krd	k å2: ~ ä3 r ~ d 'e2:	ACR NOM	swe	swe
+local	l 'öw $ k ë l	PM NOM	eng	eng
+localhost	l 'öw $ k ë l | h 'öw s t	PM NOM	eng	eng
+mil	m 'i2: l	PM NOM	swe	swe		
+mobi	m 'o2: $ b i	PM NOM	swe	swe
+museum	m u3 $ s "e2: $ `u m	PM NOM	swe	swe
+name	n 'e j m	PM NOM	swe	swe
+nato	n 'a2: $ t o	PM NOM	swe	swe
+net	n 'e t	PM NOM	swe	swe
+org	'å r g	PM NOM	swe	swe
+pro	p r 'o2:	PM NOM	swe	swe
+root	r 'o2: t	PM NOM	swe	swe
+tel	t 'e l	PM NOM	swe	swe
+test	t 'e s t	PM NOM	swe	swe
+travel	t r3 'ä3 $ v ë l	PM NOM	eng	eng
+uucp	u2: ~ u2: ~ s e2: ~ p 'e2:	ACR NOM	swe	swe
+xxx	ä k s ~ ä k s ~ 'ä k s	ACR NOM	swe	swe

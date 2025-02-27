@@ -1,0 +1,27 @@
+﻿#
+a	'ei
+b	b 'i2:
+c	s 'i2:
+d	d 'i2:
+e	'i2:
+f	'e f
+g	j3 'i2:
+h	'ei j3
+i	'ai
+j	j3 'ei
+k	k 'ei
+l	'e l
+m	'e m
+n	'e n
+o	'öw
+p	p 'i2:
+q	k j 'u4:
+r	'a2: r0
+s	'e s
+t	t 'i2:
+u	j 'u4:
+v	v 'i2:
+w	d 'a $ b ë l ~ j u4:
+x	'e k s
+y	w 'ai
+z	z 'e d

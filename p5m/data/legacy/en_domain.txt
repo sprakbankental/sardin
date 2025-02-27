@@ -1,0 +1,289 @@
+#
+ac	'ei ~ s 'i2:	ACR NOM	eng	eng
+ad	'ei ~ d 'i2:	ACR NOM	eng	eng
+ae	'ei ~ 'i2:	ACR NOM	eng	eng
+af	'ei ~ 'e f	ACR NOM	eng	eng
+ag	'ei ~ jh 'i2:	ACR NOM	eng	eng
+ai	'ei ~ 'ai	ACR NOM	eng	eng
+al	'ei ~ 'e l	ACR NOM	eng	eng
+am	'ei ~ 'e m	ACR NOM	eng	eng
+an	'ei ~ 'e n	ACR NOM	eng	eng
+ao	'ei ~ 'ou	ACR NOM	eng	eng
+aq	'ei ~ k j 'u4:	ACR NOM	eng	eng
+ar	'ei ~ 'a3: r0	ACR NOM	eng	eng
+as	'ei ~ 'e s	ACR NOM	eng	eng
+at	'ei ~ t 'i2:	ACR NOM	eng	eng
+au	'ei ~ j 'u4:	ACR NOM	eng	eng
+aw	'a2: | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+ax	'ei ~ 'e k s	ACR NOM	eng	eng
+az	'ei ~ z 'e d	ACR NOM	eng	eng
+ba	b 'i2: ~ 'ei	ACR NOM	eng	eng
+bb	b 'i2: ~ b 'i2:	ACR NOM	eng	eng
+bd	b 'i2: ~ d 'i2:	ACR NOM	eng	eng
+be	b 'i2: ~ 'i2:	ACR NOM	eng	eng
+bf	b 'i2: ~ 'e f	ACR NOM	eng	eng
+bg	b 'i2: ~ jh 'i2:	ACR NOM	eng	eng
+bh	b 'i2: ~ 'ei jh	ACR NOM	eng	eng
+bi	b 'i2: ~ 'ai	ACR NOM	eng	eng
+bj	b 'i2: ~ jh 'ei	ACR NOM	eng	eng
+bm	b 'i2: ~ 'e m	ACR NOM	eng	eng
+bn	b 'i2: ~ 'e n	ACR NOM	eng	eng
+bo	b 'i2: ~ 'ou	ACR NOM	eng	eng
+br	b 'i2: ~ 'a3: r0	ACR NOM	eng	eng
+bs	b 'i2: ~ 'e s	ACR NOM	eng	eng
+bt	b 'i2: ~ t 'i2:	ACR NOM	eng	eng
+bv	b 'i2: ~ v 'i2:	ACR NOM	eng	eng
+bw	b 'e2: | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+by	b 'i2: ~ w 'ai	ACR NOM	eng	eng
+bz	b 'i2: ~ z 'e d	ACR NOM	eng	eng
+ca	s 'i2: ~ 'ei	ACR NOM	eng	eng
+cc	s 'i2: ~ s 'i2:	ACR NOM	eng	eng
+cd	s 'i2: ~ d 'i2:	ACR NOM	eng	eng
+cf	s 'i2: ~ 'e f	ACR NOM	eng	eng
+cg	s 'i2: ~ jh 'i2:	ACR NOM	eng	eng
+ch	s 'i2: ~ 'ei jh	ACR NOM	eng	eng
+ci	s 'i2: ~ 'ai	ACR NOM	eng	eng
+ck	s 'i2: ~ k 'ei	ACR NOM	eng	eng
+cl	s 'i2: ~ 'e l	ACR NOM	eng	eng
+cm	s 'i2: ~ 'e m	ACR NOM	eng	eng
+cn	s 'i2: ~ 'e n	ACR NOM	eng	eng
+co	s 'i2: ~ 'ou	ACR NOM	eng	eng
+cr	s 'i2: ~ 'a3: r0	ACR NOM	eng	eng
+cs	s 'i2: ~ 'e s	ACR NOM	eng	eng
+cu	s 'i2: ~ j 'u4:	ACR NOM	eng	eng
+cv	s 'i2: ~ v 'i2:	ACR NOM	eng	eng
+cx	s 'i2: ~ 'e k s	ACR NOM	eng	eng
+cy	s 'i2: ~ w 'ai	ACR NOM	eng	eng
+cz	s 'i2: ~ z 'e d	ACR NOM	eng	eng
+dd	d 'i2: ~ d 'i2:	ACR NOM	eng	eng
+de	d 'i2: ~ 'i2:	ACR NOM	eng	eng
+dj	d 'i2: ~ jh 'ei	ACR NOM	eng	eng
+dk	d 'i2: ~ k 'ei	ACR NOM	eng	eng
+dm	d 'i2: ~ 'e m	ACR NOM	eng	eng
+do	d 'i2: ~ 'ou	ACR NOM	eng	eng
+dz	d 'i2: ~ z 'e d	ACR NOM	eng	eng
+ec	'i2: ~ s 'i2:	ACR NOM	eng	eng
+ee	'i2: ~ 'i2:	ACR NOM	eng	eng
+eg	'i2: ~ jh 'i2:	ACR NOM	eng	eng
+eh	'i2: ~ 'ei jh	ACR NOM	eng	eng
+er	'i2: ~ 'a3: r0	ACR NOM	eng	eng
+es	'i2: ~ 'e s	ACR NOM	eng	eng
+et	'i2: ~ t 'i2:	ACR NOM	eng	eng
+eu	'i2: ~ j 'u4:	ACR NOM	eng	eng
+fi	'e f ~ 'ai	ACR NOM	eng	eng
+fj	'e f ~ jh 'ei	ACR NOM	eng	eng
+fk	'e f ~ k 'ei	ACR NOM	eng	eng
+fm	'e f ~ 'e m	ACR NOM	eng	eng
+fo	'e f ~ 'ou	ACR NOM	eng	eng
+fr	'e f ~ 'a3: r0	ACR NOM	eng	eng
+ga	jh 'i2: ~ 'ei	ACR NOM	eng	eng
+gb	jh 'i2: ~ b 'i2:	ACR NOM	eng	eng
+gd	jh 'i2: ~ d 'i2:	ACR NOM	eng	eng
+ge	jh 'i2: ~ 'i2:	ACR NOM	eng	eng
+gf	jh 'i2: ~ 'e f	ACR NOM	eng	eng
+gg	jh 'i2: ~ jh 'i2:	ACR NOM	eng	eng
+gh	jh 'i2: ~ 'ei jh	ACR NOM	eng	eng
+gi	jh 'i2: ~ 'ai	ACR NOM	eng	eng
+gl	jh 'i2: ~ 'e l	ACR NOM	eng	eng
+gm	jh 'i2: ~ 'e m	ACR NOM	eng	eng
+gn	jh 'i2: ~ 'e n	ACR NOM	eng	eng
+gp	jh 'i2: ~ p 'i2:	ACR NOM	eng	eng
+gq	jh 'i2: ~ k j 'u4:	ACR NOM	eng	eng
+gr	jh 'i2: ~ 'a3: r0	ACR NOM	eng	eng
+gs	jh 'i2: ~ 'e s	ACR NOM	eng	eng
+gt	jh 'i2: ~ t 'i2:	ACR NOM	eng	eng
+gu	jh 'i2: ~ j 'u4:	ACR NOM	eng	eng
+gw	g 'e2: | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+gy	jh 'i2: ~ w 'ai	ACR NOM	eng	eng
+hk	'ei jh ~ k 'ei	ACR NOM	eng	eng
+hm	'ei jh ~ 'e m	ACR NOM	eng	eng
+hn	'ei jh ~ 'e n	ACR NOM	eng	eng
+hr	'ei jh ~ 'a3: r0	ACR NOM	eng	eng
+ht	'ei jh ~ t 'i2:	ACR NOM	eng	eng
+hu	'ei jh ~ j 'u4:	ACR NOM	eng	eng
+id	'ai ~ d 'i2:	ACR NOM	eng	eng
+ie	'ai ~ 'i2:	ACR NOM	eng	eng
+il	'ai ~ 'e l	ACR NOM	eng	eng
+im	'ai ~ 'e m	ACR NOM	eng	eng
+in	'ai ~ 'e r	ACR NOM	eng	eng
+io	'ai ~ 'ou	ACR NOM	eng	eng
+iq	'ai ~ k j 'u4:	ACR NOM	eng	eng
+ir	'ai ~ 'a3: r0	ACR NOM	eng	eng
+is	'ai ~ 'e s	ACR NOM	eng	eng
+it	'ai ~ t 'i2:	ACR NOM	eng	eng
+je	j 'ai ~ 'i2:	ACR NOM	eng	eng
+jm	j 'ai ~ 'e m	ACR NOM	eng	eng
+jo	j 'ai ~ 'ou	ACR NOM	eng	eng
+jp	j 'ai ~ p 'i2:	ACR NOM	eng	eng
+ke	k 'ei ~ 'i2:	ACR NOM	eng	eng
+kg	k 'ei ~ jh 'i2:	ACR NOM	eng	eng
+kh	k 'ei ~ 'ei jh	ACR NOM	eng	eng
+ki	k 'ei ~ 'ai	ACR NOM	eng	eng
+km	k 'ei ~ 'e m	ACR NOM	eng	eng
+kn	k 'ei ~ 'e n	ACR NOM	eng	eng
+kp	k 'ei ~ p 'i2:	ACR NOM	eng	eng
+kr	k 'ei ~ 'a3: r0	ACR NOM	eng	eng
+kw	k 'ei | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+ky	k 'ei ~ w 'ai	ACR NOM	eng	eng
+kz	k 'ei ~ z 'e d	ACR NOM	eng	eng
+la	'e l ~ 'ei	ACR NOM	eng	eng
+lb	'e l ~ b 'i2:	ACR NOM	eng	eng
+lc	'e l ~ s 'i2:	ACR NOM	eng	eng
+li	'e l ~ 'ai	ACR NOM	eng	eng
+lk	'e l ~ k 'ei	ACR NOM	eng	eng
+lr	'e l ~ 'a3: r0	ACR NOM	eng	eng
+ls	'e l ~ 'e s	ACR NOM	eng	eng
+lt	'e l ~ t 'i2:	ACR NOM	eng	eng
+lu	'e l ~ j 'u4:	ACR NOM	eng	eng
+lv	'e l ~ v 'i2:	ACR NOM	eng	eng
+ly	'e l ~ w 'ai	ACR NOM	eng	eng
+ma	'e m ~ 'ei	ACR NOM	eng	eng
+mc	'e m ~ s 'i2:	ACR NOM	eng	eng
+md	'e m ~ d 'i2:	ACR NOM	eng	eng
+me	'e m ~ 'i2:	ACR NOM	eng	eng
+mg	'e m ~ jh 'i2:	ACR NOM	eng	eng
+mh	'e m ~ 'ei jh	ACR NOM	eng	eng
+mk	'e m ~ k 'ei	ACR NOM	eng	eng
+ml	'e m ~ 'e l	ACR NOM	eng	eng
+mm	'e m ~ 'e m	ACR NOM	eng	eng
+mn	'e m ~ 'e n	ACR NOM	eng	eng
+mo	'e m ~ 'ou	ACR NOM	eng	eng
+mp	'e m ~ p 'i2:	ACR NOM	eng	eng
+mq	'e m ~ k j 'u4:	ACR NOM	eng	eng
+mr	'e m ~ 'a3: r0	ACR NOM	eng	eng
+ms	'e m ~ 'e s	ACR NOM	eng	eng
+mt	'e m ~ t 'i2:	ACR NOM	eng	eng
+mu	'e m ~ j 'u4:	ACR NOM	eng	eng
+mv	'e m ~ v 'i2:	ACR NOM	eng	eng
+mw	'e m | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+mx	'e m ~ 'e k s	ACR NOM	eng	eng
+my	'e m ~ w 'ai	ACR NOM	eng	eng
+mz	'e m ~ z 'e d	ACR NOM	eng	eng
+na	'e n ~ 'ei	ACR NOM	eng	eng
+nc	'e n ~ s 'i2:	ACR NOM	eng	eng
+ne	'e n ~ 'i2:	ACR NOM	eng	eng
+nf	'e n ~ 'e f	ACR NOM	eng	eng
+ng	'e n ~ jh 'i2:	ACR NOM	eng	eng
+ni	'e n ~ 'ai	ACR NOM	eng	eng
+nl	'e n ~ 'e l	ACR NOM	eng	eng
+no	'e n ~ 'ou	ACR NOM	eng	eng
+np	'e n ~ p 'i2:	ACR NOM	eng	eng
+nr	'e n ~ 'a3: r0	ACR NOM	eng	eng
+nu	'e n ~ j 'u4:	ACR NOM	eng	eng
+nz	'e n ~ z 'e d	ACR NOM	eng	eng
+om	'ou ~ 'e m	ACR NOM	eng	eng
+oz	'ou ~ z 'e d	ACR NOM	eng	eng
+pa	p 'i2: ~ 'ei	ACR NOM	eng	eng
+pe	p 'i2: ~ 'i2:	ACR NOM	eng	eng
+pf	p 'i2: ~ 'e f	ACR NOM	eng	eng
+pg	p 'i2: ~ jh 'i2:	ACR NOM	eng	eng
+ph	p 'i2: ~ 'ei jh	ACR NOM	eng	eng
+pk	p 'i2: ~ k 'ei	ACR NOM	eng	eng
+pl	p 'i2: ~ 'e l	ACR NOM	eng	eng
+pm	p 'i2: ~ 'e m	ACR NOM	eng	eng
+pn	p 'i2: ~ 'e n	ACR NOM	eng	eng
+pr	p 'i2: ~ 'a3: r0	ACR NOM	eng	eng
+ps	p 'i2: ~ 'e s	ACR NOM	eng	eng
+pt	p 'i2: ~ t 'i2:	ACR NOM	eng	eng
+pw	p 'e2: | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+py	p 'i2: ~ w 'ai	ACR NOM	eng	eng
+qa	k j 'u4: ~ 'ei	ACR NOM	eng	eng
+re	'a2: r3 ~ 'i2:	ACR NOM	eng	eng
+ro	'a2: r3 ~ 'ou	ACR NOM	eng	eng
+rs	'a2: r3 ~ 'e s	ACR NOM	eng	eng
+ru	'a2: r0 ~ j 'u4:	ACR NOM	eng	eng
+rw	'a2: r0 | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+sa	'e s ~ 'ei	ACR NOM	eng	eng
+sb	'e s ~ b 'i2:	ACR NOM	eng	eng
+sc	'e s ~ s 'i2:	ACR NOM	eng	eng
+sd	'e s ~ d 'i2:	ACR NOM	eng	eng
+se	'e s ~ 'i2:	ACR NOM	eng	eng
+sg	'e s ~ jh 'i2:	ACR NOM	eng	eng
+sh	'e s ~ 'ei jh	ACR NOM	eng	eng
+si	'e s ~ 'ai	ACR NOM	eng	eng
+sj	'e s ~ jh 'ei	ACR NOM	eng	eng
+sk	'e s ~ k 'ei	ACR NOM	eng	eng
+sl	'e s ~ 'e l	ACR NOM	eng	eng
+sm	'e s ~ 'e m	ACR NOM	eng	eng
+sn	'e s ~ 'e n	ACR NOM	eng	eng
+so	'e s ~ 'ou	ACR NOM	eng	eng
+sr	'e s ~ 'a3: r0	ACR NOM	eng	eng
+ss	'e s ~ 'e s	ACR NOM	eng	eng
+st	'e s ~ t 'i2:	ACR NOM	eng	eng
+su	'e s ~ j 'u4:	ACR NOM	eng	eng
+sv	'e s ~ v 'i2:	ACR NOM	eng	eng
+sy	'e s ~ w 'ai	ACR NOM	eng	eng
+sz	'e s ~ z 'e d	ACR NOM	eng	eng
+tc	t 'i2: ~ s 'i2:	ACR NOM	eng	eng
+td	t 'i2: ~ d 'i2:	ACR NOM	eng	eng
+tf	t 'i2: ~ 'e f	ACR NOM	eng	eng
+tg	t 'i2: ~ jh 'i2:	ACR NOM	eng	eng
+th	t 'i2: ~ 'ei jh	ACR NOM	eng	eng
+tj	t 'i2: ~ jh 'ei	ACR NOM	eng	eng
+tk	t 'i2: ~ k 'ei	ACR NOM	eng	eng
+tl	t 'i2: ~ 'e l	ACR NOM	eng	eng
+tm	t 'i2: ~ 'e m	ACR NOM	eng	eng
+tn	t 'i2: ~ 'e n	ACR NOM	eng	eng
+to	t 'i2: ~ 'ou	ACR NOM	eng	eng
+tp	t 'i2: ~ p 'i2:	ACR NOM	eng	eng
+tr	t 'i2: ~ 'a3: r0	ACR NOM	eng	eng
+tt	t 'i2: ~ t 'i2:	ACR NOM	eng	eng
+tv	t 'i2: ~ v 'i2:	ACR NOM	eng	eng
+tw	t 'i2: | d 'a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+tz	t 'i2: ~ z 'e d	ACR NOM	eng	eng
+ua	j 'u4: ~ 'ei	ACR NOM	eng	eng
+ug	j 'u4: ~ jh 'i2:	ACR NOM	eng	eng
+uk	j 'u4: ~ k 'ei	ACR NOM	eng	eng
+um	j 'u4: ~ 'e m	ACR NOM	eng	eng
+us	j 'u4: ~ 'e s	ACR NOM	eng	eng
+uy	j 'u4: ~ w 'ai	ACR NOM	eng	eng
+uz	j 'u4: ~ z 'e d	ACR NOM	eng	eng
+va	v 'i2: ~ 'ei	ACR NOM	eng	eng
+vc	v 'i2: ~ s 'i2:	ACR NOM	eng	eng
+ve	v 'i2: ~ 'i2:	ACR NOM	eng	eng
+vg	v 'i2: ~ jh 'i2:	ACR NOM	eng	eng
+vi	v 'i2: ~ 'ai	ACR NOM	eng	eng
+vn	v 'i2: ~ 'e n	ACR NOM	eng	eng
+vu	v 'i2: ~ j 'u4:	ACR NOM	eng	eng
+wf	d a $ b ë l ~ j 'u4: | 'e f	ACR NOM	eng	eng
+ws	d a $ b ë l ~ j 'u4: | 'e s	ACR NOM	eng	eng
+ye	w 'ai ~ 'i2:	ACR NOM	eng	eng
+yt	w 'ai ~ t 'i2:	ACR NOM	eng	eng
+yu	w 'ai ~ j 'u4:	ACR NOM	eng	eng
+za	z 'e d | 'ei	ACR NOM	eng	eng
+zm	z 'e d | 'e m	ACR NOM	eng	eng
+zr	z 'e d | 'a2: r0	ACR NOM	eng	eng
+zw	z 'e d | d a $ b ë l ~ j 'u4:	ACR NOM	eng	eng
+aero	'eë $ rh ou	PM NOM	eng	eng
+arpa	'a2: r0 $ p a	PM NOM	eng	eng
+asia	'ei $ rs3 a	PM NOM	eng	eng
+bitnet	b 'i t ~ n e t	PM NOM	eng	eng
+biz	b 'i z	PM NOM	eng	eng
+cat	s i2: ~ ei ~ t 'i2:	ACR NOM	eng	eng
+com	k 'å m	PM NOM	eng	eng
+coop	k 'u4: p	PM NOM	eng	eng
+edu	i2: ~ d i2: ~ j 'u4:	ACR NOM	eng	eng
+eus	i2: ~ u4: ~ 'e s	ACR NOM	eng	eng
+example	i g $ z 'a3: m $ p ë l	PM NOM	eng	swe
+gov	g 'å v	PM NOM	eng	eng
+info	'i n $ f ou	PM NOM	eng	eng
+int	'i n t	PM NOM	eng	eng
+invalid	i n $ v 'ä3 $ l i d		JJ	eng	eng
+jobs	j3 'å b s	NN	eng	eng
+krd	k ei ~ a2: r0 ~ d 'i2:	ACR NOM	eng	eng
+local	l 'öw $ k ë l	PM NOM	eng	eng
+localhost	l 'öw $ k ë l | h 'öw s t	PM NOM	eng	eng
+mil	m 'i l	PM NOM	eng	eng		
+mobi	m 'ou $ b i	PM NOM	eng	eng
+museum	m j u4: $ z 'i2: $ ë m	PM NOM	eng	eng
+name	n 'ei m	PM NOM	eng	eng
+nato	n 'ei $ t ou	PM NOM	eng	eng
+net	n 'e t	PM NOM	eng	eng
+org	'å2: r0 g	PM NOM	eng	eng
+pro	p r 'ou	PM NOM	eng	eng
+root	r 'u4: t	PM NOM	eng	eng
+tel	t 'e l	PM NOM	eng	eng
+test	t 'e s t	PM NOM	eng	eng
+travel	t r3 'ä3 $ v ë l	PM NOM	eng	eng
+uucp	u4: ~ u4: ~ s i2: ~ p 'i2:	ACR NOM	eng	eng
+xxx	e k s ~ e k s ~ 'e k s	ACR NOM	eng	eng

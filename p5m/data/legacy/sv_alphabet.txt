@@ -1,0 +1,30 @@
+#
+a	'a2:
+b	b 'e2:
+c	s 'e2:
+d	d 'e2:
+e	'e2:
+f	'ä f
+g	g 'e2:
+h	h 'å2:
+i	'i2:
+j	j 'i2:
+k	k 'å2:
+l	'ä l
+m	'ä m
+n	'ä n
+o	'o2:
+p	p 'e2:
+q	k 'u2:
+r	'ä3 r
+s	'ä s
+t	t 'e2:
+u	'u2:
+v	v 'e2:
+w	d "u $ b ë l $ v `e2:
+x	'ä k s
+y	'y2:
+z	s "ä2: $ t `a
+ä	'ä2:
+å	'å2:
+ö	'ö2:

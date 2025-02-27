@@ -1,0 +1,66 @@
+﻿#
+zero		z 'ië $ r3 öw
+one		w 'a n
+two		t 'u4:
+three		th r3 'i2:
+four		f 'å2: r0
+five		f 'ai v
+six		s 'i k s
+seven		s 'e $ v ë n
+eight		'ei t
+nine		n 'ai n
+ten		t 'e n
+eleven		i $ l 'e $ v ë n
+twelve		t w 'e l v
+thirteen		th ö3: r0 $ t 'i2: n
+fourteen		f å2: r0 $ t 'i2: n
+fifteen		f i f $ t 'i2: n
+sixteen		s i k s ~ t 'i2: n
+seventeen		s e $ v ë n $ t 'i2: n
+eighteen		ei $ t 'i2: n
+nineteen		n ai n $ t 'i2: n
+twenty		t w 'e n $ t i
+thirty		th 'ö3: r0 $ t i
+forty		f 'å2: r0 $ t i
+fifty		f 'i f $ t i
+sixty		s 'i k $ s t i
+seventy		s 'e $ v ë n $ t i
+eighty		'ei $ t i
+ninety		n 'ai n $ t i
+hundred		h 'a n $ d r3 ë d
+thousand		th 'au $ s ë n d
+million		m 'i l $ j ë n
+millions		m 'i l $ j ë n s
+billion		b 'i l $ j ë n
+billions		b 'i l $ j ë n s
+first		f 'ö3: r0 s t
+second		s 'e $ k ë n d
+third		th 'ö3: r0 d
+fourth		f 'å2: r0 th
+fifth		f 'i f th
+sixth		s 'i k s th
+seventh		s 'e $ v ë n th
+eighth		'ei t th
+ninth		n 'ai n th
+tenth		t 'e n th
+eleventh		i $ l 'e $ v ë n th
+twelfth		t w 'e l f th
+thirteenth	th ö3: r0 $ t 'i2: n th
+fourteenth	f å2: r0 $ t 'i2: n th
+fifteenth		f i f $ t 'i2: n th
+sixteenth		s i k s ~ t 'i2: n th
+seventeenth	s e $ v ë n $ t 'i2: n th
+eighteenth	ei $ t 'i2: n th
+nineteenth	n ai n $ t 'i2: n th
+twentieth		t w 'e  n $ t i $ ë th
+thirtieth		th 'ö3: r0 $ t i $ ë th
+fourtieth		f 'å2: r0 $ t i $ ë th
+fiftieth		f 'i f $ t i $ ë th
+sixtieth		s 'i k $ s t i $ ë th
+seventieth	s 'e $ v ë n $ t i $ ë th
+eightieth		'ei $ t i $ ë th
+ninetieth		n 'ai n $ t i $ ë th
+hundredth		h 'a n $ d r3 ë th
+thousandth	th 'au $ s ë n d th
+millionth		m 'i $ l j ë n th
+billionth		b 'i $ l j ë n th

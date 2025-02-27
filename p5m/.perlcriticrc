@@ -1,0 +1,198 @@
+# General configuration
+# ---------------------
+# We are quite picky
+severity  = 1
+# Format output over three lines - it really is needed.
+# See https://metacpan.org/pod/perlcritic for formatting options
+verbose = ++ Severity %s (l%l, c%c, SBTal policy) ++\n|  %m \n|  %e\n|  %p\n--\n
+
+# This sets up the code format control, and allows us to use tabs
+# for indentation
+[CodeLayout::RequireTidyCode]
+perltidyrc = .perltidyrc
+
+# PBP 2 Code layout
+# ----------------------------
+# Like the developers of perltidy
+# (https://github.com/perltidy/perltidy/blob/master/.perlcriticrc)
+# we disagree with
+#   Don’t use unnecessary parentheses 
+#   for builtins and “honorary” builtins.
+# Or rather, with perlcritic's all or nothing 
+# interpretation of "unnecessary".
+# As there is no config options, we disable 
+# (which honestly might be the best choice in 
+# any case)
+# PBP s13
+[-CodeLayout::ProhibitParensWithBuiltins]
+
+# PBP 4 Values and expressions
+# ----------------------------
+# Buggy policy that identifies signatures as something that may 
+# require interpolation.
+# See https://github.com/Perl-Critic/Perl-Critic/issues/1061
+# and reinstate once bugfix is applied.
+# PBP s51
+[-ValuesAndExpressions::RequireInterpolationOfMetachars]
+
+# This policy is just poorly implemented. Conway (PBP) points to some 
+# very specific (albeit questionable: q{ } and q{} are no clearer than 
+# ' ' and '', but uglier and less intuitive) cases. The implementation 
+# disallows everything with a few exceptions.
+# PBP s53
+[-ValuesAndExpressions::ProhibitNoisyQuotes]
+
+# We leave this on, and make a single exception in our
+# boilerplate code using the '## no critic' syntax
+# PBP s55
+[ValuesAndExpressions::ProhibitConstantPragma]
+
+# boilerplate code using the '## no critic' syntax
+# The idea that *all* bareword numbers used directly in expressions
+# in code are bad is quite extreme, and probably difficult to defend.
+# https://github.com/perltidy/perltidy/blob/master/.perlcriticrc
+# turns it off completely. Here, we'll attempt to retain the check, 
+# but we do allow any integers, as they are used in for example
+#   skip 2;
+# which is caught, although the policy has an internal 
+# exception for
+#   plan 2;
+# so that's just inconsistent and buggy.
+# The policy is too sweeping, and definitely likely to be 
+# disabled altogether at some point.
+# PBP s55-56
+[ValuesAndExpressions::ProhibitMagicNumbers]
+allowed_values = all_integers
+
+
+# PBP 5 Variables
+# ------------------------
+# There is currently no alternative to the (new) "punctuation"
+# variable ${^TAINT} (introduced in Perl v5.8.0).
+# We use this variable to provide adequate feedback in tests.
+# PBP s79-81
+[Variables::ProhibitPunctuationVars]
+allow = ${^TAINT}
+
+# PBP 6 Control structures
+# ------------------------
+# We accept the prohibition of postfix controls except in warnings and such 
+# (because of their ease of use and legibility)
+# PBP 93,94 (but we're not really going against PBP, it's just that this 
+# implementation is over-zealous)
+# We also simply disagree that the postfix
+#   croak if !SOMETHINGELSE
+# is as readily readable as
+#   croak unless SOMETHINGELSE
+# so the latter is not only allowed but prefered
+[ControlStructures::ProhibitPostfixControls]
+flowcontrol = warn die carp croak cluck confess goto exit
+allow = unless
+
+# PBP 9 Subroutines
+# -----------------
+# We use signatures, and perlcritic still can't tell them apart from prototypes
+# See https://github.com/Perl/perl5/issues/18537 (a solution might be underways)
+# PBP 194-195, but that's irrelevant
+[-Subroutines::ProhibitSubroutinePrototypes]
+# We leave this on, and make a single exception in our
+# boilerplate code using the '## no critic' syntax
+# See https://github.com/Perl/perl5/issues/18537 
+# (the reason for this will go away with de-experimentalising of signatures)
+[TestingAndDebugging::ProhibitNoWarnings]
+
+# PBP 10 I/O
+# ----------
+
+# The defaults on this includes print but not the close builtins
+# PBP s208,278
+[InputOutput::RequireCheckedSyscalls]
+functions = open opendir read readline readdir close closedir
+
+# We follow the perltidy developers lead 
+# (https://github.com/perltidy/perltidy/blob/master/.perlcriticrc)
+# here and keep this active, as we really do want 
+# explicit file handle close, but set up the closeness
+# threshold to 30. If more is needed, we suggest refactoring 
+# the code so that the line processing is done in 
+# a separate method:
+#  open my $fh, '<', $file or die "Cannot open $file: $!";
+#  while {<$fh>} { _handle_line() }
+#  close $fh;
+#  sub _handle_line () {
+#    chomp; print; # $_ is passed along implicitly
+#  }
+# PBP s209
+[InputOutput::RequireBriefOpen]
+lines=30
+
+# This is not helpful to anyone used to reading Perl code, and we'll remove it
+# PBP s217
+[-InputOutput::RequireBracedFileHandleWithPrint]
+
+
+# PBP 12 REGULAR EXPRESSIONS
+# --------------------------
+# We need to allow at least simple regexps w/o the /x modifier.
+# PBP s236
+[RegularExpressions::RequireExtendedFormatting]
+minimum_regex_length_to_complain_about = 50
+
+# This policy panders to the sed and awk communities. 
+# It has nothing to do in SBTal Perl best practices
+# PBP s237 https://metacpan.org/pod/Perl::Critic::Policy::RegularExpressions::RequireLineBoundaryMatching
+[-RegularExpressions::RequireLineBoundaryMatching]
+
+# This policy changes the common meaning of . in regexps.
+# We want programmers, not policy, to do that.
+# PBP s240,241 
+[-RegularExpressions::RequireDotMatchAnything]
+
+# Using single-character character groups instead of 
+# e.g. \. (escaped dot) makes so little sense in many cases
+# that we just ignote it. Legible regexps are good, but this 
+# might just as well make them incomprehensible.
+# PBP s247
+[-RegularExpressions::ProhibitEscapedMetacharacters]
+
+# For SBTal purposes, we prefer full control over what actually matches
+# our regexps. Use of predefined classes can bite you, and is what should 
+# be warned against, nit the other way around.
+# PBP s248
+[-RegularExpressions::ProhibitEnumeratedClasses]
+
+
+# PBP 17 Modules
+# --------------
+# We're absulutely happy using string style version numbers in requests.
+# PBP 404-405
+[-ValuesAndExpressions::ProhibitVersionStrings]
+
+# Our use of version is deliberate and works, 
+# but disallowed by this (outdated?) policy. 
+[-ValuesAndExpressions::RequireConstantVersion]
+
+# PBP 18 Testing & debugging
+# --------------
+# Warnings 
+# PBP 431
+[TestingAndDebugging::ProhibitNoWarnings]
+# We're currently using Perl 5.32 minimally, but we do trust the signatures.
+allow = experimental::signatures
+
+# Non-PBP policies
+# ----------------
+
+# Note that these can be customised as well
+# https://metacpan.org/pod/Perl::Critic::Policy::Documentation::RequirePodSections
+[Documentation::RequirePodSections]
+source   = module_starter_pbp_0_0_3
+language = en_AU
+
+# We allow private vars with more than one initial underscore, as 
+# these are inhereted/overidden and can be called from other packages
+# in the same distrubution. The policy is taken from the 
+# perlcritic developers themselves who use it in perlcritic.
+# https://metacpan.org/pod/Perl::Critic::Policy::Subroutines::ProhibitUnusedPrivateSubroutines
+[Subroutines::ProhibitUnusedPrivateSubroutines]
+private_name_regex = _(?!_)\w+

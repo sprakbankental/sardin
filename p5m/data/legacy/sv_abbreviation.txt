@@ -1,0 +1,745 @@
+﻿#************************************************************************************************#
+# ABBREVIATION				EXPANSIONS			RULE	NOT IN FINAL POS		CASE SENSITIVE
+#************************************************************************************************#
+# Abbreviation:	Valid orthographies for the same expansion. Separated by "|".
+#************************************************************************************************#
+# Expansions:	Possible expansions for the orthographies. Separated by "|".
+#		If rules are not specified, the first expansion will be chosen.
+#************************************************************************************************#
+# Rule:		Rules that decides which of the expansions to choose.
+#			LCdigitRule	LC0 or LC1 is a numeral
+#			LCordinalRule	LC0 or LC2 is an ordinal
+#			numerusRule	First place in list will be chosen if the abbreviation is preceded by "1" (singular), else the second one.
+#			cardOrdRule	The context decides if the expansion is indefinite or definite, e.g. sv "kapitel 1", "1 kapitlet".Se kap. 4
+#			LCorRCnumRule	The expansion depends on if there are digits to the left or to the right of the abbreviaion.
+#************************************************************************************************#
+# Not in final pos:	Set to "1" if it shouldn't be treated as an abbreviation
+#			if it is in sentence final position.
+#************************************************************************************************#
+# Case sensitive:	Set to "1" if it should be treated as an abbreviation
+#			only if it's the same case as the orthography
+#************************************************************************************************#
+& co				och kompani			1	0	0
++/-				plus minus			1	0	0
+a. st.|a. st|a.st.|a.st|a st.		anfört ställe			1	0	0
+a.d.				anno domini			1	0	1
+AckL				ackordslagen			1	0	1
+ActL				lagen om avtal och andra rättshandlingar på förmögenhetsrättens område	1	0	1
+adj.|adj				adjunkt|adjektiv			1	0	0
+adolesc.|adolesc			adolescence			1	0	0
+adr.				adress				1	0	0
+adv.				adverb				1	0	0
+agr.				agronomie				1	0	0
+akad. avh.|akad. avh|ak. avh.|ak. avh	akademisk avhandling		1	0	0
+AlkhL				Alkohollagen			1	0	0
+allm.|allm			allmän				1	0	0
+ang.				angående				1	1	0
+ang				angående				1	1	1
+AnlL				anläggningslagen			1	0	1
+anmärkn.|anmärkn|anm.|anm		anmärkning			1	0	0
+AnmL				Anmälningsskyldighetslagen		1	0	1
+AnstF				anställningsförordningen		1	0	0
+AnstF:s				anställningsförordningens		1	0	0
+arb.|arb				arbete				1	0	0
+arbetsmarkn.pol			arbetsmarknadspolitisk		1	0	0
+ArkF				Arkivförordningen			1	0	1
+ArkivF				Arkivförordningen			1	0	0
+ArkivL				Arkivlagen			1	0	1
+art.				artikel				1	1	0
+art. nr.|art. nr|art.nr.|art.nr|art nr|artnr.|artnr|artikelnr.|artikelnr	artikelnummer	1	0	0
+AvbetKL				lagen om avbetalningsköp mellan näringsidkare	1	0	1
+AvbetköpL				Avbetalningsköplagen				1	0	0
+AvbetLN				lagen om avbetalningsköp mellan näringsidkare	1	0	1
+avd.|avd				avdelning				1	0	0
+avg.				avgift				1	0	0
+AvgF				avgiftsförordningen			1	0	1
+AvtL				avtalslagen			1	0	1
+AvtvillkL				Lagen om avtalsvillkorslag i konsumentförhållanden	1	0	1
+bearb.|bearb			bearbetad|bearbetade		1	0	0
+BehandlL				Lagen om behandling av häktade och anhållna med flera	1	0	1
+BehL				Behandlingslagen			1	0	1
+best. nr.|best. nr|best nr|best.nr.|best.nr|bestnr.|bestnr	beställningsnummer	1	0	0
+betr.|betr			beträffande			1	0	0
+BetsL				Betalningssäkringslagen		1	0	1
+bg.|bg				bankgiro				1	0	0
+bil.				bilaga				1	1	0
+bitr.|bitr			biträdande			1	0	0
+bl. a.|bl. a|bl.a.|bl.a|bl a.|bl a	bland annat			1	0	0
+BokfL				Bokföringslagen			1	0	0
+BoU				bostadsutskottet			1	0	1
+BrB				brottsbalken			1	0	1
+BrB:s				brottsbalkens			1	0	1
+BrL				Brottsskadelagen			1	0	1
+brottsbal.|brottsbal		brottsbalken			1	0	0
+BrP				Lagen om införande av brottsbalken	1	0	1
+budgetprop.|budgetprop		budgetproposition			1	0	0
+BVerfG				Bundesverfassungsgericht		1	0	1
+BVerfGE				Entscheidungen des Bundenverfassungerichts	1	0	1
+c:a|ca.|ca|Ca.|Ca			cirka				1	0	1
+cal.				kalori				1	0	0
+cg.|cg				centigram				1	0	0
+CheckL				Checklagen			1	0	1
+chefsexp				chefsexpedition			1	0	0
+chefsexp.				chefsexpedition			1	0	0
+ChL				checklagen			1	0	1
+civ. ek.|civ. ek|civ ek.|civ ek	civilekonom			1	0	0
+civ. ing.|civ. ing|civ ing.|civ ing	civilingenjör			1	0	0
+cm.|cm				centimeter			1	0	1
+cm2				kvadratcentimeter			1	0	0
+cm3				kubikcentimeter			1	0	0
+cm²				kvadratcentimeter			1	0	0
+cm³				kubikcentimeter			1	0	0
+Co.				kompani				1	0	0
+cop.				copyright				1	1	0
+CsSkr				Centralstyrelsens skrivelse		1	0	1
+d. v. s.|d. v. s|d v s.|d v s|d.v.s.|d.v.s|d v s|dvs.|dvs	det vill säga	1	0	0
+d. y.|d. y|d.y.|d.y			den yngre				1	0	1
+d. ä.|d. ä|d.ä.|d.ä			den äldre				1	0	1
+d:o				dito				1	0	0
+d:r|dr.|dr			doktor				1	1	0
+DataF				Dataförordningen			1	0	1
+dBA|dB				decibel				1	0	1
+DelgF				Delgivningsförordningen		1	0	1
+DelgivnL|DelgL			Delgivningslagen			1	0	1
+DelgL:s				delgivningslagens			1	0	0
+dens.				densamma				1 	0	0
+#Denz.				Denzinger				1	0	1
+dep. sekreterare|dep.sekreterare|dep. sek.|dep. sek|dep.sek.|dep.sek|dep sek	departementssekreterare		1	0	0
+dep. chef|dep.chef|dep chef|DepCh	departementschef			1	0	0
+dep. chefen|dep.chefen		departementschefen			1	0	0
+DepL				depositionslagen			1	0	1
+dept.|dept			department			1	0	0
+dg.|dg				decigram				LCdigitRule	0	1
+dgr.|dgr				dagar				1	0	0
+diagr.|diagr			diagram				1	0	0
+dir.				direktiv|direktör|dir.		SPECIAL	0	0
+div.|div				diverse				1	0	0
+DjsL				Djurskyddslagen			1	0	1
+dl.|dl				deciliter				LCdigitRule	0	1
+DlgL 				Delgivningslagen			1	0	1
+dm.|dm				decimeter				LCdigitRule	0	1
+dm2				kvadratdecimeter			1	0	0
+dm3				kubikdecimeter			1	0	0
+dm²				kvadratdecimeter			1	0	0
+dm³				kubikdecimeter			1	0	0
+dnr.|dnr				diarienummer			1	0	0
+doc.				docent				1	0	0
+DsJu				Departementsserien, Justitiedepartementet	1	0	1
+dw				dödvikt				1	0	0
+DödnL				dödningslagen			1	0	1
+el. dyl.|el dyl.|el. dyl|el.dyl.|el.dyl|e. dyl.|e. dyl|e dyl.|e dyl|e.dyl.|e.dyl	eller dylikt	1	0	0
+e. Kr.|e. Kr|e Kr.|e Kr|e.Kr.|e.Kr	efter Kristus			1	0	0
+e. l.|e. l|e.l.|e.l|e l.		eller liknande			1	0	1
+e.c.|e.c				e contrario			1	0	1
+e.m.|e.m|em.			eftermiddag			1	0	1
+e. o.|e. o|e.o.|e.o|eo.		extra ordinarie			1	0	1
+e.t.c.|etc.|etc			etcetera				1	0	0
+e. u.|e. u|e.u.|e.u			enligt uppgift|enligt uppdrag		1	0	1
+eftr.|eftr			efterträdare			1	0	0
+eg.				egentligen			1	0	1
+EGTullK				EG tull K				1	0	1
+EkomL				Lagen om elektronisk kommunikation		1	0	1
+ekon.				ekonomie				1	0	0
+ekonomprogr.|ekonomprogr		ekonomiprogram			1	0	0
+el.				eller				1	0	0
+eng.				engelska				1	0	0
+Engl.|Engl			England				1	0	0
+enl.|enl				enligt				1	1	0
+epist.				epistel				1	0	0
+ErFL				Lagen om ersättningsfonder		1	0	1
+ErsL				Ersättningslagen			1	0	1
+et. al.|et. al|et al.|et al		med flera				1	0	0
+ev.|ev				eventuellt|eventuell		1	0	0
+ex.				exempel|exemplar			1	0	0
+ex. vis.|ex. vis|ex vis.|ex vis|exvis.|exvis|exv.|exv	exempelvis	1	0	0
+exkl.|exkl			exklusive				1	0	0
+Exml				Expansionsmedelslagen		1	0	1
+ExpL				Expropriationslagen			1	0	1
+Exprk				Expropriationskungörelsen		1	0	1
+ExprL				Expropriationslagen			1	0	1
+F. d.|F. d|F d|f. d.|f. d|f d.|Fd.|Fd|fd.|fd	föredetta			1	0	1
+f. Kr.|f. Kr|f Kr.|f Kr|f.Kr.|f.Kr	före Kristus			1	0	0
+f.m.				förmiddag				1	0	1
+f. n.|f. n|f.n.|f.n|fn.		för närvarande			1	0	1
+f. v. b.|f. v. b|f.v.b.|f.v.b|fvb.|fvb	för vidare befordran		1	0	0
+f. ö.|f. ö|f.ö.|f.ö			för övrigt			1	0	1
+ff.|ff				och följande sidor			1	0	1
+fg.|fg				föregående			1	0	1
+fig.				figur				1	0	0
+fil. cand.|fil. cand|fil.cand.|fil.cand|fil cand.|fil cand	filosofie kandidat	1	0	0
+fil. dr.|fil. dr|fil.dr.|fil.dr|fil dr.|fil dr	filosofie doktor		1	0	0
+fil. lic.|fil. lic|fil.lic.|fil.lic|fil lic.|fil lic	filosofie licentiat	1	0	0
+fil. mag.|fil. mag|fil.mag.|fil.mag|fil mag.|fil mag	filosofie magister	1	0	0
+FingeravtrycksF			Fingeravtrycksförordningen		1	0	1
+FiskeL				fiskelagen			1	0	0
+FiU				finansutskottet			1	0	1
+fjv				fjärrvärme			1	0	0
+forts.|forts			fortsättning			1	0	0
+fr. o. m.|fr. o. m|fr o m.|fr o m|fr.o.m.|fr.o.m|fr.om.|fr.om	från och med	1	0	0
+from.				från och med			1	1	0
+fr.				från|fröken|fru			1	0	0
+fr. a.|fr. a|fr.a.|fr.a|fr a.		framför allt			1	0	0
+frk.|frk				fröken				1	1	0
+FrämjandeL			Främjandelagen			1	0	1
+fskr.|fskr			festskrift			1	0	0
+FtaxL				Fastighetstaxeringslagen		1	0	1
+FullmL				Lagen om fullmaktsanställning		1	0	0
+FvL				Förvaltningslagen			1	0	1
+FvPrL				Förvaltningsprocesslagen		1	0	1
+färgill.|färgill			färgillustration			1	0	0
+följ.				följande				1	0	0
+föreg.|föreg			föregående			1	0	0
+förest.|förest			föreståndare			1	0	0
+förf.|förf|frfattare		författare			1	0	0
+förf:s|förf.s			författarens			1	0	0
+förf:na|förf:a			författarna			1	0	0
+förf:nas				författarnas			1	0	0
+FörfSamlF				författningssamlingsförordningen	1	0	0
+försl.|försl			förslag				1	0	0
+försäkr.|försäkr			försäkring			1	0	0
+försälj.|försälj			försäljning			1	0	0
+förv. arb.|förv. arb		förvärvsarbete			1	0	0
+förv.arb.|förv.arb			förvärvsarbete			1	0	0
+förvärvsarb.|förvärvsarb		förvärvsarbetande			1	0	0
+FöU				försvarsutskottet			1	0	1
+geriatr.|geriatr			geriatriska			1	0	0
+ggr.|ggr				gånger				1	0	0
+GUtlL				gamla utlänningslagen		1	0	1
+GWh				gigawattimmar			1	0	0
+GåvoL				Gåvolagen				1	0	1
+hg.|hg				hekto				1	0	0
+hk.|hk				hästkraft|hästkrafter		numerusRule	0	0
+hovr.|hovr			hovrätt				1	0	0
+HovR				hovrätten				1	0	1
+hovr.				hovrätt				1	0	0
+hrr.|hrr				herrar				1	1	0
+HSjvL				Hälso och sjukvårdslagen		1	0	0
+HskL				Hälsoskyddslagen			1	0	1
+HyresfL|HyresftL			lagen om förvärv av hyresfastighet	1	0	0
+Hz				hertz				1	0	0
+hänv.|hänv			hänvisning			1	0	0
+HögskF				Högskoleförordningen		1	0	0
+HögskL				Högskolelagen			1	0	0
+högskoleutbildn.|högskoleutbildn|högskoleutb.|högskoleutb	högskoleutbildning	1	0	0
+i o. f. s.|i o. f. s|i o f s.|i o f s|i.o.f.s.|i.o.f.s|iofs.|iofs	i och för sig	1	0	0
+i sht.|isht			i synnerhet			1	0	0
+i st. f.|i st. f|i.st.f.|i.st.f|i st.f.|i st.f		i stället för	1	0	0
+Ibid.				Ibidem|på samma sida		1	0	0
+Inc.				incorporated			1	0	0
+IndrivningsF			Indrivningsförordningen		1	0	1
+infonr.|infonr			infonummer			1	0	0
+InkassoL				Inkassolagen			1	0	1
+inkl.|inkl			inklusive				1	0	0
+inkomstfr.|inkomstfr		inkomstfrämjande			1	0	0
+InsiderL				Insiderlagen			1	0	1
+inst. f.|inst. f			institutionen för			1	0	0
+InstrRPS				Förordning med instruktion för RPS	1	0	1
+InstrRÅ				Förordning med instruktion för riksåklagaren	1	0	1
+interp.|interp			interpellation			1	0	1
+inv.|inv				invånare				1	0	0
+inv/km2				invånare per kvadratkilometer		1	0	0
+jfr.|jfr|jmfr.|jmfr|jmf.|jmf		jämför		1	0	0
+jmftal				jämförelsetal			1	0	0
+jourtfn.|jourtfn		jourtelefon			1	0	0
+jr				junior				1	0	0
+Ju-dep				justitiedepartementet	1	0	1
+jur.				juris				1	0	0
+jur.utr.			juris utriusque		1	0	0
+JustR				justitieråd			1	0	0
+JuU				Justitieutskottet		1	0	1
+JvSL				Järnvägssäkerhetslagen	1	0	1
+JvTrL				Järnvägstrafiklagen		1	0	1
+JämL				jämställdhetslagen		1	0	1
+K. Instr			kunglig instruktion		1	0	0
+K.prop.			Kunglig proposition		1	0	1
+KamR				Kammarrätten			1	0	0
+KamR:s				Kammarrättens			1	0	0
+kand.				kandidat			1	0	0
+kap.|kap			kapitel|kapitlet|kap		cardOrdRule	0	0
+kbit				kilobit			1	0	0
+kbps				kilobits per sekund		1	0	0
+kcal.|kcal			kilokalori|kilokalorier	numerusRule	0	0
+Kebbe-förl			Kebbe-förlaget		1	0	0
+Kförkl				Kunglig förklaring		1	0	1
+kg.|kg				kilo				1	0	1
+kHz				kilohertz			1	0	0
+kJ				kilojoule			1	0	0
+kj/kg				kilojoule per kilo		1	0	0
+KKL				Konsumentköplagen		1	0	1
+KkL				Körkortslagen			1	0	1
+KkrL				Konsumentkreditlagen		1	0	1
+KKöpL				Konsumentköplagen		1	0	0
+kl.				klockan|klass			1	0	0
+km.|km				kilometer			1	0	1
+km/h				kilometer i timmen		1	0	0
+km/s				kilometer per sekund		1	0	0
+km/tim.|km/tim		kilometer per timme		1	0	0
+km2				kvadratkilometer		1	0	0
+km:s				kilometers			1	0	0
+Km²				kvadratkilometer		1	0	0
+KomL				Kommunallagen			1	0	0
+KomL:s				Kommunallagens		1	0	0
+KommL				kommissionslagen		1	0	1
+kommunfullm.|kommunfullm	kommunfullmäktige		1	0	0
+kompetensutv.|kompetensutv	kompetensutveckling		1	0	0
+kongl.|kongl			kongelige			1	0	0
+KonkL				Konkurslagen			1	0	1
+KonsTjL			Konsumenttjänstlagen		1	0	1
+kostn.				kostnad			1	0	0
+#KPr				Kunglig proposition			1	0	1
+krm.|krm				kryddmått				1	0	0
+kr.|kr				kronor				1	0	0
+kr/kg				kronor per kilo			1	0	0
+kr/månad				per månad				1	0	0
+kr/st.|kr/st|kr/styck		kronor styck			1	0	0
+kr/år				kronor per år			1	0	0
+KRes 				Kunglig Resolution			1	0	1
+KrU				Kulturutskottet			1	0	1
+KskL				Kommunalskattelagen			1	0	1
+KSkr				Kunglig Skrivelse			1	0	1
+KTjL				konsumenttjänstlagen		1	0	0
+kton				kiloton				1	0	0
+Ku-dep				kulturdepartementet			1	0	1
+kulturdep.|kulturdep		kulturdepartementet			1	0	0
+KulturmL				Lagen om kulturminnen		1	0	0
+KulturmL:s			Lagen om kulturminnens		1	0	0
+KungL				Kungörandelagen			1	0	1
+kungl.|kungl			kunglig				1	1	0
+Kungl. Maj:t|Kungl Maj:t		kungliga majestät			1	0	0
+Kungl. Maj:ts|Kungl Maj:ts		kungliga majestäts			1	0	0
+kV				kilovolt				1	0	0
+kvm.|kvm				kvadratmeter			1	0	0
+kW				kilowatt				1	0	0
+kWh				kilowattimme			1	0	0
+KökrkL				Körkortslagen			1	0	0
+KökrkL:s				Körkortslagens			1	0	0
+KöpL				köplagen				1	0	1
+KörkF				Körkortsförordningen		1	0	0
+LagR				Lagrådet				1	0	1
+leg.				legitimerad			1	0	0
+lic.				licentiat				1	0	0
+LivsmL				Livsmedelslagen			1	0	0
+LivsmL:s				Livsmedelslagens			1	0	0
+LKAvg				Lagen om rätt för kommun att ta ut avgift	1	0	0
+Lst				Länsstyrelsen			1	0	1
+LSt:s				Länsstyrelses			1	0	1
+LSTInstr				Förordning med länsstyrelseinstruktion	1	0	0
+Ltd.|Ltd				limited				1	0	0
+lx				lux				1	0	0
+Läkartidn.|Läkartidn		Läkartidningen			1	0	0
+lärarutb.|lärarutb			lärarutbildning			1	0	0
+löneutv.|löneutv			löneutveckling			1	0	0
+löpnr.|löpnr			löpnummer				1	0	0
+LösdrL				lösdriverilagen			1	0	0
+m. a. o.|m. a. o|m.a.o.|m.a.o|m a o.|m a o	med andra ord		1	0	0
+m. fl.|m. fl|m.fl.|m.fl|m fl.|m fl|mfl.|mfl	med flera			1	0	0
+m. m.|m. m|m.m.|m.m|m m.|m m		med mera				1	0	0
+m.e.m.|m.e.m			mer eller mindre			1	0	0
+m.v.h.|m.v.h|mvh.|mvh		med vänlig hälsning			1	0	0
+m.ö.h.|m.ö.h|mö.h.|mö.h		meter över havet			1	0	0
+m2				kvadratmeter			1	0	0
+m3				kubikmeter			1	0	0
+mag.				magister				1	0	0
+maj:t				majestät				1	0	0
+maj:ts				majestäts				1	0	0
+mbar				millibar				1	0	0
+mbps				megabits per sekund			1	0	0
+Mc				mac				1	0	1
+mdkr				miljarder kronor			1	0	0
+MedbL				Lagen om svenskt medborgarskap	1	0	0
+MedbL:s				Lagen om svenskt medborgarskaps	1	0	0
+medförf.|medförf			medförfattare			1	0	0
+medl.|medl			medlem				1	0	0
+mg.|mg				milligram				1	0	0
+mg/kg				milligram per kilo			1	0	0
+MHz				megahertz				1	0	0
+milj.|milj|mill.|mill		miljon|miljoner			numerusRule	0	0
+MiljöB				Miljöbalken			1	0	1
+MiljöB:s				Miljöbalkens			1	0	1
+min övers.			min översättning			1	0	0
+MJ				megajoule				1	0	0
+mkr.|mkr				miljoner kronor			1	0	0
+mkt.|mkt				mycket				1	0	0
+mm vp				millimeter vattenpelare		1	0	0
+mm2				kvadratmillimeter			1	0	0
+mm3				kubikmillimeter			1	0	0
+Mme				madame				1	0	0
+mmol				millimol				1	0	0
+nmol				nanomol				1	0	0
+mmol/l				millimol per liter			1	0	0
+mm²				kvadratmillimeter			1	0	0
+mm³				kubikmillimeter			1	0	0
+mnkr				miljoner kronor			1	0	0
+mom.				moment				1	0	0
+motsv.|motsv			motsvarande			1	0	0
+Mr				mister				1	0	1
+mrs				missis				1	0	0
+msek.|msek			miljoner svenska kronor		1	0	0
+msk.|msk				matsked|matskedar			numerusRule	0	0
+MSkL				Miljöskadelagen			1	0	1
+MW				megawatt				1	0	0
+MWel				megawatt el			1	0	0
+MWh				megawattimme|megawattimmar		numerusRule	0	0
+MyndF				Myndighetsförordningen		1	0	0
+m²				kvadratmeter			1	0	0
+m³				kubikmeter			1	0	0
+målnr.|målnr			målnummer				1	0	0
+möjl.|möjl			möjligen				1	0	0
+n:r|nr.|nr			nummer				1	0	0
+NamnL				Namnlagen				1	0	0
+ngn.|ngn				någon				1	0	0
+ngt.|ngt				något				1	0	0
+NoK				Natur och kultur			1	0	1
+nr/år				nummer per år			1	0	0
+NUtlL				nya utlänningslagen			1	0	1
+nuv.|nuv				nuvarande				1	0	0
+NyttjL				lagen om nyttjanderätt till fast egendom	1	0	1
+näml.|näml			nämligen				1	0	0
+näringsdep.|näringsdep		näringsdepartementet		1	0	0
+närv.|närv			närvarande			1	0	0
+o. dyl.|o. dyl|o dyl.|o dyl|o.dyl.|o.dyl|o. d.|o. d|o.d.|o.d|o d.|o d		och dylikt	1	0	0
+o. likn.|o. likn|o.likn.|o.likn|o. l.|o. l|o.l.|o.l	och liknande	1	0	0
+o. s. v.|o. s. v|o.s.v.|o.s.v|o s v.|o s v|osv.|osv	och så vidare	1	0	0
+o. a.|o. a|o.a.|o.a			och andra				1	0	1
+o. s. a.|o. s. a|o.s.a.|o.s.a		om svar anhålles			1	0	0
+obs.|obs				observera				1	0	0
+odont.|odont			odontologie			1	0	0
+officersutb.|officersutb		officersutbildning			1	0	0
+omarb.|omarb			omarbetad|omarbetade		1	0	0
+omkr.|omkr			omkring				1	0	0
+omm				om och endast om|ekvivalent		1	0	0
+op. cit.|op. cit|op cit.|op cit|op.cit.|op.cit	i anfört arbete		1	0	0
+op.				opus				1	0	0
+opubl.|opubl			opublicerad			1	0	0
+ord. pris|ord pris|ord.pris		ordinarie pris			1	0	0
+ordertel.|ordertel|ordertlf.|ordertlf	ordertelefon			1	0	0
+ordf.|ordf			ordförande			1	0	0
+orig.|orig			original				1	0	0
+ospec.|ospec			ospecificerad			1	0	0
+p. g. a.|p. g. a|p.g.a.|p.g.a|p g a.|p g a|pga.|pga|p. gr. a.|p. gr. a|p.gr.a.|p.gr.a|p gr a.|p gr a	pågrund av	1	0	0
+PartnerL				partnerlagen			1	0	0
+pat. avg.|pat. avg|pat.avg.|pat avg.|pat avg	patientavgift		1	0	0	
+PbrL				Lagen om pantbrevsregister		1	0	1
+pers.				person				1	0	0
+personkm.|personkm			personkilometer			1	0	0
+Pirat-förl.|Pirat-förl		piratförlaget			1	0	0
+pkt.|pkt				paket				1	0	0
+#pol.				politices				1	0	0
+PolisF				polisförordningen			1	0	0
+PolisL|PolL			polislagen			1	0	1
+PolL:s				Polislagens			1	0	1
+pp.|pp				pages				1	0	1
+PreskrL|PreskL			preskriptionslagen			1	0	0
+prof.|prof			professor				1	0	0
+prog.|prog|progr.|progr		program				1	0	0
+ProkuraL				Prokuralagen			1	0	1
+prop.|prop			proposition			1	0	0
+pseud.|pseud			pseudonym				1	0	0
+Psychiatr.|Psychiatr		psychiatric			1	0	0
+publ.|publ			publikation			1	0	0
+rangnr.|rangnr			rangnummer			1	0	0
+RBKomm				Kommentar till rättegångsbalken	1	0	1
+rec.				recension				1	0	0
+red.|red				redaktör|redaktörer|revision|redigerad		1	0	0
+ref.				referat|referens			SPECIAL	0	0
+reg.				register				1	0	0
+RegF				Regeringsformen			1	0	1
+RegR				regeringsrätten			1	0	1
+RegR:s				Regeringsrättens			1	0	1
+resp.|resp			respektive			1	0	0
+rev.				reviderad|revision			1	0	0
+RhjF				Rättshjälpsförordningen		1	0	1
+RhjL				Rättshjälpslagen			1	0	1
+Ridd.O				Riddarhusordningen			1	0	1
+RomF				Romfördraget			1	0	1
+rskr.|rskr			riksdagsskrivelse			1	0	1
+RtjL				Räddningstjänstlagen		1	0	1
+RänteL				räntelagen			1	0	1
+RättsprL				Rättsprövningslagen			1	0	0
+s. k.|s. k|s.k.|s.k|s k|sk.|sk	så kallad|så kallat|så kallade|så kallade	abbreviation_rule_3	1	0
+s. a. s.|s. a. s|s.a.s.|s.a.s		så att säga			1	0	0
+s:a				summa				1	0	0
+S:t				Sankt				1	0	0
+S:ta				Sankta				1	0	0
+SamboL				Lagen om sambors gemensamma hem	1	0	1
+samtl.|samtl			samtliga				1	0	0
+SamägarL				Lagen om samäganderätt		1	0	1
+SBetL				Skattebetalningslagen		1	0	0
+Sc.St.L.|Sc.St.L			Scandinavian Studies in Law		1	0	1
+SEK				svenska kronor			1	0	1
+sek.|sek				sekund|sekunder			numerusRule	0	0
+sekr.|sekr			sekreterare			1	0	0
+SekrF				Sekretessförordningen		1	0	1
+SekrL				sekretesslagen			1	0	1
+SekrL:s				Sekretesslagens			1	0	1
+SemL				Semesterlagen			1	0	1
+serviceorg.|serviceorg		serviceorganisation			1	0	0
+ServL				Lagen om servitut			1	0	1
+sign.				signatur|signum			1	0	0
+sjukv.|sjukv			sjukvård				1	0	0
+SjöL				Sjölagen				1	0	1
+SkadestL				Skadeståndslagen			1	0	1
+SkadestL:s			Skadeståndslagens			1	0	1
+SkBrL				Skattebrottslagen			1	0	1
+SkbrL				skuldebrevslagen			1	0	1
+SkkL				Skogskontolagen			1	0	1
+SkL				Skadeståndslagen			1	0	1
+SkolL				Skollagen				1	0	0
+Skr.				skrivelsen			abbreviation_rule_2	0	1
+SksanL				skuldsaneringslagen			1	0	1
+SkstL				skadeståndslagen			1	0	1
+SkU				skatteutskottet			1	0	1
+SmittskL				Smittskyddslagen			1	0	1
+SmittskL:s			Smittskyddslagens			1	0	1
+socialdemokr.|socialdemokr		socialdemokratiska			1	0	0
+SoF				Socialtjänstförordningen		1	0	1
+SofL				Socialförsäkringslagen		1	0	1
+SoL				Socialtjänstlagen			1	0	1
+SoL:s				Socialtjänstlagens			1	0	1
+SoU				socialutskottet			1	0	1
+specialped.|specialped|spec. ped.|spec. ped|spec.ped.|spec.ped|spec ped.|spec ped	specialpedagog	1	0	0
+spec.				speciell				1	0	0
+sr.				senior				1	0	1
+ss.|ss				sidorna				RCdigitRule	0	1
+st.|st				stycket|stycken			SPECIAL	0	0
+Sthlm				Stockholm				1	0	0
+StsSkl 				Strålskyddslagen			1	0	1
+stud.				studerande			1	0	0
+studieförb.|studieförb		studieförbund			1	0	0
+suppl.|suppl			suppleant|supplement		1	0	0
+sv. övers.|sv. övers		svensk översättning			1	0	0
+Sveav.|Sveav			Sveavägen				1	0	0
+SvJT				Svensk Juristtidning		1	0	1
+särsk.|särsk			särskilt				1	0	0
+t. e. x.|t. e. x|t. ex.|t. ex|t e x|t ex.|t ex|t.ex.|t.ex|tex.|tex	till exempel	1	0	0
+t.h.				till höger			1	0	1
+t. o. m.|t. o. m|t.o.m.|t.o.m|t o m.|t o m	till och med		1	0	0
+t.v.				tills vidare|till vänster		1	0	1
+tab.				tabell				1	0	0
+TaxL				Taxeringslagen			1	0	1
+TaxL:s				Taxeringslagens			1	0	1
+tekn.				teknologie|tekniska			1	0	0
+tel:|tel.|tfn.|tfn			telefon				1	0	0
+TeleL				Telelagen				1	0	1
+temanr.|temanr			temanummer			1	0	0
+temp.				temperatur			1	0	0
+teol.				teologie				1	0	0
+texttfn.|texttfn			texttelefon			1	0	0
+tf.|tf				tillförordnad			1	0	0
+tidskr.|tidskr			tidskrift				1	0	0
+tim.				timme|timmar			numerusRule	0	0
+tjf.|tjf				tjänsteförrättare			1	0	0
+tjl.|tjl				tjänstledig			1	0	0
+tkr/månad				tusen kronor per månad		1	0	0
+tkr.|tkr|tkronor			tusen kronor|tusental kronor		1	0	0
+TPB-nr.|TPB-nr			TPB-nummer			1	0	0
+tr.|tr				trappa|trappor|tryckt		SPECIAL	0	1
+Tr.F|Tr.O				Tryckfrihetsförordningen		1	0	1
+TrF:s|TrafikF:s|TraF:s		Trafikförordningens			1	0	1
+TrF|TrafikF|TraF			Trafikförordningen			1	0	1
+trol.|trol			troligen|trolovad			1	0	0
+trpt.|trpt			transport				1	0	0
+träningslgh.|träningslgh		träningslägenhet			1	0	0
+tsk.|tsk				tesked|teskedar			numerusRule	0	0
+TskL				Trafikskadelagen			1	0	1
+TvL				Lagen om särskilda tvångsåtgärder i beskattningsförfarandet	1	0	1
+TWh				terawattimme|terawattimmar		numerusRule	0	0
+TWhel				terawattimmar el			1	0	0
+TWhkyla				terawattimmar kyla			1	0	0
+TWhvärme				terawattimmar värme			1	0	0
+u. a.|u. a|u.a.|u.a|ua.|ua		utan anmärkning			1	0	1
+u. o.|u. o|u.o.|u.o|uo.|uo		utan ort				1	0	1
+u. p. a.|u. p. a|u.p.a.|u.p.a|u p a.|u p a	utan personligt ansvar	1	0	0
+u. å.|u. å|u.å.|u.å|uå.|uå		utan årtal			1	0	1
+UbU				Utbildningsutskottet		1	0	1
+ung.				ungefär				SPECIAL	1	0
+univ.|univ			universitet			1	0	0
+uppdr.|uppdr			uppdrag				1	0	0
+upphandl.|upphandl			upphandling			1	0	0
+uppl.|uppl			upplaga|upplagan|upplysning		abbreviation_rule_4	0	0
+urspr.|urspr			ursprungligen			1	0	0
+ursprungl.|ursprungl		ursprungligen			1	0	0
+us				uppgift saknas			SPECIAL	0	0
+US$				US-dollar				1	0	0
+USD				US-dollar|US-dollar|USD		LCdigitRule		0	1
+utbildn.|utbildn|utb.|utb		utbildning			1	0	0
+utg.|utg				utgiven|utgivare			1	0	0
+utl.|utl				utländsk				1	0	0
+UtlF				Utlänningsförordningen		1	0	1
+UtlL				utlänningslagen			1	0	1
+UtlL:s				Utlänningslagens			1	0	1
+v. g.|v. g|v.g.|v.g|vg.		var god				1	1	1
+valL				vallagen				1	0	1
+ValL:s				Vallagens				1	0	1
+vanl.|vanl			vanligen				1	0	0
+varusmugglingssl.|varusmugglingssl	varusmugglingslagen			1	0	0
+verksamh.|verksamh			verksamhet			1	0	0
+VerksF				Verksförordningen			1	0	1
+VerksF:s				Verksförordningens			1	0	1
+VitesL				Viteslagen			1	0	0
+vol.|vol				volym				1	0	0
+vs.				versus				1	0	0
+vuxenutb.|vuxenutb			vuxenutbildning			1	0	0
+vx.|vx				växel				1	0	0
+VxL				Växellagen			1	0	1
+VägL				Väglagen				1	0	0
+VägmF				Vägmärkesförordningen		1	0	0
+ytterl.|ytterl			ytterligare			1	0	0
+yttr.|yttr			yttrande				1	0	0
+#§				paragraf|paragrafen			abbreviation_rule_4	0	0
+#§§				paragraf|paragraferna		abbreviation_rule_4	0	0
+#¼				en fjärdedels|en fjärdedel		1	0	0
+#½				ett halvt|en halv			1	0	0
+#¾				tre fjärdedelars|tre fjärdedelar	1	0	0
+ÄgofrL				Lagen om ägofred			1	0	1
+ÄktB				Äktenskapsbalken			1	0	1
+ÄktP				Lagen om införande av äktenskapsbalken	1	0	1
+ÄrendeL				Lagen om domstolsärenden		1	0	1
+äv.				även				1	1	0
+åa				årsarbeten			0	0	1
+ÅklF				Åklagarförordningen			1	0	1
+årg.|årg				årgång				1	0	0
+åtg.|åtg				åtgärd				1	0	0
+ö. g.|ö. g|ö.g.|ö.g			över gården			1	0	1
+ö. h.|ö. h|ö.h.|ö.h			över havet			1	0	1
+överkl.nämnd			överklagarnämnd			1	0	0
+övers.|övers			översättning|översättare		1	0	0
+övr.|övr				övrigt				1	0	0
+kr/m2				kronor per kvadratmeter		1	0	0
+al.fälgar|alufälg			aluminiumfälgar			1	0	0
+ankomstnr.|ankomstnr		ankomstnummer			1	0	0
+anläggn.|anläggn			anläggning			1	0	0
+anskaffn.|anskaffn			anskaffning			1	0	0
+anst.|anst			anställning			1	0	0
+anstnr.|anstnr			anställningsnummer			1	0	0
+anställn.|anbeställn		anbeställning			1	0	0
+begr.byrå				begravningsbyrå			1	0	0
+begravn.|begravn			begravning			1	0	0
+behandl.|behanl|beh.		behandling			1	0	0
+beställn.|beställn			beställning			1	0	0
+betaln.|betaln			betalning				1	0	0
+bokförl.|bokförl			bokförlag				1	0	0
+bränsleförbr.|bränsleförbr		bränsleförbrukning			1	0	0
+delnr.|delnr			delnummer				1	0	0
+deltävl.|deltävl			deltävling			1	0	0
+DiskrL				diskrimineringslagen		1	0	0
+dopgtj.|dopgtj			dopgudstjänst			1	0	0
+Drottningg.|Drottningg		Drottninggatan			1	0	0
+elitutb.|elitutb			elitutbildning			1	0	0
+TR:n				tingsrätten			1	0	1
+TR:ns				tingsrättens			1	0	1
+HovR:n				hovrätten				1	0	1
+HovR:ns				hovrättens			1	0	1
+TR:n/s				tingsrättens eller tingsrättens	1	0	1
+FirmaL				firmalagen			1	0	1
+fortf.|fortf			fortfarande			1	0	0
+Frankf.|Frankf			Frankfurt				1	0	0
+fre-sön|fred-sönd			fredag till söndag			1	0	0
+Friedr.|Friedr			Friderich				1	0	0
+FVIII				faktor åtta			1	0	1
+g.|g				gram				LCdigitRule	0	1
+Hantverkarg.|Hantverkarg		Hantverkargatan			1	0	0
+Hornsg.|Hornsg			Hornsgatan			1	0	0
+hPa				hektopascal			1	0	1
+inköpsnr.|inköpsnr			inköpsnummer			1	0	0
+k:a				kyrka				1	0	0
+KamrR:s				kammarrättens			1	0	1
+KamrR				kammarrätten			1	0	1
+kcal/dag				kilokalorier per dag		1	0	0
+kcal/gram				kilokalorier per gram		1	0	0
+KonkurrensL			konkurrenslagen			1	0	0
+kundtelnr.|kundtelnr		kundtelefonnummer			1	0	0
+köksutr.|köksutr			köksutrustning			1	0	0
+licensnr.|licensnr			licensnummer			1	0	0
+LL-förl.|LL-förl			LL-förlaget			1	0	0
+mbyte				megabyte				1	0	0
+mikrog.|mikrog			mikrogram				1	0	0
+mnkr.|mnkr			miljoner kronor			1	0	0
+målgr.|målgr			målgrupp				1	0	0
+nybes.|nybes			nybesiktad			1	0	0
+obesk.|obesk			obeskattad			1	0	0
+obet.|obet			obetald				1	0	0
+OffSekrL				offentlighets- och sekretesslagen	1	0	1
+onsd.|onsd			onsdag				1	0	0
+orgnr.|orgnr			organtisationsnummer		1	0	0
+osign.|osign			osignerad				1	0	0
+Paediatr.|Paediatr			pediatric				1	0	0
+pathol.|pathol			pathology				1	0	0
+pediatr.|pediatr			pediatrik				1	0	0
+personnr.|personnr			personnummer			1	0	0
+plac.|plac			placering				1	0	0
+pmol				pikomol				1	0	0
+pocketuppl.|pocketuppl		pocketupplaga			1	0	0
+Cambr.|Cambr			Camebridge			1	0	0
+Copenh.|Copenh			Copenhagen			1	0	0
+postnr.|postnr			postnummer			1	0	0
+psalt.|psalt			Psaltaren				1	0	0
+påfölj.|påfölj			påföljande			1	0	0
+radnr.|radnr			radnummer				1	0	0
+rapportnr.|rapportnr		rapportnummer			1	0	0
+repr.|repr			repris				1	0	0
+revsekr.|revsekr			revisionssekreterare		1	0	0
+revuppl.|revuppl			revisionsupplaga			1	0	0
+rok.|rok				rum och kök			LCdigitRule	0	1
+rundskr.|rundskr			rundskrivelse			1	0	0
+rundskriv.|rundskriv		rundskrivelse			1	0	0
+SamägL|	SamÄL			samäganderättslagen			1	0	1
+sedv.|sedv			sedvanlig				1	0	0
+sjukd.|sjukd			sjukdom				1	0	0
+soffgr.|soffgr			soffgrupp				1	0	0
+spårnr.|spårnr			spårnummer			1	0	0
+startförp.|startförpackn		startförpackning			1	0	0
+startm.|startm			startmotor			1	0	0
+stl.|stl				storlek				1	0	0
+studentlitt.|studentlitt		studentlitteratur			1	0	0
+sängb.|sängb			sängbord				1	0	0
+sänkn.|sänkn			sänkning				1	0	0
+Söderk.|Söderk			Söderköping			1	0	0
+taknr.|taknr			taknummer				1	0	0
+telefon-nr.|telefon-nr|telefonnr.|telefonnr|tel. nr.|tel. nr|tel nr.|tel nr|tel.nr.|tel.nr|telnr.|telnr|tfn. nr.|tfn. nr|tfn nr.|tfn nr|tfn.nr.|tfn.nr|tfnnr.|tfnnr	telefonnummer	1	0	0
+tidn.|tidn			tidning				1	0	0
+tillb.|tillb			tillbehör				1	0	0
+tillg.|tillg			tillgång				1	0	0
+tillh.|tillh			tillhör				1	0	0
+TullL				tullagen				1	0	0
+Tunnbindareg.|Tunnbindareg		Tunnbindaregatan			1	0	0
+tävl.|tävl			tävling				1	0	0
+udg.|udg				udgave				1	0	0
+unpubl.|unpubl			unpublished			1	0	0
+UpphL				upphovsrättslagen			1	0	1
+uth.|uth				uthyres				1	0	0
+vindistr.|vindistr			vindistrikt			1	0	0
+webbnr.|webbnr			webbnummer			1	0	0
+ö:a				östra				1	0	0
+v:a				västra				1	0	0
+ökn.|ökn				ökning				1	0	0
+övn.|övn				övning				1	0	0
+bakgr.|bakgr			bakgrund				1	0	0
+tabl.|tabl			tablett|tabletter			numerusRule	0	0
+dagl.|dagl			dagligen				1	0	0
+ml/l				milliliter per liter		1	0	0
+cl/l				centiliter per liter		1	0	0
+ml				milliliter			LCdigitRule	0	1
+sjuksköt.|sjuksköt			sjuksköterska			1	0	0
+tidsskr.|tidsskr			tidsskrift			1	0	0
+obstet.|obstet			obstetic				1	0	0
+mmHg				millimeter kvicksilver		1	0	0
+tandvb.|tandvb			tandvårdsbyrån			1	0	0
+nutr.|nutr			nutririon				1	0	0
+nurs.|nurs			nursing				1	0	0
+avh.|avh				avhandling			1	0	0
+psychol.|psychol			psychological			1	0	0
+ng/kg				nanogram per kilo			1	0	0
+biol				biological			1	0	0
+lig.				ligament				1	0	0
+psychosom.|psychosom		psychosomatic			1	0	0
+appl.|appl			applied				1	0	0
+proc.|proc			proceedings			1	0	0
+orthop.|orthop			orthopaedic			1	0	0
+µm				mikrometer			1	0	1
+µV				millivolt			1	0	1
+µmol				millimol			1	0	1
+assoc.|assoc			associatoin			1	0	0
+CoQ10				koenzym Q 10			1	0	0
+Educ.|Educ			education				1	0	0
+ml/dygn				milliliter per dygn			1	1	0

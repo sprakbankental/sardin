@@ -1,0 +1,39 @@
+﻿#*********************************************************************************************#
+# ABBREVIATION				EXPANSIONS			RULE	NOT IN FINAL POS		CASE SENSITIVE
+#************************************************************************************************#
+# Abbreviation:	Valid orthographies for the same expansion. Separated by "|".
+#************************************************************************************************#
+# Expansions:	Possible expansions for the orthographies. Separated by "|".
+#		If rules are not specified, the first expansion will be chosen.
+#************************************************************************************************#
+# Rule:		Rules that decides which of the expansions to choose.
+#			LCdigitRule	LC0 or LC1 is a numeral
+#			LCordinalRule	LC0 or LC2 is an ordinal
+#			numerusRule	First place in list will be chosen if the abbreviation is preceded by "1" (singular), else the second one.
+#			cardOrdRule	The context decides if the expansion is indefinite or definite, e.g. sv "kapitel 1", "1 kapitlet".Se kap. 4
+#			LCorRCnumRule	The expansion depends on if there are digits to the left or to the right of the abbreviaion.
+#************************************************************************************************#
+# Not in final pos:	Set to "1" if it shouldn't be treated as an abbreviation
+#			if it is in sentence final position.
+#************************************************************************************************#
+# Case sensitive:	Set to "1" if it should be treated as an abbreviation
+#			only if it's the same case as the orthography
+#************************************************************************************************#
+adolesc.|adolesc		adolescence			1	0	0
+cm.|cm				centimeter			1	0	1
+biol				biological			1	0	0
+psychosom.|psychosom		psychosomatic			1	0	0
+appl.|appl			applied				1	0	0
+proc.|proc			proceedings			1	0	0
+orthop.|orthop		orthopaedic				1	0	0
+µmol				millimol			1	0	1
+assoc.|assoc			associatoin			1	0	0
+Educ.|Educ			education			1	0	0
+e. g.|e. g|e.g.|e.g		for example			1	0	0
+i. e.|i. e|i.e.|i.e		that is				1	0	0
+kr.|kr				krona|kronor			1	0	0
+ch.|ch				chapter				1	0	0
+chs.|chs			chapters			1	0	0
+a.m.|a.m			a m				1	0	0
+p.m.|p.m			p m				1	0	0
+a. s. o.|a. s. o|a.s.o.|a.s.o|aso.|aso	and so on		1	0	0

@@ -1,0 +1,69 @@
+#
+noll		n 'å l
+en		'e n
+ett		'e t
+två		t v 'å2:
+tre		t r 'e2:
+fyra		f "y2: $ r `a
+fem		f 'e m
+sex		s 'e k s
+sju		sj 'u2:
+åtta		"å $ t `a
+nio		n "i2: $ `o
+tio		t "i2: $ `o
+elva		"e l v `a
+tolv		t 'å l v
+tretton		t r "e $ t `å n
+fjorton		f j "o2: $ rt `å n
+femton		f "e m $ t `å n
+sexton		s "e k $ s t `å n
+sjutton		sj "u $ t `å n
+arton		"a2: $ rt `å n
+nitton		n "i $ t `å n
+tjugo		tj "u2: $ g `o
+trettio		t r 'e $ t i3 $ o
+fyrtio		f 'ö3 $ rt i3 $ o
+femtio		f 'e m $ t i3 $ o
+sextio		s 'e k $ s t i3 $ o
+sjuttio		sj 'u $ t i3 $ o
+åttio		'å $ t i3 $ o
+nittio		n 'i $ t i3 $ o
+hundra		h 'u n $ d r a
+tusen		t 'u2: $ s ë n
+ettusen		'e t | t 'u2: $ s ë n
+miljon		m i l $ j 'o2: n
+miljoner	m i l $ j 'o2: n ë r
+miljard		m i l $ j 'a2: rd
+miljarder	m i l $ j 'a2: rd ë r
+första		f "ö3 $ rs rt `a
+förste		f "ö3 $ rs rt `ë
+andra		"a n $ d r `a
+andre		"a n $ d r ë
+tredje		t r "e2: $ d j `ë
+fjärde		f j "ä3: $ rd `ë
+femte		f "e m $ t `ë
+sjätte		sj "ä $ t `e
+sjunde		sj "u n $ d `ë
+åttonde		"å t å n $ d `ë
+nionde		n "i2: å n $ d `ë
+tionde		t "i2: å n $ d `ë
+elfte		"e l f $ t `ë
+tolfte		t "å l f $ t `ë
+trettonde	t r "e $ t `å n $ d ë
+fjortonde	f j "o2: $ rt `å n $ d ë
+femtonde	f "e m $ t `å n $ d ë
+sextonde	s "e k $ s t `å n $ d ë
+sjuttonde	sj "u $ t `å n $ d ë
+artonde		"a2: $ rt `å n $ d ë
+nittonde	n "i $ t `å n $ d ë
+tjugonde	tj "u2: $ g `å n $ d ë
+trettionde	t r "e $ t i3 $ `å n $ d ë
+fyrtionde	f "ö3 $ rt i3 $ `å n $ d ë
+femtionde	f "e m $ t i3 $ `å n $ d ë
+sextionde	s "e k $ s t i3 $ `å n $ d ë
+sjuttionde	sj "u $ t i3 $ `å n $ d ë
+åttionde	"å $ t i3 $ `å n $ d ë
+nittionde	n "i $ t i3 $ `å n$  d ë
+hundrade	h "u n $ d r `a d ë
+tusende		t "u2: $ s `e n d ë
+miljonte	m i l $ j "o2: n $ t `ë

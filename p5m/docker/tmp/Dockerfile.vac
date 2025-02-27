@@ -1,0 +1,123 @@
+# This calls the current Språkbanken Tal OS of choice
+FROM sprakbankental/os:1.2 as base
+
+
+
+#
+#
+# cd docker
+# docker build --tag sardin:1.1.0 --file Dockerfile . 
+# cd .. (repo root)
+# docker run -e LC_ALL=sv_SE.UTF-8 -v ${PWD}:/sardin --rm -dit --name sardin sardin:1.1.0 bash
+# docker exec -it sardin bash
+# docker exec -it sardin perl scripts/vac-sardin-launcher.pl --test 1
+
+# ***
+# Language support goes ghere (#sprakbankental/mtmpreproc#80)
+# Language support will be moved into sprakbankental/os image in time
+#
+# We install all supported locales and use the appropriate one by
+# passing environment variables to docker run, i.e:
+# docker run -e LC_ALL=sv_SE.UTF-8 -v /home/aj/src/mtmpreproc:/sardin -it sardin:1.1.0 bash -c 'cd /sardin ; perl /sardin/t/runclasstests.t'
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y locales-all
+#
+# End language support
+# ***
+
+# Create work dir
+CMD mkdir sardin
+WORKDIR sardin
+
+# Set the lib path using the appropriate ENV variables
+ENV PERL5LIB=lib:t/classtests:$PERL5LIB
+
+# We want to be able to revert to the extended Perl install, from the base os,
+# so we start a second layer here
+# This will contain extra materials for testing purposes
+FROM base as test
+
+# We copy each relevant directory explicitly, since this Git repo 
+# is quite likely to contain irrelevant directories (e.g. old code base)
+
+# Copy in examples and test data
+COPY data data
+COPY logs logs
+COPY tmp tmp
+COPY t t
+
+# Copy in the documentation
+# COPY docs docs
+
+# Copy in the code
+COPY lib lib
+COPY scripts scripts
+
+
+
+# Compile
+# 
+# We currently do not build this code, it's executable as is
+
+# Run tests
+
+
+
+# And here we start the final layer, containing only the essentials
+# So this should really go from base, not from test!
+FROM test as prod
+
+# MTMPreproc specifics
+RUN cpanm Statistics::Basic 
+
+
+# Copy the code from test
+#COPY --from=test /mtmpreproc/lib lib
+#COPY --from=test /mtmpreproc/scripts scripts
+
+
+# Labels
+# 
+# These labels are intended to be edited in the Dockerfile - they are not set by the 
+# build hook. They are visible and searchable in automated Docker image search engines 
+# such as Microbadger.
+LABEL org.opencontainers.image.authors="Jens Edlund <edlund@speech.kth.se>" 
+LABEL org.opencontainers.image.description="Språkbanken Tal Docker image" 
+LABEL org.opencontainers.image.licenses="Apache 2.0" 
+LABEL org.opencontainers.image.url="https://hub.docker.com/"
+LABEL org.opencontainers.image.source="https://github.com/sprakbankental/mtmpreproc/README.md" 
+# could be automated:
+LABEL org.opencontainers.image.ref.name="sprakbankental/mtmpreproc"                                    
+LABEL org.opencontainers.image.documentation="https://github.com/sprakbankental/mtmpreproc/README.md"
+
+# These values provided here are defaults. They are helpful to run the build hooks
+# as well as the Docker build outside of Docker Hub for testing. 
+# For production, the automated Docker Hub buiulds should be used. which 
+# overwrites the defaultsa provided here.
+# (Note that out Docker Hub biuild hook places these in the build environment, so
+# that they can be used by the test hook as well.)
+ARG DATE_RFC3339="1970-01-01T00:00:00Z"
+ARG GIT_SHA1="local"
+ARG VERSION="unversioned" 
+ARG DOCKERFILE_PATH="."
+ARG SOURCE_TYPE="unknown"
+
+# 
+# Automated content
+#
+# This following section is the SB Tal template for Dockerfiles
+# It is intended to work with a build hookm for automated builds on
+# Docker Hub. 
+#
+
+# We then label the Docker image with the appropriate labels
+# NB!!! that the hard-coded bits should be moved out in a later version,
+# NB!!! and instead be included in the build info.
+LABEL org.opencontainers.image.created=$DATE_RFC3339 
+LABEL org.opencontainers.image.revision=$GIT_SHA1 
+LABEL org.opencontainers.image.version=$VERSION 
+
+# NB!!!
+# We may want to make some of the variables available from within the Docker image as well:
+#ENV DATE_RFC3339 "$DATE_RFC3339"
+#ENV GIT_SHA1 "$GIT_SHA1"
+#ENV VERSION "$VERSION"

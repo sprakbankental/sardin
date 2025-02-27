@@ -1,0 +1,95 @@
+k	3378
+m	2857
+s	2843
+r3	2644
+d	2482
+p	1864
+h	1650
+b	1562
+f	1483
+l	1460
+w	1418
+t	1047
+p r3	1020
+n	916
+j3	704
+g	595
+s t	580
+v	556
+b r3	532
+t r3	511
+rs	504
+k r3	437
+tj3	436
+g r3	413
+j	399
+öw	369
+k l	339
+s p	338
+s k	276
+f r3	257
+th	223
+b l	221
+d r3	208
+f l	200
+n j	199
+p l	197
+s t r3	192
+k w	179
+s w	153
+s l	137
+g l	126
+s k r3	79
+th r3	74
+h j	71
+s m	71
+t w	68
+k j	58
+s n	56
+m j	50
+dh	48
+s p r3	42
+f j	41
+d j	36
+p j	32
+s t j	30
+t j	29
+b j	26
+d w	26
+s k w	25
+rs r3	23
+r	21
+z	18
+s p l	11
+g w	11
+v j	9
+l j	7
+k r	7
+m n	6
+t s	6
+tj	4
+th w	4
+k n	4
+p r	4
+s f	4
+s j	4
+d r	3
+b r	3
+rs3	2
+s k j	2
+rs m	2
+k v	2
+sj	2
+f r	1
+s k l	1
+g h	1
+t v	1
+rs rn	1
+g r	1
+g r3 l	1
+s t r	1
+s k r	1
+t h	1
+r3 w	1
+th j	1
+m r3	1

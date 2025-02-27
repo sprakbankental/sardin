@@ -1,0 +1,110 @@
+﻿# TPA	Sampa	Acapela	CereProc_eng	CereProc_swe	Tacotron_1	IPA	MS-IPA	NST	MTM
+
+# Plosives
+p	p	p	p	p	p	p	p	p	p
+b	b	b	b	b	b	b	b	b	b
+t	t	t	t	t	t	t	t	t	t
+rt	rt	rt	t	rt	rt	ʈ	ʈ	t`	rt
+d	d	d	d	d	d	d	d	d	d
+rd	rd	rd	d	rd	rd	ɖ	ɖ	d`	rd
+k	k	k	k	k	k	k	k	k	k
+g	g	g	g	g	g	ɡ	g	g	g
+
+# Fricatives
+f	f	f	f	f	f	f	f	f	f
+v	v	v	v	v	v	v	v	v	v
+s	s	s	s	s	s	s	s	s	s
+rs	rs	rs	sh	rs	rs	ʂ	ʂ	s`	rs
+rs3	Z	S	zh	rs	rs	ʒ	ʂ	-	zh
+z	z	z	z	z	s	z	s	-	z
+dh	D	D	dh	dh	d	ð	d	D	dh
+th	T	T	th	th	t	θ	t	T	th
+h	h	h	h	h	h	h	h	h	h
+sj	x\	S	sh	x	sj	ɧ	ɧ	x\	x
+sj3	x	x	rs	xx	sj	x	ɧ	-	xx
+tj	C	C	ch	c	tj	ç	ɕ	s'	c
+
+# Affricates
+tj3	tS	tS	ch	ch	t_tj	t̠ʃ	tʂ	tC	tc
+j3	dZ	dZ	jh	jh	d_j	d̠ʒ	dʂ	-	dj
+
+# TPA	Sampa	Acapela	CereProc_eng	CereProc_swe	Tacotron_1	IPA	MS-IPA	NST	MTM
+# Nasals
+m	m	m	m	m	m	m	m	m	m
+n	n	n	n	n	n	n	n	n	n
+rn	rn	rn	n	rn	rn	ɳ	ɳ	n`	rn
+ng	N	N	ng	ng	ng	ŋ	ŋ	N	ng
+
+# Approximants
+r	r	r	r	r	r	r	r	r	r
+l	l	l	l	l	l	l	l	l	l
+rl	rl	rl	l	rl	rl	ɭ	ɭ	l`	rl
+j	j	j	y	j	j	j	j	j	j
+w	w	w	w	w	w	w	v	w	w
+r3	r3	r	r	rh	r	ɾ	r	-	rh
+r0	r0	r	R	rh	r	ɾ	r	-	r0
+r4	R	r	r	rrh	r	ʀ	r	-	rx
+
+# TPA	Sampa	Acapela	CereProc_eng	CereProc_swe	Tacotron_1	IPA	MS-IPA	NST	MTM
+# Front vowels
+i2:	i:	i:	ii	ii	i:	iː	iː	i:	i:
+i	I	I	i	i	i	ɪ	ɪ	I	i
+i3	I	I	i	i	i	j	ɪ	-	ih
+
+y2:	y:	y:	ii	yy	y:	yː	yː	y:	y:
+y	Y	Y	i	y	y	ʏ	y	Y	y
+
+e2:	e:	e:	i@	ee	e:	eː	eː	e:	e:
+e	E	e	e	e	e	ɛ	ɛ	e	e
+e3	E	e	e	e	e	e	e	-	eh
+ë	@	@	@	eh	ë	ə	ə	-	ex
+
+ä2:	E:	E:	e@	eex	ä:	ɛː	ɛː	E:	ä:
+ä	E	E	e	e	e	ɛ	ɛ	E	ä
+ä3:	{:	{:	e@	aae	ää:	æː	æː	-	ae:
+ä3	{	{	a	ae	ää	æ	æ	-	ae
+
+ö2:	2:	2:	ou	oox	ö:	øː	øː	2:	ö:
+ö	2	2	ou	ox	ö	ø	œ	9	ö
+ö3:	9:	9:	@@	ooe	öö:	œː	œː	-	oe:
+ö3	9	9	ou	oe	öö	œ	ɶ	-	oe
+
+# TPA	Sampa	Acapela	CereProc_eng	CereProc_swe	Tacotron_1	IPA	MS-IPA	NST	MTM
+# Back vowels
+o2:	u:	u:	uu	uu	o:	uː	uː	u:	u:
+o	U	U	u	u	o	u	ʊ	U	u
+o3	U	U	u	u	o	u	ʊ	U	oh
+å2:	o:	o:	oo	oo	å:	oː	oː	o:	o:
+å	O	O	o	o	å	ɔ	ɔ	O	o
+
+# U vowels
+u2:	}:	}:	uu	uux	u:	ʉː	ʉː	}:	uu:
+u	u0	u	u	ux	u	ɵ	ɵ	u0	uu
+u3	u0	u	u	ux	u	ʉ	ɵ	u0	uuh
+u4:	o2:	u:	uu	uw	o:	ʊː	uː	-	uw:
+u4	u	U	u	u	o	ʊ	ʊ	-	uw
+
+# A vowels
+a2:	A:	A:	aa	aa	a:	ɒː	ɑː	A:	a:
+a	a	a	uh	a	a	a	a	a	a
+a3:	a:	a	aa	aah	a	aː	ɑː	-	aa:
+
+# Swedish diphthongs
+#au	aU	a_U	au	au	a_w	aʊ	a u	a*U	au
+au	aU	a_U	au	au	a_w	aʊ	a‿u	a*U	au
+eu	Ew	E_U	y_uu	eu	e_w	ɛʊ	ɛ ʊ	-	eu
+
+# English diphthongs
+ei	eI	E_j	ei	e_j	e_j	eɪ	ej	-	ei
+ai	AI	a_j	ai	a_j	a_j	aɪ	aj	ai	ai
+åi	OI	O_j	oi	o_j	å_j	ɔɪ	ɔj	oi	oi
+öw	@U	2_U	ou	ou	ö_w	əʊ	ɶ ʊ	oU	ou
+eë	E@	{:	e@	eeh	e_ë	eə	e ə	-	eex
+ië	I@	I_@	i@	ie	i_ë	ɪə	ɪ ə	-	iex
+uë	U@	U_@	u@	euh	o_åe	ʊə	ʊ ə	-	uex
+
+# Nasalized vowels
+an	a~	a~	a_ng	an	a_ng	̃ɑ̃̃	ɑː n	-	an
+en	e~	e~	e_ng	in	e_ng	̃ɛ̃	ɛː n	-	en
+on	o~	o~	o_ng	on	o_ng	õ	oː n	-	on
+ön	9~	9~	u_ng	un	u_ng	̃œ̃	œː n	-	un

@@ -1,0 +1,265 @@
+# This Dockerfile is used exclusively for a specific Sardin setup
+# that serves the VAC frontend over MQTT. It is not designed to 
+# perform any other, more demanding Sardin tasks, nor should
+# it be extended to other environments.
+#
+# The MQTT protocol for this task is as follows
+# VAC posts requests to the topic sardin-vac/requests
+# and receives responses on the topic sardin-vac/responses
+#
+# The payload from VAC is encoded directly using the Sardin-VAC
+# API, with no wrapper. An additional --requestid parameter must
+# be added, in order to facilitate request/response matching.
+#
+# The responses have a single header containing OK and the request ID
+# The rest of the response is the same as what has previously been
+# delivered by the corresponding Sardin/preprocessing scripts.
+#
+
+# This calls the current Språkbanken Tal OS of choice
+FROM sprakbankental/os:1.2 as base
+# cd REPOROOT
+# docker build --tag sardin-vac:1.1.3 --file docker.mqtt/Dockerfile.vac.mqtt . 
+# docker run -e LC_ALL=sv_SE.UTF-8 -v ${PWD}:/sardin --rm -dit --name sardin-vac sardin-vac:1.1.3 bash
+# or 
+# docker run -e LC_ALL=sv_SE.UTF-8 -v $PWD:/sardin --rm -dit --name sardin-vac sardin-vac:1.1.3 bash
+# docker exec -it sardin-vac bash
+# The following test is broken in the current version:
+# docker exec -it sardin perl scripts/vac-sardin-launcher.pl --test 1
+#
+# Run as oneshot
+#  docker run --name sardinrun --rm -it -v "$PWD":/sardin sardin-vac:1.1.3 bash -c "cd p5m; perl -Ilib -It/classtests t/classtests/Test/SBTal/ARS.pm"
+
+
+# ***
+# Language support goes ghere (#sprakbankental/mtmpreproc#80)
+# Language support will be moved into sprakbankental/os image in time
+#
+# We install all supported locales and use the appropriate one by
+# passing environment variables to docker run, i.e:
+# docker run -e LC_ALL=sv_SE.UTF-8 -v "$PWD":/sardin -it sardin:1.1.0 bash -c 'cd /sardin ; perl /sardin/t/runclasstests.t'
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y locales-all
+#
+# End language support
+# ***
+
+# Create work dir
+CMD mkdir sardin
+WORKDIR sardin
+
+# Set the lib path using the appropriate ENV variables
+ENV PERL5LIB=lib:t/classtests:$PERL5LIB
+
+# NL 2023-12-07 17:55:49 For enabling English and other non-Swedish transcriptions to be generated from external call to Espeak-NG
+# JE Temp solution: install espeak-ng
+# JE Sardin 1.2.0 will use this, but it should be moved to the OS image or to a tooling install if included in the final release
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y espeak-ng
+
+# We want to be able to revert to the extended Perl install, from the base os,
+# so we start a second layer here
+# This will contain extra materials for testing purposes
+FROM base as test
+
+# The SBTal os image currently has all test module in it
+
+# And here we start the final layer, containing only the essentials
+# So this should really go from base, not from test!
+FROM test as sardin
+
+
+# We copy each relevant directory explicitly, since this Git repo 
+# is quite likely to contain irrelevant directories (e.g. old code base)
+
+# Copy in examples and test data
+COPY data data
+COPY logs logs
+#COPY tmp tmp
+COPY t t
+
+# Copy in the documentation
+# COPY docs docs
+
+# Copy in the code
+COPY lib lib
+COPY scripts scripts
+
+# MTMPreproc specifics
+RUN apt-get update
+RUN apt-get install build-essential --yes
+RUN apt-get install cpanminus --yes
+RUN cpanm Statistics::Basic 
+# This should no longer be used - we use a build-in 
+# paradigm to achieve the same effect now. See 
+# template-p5m for details. See also issue 162.
+# NB! 
+# RUN cpanm Keyword::DEVELOPMENT
+
+FROM sardin AS sardinlex
+
+RUN perl scripts/initialise_databases.pl OVERRIDE READERCUTOFF -1 LISTMODE SRL LISTMETHOD build
+RUN perl scripts/initialise_databases.pl OVERRIDE READERCUTOFF -1 LISTMODE DB_File LISTMETHOD build
+RUN perl scripts/initialise_databases.pl OVERRIDE READERCUTOFF -1 LISTMODE DB_File LISTMETHOD retrieve
+
+FROM sardinlex AS mqttbuilddeps
+
+ENV VERSION=2.0.15 \
+    DOWNLOAD_SHA256=4735b1d32e3f91c7a8896741d88a3022e89730a1ee897946decfa0df27039ac6 \
+    GPG_KEY=A0D6EEA1DCAE49A635A3B2F0779B22DFB3E717B7 \
+    LWS_VERSION=4.2.1 \
+    LWS_SHA256=842da21f73ccba2be59e680de10a8cce7928313048750eb6ad73b6fa50763c51
+
+RUN apt-get update
+RUN apt-get install build-essential -y
+# Take care of tzdata first since it wants to be interactive
+RUN DEBIAN_FRONTEND=noninteractive TZ=Etc/UTC apt-get -y install tzdata
+RUN apt-get install cmake -y
+RUN apt-get install gnupg -y
+RUN apt-get install libssl-dev -y
+RUN apt-get install wget -y
+RUN apt-get install libcjson-dev -y 
+
+FROM mqttbuilddeps AS mqttbuild
+
+RUN wget https://github.com/warmcat/libwebsockets/archive/v${LWS_VERSION}.tar.gz -O /tmp/lws.tar.gz
+RUN echo "$LWS_SHA256  /tmp/lws.tar.gz" | sha256sum -c -
+RUN mkdir -p /build/lws
+RUN tar --strip=1 -xf /tmp/lws.tar.gz -C /build/lws
+RUN rm /tmp/lws.tar.gz
+# Actual change needed - cd will not persist between RUN commands
+WORKDIR /build/lws
+RUN cmake . \
+    -DCMAKE_BUILD_TYPE=MinSizeRel \
+    -DCMAKE_INSTALL_PREFIX=/usr \
+    -DDISABLE_WERROR=ON \
+    -DLWS_IPV6=ON \
+    -DLWS_WITHOUT_BUILTIN_GETIFADDRS=ON \
+    -DLWS_WITHOUT_CLIENT=ON \
+    -DLWS_WITHOUT_EXTENSIONS=ON \
+    -DLWS_WITHOUT_TESTAPPS=ON \
+    -DLWS_WITH_EXTERNAL_POLL=ON \
+    -DLWS_WITH_HTTP2=OFF \
+	-DLWS_WITH_SHARED=OFF \
+	-DLWS_WITH_ZIP_FOPS=OFF \
+	-DLWS_WITH_ZLIB=OFF
+RUN make -j "$(nproc)"
+RUN rm -rf /root/.cmake
+RUN wget https://mosquitto.org/files/source/mosquitto-${VERSION}.tar.gz -O /tmp/mosq.tar.gz
+RUN echo "$DOWNLOAD_SHA256  /tmp/mosq.tar.gz" | sha256sum -c -
+RUN wget https://mosquitto.org/files/source/mosquitto-${VERSION}.tar.gz.asc -O /tmp/mosq.tar.gz.asc
+# NB!!! This code most likely is not doing its job!
+RUN export GNUPGHOME="$(mktemp -d)"; \
+        gpg --keyserver hkps://keys.openpgp.org --recv-keys "$GPG_KEY" || \
+        gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys "$GPG_KEY" || \
+        gpg --keyserver pgp.mit.edu --recv-keys "$GPG_KEY" || \
+        gpg --keyserver keyserver.pgp.com --recv-keys "$GPG_KEY" || \
+        gpg --keyserver ha.pool.sks-keyservers.net --recv-keys "$GPG_KEY" ; \
+    pkill -9 gpg-agent; \
+    pkill -9 dirmngr; \
+    rm -rf "$GNUPGHOME";
+
+RUN rm -rf "$GNUPGHOME" /tmp/mosq.tar.gz.asc
+RUN mkdir -p /build/mosq
+RUN tar --strip=1 -xf /tmp/mosq.tar.gz -C /build/mosq
+RUN rm /tmp/mosq.tar.gz
+RUN make -C /build/mosq -j "$(nproc)" \
+    CFLAGS="-Wall -O2 -I/build/lws/include -I/build" \
+    LDFLAGS="-L/build/lws/lib" \
+    WITH_ADNS=no \
+    WITH_DOCS=no \
+    WITH_SHARED_LIBRARIES=yes \
+    WITH_SRV=no \
+    WITH_STRIP=yes \
+    WITH_WEBSOCKETS=yes \
+    prefix=/usr \
+    binary
+
+RUN groupadd --gid 1833 --non-unique mosquitto 
+RUN useradd --groups mosquitto -G root --no-create-home --no-user-group --non-unique --base-dir /mosquitto/ --uid 1833 mosquitto
+RUN mkdir -p /mosquitto/config /mosquitto/data /mosquitto/log
+RUN install -d /usr/sbin/ && \
+    install -s -m755 /build/mosq/client/mosquitto_pub /usr/bin/mosquitto_pub && \
+    install -s -m755 /build/mosq/client/mosquitto_rr /usr/bin/mosquitto_rr && \
+    install -s -m755 /build/mosq/client/mosquitto_sub /usr/bin/mosquitto_sub && \
+    install -s -m644 /build/mosq/lib/libmosquitto.so.1 /usr/lib/libmosquitto.so.1 && \
+    install -s -m755 /build/mosq/src/mosquitto /usr/sbin/mosquitto && \
+    install -s -m755 /build/mosq/apps/mosquitto_ctrl/mosquitto_ctrl /usr/bin/mosquitto_ctrl && \
+    install -s -m755 /build/mosq/apps/mosquitto_passwd/mosquitto_passwd /usr/bin/mosquitto_passwd && \
+    install -s -m755 /build/mosq/plugins/dynamic-security/mosquitto_dynamic_security.so /usr/lib/mosquitto_dynamic_security.so && \
+    install -m644 /build/mosq/mosquitto.conf /mosquitto/config/mosquitto.conf && \
+    install -Dm644 /build/lws/LICENSE /usr/share/licenses/libwebsockets/LICENSE && \
+    install -Dm644 /build/mosq/epl-v20 /usr/share/licenses/mosquitto/epl-v20 && \
+    install -Dm644 /build/mosq/edl-v10 /usr/share/licenses/mosquitto/edl-v10
+RUN chown -R mosquitto:mosquitto /mosquitto
+RUN apt-get install ca-certificates -y
+RUN apt-get install libcjson1 -y
+
+FROM mqttbuild AS mqttclients
+
+RUN cpanm install Net::MQTT::Simple
+RUN cpanm Parse::CommandLine
+FROM mqttclients AS prod
+
+RUN apt-get remove build-essential -y
+RUN apt-get remove cmake -y
+RUN rm -rf /build
+
+
+
+VOLUME ["/mosquitto/data", "/mosquitto/log"]
+
+# Set up the entry point script and default command
+#COPY docker/docker-entrypoint.sh docker/mosquitto-no-auth.conf /
+EXPOSE 1883
+EXPOSE 9001
+WORKDIR /sardin
+# This is where we set up the unauthorised listening
+COPY docker.mqtt/listeners_unauth.conf /mosquitto/config/mosquitto.conf
+COPY docker.mqtt/entrypoint.sh entrypoint.sh
+CMD /sardin/entrypoint.sh
+
+# Labels
+# 
+# These labels are intended to be edited in the Dockerfile - they are not set by the 
+# build hook. They are visible and searchable in automated Docker image search engines 
+# such as Microbadger.
+LABEL org.opencontainers.image.authors="Jens Edlund <edlund@speech.kth.se>" 
+LABEL org.opencontainers.image.description="Språkbanken Tal Docker image" 
+LABEL org.opencontainers.image.licenses="Apache 2.0" 
+LABEL org.opencontainers.image.url="https://hub.docker.com/"
+LABEL org.opencontainers.image.source="https://github.com/sprakbankental/mtmpreproc/README.md" 
+# could be automated:
+LABEL org.opencontainers.image.ref.name="sprakbankental/mtmpreproc"                                    
+LABEL org.opencontainers.image.documentation="https://github.com/sprakbankental/mtmpreproc/README.md"
+
+# These values provided here are defaults. They are helpful to run the build hooks
+# as well as the Docker build outside of Docker Hub for testing. 
+# For production, the automated Docker Hub buiulds should be used. which 
+# overwrites the defaultsa provided here.
+# (Note that out Docker Hub biuild hook places these in the build environment, so
+# that they can be used by the test hook as well.)
+ARG DATE_RFC3339="1970-01-01T00:00:00Z"
+ARG GIT_SHA1="local"
+ARG VERSION="unversioned" 
+ARG DOCKERFILE_PATH="."
+ARG SOURCE_TYPE="unknown"
+
+# 
+# Automated content
+#
+# This following section is the SB Tal template for Dockerfiles
+# It is intended to work with a build hookm for automated builds on
+# Docker Hub. 
+#
+
+# We then label the Docker image with the appropriate labels
+# NB!!! that the hard-coded bits should be moved out in a later version,
+# NB!!! and instead be included in the build info.
+LABEL org.opencontainers.image.created=$DATE_RFC3339 
+LABEL org.opencontainers.image.revision=$GIT_SHA1 
+LABEL org.opencontainers.image.version=$VERSION 
+
+# NB!!!
+# We may want to make some of the variables available from within the Docker image as well:
+#ENV DATE_RFC3339 "$DATE_RFC3339"
+#ENV GIT_SHA1 "$GIT_SHA1"
+#ENV VERSION "$VERSION"

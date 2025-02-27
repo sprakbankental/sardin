@@ -1,0 +1,26 @@
+# Don't read this line
+de		d ë			VB PRT AKT
+ade		a d ë			VB PRT AKT
+else		ë l s ë			NN UTR SIN IND NOM
+elses		ë l s ë s		NN UTR SIN IND GEN
+elsen		ë l s ë n		NN UTR SIN DEF NOM
+elsens		ë l s ë n s		NN UTR SIN DEF GEN
+elser		ë l s ë r		NN UTR PLU IND NOM
+elsers		ë l s ë rs		NN UTR PLU IND GEN
+elserna		ë l s ë rn a		NN UTR PLU DEF NOM
+elsernes	ë l s ë rn a s		NN UTR PLU DEF GEN
+en		ë n			NN UTR SIN DEF NOM
+ens		ë n s			NN UTR SIN DEF GEN
+er		ë r			NN UTR PLU IND NOM
+et		ë t			NN NEU SIN DEF NOM
+ets		ë t s			NN NEU SIN DEF GEN
+#ering		'e2: r i ng		NN UTR SIN IND NOM
+#erings		'e2: r i ng s		NN UTR SIN IND GEN
+#eringen		'e2: r i ng ë n		NN UTR SIN DEF NOM
+#eringens	'e2: r i ng ë n s	NN UTR SIN DEF GEN
+#eringar		'e2: r i ng a r		NN UTR PLU IND NOM
+#eringars	'e2: r i ng a rs	NN UTR PLU IND GEN
+#eringarna	'e2: r i ng a rn a	NN UTR PLU DEF NOM
+s		s			_GEN
+eringarnas	'e2: r i ng a rn a s	NN UTR PLU DEF GEN
+are	a $ r ë	NN UTR SIN IND NOM

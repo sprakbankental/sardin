@@ -1,0 +1,73 @@
+﻿#
+Α	stort alfa	s t 'o rt | 'a l $ f a
+α	alfa		'a l $ f a
+Β	stort beta	s t 'o rt | b 'e2: $ t a
+β	beta		b 'e2: $ t a
+Γ	stort gamma	s t 'o rt | g 'a $ m a
+γ	gamma		g 'a $ m a
+Δ	stort delta	s t 'o rt | d 'e l $ t a
+δ	delta		d 'e l $ t a
+Ε	stort epsilon	s t 'o rt | 'e p $ s i $ l å n
+ε	epsilon		'e p $ s i $ l å n
+Ζ	stort zeta	s t 'o rt | s 'i2: $ t a
+ζ	zeta		s 'i2: $ t a
+Η	stort eta		s t 'o rt | 'i2: $ t a
+η	eta		'i2: $ t a
+Θ	stort theta	s t 'o rt | th 'i2: $ t a
+θ	theta		th 'i2: $ t a
+Ι	stort iota	s t 'o rt | j 'å2: $ t a
+ι	iota		j 'å2: $ t a
+Κ	stort kappa	s t 'o rt | k 'a $ p a
+κ	kappa		k 'a $ p a
+Λ	stort lambda	s t 'o rt | l 'a m $ d a
+λ	lambda		l 'a m $ d a
+Μ	stort my		s t 'o rt | m 'i2:
+μ	my		m 'i2:
+Ν	stort ny		s t 'o rt | n 'i2:
+ν	ny		n 'i2:
+Ξ	stort xi		s t 'o rt | k s 'i2:
+ξ	xi		k s 'i2:
+Ο	stort omkikron	s t 'o rt | 'å $ m i $ k r å n
+ο	omikron		'å $ m i $ k r å n
+Π	stort pi		s t 'o rt | p 'i2:
+π	pi		p 'i2:
+Ρ	stort rho		s t 'o rt | r 'å2:
+ρ	rho		r 'å2:
+Σ	stort sigma	s t 'o rt | s 'i g $ m a
+σ	sigma		s 'i g $ m a
+ς	sigma		s 'i g $ m a
+Τ	stort tau		s t 'o rt | t 'a f
+τ	tau		t 'a f
+Υ	stort ypsilon	s t 'o rt | 'y p $ s i $ l å n
+υ	ypsilon		'y p $ s i $ l å n
+Φ	stort fi		s t 'o rt | f 'i2:
+φ	fi		f 'i2:
+Χ	stort chi		s t 'o rt | tj 'i2:
+χ	chi		tj 'i2:
+Ψ	stort psi		s t 'o rt | p s 'i2:
+ψ	psi		p s 'i2:
+Ω	stort omega	s t 'o rt | 'å $ m ë $ g a
+ω	omega		'å $ m ë $ g a
+א	Aleph		'a $ l ë f
+ב	Beth		b 'e t
+ג	Gimel		g 'i $ m ë l
+ד	Daleth		d 'ä3: $ l ë t
+ה	He		h 'e
+ט	Thet		th 'e t
+י	Yodh		j 'o d
+ך	Kaph		sj3 'a f
+כ	Kaph		sj3 'a f
+ל	Lamed		l 'a $ m ë d
+ם	Mem		m 'e m
+מ	Mem		m 'e m
+ן	Nun		n 'o n
+נ	Nun		n 'o n
+ס	Samekh		s 'a3: $ m ë sj3
+ע	Ayin		'a j n
+ף	Pe		p 'e2:
+פ	Pe		p 'e2:
+ר	Resh		r 'e rs
+ש	Shin		rs 'i n
+ת	Taw		t 'a v
+ו	Waw		v 'a v
+ע	Ayin		'a j n
