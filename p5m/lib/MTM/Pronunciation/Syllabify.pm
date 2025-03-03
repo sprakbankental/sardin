@@ -46,11 +46,10 @@ sub syllabify {
 	foreach my $part ( @parts ) {
 
 		next if $part =~ /^ [\-\~\|] $/;
-
 		# Split at vowels
-		$part =~ s/ *([\"\%\`\']*(?:$MTM::Vars::phonesVowel)\,?) */<SPLIT>$1<SPLIT>/g;
+		$part =~ s/ *([\"\%\,\']*(?:$MTM::Vars::phonesVowel)\,?) */<SPLIT>$1<SPLIT>/g;
 		my @p = split/<SPLIT>/, $part;
-		#my @p = split/ *([\"\%\`\']*(?:$MTM::Vars::phonesVowel)\,?) */, $pron;
+		#my @p = split/ *([\"\%\,\']*(?:$MTM::Vars::phonesVowel)\,?) */, $pron;
 
 		my $i = 0;
 		foreach my $p ( @p ) {
@@ -61,41 +60,41 @@ sub syllabify {
 			$p =~ s/ +/ /g;
 
 			if ( $i != 0 && $i != $#p ) {
-				$p =~ s/ng/ ng \$/;
+				$p =~ s/ng/ ng \./;
 
-				# Geminate consonants	/s $ s/
-				if ( $p !~ /\$/ ) {
-					$p =~ s/($MTM::Vars::phonesConsonant) (\1)/$1 \$ $1/;
+				# Geminate consonants	/s . s/
+				if ( $p !~ /\./ ) {
+					$p =~ s/($MTM::Vars::phonesConsonant) (\1)/$1 \. $1/;
 				}
 
-				# Consonant or cluster	/$ s l/
-				if ( $p !~ /\$/ ) {
-					$p =~ s/^((?:$MTM::Vars::cOnset)|(?:$MTM::Vars::phonesConsonant))$/\$ $1/;
+				# Consonant or cluster	/. s l/
+				if ( $p !~ /\./ ) {
+					$p =~ s/^((?:$MTM::Vars::cOnset)|(?:$MTM::Vars::phonesConsonant))$/\. $1/;
 				}
 
-				# Consonant + cluster	/k $ t r/
-				if ( $p !~ /\$/ ) {
-					$p =~ s/($MTM::Vars::phonesConsonant) ($MTM::Vars::cOnset)$/$1 \$ $2/;
+				# Consonant + cluster	/k . t r/
+				if ( $p !~ /\./ ) {
+					$p =~ s/($MTM::Vars::phonesConsonant) ($MTM::Vars::cOnset)$/$1 \. $2/;
 				}
 
 				# Consonant + consonant	/k $ t/
-				if ( $p !~ /\$/ ) {
-					$p =~ s/($MTM::Vars::phonesConsonant) ($MTM::Vars::phonesConsonant)$/$1 \$ $2/;
+				if ( $p !~ /\./ ) {
+					$p =~ s/($MTM::Vars::phonesConsonant) ($MTM::Vars::phonesConsonant)$/$1 \. $2/;
 				}
 
-				# Vowel + vowel	/u2: $ ë/
-				if ( $p !~ /\$/ ) {
-					$p =~ s/($MTM::Vars::phonesVowel) ($MTM::Vars::phonesVowel)$/$1 \$ $2/;
+				# Vowel + vowel	/uu: $ ex/
+				if ( $p !~ /\./ ) {
+					$p =~ s/($MTM::Vars::phonesVowel) ($MTM::Vars::phonesVowel)$/$1 \. $2/;
 				}
 
-				$p =~ s/^($MTM::Vars::phonesConsonant) \$$/\$ $1/;
-				$p =~ s/\$ ng/ng \$/;
+				$p =~ s/^($MTM::Vars::phonesConsonant) \.$/\. $1/;
+				$p =~ s/\. ng/ng \./;
+				
 			}
 			$i++;
 
 			$part = join' ', @p;
-			$part =~ s/\$ \$/ \$/g;
-
+			$part =~ s/\. \./ \./g;
 		}
 	}
 
@@ -109,12 +108,12 @@ sub syllabify {
 	$pron =~ s/ +/ /g;
 
 	# MMM, LLL, XXX, RRR
-	$pron =~ s/e \$ ([mnfls]) e \$ \1 \'e \1/e $1 \$ e $1 \$ \'e $1/g;
-	$pron =~ s/e k \$ ([s]) e k \$ \1 \'e k \1/e k $1 \$ e k $1 \$ \'e k $1/g;
-	$pron =~ s/ä3 \$ ([r]) ä3 \$ \1 \'ä3 \1/ä3 $1 \$ ä3$1 \$ \'ä3$1/g;
+	$pron =~ s/e \. ([mnfls]) e \. \1 \'e \1/e $1 \. e $1 \. \'e $1/g;
+	$pron =~ s/e k \. ([s]) e k \. \1 \'e k \1/e k $1 \. e k $1 \. \'e k $1/g;
+	$pron =~ s/ae \. ([r]) ae \. \1 \'ae \1/ae $1 \. ae$1 \. \'ae$1/g;
 
-	$pron =~ s/($MTM::Vars::phonesVowel|au|eu) ([\"\'\`]?(?:$MTM::Vars::phonesVowel))/$1 \$ $2/g;
-	$pron =~ s/($MTM::Vars::phonesVowel|au|eu) ([\"\'\`]?(?:$MTM::Vars::phonesVowel))/$1 \$ $2/g;
+	$pron =~ s/($MTM::Vars::phonesVowel|au|eu) ([\"\'\,]?(?:$MTM::Vars::phonesVowel))/$1 \. $2/g;
+	$pron =~ s/($MTM::Vars::phonesVowel|au|eu) ([\"\'\,]?(?:$MTM::Vars::phonesVowel))/$1 \. $2/g;
 
 	return $pron;
 }

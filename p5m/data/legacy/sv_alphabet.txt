@@ -1,30 +1,29 @@
-#
-a	'a2:
-b	b 'e2:
-c	s 'e2:
-d	d 'e2:
-e	'e2:
+a	'a:
+b	b 'e:
+c	s 'e:
+d	d 'e:
+e	'e:
 f	'ä f
-g	g 'e2:
-h	h 'å2:
-i	'i2:
-j	j 'i2:
-k	k 'å2:
+g	g 'e:
+h	h 'o:
+i	'i:
+j	j 'i:
+k	k 'o:
 l	'ä l
 m	'ä m
 n	'ä n
-o	'o2:
-p	p 'e2:
-q	k 'u2:
-r	'ä3 r
+o	'u:
+p	p 'e:
+q	k 'uu:
+r	'ae r
 s	'ä s
-t	t 'e2:
-u	'u2:
-v	v 'e2:
-w	d "u $ b ë l $ v `e2:
+t	t 'e:
+u	'uu:
+v	v 'e:
+w	d "uu . b ex l . v ,e:
 x	'ä k s
-y	'y2:
-z	s "ä2: $ t `a
-ä	'ä2:
-å	'å2:
-ö	'ö2:
+y	'y:
+z	s "ä: . t ,a
+ä	'ä:
+å	'o:
+ö	'ö:

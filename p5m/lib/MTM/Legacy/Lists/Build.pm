@@ -77,9 +77,10 @@ sub build_lists {
 	# Want to see that this runs on CT's computer before proceeding
 	# We're bound to find some undef variables as well on CT's code
 
-	&read_sv_dict_main($legacypath) or die;
-	&read_sv_dict_name($legacypath) or die;
-	&read_sv_dict_english($legacypath) or die;
+	#&read_sv_dict_main($legacypath) or die;
+	#&read_sv_dict_name($legacypath) or die;
+	#&read_sv_dict_english($legacypath) or die;
+	&read_sv_braxen($legacypath) or die;
 
 	if( $MTM::Vars::use_dict eq 'NST' ) { &read_sv_nst_dict($MTM::Vars::nst_path) or die; }
 
@@ -393,23 +394,12 @@ sub read_sv_nst_dict {
 	return 1;
 }
 #*******************************************************************************************#
-# CT 2020-12-08	Read main lexicon
-# JE 2021-01-06 Ammended to populate only
-sub read_sv_dict_main {	# return: 1
+# CT 2025-02-27	Read Braxen
+sub read_sv_braxen {	# return: 1
 	my $path = shift or die "Missing path!";
 	# k = orthography, $v = pronunciation
-	my $file = $path . 'sv_dict_main.txt';
-	&populate_hash( $file, \%MTM::Legacy::Lists::sv_dict_main );
-	return 1;
-}
-#*******************************************************************************************#
-# CT 2020-12-08	Read name lexicon
-# JE 2021-01-06 Ammended to populate only
-sub read_sv_dict_name {	# return: 1
-	my $path = shift or die "Missing path!";
-	# k = orthography, $v = pronunciation
-	my $file = $path . 'sv_dict_name.txt';
-	&populate_hash( $file, \%MTM::Legacy::Lists::sv_dict_name );
+	my $file = $path . 'sv_braxen.txt';
+	&populate_hash( $file, \%MTM::Legacy::Lists::sv_braxen );
 	return 1;
 }
 #*******************************************************************************************#
@@ -1067,14 +1057,11 @@ sub read_en_abbreviation_list {
 # 
 sub populate_hash {
 	my $file = shift;
-#	print STDERR "$file\n";
+	print STDERR "$file\n";
 	my $hashref = shift; # This is a ref to the hash we want to populate
 	# If we get a coderef to build the keys in the call, we go with it. Otherwise
 	# we make up our own using file name heuristics
 	my $coderef = shift;
-
-
-# &populate_hash( $file, \%MTM::Legacy::Lists::sv_initial_dec_parts );
 
 	# We're putting the key building in a code reference to not have to
 	# repeart the test for each read line, and still use only one sub
@@ -1103,13 +1090,15 @@ sub populate_hash {
 
 	### Sourcing text data from $file...
 	## no critic (InputOutput::RequireBriefOpen)
+
+
 	open my $fh, '<', $file or die $!;
 	## use critic
 	
 	while (<$fh>) { 
 		my $line = $_;
 		chomp $line;
-
+	
 		$line =~ s/\r//;
 
 		##### CT 210215
@@ -1117,6 +1106,7 @@ sub populate_hash {
 
 		##### TODO Fix this in some generic way, and move it out of each file access
 		$line =~ s/^\xEF\xBB\xBF//g;	# Remove bom
+
 
 		##### TODO Remove in production version
 		# The $MTM::Legacy::Lists::READERCUTOFF is used for testing, to read in only
@@ -1127,10 +1117,17 @@ sub populate_hash {
 		next if $line =~ /^\#/;
 		@line = split/\t+/, $line;
 
-		# print STDERR "$file\t$line\n";
 
 		my $key = &$coderef(\@line);
 		my $val = join"\t", @line;
+		
+		# Dionysosfesterna	d i2: $ o3 $ n "y2: $ s å s - f `e $ s t ë $ rn a	NN UTR PLU DEF NOM	swe	swe	dionysos+festerna	741460
+		if( $file =~ /sv_braxen/ ) {
+			
+			$val = "$line[1]	$line[2]	$line[3]	-	-	$line[25]";
+			#print STDERR "$file\t$line	$#line\n";
+			#print STDERR "val: $val\n"; exit;
+		}
 
 		#if( $file =~ /medial_v/ ) {
 		#	print STDERR "KEY $key --- $val\n";

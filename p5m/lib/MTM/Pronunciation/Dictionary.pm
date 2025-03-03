@@ -37,8 +37,6 @@ sub dictionaryLookup {
 	my $pos = shift;
 	my $input_lang = shift;
 
-	#print STDERR "dictionaryLookup\t$string\t$case\n";
-
 	### Panic $MTM::Legacy::Lists::list_mode eq 'DB_File'encoding
 	# 231122 Needed for e.g. ☒
 #	if( $MTM::Legacy::Lists::list_mode eq 'DB_File' && $string !~ /^([åäöÅÄÖ]|$MTM::Vars::vowel|$MTM::Vars::consonant|$MTM::Vars::characters|$MTM::Vars::uc|$MTM::Vars::lc|$MTM::Vars::quote|$MTM::Vars::delimiter|$MTM::Vars::otherDelimiter|\d|$MTM::Legacy::Lists::sv_special_character_list|en_special_character_list)+$/ ) {
@@ -107,18 +105,24 @@ sub dictionaryLookup {
 				return( $ret );
 
 			# Lookup English
-			} elsif ( exists( $MTM::Legacy::Lists::sv_dict_english{ $convertedString } )) {
-				# print STDERR "Returning English: $c\t$convertedString\t$MTM::Legacy::Lists::sv_dict_english{ $convertedString }\n";
+			} elsif ( exists( $MTM::Legacy::Lists::en_braxen{ $convertedString } )) {
+				# print STDERR "Returning English: $c\t$convertedString\t$MTM::Legacy::Lists::en_braxen{ $convertedString }\n";
 
-				my $result = &posMatch( $MTM::Legacy::Lists::sv_dict_english{ $convertedString }, $pos );
+				my $result = &posMatch( $MTM::Legacy::Lists::en_braxen{ $convertedString }, $pos );
+				my @result = split/\t/, $result;
+				$result[3] =~ s/^-$/eng/;
+				$result = join"\t", @result;
 				return( $result );
 
 			# Name
-			} elsif ( exists( $MTM::Legacy::Lists::sv_dict_name{ $convertedString } )) {
+			} elsif ( exists( $MTM::Legacy::Lists::sv_braxen{ $convertedString } )) {
+			
+				# print STDERR "Returning name: $MTM::Legacy::Lists::sv_braxen{ $convertedString }\n";
 
-				# print STDERR "Returning name: $MTM::Legacy::Lists::sv_dict_name{ $convertedString }\n";
-
-				my $result = &posMatch( $MTM::Legacy::Lists::sv_dict_name{ $convertedString }, $pos );
+				my $result = &posMatch( $MTM::Legacy::Lists::sv_braxen{ $convertedString }, $pos );
+				my @result = split/\t/, $result;
+				$result[3] =~ s/^-$/eng/;
+				$result = join"\t", @result;
 				return( $result );
 
 			# Acronym
@@ -127,21 +131,12 @@ sub dictionaryLookup {
 
 				# print STDERR "Returning acronym: $ret\n";
 				return( $ret );
-
-			# Extra lexicon
-			#} elsif ( exists( $MTM::Legacy::Lists::sweDictExtra{ $convertedString } )) {
-			#
-			#	# print STDERR "Returning extra: $MTM::Legacy::Lists::sweDictExtra{ $convertedString }\n";
-			#
-			#	return( $MTM::Legacy::Lists::sweDictExtra{ $convertedString } );
-
 			} else {
 				# print STDERR "No match in dict for:\t$convertedString\n";
 			}
 		#*******************************************************#
 		# Swedish and world
 		} else {
-			#print "iii $convertedString\n";
 			# Special characters, e.g. Greek letters
 			if ( exists( $MTM::Legacy::Lists::sv_special_character{ $convertedString} )) {
 				my( $letters, $pron ) = split/\t+/, $MTM::Legacy::Lists::sv_special_character{ $convertedString };
@@ -149,27 +144,24 @@ sub dictionaryLookup {
 				my $ret = "$pron\tNN\tswe\tswe\t$convertedString\t-";
 				return( $ret );
 
-			# Lookup Main
-			} elsif ( exists( $MTM::Legacy::Lists::sv_dict_main{ $convertedString } )) {
+			# Swedish
+			} elsif( exists( $MTM::Legacy::Lists::sv_braxen{ $convertedString } )) {
+				# print STDERR "Returning sv_braxen: $convertedString	$MTM::Legacy::Lists::sv_braxen{ $convertedString }\n";
 
-				# print STDERR "Returning main: $MTM::Legacy::Lists::sv_dict_main{ $convertedString }\n";
-
-				my $result = &posMatch( $MTM::Legacy::Lists::sv_dict_main{ $convertedString }, $pos );
-				return( $result );
-
-			# Name
-			} elsif ( exists( $MTM::Legacy::Lists::sv_dict_name{ $convertedString } )) {
-
-				# print STDERR "Returning name: $MTM::Legacy::Lists::sv_dict_name{ $convertedString }\n";
-
-				my $result = &posMatch( $MTM::Legacy::Lists::sv_dict_name{ $convertedString }, $pos );
+				my $result = &posMatch( $MTM::Legacy::Lists::sv_braxen{ $convertedString }, $pos );
+				my @result = split/\t/, $result;
+				$result[3] =~ s/^-$/swe/;
+				$result = join"\t", @result;
 				return( $result );
 
 			# English
-			} elsif ( exists( $MTM::Legacy::Lists::sv_dict_english{ $convertedString } )) {
-				# print STDERR "Returning English: $MTM::Legacy::Lists::sv_dict_english{ $convertedString }\n";
+			} elsif ( exists( $MTM::Legacy::Lists::en_braxen{ $convertedString } )) {
+				# print STDERR "Returning en_braxen: $convertedString	$MTM::Legacy::Lists::en_braxen{ $convertedString }\n";
 
-				my $result = &posMatch( $MTM::Legacy::Lists::sv_dict_english{ $convertedString }, $pos );
+				my $result = &posMatch( $MTM::Legacy::Lists::en_braxen{ $convertedString }, $pos );
+				my @result = split/\t/, $result;
+				$result[3] =~ s/^-$/eng/;
+				$result = join"\t", @result;
 				return( $result );
 
 			# Acronym

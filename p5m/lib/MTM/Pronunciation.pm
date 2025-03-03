@@ -13,7 +13,7 @@ use MTM::Pronunciation::Autopron;
 use MTM::Pronunciation::AutopronEspeak;
 use MTM::Pronunciation::AutopronVars;
 use MTM::Pronunciation::Compound;
-use MTM::Pronunciation::Conversion;
+#use MTM::Pronunciation::Conversion;
 use MTM::Pronunciation::Decomposition;
 use MTM::Pronunciation::Dictionary;
 use MTM::Pronunciation::NumeralPronunciation;
@@ -22,7 +22,6 @@ use MTM::Pronunciation::PronunciabilityCheck;
 use MTM::Pronunciation::Stress;
 use MTM::Pronunciation::Swedify;
 use MTM::Pronunciation::Syllabify;
-use MTM::Pronunciation::InsertSyllableBoundaries;
 
 use MTM::Expansion::NumeralExpansion;
 

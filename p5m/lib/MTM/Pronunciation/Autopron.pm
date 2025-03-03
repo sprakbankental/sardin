@@ -114,7 +114,6 @@ sub cartAndStress {
 		my $pron = &cart( $word, $domain );
 		$pron = &doStress( $word, $pron, $domain );
 
-
 		return $pron;
 	} else {
 		return '-';

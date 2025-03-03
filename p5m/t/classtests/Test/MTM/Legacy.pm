@@ -55,8 +55,8 @@ sub Legacy : Test(11) {
 	subtest "addEnding" => sub {
 		plan tests => 2;
 		my ($pron, $morph);
-		( $pron, $morph ) = &MTM::Legacy::addEnding( "g n \'u2:", 's' );
-		is( $pron, "g n \'u2: s", 'addEnding pron: correct.' );
+		( $pron, $morph ) = &MTM::Legacy::addEnding( "g n \'uu:", 's' );
+		is( $pron, "g n \'uu: s", 'addEnding pron: correct.' );
 		is( $morph, "GEN", 'addEnding pron: correct.' );
 	};
 	# Function	cleanBlanks

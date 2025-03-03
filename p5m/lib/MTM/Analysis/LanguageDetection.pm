@@ -38,7 +38,7 @@ sub markup {
 
 	# 1. Assign each word Swedish, English or both
 	&assign_possible_lang_tags( $self );
-	#print "$t->{orth}\t$t->{lang}\n";
+	#print "$t->{orth}\t$t->{lang}\n"; exit;
 
 	#***********************************************************#
 	# The following is done at last token in sentence only.
@@ -180,20 +180,22 @@ sub assign_possible_lang_tags {
 	# If the result is English
 	#$MTM::Vars::lang = 'eng';
 	my $lookup = &MTM::Pronunciation::Dictionary::dictionaryLookup( $t->{orth}, 'all', 'NN', 'eng' );
-	$possibly_en = 1 if $lookup =~ /eng	eng/;
-	# print "\nen lookup $lookup\nen	$possibly_en\n";
+	
+	#print STDERR "eng $t->{orth}	$lookup\n";
+	$possibly_en = 1 if $lookup =~ /\teng\t/;
 
-	#$MTM::Vars::lang = 'swe';
 	$lookup = &MTM::Pronunciation::Dictionary::dictionaryLookup( $t->{orth}, 'all', 'NN', 'swe' );
-	$possibly_sv = 1 if $lookup =~ /swe	swe/;
-	# print "swe lookup $lookup\nsv	$possibly_sv\n";
+	$possibly_sv = 1 if $lookup =~ /\tswe\t/;
+
+	#print STDERR "NOW	 $orth	$lookup	sv $possibly_sv	en $possibly_en\n";
 
 	$t->{lang} = 'sv_en' if $t->{orth} =~ /[a-zåäöA-ZÅÄÖ\d]/i && $possibly_sv == 0 && $possibly_en == 0;	# unknown word
 	$t->{lang} = 'sv_en' if $possibly_sv == 1 && $possibly_en == 1;
 	$t->{lang} = 'swe' if $possibly_sv == 1 && $possibly_en == 0;
 	$t->{lang} = 'eng' if $possibly_sv == 0 && $possibly_en == 1;
 
-	#$MTM::Vars::lang = $saved_vars_lang;
+	#print STDERR "decision $t->{lang}\n";
+
 
 	return $self;
 }

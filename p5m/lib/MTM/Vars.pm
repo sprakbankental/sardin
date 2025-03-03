@@ -379,8 +379,11 @@ our @AllPossTags = qw(RG0S RGCS RGPS RGSS AQC00G0S AQC00N0S AQPMSGDS AQPMSNDS AQ
 
 
 # Phones - vowels and consonants
-our @phonesVowel	=	qw(au eu öw ai ei åi eë ië uë ö3: ö3 ö2: ö ä3: ä3 ä2: ä e2: e3 e ë a2: a3: a i2: i3 i y2: y u4: u4 u2: u3 u o2: o3 o å2: å en on an);
-our @phonesConsonant	=	qw(rs rt rd rn rl sj3 sj tj3 tj p b th t dh d k g m ng n s rs3 rs j3 j z f v w l h r3 r4 r0 r);
+our @phonesVowel	=	qw(au eu ou ai ei oi eex iex uex oe: oe ö: ö ae: ae ä: ä e: eh ex e a: aa: a i: ih i y: y uw: uw uu: uh uu u: oh u o: o en on an);
+our @phonesConsonant	=	qw(rs rt rd rn rl xx x tc c p b th t dh d k g m ng n s zh rs dj j z f v w l h rh rx r0 r);
+
+#our @phonesVowel	=	qw(au eu öw ai ei åi eë ië uë ö3: ö3 ö2: ö ä3: ä3 ä2: ä e2: e3 e ë a2: a3: a i2: i3 i y2: y u4: u4 u2: u3 u o2: o3 o å2: å en on an);
+#our @phonesConsonant	=	qw(rs rt rd rn rl sj3 sj tj3 tj p b th t dh d k g m ng n s rs3 rs j3 j z f v w l h r3 r4 r0 r);
 
 our $phonesVowel	=	join'|', @phonesVowel;
 our $phonesConsonant	=	join'|', @phonesConsonant;
@@ -390,8 +393,8 @@ our $phonesConsonant	=	join'|', @phonesConsonant;
 our $phones		=	$phonesVowel . "|" . $phonesConsonant;
 
 
-our $cOnset	=	'rs rt|rs rn|rs rl|rs [pkmv]|s [ptk] r|s [ptkmnvl]|[td] [rv]|[kg] [rlvn]|[pbf] [rlj]|v r|[ptkpdg] r3|n j';
-our $cOnsetEng	=	's [ptkbdg] (?:r3|w)|s [ptkbdgmnvw]|[tdkg] (?:r3|v|w)]|pbf (?:r3|l|j|w)';
+our $cOnset	=	'rs rt|rs rn|rs rl|rs [pkmv]|s [ptk] r|s [ptkmnvl]|[td] [rv]|[kg] [rlvn]|[pbf] [rlj]|v r|[ptkpdg] rh|n j';
+our $cOnsetEng	=	's [ptkbdg] (?:rh|w)|s [ptkbdgmnvw]|[tdkg] (?:rh|v|w)]|pbf (?:rh|l|j|w)';
 
 # Orthography
 our @vowel		=	qw( a o u å e i y ä ö ö æ é è ë ê í ì ï î á à â ó ò ô ú ù ü û ý ÿ æ ø );
@@ -423,7 +426,7 @@ our $doubleQuote	=	'\"\»\«\”\“';
 our $singleQuote	=	'\'\’\‘';
 $singleQuote		=	quotemeta($singleQuote);
 our $quote		=	"$doubleQuote$singleQuote";
-our $delimiter	=	"$majorDelimiter$minorDelimiter$quote";
+our $delimiter		=	"$majorDelimiter$minorDelimiter$quote";
 our $otherDelimiter	=	quotemeta"\©\§\@\#\£\%\&\/\[\]\=\{\}\´\`\¨\^\~\*\†\<\>\|\_\-\+\\";
 
 $delimiter = quotemeta( $delimiter );

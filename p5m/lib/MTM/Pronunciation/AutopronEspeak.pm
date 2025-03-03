@@ -23,6 +23,9 @@ use feature	 qw< signatures >;
 no warnings	 qw< experimental::signatures >;
 # END SBTal boilerplate
 
+
+use MTM::Pronunciation::Validation::Base;
+
 use File::Which;
 use String::ShellQuote;
 
@@ -77,33 +80,21 @@ sub run_espeak {
 	};
 
 
-	my $tpaPron;
+	my $base_pron;
 	#if ($lang eq 'en-uk') {
 		# NL TODO Currently lang is always en-uk
-		$tpaPron = espeakEnUk2TPA($espeakPron);
-		#print "espeakPron $orth	$espeakPron	$tpaPron\n";
+		$base_pron = espeakEnUk2TPA($espeakPron);
+		# print STDERR "espeakPron $orth	$espeakPron	$base_pron\n";
 	#}
 
-	my ( $pronWarnings, $sanityWarnings, $help, $example ) = &MTM::Validation::Pronunciation::validate( $orth, $tpaPron, 'swe', 'tpa', '0', '-', '-', 1 );
-	my @pronWarnings = @$pronWarnings;
-	#my @sanityWarnings = @$sanityWarnings;
-	#my @help = @$help;
-	#my @example = @$example;
+	my $validated = MTM::Pronunciation::Validation::Base::validate( $base_pron, $base_pron, 'sv' );
+	
+	#if( $validated =~ /^VALID/ ) {
+		return $base_pron;
+	#} else {
+	#	return '-';
+	#}
 
-	#print "pw @pronWarnings\n";
-
-	if( $#pronWarnings < 0 ) {
-		return $tpaPron;
-	} else {
-		return '-';
-	}
-
-	# NL TODO Doesn't work: haven't figured out how to call
-	# MTM::Validation::Pronunciation::validate properly
-	# my ($valRes) = validateTPATrans($orth, $tpaPron);
-	# if ($valRes ne '') {
-	# 	print STDERR "run_espeak: ERROR invalid TPA transcription: " . $valRes . "\n";
-	# }
 }
 #*********************************************************#
 # espeakExists checks if the espeak software is installed. Returns 1
@@ -130,6 +121,8 @@ sub espeak{
 
 	my $res = `$cmd`;
 
+	# print STDERR "espeak	$cmd	$res\n";
+
 
 #	my $res = eval{
 #	`$cmd` || die "Can't exec $cmd";
@@ -143,48 +136,49 @@ sub espeak{
 	return ($res, undef);
 }
 #*************************************************************************************#
+### TODO	Conversion and validation as other conversions and validations in Sardin
 # TODO regexp and hash map should be synced: generate $enUkRE from %enUK2TTPAMap
 #my $enUkRE = qr/^(aI3|aI@|3r-|i@3|aU@|r-|e@|3:|e#|U@|i@|aU|OI|a#|i:|eI|I2|oU|@2|aI|A@|O@|u:|A:|O:|aa|@5|l|0|p|h|n|I| |d|V|@|O|E|z|U|,|3|k|'|a|t|i)/;
 my %enUK2TPAMap = (
-	'@' => 'ë',
-	'0' => 'å', # ? ë ? Cf helicopter /h'ElIk,0pt3/
-	'@2' => 'ë', # ? depends on context?
-	'3' => 'ë r0',
-	'3:' => 'ö3:', # ? depends on context? Linking 'r'?
+	'@' => 'ex',
+	'0' => 'o', # ? ex ? Cf helicopter /h'ElIk,0pt3/
+	'@2' => 'ex', # ? depends on context?
+	'3' => 'ex r0',
+	'3:' => 'oe:', # ? depends on context? Linking 'r'?
 	'@5' => '@', # ? depends on context?
-	'a' => 'ä3',
+	'a' => 'ae',
 	'a#' => 'a', # ipa ɐ or schwa ?
-	'A:' => 'a2:',
+	'A:' => 'a:',
 	# TODO:
-	'A@' => 'a2: r0', # Could be just /a2:/ ? 
-	'aa' => 'a2:',
+	'A@' => 'a: r0', # Could be just /a:/ ? 
+	'aa' => 'a:',
 	'aI' => 'ai',
 	# TODO check if this makes sense:
-	#'aI@' => 'ai ë', # ? depends on context? Linking 'r' /ai ë r0/ ?
+	#'aI@' => 'ai ex', # ? depends on context? Linking 'r' /ai ex r0/ ?
 	'aI3' => 'ai r0', # ? depends on context? add /r0/ ?
 	'aU' => 'au',
 	# TODO check if this makes sense:
 	#'aU@' => 'au', # ? depends on context? Linking 'r'?
 	'e#' => 'i', # ?
-	'e@' => 'eë',
-	'E' => 'e', # ? /ë/ ?
+	'e@' => 'eex',
+	'E' => 'e', # ? /ex/ ?
 	'eI' => 'ei',
 	'i' => 'i',
-	'i:' => 'i2:',
-	'i@' => 'ië',
+	'i:' => 'i:',
+	'i@' => 'iex',
 	'I' => 'i',
 	'I2' => 'i',
-	'i@3' => 'ië r0',
-	'3r-' => 'ë r3', # Linking -r
-	'O' => 'å',
-	'O:' => 'å2:',
-	'O@' => 'öw', # ?
-	'OI' => 'å j', # ?
-	'oU' => 'å o', # ?
-	#'u:' => 'o2:',
-	'u:' => 'u4:',
-	'U' => 'o',
-	'U@' => 'uë',
+	'i@3' => 'iex r0',
+	'3r-' => 'ex rh', # Linking -r
+	'O' => 'o',
+	'O:' => 'o:',
+	'O@' => 'ou', # ?
+	'OI' => 'o j', # ?
+	'oU' => 'o u', # ?
+	#'u:' => 'u:',
+	'u:' => 'uw:',
+	'U' => 'u',
+	'U@' => 'uex',
 	'V' => 'a',
 
 
@@ -201,13 +195,13 @@ my %enUK2TPAMap = (
 	'n' => 'n',
 	'N' => 'ng',
 	'p' => 'p',
-	'r-' => 'r3',
-	'r' => 'r3',
+	'r-' => 'rh',
+	'r' => 'rh',
 	's' => 's',
 	't' => 't',
 	'v' => 'v',
 	'T' => 'th',
-	'tS' => 'tj3',
+	'tS' => 'tc',
 
 	'w' => 'w',
 
@@ -217,12 +211,10 @@ my %enUK2TPAMap = (
 	'Z' => 'rs', # ?? 'dZ',
 
 	"'" => "'",
-	',' => '`', # ? TODO CHECK IF CORRECT
+	',' => ',', # ? TODO CHECK IF CORRECT
 	' ' => '|',
 
 ); 
-
-
 #*************************************************************************************#
 # NL TODO Build $enUkRE only once. This is syncing with keys of
 # %enUK2TPAMap, so that two different lists need to be manually
@@ -240,7 +232,6 @@ my $enUkRE = qr/$enUkRE0/;
 #*************************************************************************************#
 sub espeakEnUk2TPA{
 	my $pron = shift;
-
 	my ($syms0, $unknown0) = parseEnUKPron($pron);
 
 	# NL TODO How to report errors?
@@ -265,11 +256,11 @@ sub espeakEnUk2TPA{
 	}
 
 	my $res = join(' ', @res);
-
-	# TPA has stress attached to vowel without space
+	
+	# Base has stress attached to vowel without space
 	$res =~ s/' /'/g;
-	# CT No secondary stress in TPA English 
-	$res =~ s/` ?//g;
+	# CT No secondary stress in Base English 
+	$res =~ s/, ?//g;
 
 	$res = MTM::Pronunciation::Syllabify::syllabify($res);
 
@@ -307,7 +298,6 @@ sub parseEnUKPron{
 	return \@res, \@unk;
 }
 #*************************************************************************************#
-# NL TODO Doesn't work. Writing a local Eng. TPA validation makes more sense?
 sub validateTPAPron{
 	my ($orth, $pron) = @_;
 
@@ -317,24 +307,15 @@ sub validateTPAPron{
 	$pron =~ s/^\s+//;
 	$pron =~ s/\s+$//;
 
-	# Validate TPA transcription
-	# NL TODO Fail to make this work:
-	my ( $pronWarnings, $sanityWarnings, $help, $example ) = &MTM::Validation::Pronunciation::validate( $orth, $pron, 'swe', 'tpa', 1, 'NN', $orth, 1 );
+	# Validate Base transcription
+	my $valRes = MTM::Pronunciation::Validation::Base->validate( $pron );
 
-	my @res = ();
+print "nnn $valRes	$pron\n";
 
-	for my $w (@$pronWarnings) {
-		push(@res, $w);
-	}
-
-	for my $w (@$sanityWarnings) {
-		push(@res, $w);
-	}
-
-	if (@res == 0) {
+	if ( $valRes !~ /VALID/ ) {
 		return '';
 	} else { 
-		return join(' : ', @res);
+		return join(' : ', $valRes);
 	}
 }
 #*************************************************************************************#

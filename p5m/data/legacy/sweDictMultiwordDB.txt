@@ -1,1119 +1,1095 @@
-﻿16:E kapitlet	s "e k $ s t `å n $ d ë | k a $ p 'i t $ l ë t	NN	swe	swe	16:E| |kapitlet	731999
-20-30 min.	tj "u2: $ g `o | t 'i | t r 'e $ t i | m i $ n 'u2: $ t ë r	NN	swe	swe	20|-[till]|30| |min.	731911
-2½ eller 3 år	t v 'å2: | 'å2: | 'e t | h 'a l f t | 'e $ l ë r | t r 'e2: | 'å2: r	NN	swe	swe	2|[och]|[ett]|½[halvt]| |eller| |3| |år	731800
-Abu Dhabi	a b u ~ d 'a b i	PM NOM	swe	swe	Abu~ ~Dhabi	731503
-Arabia Terra	a $ r 'a2: $ b i3 $ a | t 'ä3 $ r a	NN	lat	swe	Arabia| |Terra	791746
-Atl. Madrid	a t $ l 'e2: $ t i $ k o | m a $ d r 'i d	PM NOM	spa	swe	Atl.| |Madrid	749465
-Buenos Aires	b u3 $ 'e2: $ n å s | 'a j $ r ë s	PM NOM	swe	swe	Buenos| |Aires	731576
-C \+	s 'e2: | p l 'u s	ABBR	swe	swe	-	766045
-Chasing Amy	tj3 'ei $ s i ng | 'ei $ m i	PM NOM	eng	eng	Chasing| |Amy	766528
-Duran Duran	d j u4 $ r3 'ä3 n | d j u4 $ r3 'ä3 n	PM NOM	eng	eng	Duran| |Duran	766180
-First Aid Kit	f 'ö3: r0 s t | 'ei d | k 'i t	PM NOM	eng	eng	First| |Aid| |Kit	768854
-Gens de lettre	rs 'a2: ng s | d 'e | l 'e $ t r ë	PM NOM	fre	swe	Gens| |de| |lettre	731923
-George Herbert Mead	j3 'å2: j3 | h 'ö3: r0 $ b ë r0 t | m 'i2: d	PM NOM	eng	eng	George| |Herbert| |Mead	731853
-Il Sung	i l $ s 'u ng	PM NOM	swe	swe	Il Sung	735151
-Ivan IV:s	'i2: $ v a n | d 'e n | f j "ä3: $ rd `ë s	PM GEN	swe	swe	Ivan| [den]|IV:s	732142
-Ivar I:s	'i2: $ v a r | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Ivar| [den]|I:s	732143
-Karl II	k 'a2: rl | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Karl| [den]|II	732184
-Karl XVI:s	k 'a2: rl | d 'e n | s "e k $ s t `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|XVI:s[sextondes]	792148
-Karl XV	<SPLIT>k 'a2: rl | d 'e n | f "e m $ t `å n $ d ë	PM NOM	swe	swe	Karl| [den]|XV[femtonde]	783441
-Kristian III	k r "i $ s t i3 $ `a n | d 'e n | t r "e2: d $ j `ë	PM NOM	swe	swe	Kristian| [den]|III	732196
-Kristoffer II:s	k r i $ s t 'å $ f ë r | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Kristoffer| [den]|II:s	732157
-Ludvig XVI	l 'u $ d v i g | d 'e n | s "e k $ s t `å n d ë	PM NOM	swe	swe	Ludvig| [den]|xvi	731536
-Manchester U-Tottenham	m 'ä3 n $ tj3 e $ s t ë r0 | j u4 $ n 'ai $ t ë d | t 'å $ t ë n ~ h ä3 m	AB	eng	eng	-	765385
-Michael Jackson	m 'a j $ k ë l | j3 'ä3 k s $ å n	PM NOM	swe	swe	Michael| |Jackson	731969
-Moules Tom Yum	m 'o l | t 'å m | j 'o m	PM NOM	unk	swe	Moules| |Tom| |Yum	785891
-New Dehli	n j 'u4: | d 'e $ l i	PM NOM	swe	swe	New| |Dehli	731538
-New York-kompisar	n j 'u4: | j "å2: r k - k `å m $ p i $ s a r	NN UTR PLU IND NOM	eng	swe	New| |York+-+kompisar	747631
-North Carolina	n 'å2: th | k ä3 $ r3 ë $ l 'a j $ n a	PM NOM	swe	swe	North| |Carolina	731572
-Oscar Zia	'å $ s k a r | s 'i2: $ a	PM NOM	swe	swe	Oscar| |Zia	791856
-Paris SG-Tyresö	p a $ r 'i2: | "ä s $ g `e2: | t "y2: $ r ë s - `ö2:	PM NOM	mix	swe	Paris| |SG|-|Tyres+ö	742628
-Piteå IF-Mallbacken	p 'i2: $ t e3 $ å2: | "i2: ~ `ä f | m "a l - b `a $ k ë n	PM NOM	swe	swe	Piteå| |IF|-|Mall+backen	757800
-Round Robin	r3 'au n g | r3 'å $ b i n	PM NOM	eng	eng	Round| |Robin	732316
-San Salvador	s 'a n | s a l $ v a $ d 'å2: r	PM NOM	swe	swe	San| |Salvador	731546
-Swedish modern	s w 'i2: $ d i rs | m 'å $ d ë r0 n	NN	eng	eng	Swedish| |modern	768450
-Tel Avivs	t 'e l | a $ v 'i v s	PM GEN	unk	swe	Tel| |Avivs	784253
-Ulan Bator	'u2: $ l a n | b 'a2: $ t o r	PM NOM	swe	swe	Ulan| |Bator	731551
-Val Thorens	v 'a l | t o3 $ r 'en s	PM NOM	fre	swe	Val| |Thorens	781513
-Vancouver-New Jersey	v ä3 n ~ k 'u4: $ v ë r0 | n j 'u4: | j3 'ö3: r0 $ s i	PM NOM	eng	eng	vancouver|-|new| |jersey	790797
-allt eftersom	a l $ t "ä f $ t ë $ rs `å m	AB	swe	swe	allt eftersom	9156
-black swan	b l 'ä3 k | s w 'å n	NN	eng	eng	black| |swan	782137
-bongo flavour	b 'å $ ng öw | f l 'ei $ v ë r0	PM NOM	eng	eng	bongo| |flavour	731830
-chick lit-författare	rs "i k - l i t - f ö3 r $ f `a $ t a $ r ë	NN UTR SIN IND NOM	swe	swe	chick+ +lit+-+författare	731760
-de mers	d e $ m 'ä2: r	NN	fre	swe	de mers	732671
-e Kr	'e f $ t ë r | k r "i $ s t `u s	ABBR	swe	swe	-	750566
-en face	a ng $ f 'a s	AB	fre	swe	en face	99077
-ett köns	tj 'ö2: n s	NN NEU SIN IND GEN	swe	swe	ett köns	776784
-exempelvis bete	e k $ s "e m $ p ë l - v `i2: s | b "e2: $ t `ë	NN	swe	swe	exempel+vis| |bete	731905
-faderskapet genom dom	f "a2: $ d ë ~ rs k `a2: $ p ë t | j 'e2: $ n å m | d 'o m	NN	swe	swe	faderskapet| |genom| |dom	731751
-fastställas genom bekräftelse eller dom	f "a s t - s t `ä $ l a s | j 'e2: $ n å m | b e3 $ k r 'e f $ t ë l $ s ë | 'e $ l ë r | d 'o m	NN	swe	swe	fast+ställas| |genom| |bekräftelse| |eller| |dom	731749
-gay and lesbian	g 'ei | 'ä3 n d | l 'e s $ b i3 $ ë n	NN	eng	eng	gay| |and| |lesbian	731759
-glace au four	g l 'a s | 'å | f 'o2: r	NN	fre	swe	glace| |au| |four	788183
-hip hopare	h "i p - h `å $ p a $ r ë	NN	swe	swe	hip+ +hopare	731793
-hip hoparna	h "i p - h `å $ p a $ rn a	NN	swe	swe	hip+ +hoparna	731797
-human relations	h j 'u4: $ m ë n | r3 i $ l 'ei $ rs ë n s	NN	eng	eng	human| |relations	731859
-hux flux	h 'u k s | f l 'u k s	AB	swe	swe	hux| |flux	190676
-i går	i $ g 'å2: r	AB	swe	swe	i går	199035
-i land	i $ l 'a n d	AB	swe	swe	i land	199042
-känner till	tj 'ä $ n ë r | t 'i l	VB PRS AKT	swe	swe	känner| |till	732046
-lida men	l "i2: $ d `a | m 'e2: n	NN	swe	swe	lida| |men	731777
-länge sedan	l "ä ng $ ë $ s `e2: $ d a n	AB	swe	swe	länge sedan	287915
-nota bene	n "o2: $ t `a | b "e2: $ n `ë	AB	swe	swe	nota| |bene	327838
-scampi frittins	s k a m $ p i $ f r 'i $ t i n s	NN NEU PLU DEF GEN	swe	swe	scampi frittins	428742
-science centers	s 'a $ j ë n s | s 'ä n $ t ë rs 	NN	swe	swe	science| |centers	732003
-sidan 1	s "i2: $ d `a n | 'e t	NN	swe	swe	sidan| |1	776457
-the toyota way	dh 'e | t öw $ j 'öw $ t a | w 'e j	NN	eng	eng	the| |toyota| |way	731772
-till fyllest	t i l $ f "y $ l `ë s t	AB	swe	swe	till fyllest	510128
-till pass	t i l $ p 'a s	AB	swe	swe	till pass	510135
-uppf i	"u p - f `ö d | 'i2:	ABBR	swe	swe	-	772655
-uppf. hemmiljö	"u p - f `ö d | h "e m - m i l $ j `ö2:	AB	swe	swe	-	735838
-vad som helst	v a2: d ~ s å m ~ h 'ä l s t	PN NEU SIN IND SUB/OBJ	swe	swe	vad som helst	544075
-wet smear	w 'e t | s m 'ië r0	NN	eng	eng	wet| |smear	731812
-windows 7	w 'i n $ d öw s | sj 'u2:	PM NOM	swe	swe	Windows| |7	731687
-är lika med	'e2: | l "i2: k `a | m 'e2:	VB	swe	swe	är| |lika| |med	731688
-över huvud	ö2: $ v ë r $ h "u2: $ v `u d	AB	swe	swe	över huvud	570370
-över hövan	ö2: $ v ë r $ h "ö2: $ v `a n	AB	swe	swe	över hövan	570371
-Alports syndrom	'a l $ p å rt rs | s y n $ d r 'å2: m	NN	swe	swe	Alports| |syndrom	731826
-Andra Petrusbrevet	"a n $ d r `a | p "e2: $ t r u s - b r `e2: $ v ë t	PM NOM	swe	swe	Andra| |Petrus+brevet	731638
-Briesmu stasti	b r 'i s $ m o | s t 'a $ s t i	NN	eng	eng	Briesmu| |stasti	731831
-Burkina Faso	b u r $ k 'i2: $ n a | f 'a2: $ s o	PM NOM	swe	swe	Burkina| |Faso	731578
-C More Series	s 'i2: | m 'å2: r3 | s 'ië $ r3 i3 $ ë s	PM NOM	eng	eng	C| |More| |Series	743139
-Carl XVI	k 'a2: rl | d 'e n | s "e k $ s t `å n $ d ë	PM NOM	swe	swe	carl| [den]|XVI[sextonde]	817582
-Centralafrikanska republiken	s e n $ t r "a2: l - a $ f r i $ k `a2: n $ s k a | r e $ p u3 $ b l 'i2: $ k ë n	PM NOM	swe	swe	central+afrikanska| |Republiken	731579
-Crystal P-Swansea	k r3 'i $ s t ë l | p 'ä3 $ l i s | s w 'å n ~ s i2:	AB	eng	eng	-	776950
-David Cronenburg	d 'e j $ v i d | k r 'å2: $ n ë n ~ b ö3: r g	PM NOM	swe	swe	David| |Cronenburg	731968
-Elisabet I:s	e $ l "i2: $ s a $ b `ä t | d 'e n | f "ö3 $ rs rt `a s	PM GEN	swe	swe	Elisabet| [den]|I:s	732126
-Emma Green	"e $ m `a | g r 'e2: n	PM NOM	swe	swe	Emma| |Green	731766
-Fjärde Moseboken	f j "ä3: $ rd `ë | m "o2: $ s ë - b `o2: $ k ë n	PM NOM	swe	swe	Fjärde| |Mose+boken	731618
-Green zone	g r3 'i2: n | s 'öw n	PM NOM	eng	eng	Green| |zone	781935
-Gregorius IX:s	g r e3 $ g 'å2: $ r i3 $ u s | d 'e n | n "i2: $ `å n $ d ë s	PM GEN	swe	swe	Gregorius| [den]|IX:s	732132
-Gregorius VII	g r e3 $ g 'å2: $ r i3 $ u s | d 'e n | sj "u n $ d `ë	PM NOM	swe	swe	Gregorius| [den]|VII	732172
-Gustav II Adolfs	g "u $ s t `a v | d 'e n | "a n $ d r `ë | 'a2: $ d å l f s	PM GEN	swe	swe	Gustav| [den]|II[andre]| |Adolfs	746383
-Gustav IV Adolf	g "u $ s t `a v | d 'e n | f j "ä3: $ rd `ë | 'a2: $ å l f	PM NOM	swe	swe	Gustav| [den]|iv| |adolf	731523
-Gustav IV	g "u $ s t `a2: v | d 'e n | f j "ä3: $ rd `ë	PM NOM	swe	swe	Gustav| [den]|IV	732177
-Jong Un	j 'å ng | 'u n	PM NOM	kor	swe	Jong| |Un	741137
-Karl IX	k 'a2: rl | d 'e n | n "i2: $ `å n $ d ë	PM NOM	swe	swe	Karl| [den]|IX	732185
-Karl XII:s	<SPLIT>k 'a2: rl | d 'e n | t "å l f $ t `ë s	PM GEN	swe	swe	Karl| [den]|XII:s[tolftes]	745275
-Mac OS	m 'a k | "o2: $ `ä s	PM NOM	swe	swe	Mac| |OS	732334
-Martha's Vineyard	m 'a2: r0 $ th a s | v 'i n ~ j a2: r0 d	PM NOM	eng	eng	Martha's| |Vineyard	791109
-Mutar Muthanna	m o3 $ t 'a r | m o $ h 'a $ n a	PM NOM	ara	swe	Mutar|muthanna	813015
-Olof Palmes g	"o2: $ l `å f | p "a l $ m `ë s | g "a2: $ t `a	ABBR	swe	swe	-	781386
-Oscar IIs	'å $ s k a r | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Oscar| [den]|IIs[andres]	776836
-Panama city	p a $ n a $ m 'a2: | s 'i $ t y	PM NOM	swe	swe	Panama| |city	731607
-Paulus VI	p 'au $ l u s | d 'e n | sj "ä $ t `ë	PM NOM	swe	swe	Paulus| [den]|vi	731514
-Piteå IF	p 'i2: $ t e3 $ å2: | "i2: ~ `ä f	PM NOM	swe	swe	Piteå| |IF	738260
-Polar Print	p o3 $ l "a2: r - p r `i n t	PM NOM	swe	swe	Polar+ +Print	731878
-Saint Lucia	s 'e j n t | l 'u4: $ rs a	PM NOM	swe	swe	Saint| |Lucia	731591
-Sierra Leone	s i $ 'ä3 r a | l e3 $ "å2: $ n `ë	PM NOM	swe	swe	Sierra| |Leone	731595
-Sony Ereader	s 'å $ n i | 'i2: ~ r i2: d $ ë r	PM NOM	eng	swe	Sony| |Ereader	731929
-Sri Lanka	s r 'i2: | l 'a ng $ k a	PM NOM	swe	swe	Sri| |Lanka	731548
-Sweden Rock Festival	s w 'i2: $ d ë n | r3 'å k | f 'e $ s t i $ v ë l	PM NOM	eng	eng	Sweden| |Rock| |Festival	731887
-Tel Aviv	t 'e l | a $ v 'i v	PM NOM	unk	swe	Tel| |Aviv	740453
-Thomas di Leva	t 'o $ m a s | d i ~ l 'e2: $ v a	PM NOM	swe	swe	Thomas| |di~ ~Leva	731680
-Tomas Tranströmer	t 'o2: $ m a s | t r "a2: n - s t r `ö $ m ë r	PM NOM	swe	swe	Tomas| |Tran+strömer	731892
-Total recall	t 'öw $ t ë l | r3 i $ k 'å2: l	PM NOM	eng	eng	Total| |recall	776562
-Trinidad och Tobago	t r i $ n i $ d 'a d | 'å2: | t o3 $ b 'e j $ g o	PM NOM	swe	swe	Trinidad| |och| |Tobago	731610
-United Nations	j u4: $ n 'ai $ t ë d | n 'ei $ rs ë n s	PM NOM 	eng	eng	United| |Nations	731895
-Uports 	j 'u2: ~ p å2: rt rs	PM GEN	eng	swe	Uports 	760134
-Winter's bone	w 'i n $ t ë r0 s | b 'öw n	PM NOM	eng	eng	Winter's| |bone	747545
-World Trade Center	w 'ö3: r0 l d | t r3 'ei d | s 'e n $ t ë r0	PM NOM	eng	eng	World| |Trade| |Center	731736
-bipolär II	b i2: ~ p o3 $ l 'ä3: r | t v 'å2:	NN	swe	swe	bipolär| |II	731930
-caput mortum	k "a2: $ p `u t | m "å r $ t `u m	NN	lat	swe	caput| |mortum	731960
-de Beauvoirs	d 'e | b å $ v o3 $ 'a3: rs	PM GEN	fre	swe	De| |Beauvoirs	731727
-den VII	d 'e n | sj "u n $ d `ë	NN	swe	swe	den| |VII	764486
-div II	d i $ v i $ sj 'o2: n | t v 'å2:	NN	swe	swe	div| |II	783460
-division II	d i $ v i $ sj 'o2: n | t v 'å2:	NN	swe	swe	division| |II	753068
-filosofie licentiat	f i $ l o $ s o3 $ f "i2: $ `ë | l i $ s e n $ s i $ 'a2: t	NN	swe	swe	filosofie| |licentiat	731653
-för handen	f ö3 r $ h 'a n $ d ë n	AB	swe	swe	för handen	139483
-för visso	f ö3 r $ v "i $ s `o	AB	swe	swe	för visso	139487
-hibernation ale	h i $ b ë r0 $ n 'ei $ rs ë n | 'ei l	NN	eng	eng	hibernation| |ale	766596
-i morgon	i $ m "å $ r `å n	AB	swe	swe	i morgon	199043
-in corpore	i n $ k 'å r $ p å $ r ë	AB	swe	swe	in corpore	203149
-kort tungband	k 'å rt | t "u ng - b `a n d	NN	swe	swe	kort| |tung+band	731924
-kycklingfi lé	tj "y $ k l i ng - f i $ l `e2:	NN UTR SIN IND NOM	swe	swe	kyckling+fi lé	753841
-le deuxiéme sexe	l 'e | d ö s $ j 'e m | s 'e k s	PM GEN	fre	swe	le| |deuxiéme| |sexe	731728
-längs med	<SPLIT>l ä ng $ s m 'e2: d	PP	swe	swe	längs med	287934
-med modern amerikansk	m 'e2: | m o3 $ d 'ä3: rn | a $ m ë $ r i $ k 'a2: n s k	JJ	swe	swe	med| |modern| |amerikansk	731869
-mene tekels	m e2: $ n ë $ t 'e2: $ k ë l s	NN - SIN IND GEN	swe	swe	mene tekels	301360
-modern märker	m "o2: $ d `ë rn | m 'ä3 r $ k ë r	VB PRS AKT	swe	swe	modern| |märker	782808
-monitor evaluator	m 'å $ n i $ t ë r0 | i $ v 'ä3 $ l j u4 $ ei $ t ë r0	PM NOM	eng	eng	monitor| |evaluator	731938
-not dead yet	n 'å t | d 'e d | j 'e t	AB	eng	eng	not| |dead| |yet	760923
-persona ingratas	p ä3 $ rs "å2: $ n `a | i ng $ g r "a2: $ t `a s	NN - SIN IND GEN	swe	swe	persona| |ingratas	371330
-plane d'etudes	p l 'a n | d e3 $ t 'y d	NN	fre	swe	plane| |d'etudes	732273
-save as	s 'e j v | 'ä3 s	PM NOM	swe	swe	Save| |as	731611
-scampi frittin	s k a m $ p i $ f r 'i $ t i n	NN NEU PLU DEF NOM	swe	swe	scampi frittin	428741
-slut citat	s l 'u2: t | s i $ t 'a2: t	NN	swe	swe	slut| |citat	731644
-till dels	t i l $ d 'e2: l s	AB	swe	swe	till dels	510124
-tom sida	t 'o m | s "i2: $ d `a	NN	swe	swe	tom| |sida	754298
-zur Sociologi der Familie	t s 'o r | s å t $ s i $ å $ l å $ g 'i2: | d 'e2: r | f a $ m 'i2: l $ j ë	NN	ger	swe	zur| |Sociologi| |der| |Familie	731903
-zur sociologi der familie	t s 'o r | s å t $ s i $ å $ l o3 $ g 'i2: | d 'e2: r | f a $ m 'i2: l $ j ë	NN	ger	swe	zur| |sociologi| |der| |familie	731813
-à la carte	a $ l a $ k 'a rt	AB	swe	swe	à la carte	563992
-Andra Timotheosbrevet	"a n $ d r `a | t $ i m o3 $ t "e2: $ o s - b r `e2: $ v ë t	PM NOM	swe	swe	Andra| |Timotheos+brevet	731633
-Das Kind	d 'a s | k 'i n t	NN	ger	swe	Das| |Kind	731839
-David Lynch	d 'ei $ v i d | l 'i n tj3	PM NOM	eng	eng	David| |Lynch	731761
-Ed Stafford	'e d | s t 'ä3 $ f ë r0 d	PM NOM	eng	eng	Ed| |Stafford	789159
-Eliyaho Goldratt	e3 $ l 'a $ j3 a $ h öw | g 'öw l d $ r3 ä3 t	PM NOM	eng	eng	Eliyaho| |Goldratt	731920
-Eurovision Song Contest	j u2: $ r o3 $ v 'i $ rs ë n | s 'å ng | k 'å n $ t ë s t	PM NOM	eng	swe	Eurovision| |Song| |Contest	791948
-Första Samuelsboken	f "ö3 $ rs rt `a | s "a2: $ m u3 $ ë l s - b `o2: $ k ë n	PM NOM	swe	swe	Första| |Samuels+boken	731620
-Gayle Rubin	g 'ei l | r3 'u4: $ b i n	PM NOM	eng	eng	Gayle| |Rubin	731850
-General motors	j3 'e $ n ë $ r3 ë l | m 'öw $ t ë s	PM NOM	swe	swe	General| |motors	731663
-George Marcus	j3 'å2: j3 | m 'a2: r0 $ k ë s	PM NOM	eng	eng	George| |Marcus	731854
-Gilles Deleuze	rs 'i l | d e3 $ l 'ö2: s	PM NOM	fre	swe	Gilles| |Deleuze	731855
-Glb. Sustainable	g l 'öw $ b ë l | s a $ s t 'ei $ n ë $ b ë l	AB	eng	eng	-	779721
-Gustav V	<SPLIT>g "u $ s t `a v | d 'e n | f "e m $ t `ë	PM NOM	swe	swe	Gustav| [den]|V[femte]	768651
-Henrik IV	h 'e n $ r i k | d 'e n | f j "ä3: $ rd `ë	PM NOM	swe	swe	Henrik| [den]|IV	732180
-Henrik VIII	h 'e n $ r i k | d 'e n | "å $ t `å n $ d ë	PM NOM	swe	swe	Henrik| [den]|viii	731508
-Hog Farm	h 'å g | f 'a2: r0 m	PM NOM	eng	eng	Hog| |Farm	731708
-Jurassic Park	j3 u4 $ r3 'ä3 $ s i k | p 'a2: r0 k	PM NOM	eng	eng	Jurassic| |Park	731967
-Karl XIV:s	<SPLIT>k 'a2: rl | d 'e n | f j "o2: $ rt `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|XIV:s[fjortondes]	776636
-Karl XIVs	k 'a2: rl | d 'e n | f j "o2: $ rt `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|XIVs[fjortondes]	767729
-Karl X	<SPLIT>k 'a2: rl | d 'e n | t "i2: $ `å n $ d ë	PM NOM	swe	swe	Karl| [den]|X[tionde]	787285
-Ludvig XIV	<SPLIT>l 'u d $ v i g | d 'e n | f j "o2: $ rt `å n $ d ë	PM NOM	swe	swe	Ludvig| [den]|XIV	732198
-Lundin Mining	l u n $ d 'i2: n | m 'a j $ n i ng	PM NOM	swe	swe	Lundin| |Mining	739554
-Mad men	m 'ä3 d | m 'e n	PM NOM	eng	eng	Mad| |men	750364
-Mexiko city	m 'e k $ s i $ k o | s 'i $ t y	PM NOM	swe	swe	Mexiko| |city	731603
-Mötley Crües	m 'å t $ l i | k r3 'u4: s	PM GEN	eng	eng	Mötley| |Crües	732288
-New Jersey	n j 'u4: | j3 'ö3: r0 $ s i	PM NOM	eng	eng	New| |Jersey	782065
-Park Avenue	p 'a2: r0 k | 'ä3 $ v ë $ n j u4:	PM NOM	eng	eng	Park| |Avenue	731711
-Richard III	<SPLIT>r 'i $ k a rd | d 'e n | t r "e2: $ d j `ë	PM NOM	swe	swe	Richard| [den]|III[tredje]	784924
-River Plate	r3 'i $ v ë r0 | p l 'ei t	PM NOM	eng	eng	River| |Plate	788359
-Robin Hood	r 'å $ b i n | h 'o d	PM NOM	swe	swe	Robin| |Hood	731817
-SOS alarm	ä s $ o2: $ 'ä s | a $ l 'a r m	PM NOM	swe	swe	SOS| |alarm	732212
-Santo Domingo	s 'a n $ t o | d o3 $ m 'i ng $ g o	PM NOM	swe	swe	Santo| |Domingo	731547
-TV Finland	t e2: ~ v e2: ~ f 'i n $ l a n d	PM NOM	swe	swe	TV Finland	748446
-Urban V	'u r $ b a n | d 'e n | f "e $ m t `ë	PM NOM	swe	swe	Urban| [den]|v	731927
-a different	'ä3 | d 'i $ f ë $ r3 ë n t	NN	eng	eng	a| |different	773035
-a priori	a $ p r i $ "å2: $ r `i	AB	swe	swe	a priori	81
-aja baja	"a $ j `a | b "a $ j `a	IN	swe	swe	aja| |baja	5635
-all rights	å2: l $ r 'a j t s	JJ POS UTR/NEU SIN/PLU IND/DEF GEN	swe	swe	all rights	8301
-allt sedan	<SPLIT>'a l t $ s e2: $ d a n	SN	swe	swe	allt sedan	9159
-att dom eller beslut om	'a t | d 'o m | 'e $ l ë r | b e3 $ s l 'u2: t | 'å m	NN	swe	swe	att| |dom| |eller| |beslut| |om	731754
-au pair	<SPLIT>'å2: | p 'ä3: r	NN	swe	swe	au| |pair	731654
-chic lit	rs 'i k ~ l i t	NN	swe	swe	chic~ ~lit	731931
-cours de linguistique general	k 'y r s | d 'e | l i ng $ g w i $ s t 'i k | rs e $ n ë $ r 'a l	PM NOM	fre	swe	cours| |de| |linguistique| |general	731730
-de Geer	d e3 ~ j 'ä3: r	PM NOM	swe	swe	De~ ~geer	732432
-delta p	d 'e l $ t a | p 'e2:	NN	swe	swe	delta| |p	732002
-den XVI	d 'e n | s "e k $ s t `å n $ d ë	NN	swe	swe	den| |XVI	766799
-déjà vu	d e3 $ sj a $ v 'y2:	NN UTR SIN IND NOM	fre-swe	swe	déjà vu	92665
-framför allt	f r 'a m $ f ö3 r | 'a l t	NN	swe	swe	framför| |allt	731643
-genom dom efter talan	j 'e2: $ n å m | d 'o m | 'e f $ t ë r | t "a2: $ l `a n	NN	swe	swe	genom| |dom| |efter| |talan	731753
-hallejuah moment	h a $ l e3 $ l 'u2: $ j a | m 'o2: $ m ë n t	NN	eng	swe	hallejuah| |moment	735776
-he he	h 'e | h 'e	IN	swe	swe	he| |he	731655
-hip hoprörelsen	h "i p - h å p - r `ö3: $ r ë l $ s ë n	NN	swe	swe	hip+ +hop+rörelsen	731788
-hip hop	h "i p - h `å p	NN	swe	swe	hip+ +hop	731789
-in natura	i $ n a $ t "u2: $ r `a	AB	swe	swe	in natura	203153
-in situ	i n $ s 'i2: $ t u	AB	swe	swe	in situ	203154
-inst i priset	i n $ s t a $ l a $ sj 'o2: n | 'i2: | p r 'i2: $ s ë t	ABBR	swe	swe	-	785649
-las Ramblas	l 'a s | r 'a m $ b l a s	PM NOM	swe	swe	las| |Ramblas	731556
-le nom de la rose	l 'e | n 'å2: m | d 'e | l 'a | r 'å2: s	PM NOM	fre	swe	le| |nom| |de| |la| |rose	731733
-lider men	l 'i2: $ d ë r | m 'e2: n	NN	swe	swe	lider| |men	731778
-lingua francas	l i ng $ v a $ f r "a ng $ k `a s	NN NEU SIN IND GEN	swe	swe	lingua francas	279791
-lit de parades	l i $ d ë $ p a $ r 'a d s	NN - SIN IND GEN	swe	swe	lit de parades	280571
-make love	m 'ei k | l 'a v	VB	eng	eng	make| |love	731705
-mesolimbiska banan	m e $ s o3 $ l 'i m $ b i $ s k a | b "a2: $ n `a n	NN	swe	swe	mesolimbiska| |banan	731871
-min översättning	m 'i n | "ö2: $ v ë $ rs `ä t $ n i ng	NN	swe	swe	min| |översättning	731910
-mindre än	m 'i n $ d r ë | 'ä n	AB	swe	swe	mindre| |än	731565
-notarius publicus	n o $ t a2: $ r i3 $ u $ s p 'u $ b l i $ k u s	NN UTR SIN IND NOM	swe	swe	notarius publicus	327908
-och så vidare	'å2: | s 'å2: | v "i2: $ d `a $ r ë	AB	swe	swe	och| |så| |vidare	731567
-perpetuum mobiles	p ä3 r $ p "e2: $ t `u3 $ u m | m "å2: $ b `i $ l ë s	NN - SIN IND GEN	swe	swe	perpetuum| |mobiles	371119
-ritual studies	r3 'i $ tj3 u4 $ ë l | s t 'a $ d i s	PM NOM	eng	eng	ritual| |studies	731939
-tabla rasas	t a2: $ b l a $ r "a2: $ s `a s	NN - SIN IND GEN	swe	swe	tabla rasas	500949
-till övers	t i $ l 'ö2: $ v ë rs	AB	swe	swe	till övers	510146
-över ända	ö2: $ v ë $ r "ä n $ d `a	AB	swe	swe	över ända	570373
-1 år	'e t | 'å2: r	NN	swe	swe	1| |år	743761
-Academia Adacta	a $ k a $ d 'e2: $ m i3 $ a | a $ d "a k $ t `a	PM NOM	swe	swe	Academia| |Adacta	731944
-Decker Alligator	d 'e $ k ë r | 'ä3 $ l i $ g e j $ t å r	PM NOM	swe	swe	Decker| |Alligator	731841
-Dian Yang	d i $ 'a n | j 'a ng	PM NOM	asi	swe	Dian| |Yang	771783
-El Salvador	'e l | s a l $ v a $ d 'å2: r	PM NOM	swe	swe	El| |Salvador	731507
-Första Timotheosbrevet	f "ö3 $ rs rt `a | t i $ m o3 $ t "e2: $ o s - b r `e2: $ v ë t	PM NOM	swe	swe	Första| |Timotheos+brevet	731632
-George Lucas	j3 'å2: r0 j3 | l 'u4: $ k ë s	PM NOM	eng	eng	George| |Lucas	731966
-Gustaf III	g "u $ s t `a2: v | d 'e n | t r "e2: d $ j `ë	PM NOM	swe	swe	Gustaf| [den]|III	732173
-Gustav II:s	g "u $ s t `a2: v | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Gustav| [den]|II:s	732136
-Gustav III	<SPLIT>g "u $ s t `a v | d 'e n | t r "e2: $ d j `ë	PM NOM	swe	swe	Gustav| [den]|III[tredje]	779031
-Hadrianus IV:s	h a $ d r i $ 'a2: $ n u s | d 'e n | f j "ä3: $ rd `ë s	PM GEN	swe	swe	Hadrianus| [den]|IV:s	732140
-Halo Genomics	h 'ei $ l öw | j3 e $ n 'å $ m i k s	PM NOM	eng	eng	Halo| |Genomics	731956
-Hans G Larsson	h 'a2: n s | g 'e2: | l 'a2: $ rs å n	PM NOM	swe	swe	Hans| |G| |Larsson	731782
-Jönköpings S-Hammarby	j "ö2: n - tj `ö2: $ p i ng s | s "ö2: $ d r `a | h "a $ m a r - b `y2:	ABBR	swe	swe	-	776443
-Karl I	k 'a2: rl | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Karl| [den]|I	732183
-Karl XVs	k 'a2: rl | d 'e n | f "e m $ t `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|XVs[femtondes]	772993
-Kristian I:s	k r "i $ s t i3 $ `a n | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Kristian| [den]|I:s	732154
-Kristian II	k r "i $ s t i3 $ `a n | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Kristian| [den]|II	732195
-Kuala Lumpur	k u3 $ 'a2: l a | l 'u m $ p u r	PM NOM	swe	swe	Kuala| |Lumpur	731532
-Ludvig XV	l 'u $ d v i g | d 'e n | f "e m $ t `å n d ë	PM NOM	swe	swe	Ludvig| [den]|xv	731535
-Manchester United	m 'ä3 n $ tj3 e $ s t ë r0 | j u4 $ n 'ai $ t ë d	PM NOM	eng	eng	Manchester| |United	753696
-Natur och kultur	n a $ t 'u2: r | 'å2: | k u l $ t 'u2: r	PM NOM	swe	swe	Natur| |och| |kultur	731676
-Oh Lauras	'öw | l 'å2: $ r3 ë s	PM NOM	eng	eng	Oh| |Lauras	731875
-Oskar II:s	'å s $ k a r | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Oskar| [den]|II:s	732160
-Per Olsskolan	p 'ä3: r | "o l s - s k `o2: $ l a n	PM NOM	swe	swe	Per| |Ols+skolan	747821
-Premier League	p r3 'e m $ i3 $ ë r0 | l 'i2: g	PM NOM	eng	eng	Premier| |League	783902
-Real Madrid-Barcelona	r e3 $ 'a l | m a $ d r 'i2: d | b a $ rs e3 $ l "å2: $ n `a	PM NOM	swe	swe	Real| |Madrid|-|Barcelona	768327
-Real Madrid	<SPLIT>r e3 $ 'a l | m a $ d r 'i d	PM NOM	swe	swe	Real| |Madrid	787928
-Rio de Janeiro	r 'i2: $ o | d 'e | sj a $ n 'e j $ r o	PM NOM	swe	swe	Rio| |de| |Janeiro	731544
-San Jose	s 'a n | sj o3 $ s 'e2:	PM NOM	spa	swe	San| |Jose	767726
-Sergeant Pepper	s 'a2: r0 $ j3 ë n t | p 'e $ p ë r0	PM NOM	eng	eng	Sergeant| |Pepper	731706
-Stavst vänner	s t 'a2: v ~ s t e2: n s | v "ä $ n `ë r	AB	swe	swe	-	741770
-São Tomé och Príncipe	s 'a3: $ o | t o3 $ m 'e2: | 'å2: | p r i n $ s 'i p	PM NOM	swe	swe	São| |Tomé| |och| |Príncipe	731594
-Tredje Moseboken	t r "e2: $ d j `ë | m "o2: $ s ë - b `o2: $ k ë n	PM NOM	swe	swe	Tredje| |Mose+boken	731617
-Uttar Pradesh	'o $ t a r | p r a $ d 'e rs	PM NOM	swe	swe	Uttar| |Pradesh	731765
-akuta koronara syndrom	a $ k 'u2: $ t a | k o $ r o3 $ n 'a2: $ r a | s y $ s t 'e2: m	NN	swe	swe	akuta| |koronara| |syndrom	731824
-allt som oftast	a l t $ s å $ m "å f $ t `a s t	AB	swe	swe	allt som oftast	9160
-angel's dust	'e j n $ j3 ë l s | d 'a s t	NN	eng	eng	angel's| |dust	731828
-bit och byte	b 'i t | 'å2: | b 'a j t	NN	swe	swe	bit| |och| |byte	732293
-carcinoma in situ	k a r $ s i $ n 'å2: $ m a | 'i n | s 'i2: $ t u	NN	swe	swe	carcinoma| |in| |situ	731810
-das Lächeln	d 'a s | l 'ä $ rs ë l n	PM NOM	ger	swe	das| |Lächeln	731932
-de Vere	d e3 $ v 'e2: r	PM NOM	unk	swe	De Vere	744088
-hip hopares	h "i p - h `å $ p a $ r ë s	NN	swe	swe	hip+ +hopares	731795
-hip hoparnas	h "i p - h `å $ p a $ rn a s	NN	swe	swe	hip+ +hoparnas	731798
-hot stuff	h 'å t | s t 'a f	NN	eng	eng	hot| |stuff	731973
-i gång	i $ g 'å ng	AB	swe	swe	i gång	199034
-in emellan	<SPLIT>i $ n e3 $ m "ä $ l `a n	PP	swe	swe	in emellan	203151
-in love	'i n | l 'a v	NN	eng	eng	in| |love	731770
-medmorskap fastställs genom dom är ovanligt	m "e2: d - m o2: $ rs k `a2: p | f "a s t - s t `ä l s | j 'e2: $ n å m | d 'o m | 'e2: | "o2: - v `a2: n $ l i t	NN	swe	swe	med+morskap| |fast+ställs| |genom| |dom| |är| |o+vanligt	731750
-modern stod	m "o2: $ d `ë rn | s t 'o2: d	VB PRT AKT	swe	swe	modern| |stod	787564
-modus vivendi	m "o2: $ d `u s | v i $ v "ä n $ d `i	NN - SIN IND NOM	swe	swe	modus| |vivendi	309045
-our lives	'au $ ë r0 | l 'ai v s	NN	eng	eng	our| |lives	731720
-premiers episodes	p r e m $ j 'e2: | e $ p i $ s 'å d	PM NOM	fre	swe	premiers| |episodes	731995
-puts väck	p 'u t s | v 'ä k	IN	swe	swe	puts| |väck	396121
-quantum satis	<SPLIT>k v a n $ t u m $ s "a2: $ t `i s	NN - SIN IND NOM	swe	swe	quantum satis	398810
-steady sellern	s t 'e $ d i ~ s e $ l ë rn	PM NOM	swe	swe	steady~ ~sellern	731940
-till finnandes	t i l $ f "i $ n `a n $ d ë s	AB	swe	swe	till finnandes	510126
-till synes	t i l $ s "y2: $ n `ë s	AB	swe	swe	till synes	510141
-tvi vale	t v 'i2: | v "a2: $ l `ë	IN	swe	swe	tvi| |vale	529333
-uppf. med	"u p - f `ö d | m 'e2: d	ABBR	swe	swe	-	771430
-uttrycket men	"u2: t - t r `y $ k ë t | m 'e2: n	NN	swe	swe	ut+trycket| |men	731779
-winter ale	w 'i n $ t ë r0 | 'ei l	NN	eng	eng	winter| |ale	777226
-å ja	'å2: $ j a	IN	swe	swe	å ja	566106
-Anders Grape	"a n $ d `ë rs | g r "a2: $ p `ë	PM NOM	swe	swe	Anders| |Grape	801611
-Andra Krönikeboken	"a n $ d r `a | k r "ö2: $ n i $ k ë - b `o2: $ k ë n	PM NOM	swe	swe	Andra| |Krönike+boken	731625
-Bandar Seri Begawan	b 'a n $ d a r | s e $ r 'i2: | b e $ g a $ w 'a n	PM NOM	swe	swe	Bandar| |Seri| |Begawan	731577
-Big Brother	b 'i g | b r 'a $ dh ë r	PM NOM	eng	swe	Big| |Brother	731958
-Bin Ladins	b 'i n | l 'a2: $ d i n s	PM GEN	swe	swe	Bin| |Ladins	731649
-Christian II:s	k r 'i $ s t i3 $ a n | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	christian| [den]|II:s	732125
-Die Form	d 'i2: | f 'å r m	NN	ger	swe	Die| |Form	731843
-Dominikanska republiken	d o $ m i $ n i $ k 'a2: n $ s k a | r e $ p u3 $ b l 'i2: $ k ë n	PM NOM	swe	swe	Dominikanska| |republiken	731584
-Elisabet I	e $ l "i2: $ s a $ b `ä t | d 'e n | f "ö3 $ rs rt `a	PM NOM	swe	swe	Elisabet| [den]|I	732166
-Femte Moseboken	f "e m $ t `ë | m "o2: $ s ë - b `o2: $ k ë n	PM NOM	swe	swe	Femte| |Mose+boken	731619
-GIF Sundsvall	g 'i f | s "u n d s - v `a l	PM NOM	swe	swe	GIF| |Sunds+vall	775714
-Gregorius IX	g r e3 $ g 'å2: $ r i3 $ u s | d 'e n | n "i2: $ `å n $ d ë	PM NOM	swe	swe	Gregorius| [den]|IX	732171
-Guatemala city	g u3 $ a t $ e3 m "a2: $ l `a | s 'i $ t y	PM NOM	swe	swe	Guatemala| |city	731587
-Gustav Adolf	g "u $ s t `a v | 'a2: d å l f	PM NOM	swe	swe	Gustav| |Adolf	731521
-Gustav I:s	g "u $ s t `a2: v | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Gustav| [den]|I:s	732135
-Hare Krishna	h 'a3: $ r ë | k r 'i $ rs rn a	PM NOM	unk	swe	Hare| |Krishna	731710
-I dag x3	i $ d 'a2: g | g 'å ng $ ë r | t r 'e2:	PM NOM	swe	swe	I| |dag| |x3	780213
-Ice age	'ai s | 'ei j3	PM NOM	eng	eng	Ice| |age	748959
-Jean Baptiste	rs 'a2: n | b a p $ t 'i s t	PM NOM	fre	swe	Jean| |Baptiste	757166
-Johan III:s	j "o2: $ `a n | d 'e n | t r "e2: d $ j `ë s	PM GEN	swe	swe	Johan| [den]|III:s	732144
-Johannes Paulus II	j o3 $ h 'a $ n ë s | p 'au $ l u s | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Johannes| |paulus| [den]|II	731512
-Jönköping S-Hammarby	j "ö2: n - tj `ö2: $ p i ng | s "ö2: $ d r `a | h "a $ m a r - b `y2:	ABBR	swe	swe	-	757387
-Jönköping S	j "ö2: n - tj `ö2: $ p i ng | 'ä s	ABBR	swe	swe	-	766858
-Karl XII	<SPLIT>k 'a2: rl | d 'e n | t "å l f $ t `ë	PM NOM	swe	swe	Karl| [den]|XII[tolfte]	754632
-Las Palmas	l a s ~ p 'a l $ m a s	PM NOM	swe	swe	Las~ ~palmas	731820
-Marthas Vineyard	m 'a2: r0 $ th a s | v 'i n ~ j a2: r0 d	PM NOM	eng	eng	Marthas| |Vineyard	784641
-Ms Word	e m $ e s ~ w 'ö3: rd	PM NOM	swe	swe	Ms~ ~Word	731612
-Nikolaj II	n i $ k o3 $ l 'a j | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Nikolaj| [den]|II	732257
-O. Lindberg	'o2: | l "i n d - b `ä3 r j	PM NOM	swe	swe	O.| |Lind+berg	777913
-PRO Rosta	p e2: $ ä3 r $ 'o2: | r 'o2: $ s t a	PM NOM	swe	swe	PRO| |Rosta	739088
-Richard Strauss	r 'i $ tj a r t | s t r 'au s	PM NOM	swe	swe	Richard| |Strauss	744543
-SK Frigg 1	"ä s $ k `å2: | f r 'i g | 'e t	PM NOM	swe	swe	SK| |Frigg| |1	781998
-San Francisco	s 'a n | f r a n $ s 'i $ s k o	PM NOM	swe	swe	San| |Francisco	731545
-Taj Mahal	t 'a sj | m a $ h 'a l	PM NOM	swe	swe	Taj| |Mahal	731639
-Tom Christensen	t 'å m | k r "i $ s t ë n $ s `e n	PM NOM	swe	swe	Tom| |Christensen	731670
-Tredje Johannesbrevet	t r "e2: d j ë | j o3 $ h "a $ n ë s - b r `e2: $ v ë t	PM NOM	swe	swe	Tredje| |Johannes+brevet	731636
-Union Jack's	j 'u4: $ n j ë n | j3 'ä3 k s	PM GEN	swe	swe	Union| |Jack's	731657
-Viking Line	v "i2: $ k `i ng | l 'a j n	PM NOM	swe	swe	Viking| |Line	731896
-White Lake	w 'ai t | l 'ei k	PM NOM	eng	eng	White| |Lake	731689
-Yttertjurbo härad	"y $ t ë r - tj `u2: r $ b o2: | h "ä3: $ r a d	PM NOM	swe	swe	Ytter+tjurbo| |härad	731902
-ad hoc-segmentering	'a d | h "å k - s e g $ m ë n $ t `e2: $ r i ng	NN UTR SIN IND NOM	swe	swe	ad| |hoc+-+segmentering	732383
-all rounds	å2: l $ r 'au n d s	JJ POS UTR/NEU SIN/PLU IND/DEF GEN	swe	swe	all rounds	8303
-artes prædicandi	'a r $ t ë s | p r e $ d i $ k 'a n $ d i	PM NOM	swe	swe	artes| |prædicandi	731943
-av intr	'a2: v | i n $ t r "ä $ d `ë	ABBR	swe	swe	-	783864
-bad girls	b 'ä3 d | g 'ö3: r0 l s	NN	eng	eng	bad| |girls	778994
-banne mej	b "a $ n ë $ m `ä j	AB	swe	swe	banne mej	34471
-da capo	d a $ k 'a2: $ p o	AB	swe	swe	da capo	71676
-de facto	d e3 $ f "a k $ t `o	AB	swe	swe	de facto	73704
-den IX	d 'e n | n "i2: $ `å n $ d ë	NN	swe	swe	den| |IX	738160
-den I	d 'e n | f "ö3 $ rs rt `ë	NN	swe	swe	den| |I	735232
-den XIV	d 'e n | f j "o2: $ rt `å n $ d ë	NN	swe	swe	den| |XIV	758638
-e. Kr	'e f $ t ë r | k r "i $ s t `u s	AB	swe	swe	-	744448
-enfant terribles	a ng $ f 'a ng | t ä3 $ r 'i2: $ b l ë s	NN - SIN IND GEN	fre	swe	enfant| |terribles	100016
-filosofie kandidat	f i $ l o $ s o3 $ f "i2: $ `ë | k a n $ d i $ d 'a2: t	NN	swe	swe	filosofie| |kandidat	731652
-filosofie magister	f i $ l o $ s o3 $ f "i2: $ `ë | m a $ j 'i $ s t ë r	NN	swe	swe	filosofie| |magister	731650
-force majeure	f å r $ s m a $ rs 'ö3: r	NN - SIN IND NOM	fre-swe	swe	force majeure	126914
-för övrigt	f 'ö3: r | "ö2: $ v r `i t	AB	swe	swe	för| |övrigt	139488
-före detta	f ö3: $ r ë ~ d "ä $ t `a	AB	swe	swe	före detta	141448
-genom dom alternativt genom	j 'e2: $ n å m | d 'o m | a l $ t ë $ rn a $ t 'i2: f t | j 'e2: $ n å m	NN	swe	swe	genom| |dom| |alternativt| |genom	731756
-hip hoprörelse	h "i p - h å p - r `ö3: $ r ë l $ s ë	NN	swe	swe	hip+ +hop+rörelse	731787
-i Rosta	'i2: | r 'o2: $ s t a	NN	swe	swe	i| |Rosta	780258
-i fred	i $ f r 'e2: d	AB	swe	swe	i fred	199032
-i kraft av	'i2: | k r 'a f t | 'a2: v	AB	swe	swe	i| |kraft| |av	731642
-i natt	i $ n 'a t	AB	swe	swe	i natt	199046
-in emot	i $ n e3 $ m 'o2: t	PP	swe	swe	in emot	203152
-längs utmed	l ä ng $ s u2: t $ m 'e2: d	AB	swe	swe	längs utmed	287935
-mitt ibland	m i $ t i $ b l 'a n d	PP	swe	swe	mitt ibland	307430
-persona gratas	p ä3 $ rs "å2: $ n `a | g r "a2: $ t `a s	NN - SIN IND GEN	swe	swe	persona| |gratas	371328
-plurale tantum	p l u2: $ r a2: $ l ë $ t "a n $ t `u m	NN - SIN IND NOM	swe	swe	plurale tantum	377971
-tusen kronor	t 'u2: $ s ë n | k r "o2: $ n `o r	NN	swe	swe	tusen| |kronor	731737
-tvärt emot	<SPLIT>t v ä3 $ rt e3 $ m 'o2: t	PP	swe	swe	tvärt emot	529704
-vid intr	v 'i2: d | i n $ t r "ä $ d `ë	ABBR	swe	swe	-	782439
-1 000-kronorssedlar	<SPLIT>t "u2: $ s ë n - k r o2: $ n o rs - s `e2: d $ l a r	NN UTR PLU IND NOM	swe	swe	1 000+-+kronors+sedlar	798720
-1 000-tal	t "u2: $ s ë n - t `a2: l	NN NEU SIN IND NOM	swe	swe	1~ ~000+-+tal	731757
-10 000-metersklubben	t "i2: $ o ~ t u2: $ s ë n - m e2: $ t ë rs - k l `u $ b ë n	NN	swe	swe	10 000+-+meters+klubben	756246
-AT & T	e j $ t i2: $ ä3 n d $ t 'i2:	PM NOM	eng	swe	AT & T	694708
-Actisorb Plus	a k t $ i $ s 'å r b | p l 'u s	PM NOM	swe	swe	Actisorb| |Plus	731825
-Andra Korinthierbrevet	"a n $ d r `a | k o3 $ r "i n t $ s i3 $ ë r - b r `e2: $ v ë t	PM NOM	swe	swe	Andra| |Korinthier+brevet	731629
-Andra Moseboken	"a n $ d r `a | m "o2: $ s ë - b `o2: $ k ë n	PM NOM	swe	swe	Andra| |Mose+boken	731616
-Andra Samuelsboken	"a n $ d r `a | s "a2: $ m u3 $ ë l s - b `o2: $ k ë n	PM NOM	swe	swe	Andra| |Samuels+boken	731621
-Bin Ladin	b 'i n | l 'a2: $ d i n	PM NOM	swe	swe	Bin| |Ladin	731648
-Chanson de Roland	rs a2: ng $ s 'å ng | d e ~ r å $ l 'a2: ng	PM NOM	swe	swe	Chanson| |de~ ~Roland	731916
-Christ lag yn todes	k r 'i s t | l 'a2: g | 'y n | t 'å2: d $ ë s	PM NOM	swe	swe	christ| |lag| |yn| |todes	731917
-Domoda Dar es-Salaam	d 'å $ m å $ d a | d 'a3: r | e s ~ s a $ l 'a3: m	PM NOM	swe	swe	Domoda| |Dar| |es-Salaam	731598
-Euangelisterin ielkin	e $ v a $ n j e3 $ l 'i s t $ ë $ r i n | j 'e l k $ i n	PM NOM	swe	swe	Euangelisterin| |ielkin	731922
-Förenade arabemiraten	f ö3 r $ 'e2: n $ a d ë | a $ r "a2: b - e m i $ r `a2: $ t ë n	PM NOM	swe	swe	Förenade| |Arab+emiraten	731585
-Första Johannesbrevet	f "ö3 $ rs rt `a | j o3 $ h "a $ n ë s - b r `e2: $ v ë t	PM NOM	swe	swe	Första| |Johannes+brevet	731634
-Henrik II	h 'e n $ r i k | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Henrik| [den]|II	731509
-Hong Kong	h "å ng - k `å ng	PM NOM	swe	swe	Hong+ +Kong	638982
-Johan III	j "o2: $ `a n | d 'e n | t r "e2: $ d j `ë	PM NOM	swe	swe	Johan| [den]|III	731511
-Jönköpings S	j "ö2: n - tj `ö2: $ p i ng s | s "ö2: $ d r `a	ABBR	swe	swe	-	779561
-Las Meninas	l 'a s | m e3 $ n 'i2: $ n a s	PM NOM	swe	swe	Las| |Meninas	731906
-Los Angeles	l 'å s | 'ä3 n $ j3 ë $ l ë s	PM NOM	swe	swe	Los| |Angeles	731534
-Ludvig XIVs	l 'u $ d v i g | d 'e n | f j "o2: $ rt `å n d ë s	ABBR	swe	swe	-	756983
-Napoleon III	n a $ p 'o2: $ l e3 $ å n | d 'e n | t r "e2: $ d j `ë	PM NOM	swe	swe	Napoleon| [den]|III	731666
-Oscar Burman	'å $ s k a r | b 'u2: r ~ m a n	PM NOM	swe	swe	Oscar| |Burman	731876
-Oskar I	'å $ s k a r | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Oskar| [den]|I	731540
-Phnom Penh	p n 'å m | p 'e n	PM NOM	swe	swe	Phnom| |Penh	731541
-Photoshop Formatalternativ	f 'o $ t o ~ rs å p | f å r $ m "a2: t - a l $ t ë $ rn a $ t `i2: v	NN	swe	swe	Photoshop| |Format+alternativ	731877
-Påve Urban V	p "å2: $ v `ë | 'u r $ b a n | d 'e n | f "e m $ t `ë	PM NOM	swe	swe	Påve| |urban| [den]|v	731515
-Rhétorique de limage	r ë $ t å $ r 'i k | d e ~ l i $ m 'a3: rs	NN	fre	swe	Rhétorique| |de~ ~limage	731879
-Saint Christopher och Nevis	s 'e j n t | k r 'i $ s t å $ f ë r | 'å2: | n 'e $ v i s	PM NOM	swe	swe	Saint| |Christopher| |och| |Nevis	731590
-Santa Fé de Bogotx{00C1}	s 'a n $ t a | f 'e2: | d 'e | b o $ g o3 $ t 'a2:	PM NOM	swe	swe	Santa| |Fé| |de| |Bogotx{00C1}	731581
-São Paulo	s 'a3: $ o | p 'au $ l o	PM NOM	swe	swe	São| |Paulo	731549
-Washington DC	w 'å $ rs i ng $ t ë n | d i2: $ s 'i2:	PM NOM	swe	swe	Washington| |DC	731553
-Windows XP	w 'i n $ d öw s | "e k s $ p `e2:	PM NOM	swe	swe	Windows| |XP	731686
-a dato	a $ d "a2: $ t `o	AB	swe	swe	a dato	78
-ad hoc-förhandlingar	'a d | h "å k - f ö3 r ~ h `a n d $ l i ng $ a r	NN UTR PLU IND NOM	swe	swe	ad| |hoc+-+förhandlingar	732541
-ad hoc	'a d | h 'å k	NN	swe	swe	ad| |hoc	731660
-all round	å2: l $ r 'au n d	JJ POS UTR/NEU SIN/PLU IND/DEF NOM	swe	swe	all round	8302
-amodal perception	a m $ o $ d 'a2: l | p ä3 r $ s e p $ sj 'o2: n	NN	swe	swe	amodal| |perception	731827
-bland andra	b l 'a n d | "a n $ d r `a	AB	swe	swe	bland| |andra	731563
-både och	b "å2: $ d `ë | 'å k	AB	swe	swe	både| |och	731709
-café au laits	k a $ f e2: $ å $ l 'ä2: s	NN UTR PLU IND GEN	swe	swe	café au laits	65301
-crx{00E8}me de la crx{00E8}mes	k r ä2: m $ d ë $ l a $ k r 'ä2: m s	NN - SIN IND GEN	fre	swe	crx{00E8}me de la crx{00E8}mes	70693
-cytokrom P-450-enzymer	s y2: $ t o3 $ k r 'å2: m | p 'e2: | f y2: $ r a ~ h u n $ d r a ~ f "e m $ t i - e n $ s `y2: $ m ë r	NN	swe	swe	cytokrom| |P|-|450+-+enzymer	731836
-dal segno	d a l $ s 'ä $ n j o	AB	swe	swe	dal segno	72208
-den II	d 'e n | "a n $ d r `ë	NN	swe	swe	den| |II	762963
-den X	d 'e n | t "i2: $ `å n $ d ë	NN	swe	swe	den| |X	753990
-efter hand	ä f $ t ë r $ h 'a n d	AB	swe	swe	efter hand	93967
-enfant terrible	a ng $ f 'a ng | t ä3 $ r 'i2: $ b l ë	NN - SIN IND NOM	fre	swe	enfant| |terrible	100015
-ex tempore	ä k $ s t 'ä m $ p å $ r ë	AB	swe	swe	ex tempore	107142
-f Kr	f "ö3: $ r `ë | k r "i $ s t `u s	ABBR	swe	swe	-	749772
-fastställts genom dom kan	f "a s t - s t `ä l s | j 'e2: $ n å m | d 'o m | k 'a n	NN	swe	swe	fast+ställts| |genom| |dom| |kan	731748
-feel bad	f 'i2: l | b 'ä3: d	AB	swe	swe	feel| |bad	731646
-fr kl	f r 'å2: n | k l "å $ k `a n	ABBR	swe	swe	-	782331
-golden retriever	g 'öw l $ d ë n | r e3 $ t r 'i2: $ v ë r	NN UTR SIN IND NOM	swe	swe	golden| |retriever	731659
-hallejuah moments	h a $ l e3 $ l 'u2: $ j a | m 'o2: $ m ë n t s	NN	eng	swe	hallejuah| |moments	770570
-hip hopkollektiv	h "i p - h å p - k å $ l ë k $ t `i2: v	NN	swe	swe	hip+ +hop+kollektiv	731786
-hip hops	h "i p - h `å p s	NN	swe	swe	hip+ +hops	731790
-i dag	i $ d 'a2: g	AB	swe	swe	i dag	199029
-i kväll	i $ k v 'ä l	AB	swe	swe	i kväll	199041
-i väg	i $ v 'ä2: g	AB	swe	swe	i väg	199048
-im Kinde	'i m | k 'i n d $ ë	NN	ger	swe	im| |Kinde	731962
-in vitro	i n $ v 'i2: $ t r o	AB	swe	swe	in vitro	203156
-in vivo	i n $ v 'i2: $ v o	AB	swe	swe	in vivo	203157
-inl. gurka	"i n - l `a g d | g "u r $ k `a	AB	swe	swe	-	745514
-jäms med	<SPLIT>j ä m s ~ m 'e2: d	PP	swe	swe	jäms med	220828
-la langue	l a ~ l 'a2: ng	NN	fre	swe	la~ ~langue	731718
-lemon curd	l 'e $ m å n | k 'ö3: rd	NN UTR SIN IND NOM	eng	swe	lemon| |curd	731957
-live by	l 'i v | b 'ai	PM NOM	eng	eng	live| |by	731926
-längs efter	l ä ng $ s 'ä f $ t ë r	PP	swe	swe	längs efter	287932
-m fl	m 'e2: | f l "e2: $ r `a	ABBR	swe	swe	-	762849
-miljoner kronor	m i l $ j 'o2: $ n ë r | k r "o2: $ n `o r	NN	swe	swe	miljoner| |kronor	731738
-mitt emot	m i $ t e3 $ m 'o2: t	PP	swe	swe	mitt emot	307428
-nå ja	n 'å2: $ j a	IN	swe	swe	nå ja	331158
-om igen	å $ m i $ j 'ä n	AB	swe	swe	om igen	344240
-per capsulam	p ä3 r $ k 'a p $ s u3 $ l a m	AB	swe	swe	per capsulam	369532
-persona grata	p ä3 $ rs "å2: $ n `a | g r "a2: $ t `a	NN - SIN IND NOM	swe	swe	persona| |grata	371327
-prof em	p r o3 $ f "ä $ s `o r | e3 $ m 'e2: $ r i $ t u s	ABBR	swe	swe	-	782411
-risken för men	r 'i $ s k ë n | f 'ö3: r | m 'e2: n	NN	swe	swe	risken| |för| |men	731780
-runt ikring	<SPLIT>r 'u n t | i $ k r 'i ng	PP	swe	swe	runt| |ikring	417817
-scampi fritti	s k a m $ p i $ f r 'i $ t i	NN NEU PLU IND NOM	swe	swe	scampi fritti	428740
-sen var	s 'e n | v 'a2: r	VB	swe	swe	sen| |var	754985
-sv plac	s v 'ä n s k | p l a $ s 'e2: $ r i ng	ABBR	swe	swe	-	767703
-till c:a 1940	t 'i | s "i r $ k `a | n i $ t å n ~ h u n $ d r a ~ f 'ö $ rt i	NN	swe	swe	till| |c:a| |1940	731891
-till och med	t 'i l | 'å2: | m 'e2:	PP	swe	swe	till| |och| |med	731739
-till äventyrs	t i $ l "ä2: $ v ë n $ t `y2: rs	AB	swe	swe	till äventyrs	510145
-trakeal intubation	t r a $ k e3 $ 'a2: l | i n $ t u $ b a $ sj 'o2: n	NN	swe	swe	trakeal| |intubation	731893
-var helst	v a2: r $ h 'ä l s t	AB	swe	swe	var helst	546439
-à la bonne heure	a $ l a $ b å $ n 'ö3: r	AB	swe	swe	à la bonne heure	563991
-å jo	'å2: $ j o	IN	swe	swe	å jo	566107
-Al Safandi	'a l | s a $ f 'a n $ d i	PM NOM	ara	swe	Al| |Safandi	771792
-Alexander III	a $ l ë k $ s 'a n $ d ë r | d 'e n | t r "e2: d $ j `ë	PM NOM	swe	swe	Alexander| [den]|III	732163
-BBC Entertainment	b i2: ~ b i2: ~ s 'i2: | e n $ t ë r $ t 'ä j n $ m ë n t	PM NOM	eng	swe	BBC| |Entertainment	737873
-BlackPearl Res.	b l 'ä3 k ~ p ö3: r0 l | r3 'i2: $ s å2: r0 $ s i s	AB	eng	eng	-	790331
-C More Emotion	s 'i2: | m 'å2: r3 | i $ m 'öw $ rs ë n	PM NOM	eng	eng	C| |More| |Emotion	739616
-Carl XV:s	k 'a2: rl | d 'e n | f "e m $ t `å n $ d ë s	PM GEN	swe	swe	carl| [den]|XV:s[femtondes]	752234
-Central Park	s 'e n $ t r3 ë l | p 'a2: r0 k	PM NOM	eng	eng	Central| |Park	731702
-Central park	s 'e n $ t r3 ë l | p 'a2: r0 k	PM NOM	eng	eng	Central| |park	731959
-Christian II	k r 'i $ s t i3 $ a n | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	christian| [den]|II	732165
-Clockwork Orange	k l 'å k ~ w ö3: r0 k | 'å r3 $ i n j3	PM NOM	eng	eng	Clockwork| |Orange	731984
-Coney Island	k 'öw $ n i | 'ai $ l ë n d	PM NOM	eng	eng	Coney| |Island	731697
-DAISY Consortium	d 'ei $ s i | k å n $ s 'å2: r0 $ rs ë m	PM NOM	eng	eng	DAISY| |Consortium	731838
-Douglas Adams	d 'å $ g l ë s | 'ä3 $ d ë m s	PM NOM	eng	eng	Douglas| |Adams	731724
-Erik XIV:s	<SPLIT>"e2: $ r `i k | d 'e n | f j "o2: $ rt `å n $ d ë s	PM GEN	swe	swe	Erik| [den]|XIV:s[sextondes]	761931
-Fredrik IV:s	f r 'e2: $ d r i k | d 'e n | f j "ä3: $ rd `ë s	PM GEN	swe	swe	Fredrik| [den]|IV:s	732131
-Gustav I	g "u $ s t `a2: v | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Gustav| [den]|I	732174
-Gustav Vs	g "u $ s t `a v | d 'e n | f "e m $ t `ë	PM GEN	swe	swe	Gustav| [den]|Vs[femtes]	759064
-Hans Bergström	h 'a2: n s | b "ä3 r j - s t r `ö m	PM NOM	swe	swe	Hans| |Berg+ström	738200
-Issac Cofie	'a j $ s ë k | k 'å $ f i3 $ ë	PM NOM	eng	swe	Issac| |cofie	774719
-Janis Joplin	j3 'ä3 $ n i s | j3 'å $ p l i n	PM NOM	eng	eng	Janis| |Joplin	731700
-Just kids	j3 'a s t | k 'i d s	PM NOM	eng	eng	Just| |kids	731741
-Karl II:s	k 'a2: rl | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Karl| [den]|II:s	732146
-Karl XIII	k 'a2: rl | d 'e n | t r "ä $ t `å n $ d ë	PM NOM	swe	swe	Karl| [den]|XIII	732190
-Karl XV:s	<SPLIT>k 'a2: rl | d 'e n | f "e m $ t `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|XV:s[femtondes]	770105
-Karl Xs	k 'a2: rl | d 'e n | t "i2: $ `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|Xs[tiondes]	749413
-Katarina II	k a $ t a $ r "i2: $ n `a | d 'e n | "a n $ d r `a	PM NOM	swe	swe	Katarina| [den]|II	732193
-Kristian III:s	k r "i $ s t i3 $ `a n | d 'e n | t r "e2: d $ j `ë s	PM GEN	swe	swe	Kristian| [den]|III:s	732156
-Le Louis XV	l e ~ l o3 $ 'i2: | d 'e n | f "e m $ t `å n $ d ë	PM NOM	swe	swe	Le| |Louis| |XV	772344
-Long Island	l 'å ng | 'ai $ l ë n d	PM NOM	eng	eng	Long| |Island	731698
-Manchester C-Everton	m 'ä3 n $ tj3 e $ s t ë r0 | s 'i $ t i | 'e $ v ë r0 $ t å n	AB	eng	eng	-	760126
-Manchester C	m 'ä3 n $ tj3 e $ s t ë r0 | s 'i $ t i	AB	eng	eng	-	748139
-Mark Frost	m 'a2: r0 k | f r3 'å s t	PM NOM	eng	eng	Mark| |Frost	731762
-Melissa Horn	m e3 $ l 'i $ s a | h 'å2: rn	PM NOM	swe	swe	Melissa| |Horn	756557
-NY Rangers	n j 'u4: | j 'å2: r0 k | r3 'ei n $ j3 ë r0 s	AB	eng	eng	-	742411
-Ocean's thirteen	'öw $ rs ë n s | th ö3: r0 $ t 'i2: n	PM NOM	eng	eng	Ocean's| |thirteen	764732
-Oscar I	'å $ s k a r | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Oscar| [den]|I[förste]	738498
-PAS Giannina	p 'a s | j 'a $ n i $ n a	PM NOM	gre	swe	PAS| |Giannina	779860
-Paris SG	p a $ r 'i2: s | "ä s $ g `e2:	PM NOM	swe	swe	Paris| |SG	773005
-Patrick Modiano	p a $ t r 'i k | m å $ d i3 $ a $ n 'å2:	PM NOM	fre	swe	Patrick| |Modiano	735269
-Pelas Bengt	p "e2: $ l `a s | b 'e ng t	PM NOM	swe	swe	Pelas| |Bengt	753962
-Richard IIIs	r 'i $ k a rd | d 'e n | t r "e2: $ d j `ë s	PM GEN	swe	swe	Richard| [den]|IIIs[tredjes]	758911
-Richard Stones	r3 'i tj3 $ ë r0 d | s t 'öw n s	PM NOM	eng	eng	Richard| |Stones	731880
-St Djulö	s 'a ng t | j "u2: l - `ö2:	PM NOM	swe	swe	St| |Djul+ö	755146
-St Louis	s 'ei n t | l 'u4: $ i s	AB	eng	eng	-	782520
-a gigant leap	'ä3 | j3 'ai $ ë n t | l 'i2: p	NN	eng	eng	a| |gigant| |leap	731743
-beach house	b 'i2: tj3 | h 'au s	NN SIN NOM	eng	eng	beach| |house	767393
-general hospitals	j3 'e $ n ë $ r3 ë l | h 'å $ s p i $ t ë l s	NN	eng	eng	general| |hospitals	780393
-homo religiosus	h 'o2: $ m o | r e $ l i $ g i $ "å2: $ s `u s	NN	lat	swe	homo| |religiosus	731937
-of Sweden	'å v | s w 'i2: $ d ë n	PM NOM	eng	swe	Of| |Sweden	732460
-trial and error	t r3 'a $ j ë l | 'ä3 n d | 'e $ r3 ë r0	NN	eng	eng	trial| |and| |error	731774
-viel Lieben	f 'i2: l | l 'i2: $ b ë n	PM NOM	swe	swe	viel| |Lieben	731941
-1 msk	'e n | m "a2: t - sj `e2: d	ABBR	swe	swe	-	784465
-2 1/2 män	t v 'å2: | 'å2: | 'e n | h 'a l v | m 'ä n	PM NOM	swe	swe	2| |1/2[och| |en| |halv]| |män	731819
-20 Jahrhunderts	t s v 'a n s $ i tj | j 'a3: r ~ h o n $ d ë r t s	NN	ger	swe	20| |Jahrhunderts	731963
-August II:s	'a2: $ g u s t | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	August| [den]|II:s	732124
-CANAL +	k a $ n 'a2: l | p l 'u s	AB	swe	swe	-	746272
-Crohns sjukdom	k r 'å2: n s | sj "u2: k - d `o m	NN	swe	swe	Crohns| |sjuk+dom	731811
-DE ORATORE AD QUINTUM FRATREM LIBER PRIMUS	d 'e2: | o $ r a $ t "å2: $ r `ë | 'a d | k v "i n $ t `u m | f r 'a2: $ t r ë m | l 'i2: $ b ë r | p r 'i2: $ m u s	NN	lat	swe	DE| |ORATORE| |AD| |QUINTUM| |FRATREM| |LIBER| |PRIMUS	732380
-Erik V:s	"e2: $ r `i k | d 'e n | f "e m $ t `ë s	PM GEN	swe	swe	Erik| [den]|V:s	732127
-Fredrik II:s	f r 'e2: $ d r i k | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Fredrik| [den]|II:s	732130
-Första Korinthierbrevet	f "ö3 $ rs rt `a | k o3 $ r "i n t $ s i3 $ ë r - b r `e2: $ v ë t	PM NOM	swe	swe	Första| |Korinthier+brevet	731628
-Första Petrusbrevet	f "ö3 $ rs rt `a | p "e2: $ t r u s - b r `e2: $ v ë t	PM NOM	swe	swe	Första| |Petrus+brevet	731637
-Gustav II Adolf	<SPLIT>g "u $ s t `a v | d 'e n | "a n $ d r `ë | 'a2: $ d å l f	PM NOM	swe	swe	Gustav| [den]|II[andre]| |Adolf	751737
-Gustav II	g "u $ s t `a2: v | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Gustav| [den]|II	732175
-Hadrianus IV	h a $ d r i $ 'a2: $ n u s | d 'e n | f j "ä3: $ rd `ë	PM NOM	swe	swe	Hadrianus| [den]|IV	732179
-III- och IV-muskelafferenser	t r 'e2: | 'å2: | f "y2: $ r a - m u $ s k ë l - a $ f e3 $ r `ä n $ s ë r	NN UTR PLU IND NOM	swe	swe	III-| |och| |IV+-+muskel+afferenser	732079
-Kap Verde	k 'a2: p | v "ä3: r $ d `ë	PM NOM	swe	swe	Kap| |Verde	731600
-Karl X Gustav	k 'a2: rl | d 'e n | t "i2: $ `å n d ë | g "u $ s t `a v	PM NOM	swe	swe	Karl| [den]|x| |gustav	731525
-Karl XI:s	<SPLIT>k 'a2: rl | d 'e n | "e l f $ t `ë s	PM GEN	swe	swe	Karl| [den]|XI:s[elftes]	761994
-Kristian I	k r "i $ s t i3 $ `a n | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Kristian| [den]|I	732194
-La nappe blanche	l a ~ n 'a p | b l 'a2: rn rs	NN	fre	swe	la~ ~nappe| |blanche	731864
-Leben under Bedrohung	l 'e2: $ b ë n | 'o n $ t ë r | b e3 $ d r 'å2: $ o ng	PM NOM	ger	swe	Leben| |under| |Bedrohung	731925
-Monte Carlo	m 'å n $ t ë | k 'a2: $ rl o	PM NOM	swe	swe	Monte| |Carlo	731537
-Oscar II	<SPLIT>'å $ s k a r | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Oscar| [den]|II[andre]	744452
-Peer Gynt	p 'ä3: r | g 'y n t	PM NOM	swe	swe	Peer| |Gynt	731907
-Résistances de psychanalyse	r ë $ s i $ s t 'a2: n s | d e ~ p s y $ k a $ n a $ l 'i s	NN	fre	swe	Résistances| |de~ ~psychanalyse	731881
-Saint Vincent och Grenadinerna	s 'e j n t | v 'i n $ s ë n t | 'å2: | g r e $ n a $ d 'i2: $ n ë $ rn a	PM NOM	swe	swe	Saint| |Vincent| |och| |Grenadinerna	731592
-San José	s 'a n | sj o3 $ s 'e2:	PM NOM	swe	swe	San| |José	731583
-San Marino	s 'a n | m a $ r 'i2: $ n o	PM NOM	swe	swe	San| |Marino	731593
-South Carolina	<SPLIT>s 'au th | k ä3 $ r3 ë $ l 'ai $ n a	PM NOM	eng	eng	South| |Carolina	784058
-St Louis-Chicago	s 'e j n t | l 'o2: $ i s | tj i $ k 'a2: $ g o	AB	eng	swe	-	735565
-Stanley cup	s t 'ä3 n $ l i | k 'a p	PM NOM	swe	swe	Stanley| |cup	731955
-Tavegyl Novartis	t a $ v ë $ g 'y2: l | n o3 $ v 'a r $ t i s	PM NOM	swe	swe	Tavegyl| |Novartis	731889
-Union Jack	j 'u4: $ n j ë n | j3 'ä3 k	PM NOM	swe	swe	Union| |Jack	731656
-Uppl. avgift	"u p - l ä $ g n i ng s - a2: v - j `i f t	AB	swe	swe	-	741633
-Vladimir I:s	v l 'a $ d i $ m i2: r | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Vladimir| [den]|I:s	732162
-a conto	a $ k "å n $ t `o	AB	swe	swe	a conto	77
-ad notam	a d $ n "o2: $ t `a m	AB	swe	swe	ad notam	2117
-alter egos	a l $ t ë $ r 'e2: $ g o s	NN NEU SIN IND GEN	swe	swe	alter egos	9632
-bak och fram	b a2: $ k å k $ f r 'a m	AB	swe	swe	bak och fram	32636
-bild 1	b 'i l d | 'e t	NN	swe	swe	bild| |1	736056
-curriculum vitae	<SPLIT>k u $ r "i $ k `u $ l u m | v "i2: $ t `ë	NN - SIN IND NOM	swe	swe	curriculum| |vitae	732391
-de Beauvoir	d 'e | b å $ v o3 $ 'a3: r	PM NOM	fre	swe	De| |Beauvoir	731726
-dem Auge des Kindes	d 'e2: m | 'au $ g ë | d 'e s | k 'i n $ d ë s	NN	ger	swe	dem| |Auge| |des| |Kindes	731961
-den III	d 'e n | t r "e2: $ d j `ë	NN	swe	swe	den| |III	791409
-den Raum	d 'e2: n | r 'au m	PM NOM	ger	swe	den| |Raum	731933
-den XI	d 'e n | "e l f $ t `ë	NN	swe	swe	den| |XI	788280
-des Kindes	d 'e s | k 'i n $ d ë s	PM NOM	ger	swe	des| |Kindes	731934
-desktop publishings	d 'e s k $ t å p | p 'a $ b l i $ rs i ng s	NN - SIN IND GEN	eng	swe	desktop| |publishings	78434
-die Verborgenheit	d 'i2: | f e r $ b 'å r $ g ë n $ h a j t	NN	ger	swe	die| |Verborgenheit	731844
-diskriminativ stimulus	d i $ s k r i $ m i $ n a $ t 'i2: v | s t 'i2: $ m u $ l u s	NN	swe	swe	diskriminativ| |stimulus	731846
-div IV	d i $ v i $ sj 'o2: n | f "y2: $ r `a	NN	swe	swe	div| |IV	766544
-division IV	d i $ v i $ sj 'o2: n | f "y2: $ r `a	NN	swe	swe	division| |IV	760070
-egen inl	"e2: $ g `ë n | "i n - l `ä m $ n i ng	ABBR	swe	swe	-	748831
-en gros	a ng $ g r 'å2:	AB	fre	swe	en gros	99078
-en passants	a ng $ p a $ s 'a ng s	NN - SIN IND GEN	fre	swe	en passants	99082
-fata morganas	f a2: $ t a $ m å r $ g 'a2: $ n a s	NN - SIN IND GEN	swe	swe	fata morganas	114392
-figur 1	f i $ g 'u2: r | 'e t	NN	swe	swe	figur| |1	779684
-från och med	f r 'å2: n | 'å2: | m 'e2:	PP	swe	swe	från| |och| |med	731740
-företagsfl ytt	f "ö3: $ r ë $ t a2: g s - f l `y t	NN	swe	swe	företags+fl ytt	758560
-god dag	g o ~ d 'a2:	IN	swe	swe	god~ ~dag	731678
-hip hoparen	h "i p - h `å $ p a $ r ë n	NN	swe	swe	hip+ +hoparen	731794
-hip hopens	h "i p - h `å $ p ë n s	NN	swe	swe	hip+ +hopens	731792
-i jåns	i $ j 'å n s	AB	swe	swe	i jåns	199037
-in blanco	i n $ b l 'a ng $ k o	AB	swe	swe	in blanco	203147
-in blanko	i n $ b l 'a ng $ k o	AB	swe	swe	in blanko	203148
-ingen vart	"i ng $ ë n $ v `a rt	AB	swe	swe	ingen vart	206259
-jo visst	j o $ v 'i s t	IN	swe	swe	jo visst	217840
-la parole	l a ~ p a $ r 'å l	NN	fre	swe	la~ ~parole	731719
-med flera	m 'e2: | f l 'e2: $ r a	AB	swe	swe	med| |flera	731560
-mene tekel	m e2: $ n ë $ t 'e2: $ k ë l	NN - SIN IND NOM	swe	swe	mene tekel	301359
-mesocortikala banan	m e $ s å $ k å rt $ i $ k 'a2: $ l a | b "a2: $ n `a n	NN	swe	swe	mesocortikala| |banan	731870
-mitt på	m i t $ p 'å2:	PP	swe	swe	mitt på	307431
-något så när	n å2: $ g å t ~ s å2: ~ n 'ä3: r	AB	swe	swe	något så när	331288
-persona ingrata	p ä3 $ rs "å2: $ n `a | i ng $ g r "a2: $ t `a	NN - SIN IND NOM	swe	swe	persona| |ingrata	371329
-primus motors	p r 'i2: $ m u s | m "o2: $ t `o rs	NN UTR SIN IND GEN	swe	swe	primus| |motors	386730
-rock 'n' roll	r å $ k ë n $ r 'å l	NN UTR SIN IND NOM	swe	swe	rock 'n' roll	756870
-science fiction	s a $ j ë n s ~ f 'i k $ rs ë n	NN - SIN IND NOM	swe	swe	science fiction	430157
-sen accept	s 'e2: n | a k $ s 'e p t	NN	swe	swe	sen| |accept	731883
-slut parentes	s l 'u2: t | p a $ r ë n $ t 'e2: s	NN	swe	swe	slut| |parentes	731645
-stor-São Paulo	s t "o2: r - s au ~ p `au $ l o	PM NOM	swe	swe	stor+-+são~ ~paulo	731669
-större än	s t 'ö3 $ r ë | 'ä n	AB	swe	swe	större| |än	731566
-t o m	t 'i l | 'å k | m 'e2: d	ABBR	swe	swe	-	752227
-till -20	t 'i l | m 'i2: $ n u s | tj "u2: $ g `o	ABBR	swe	swe	till| |-[minus]|20	732372
-till viljes	t i l $ v "i l $ j `ë s	AB	swe	swe	till viljes	510143
-uppf av	"u p - f `ö d | 'a2: v	ABBR	swe	swe	-	775466
-uppf. o. äg.	"u p - f `ö2: $ d a $ r ë | 'å2: | "ä2: $ g `a $ r ë	ABBR	swe	swe	-	776196
-var och en	v 'a2: r | 'å2: | 'e n	NN	swe	swe	var| |och| |en	731758
-vara ok	v "a2: $ r `a | o3 $ k 'e j	VB	swe	swe	vara| |ok	732484
-över måttan	ö2: $ v ë r $ m "å $ t `a n	AB	swe	swe	över måttan	570372
-Ally McBeal	'ä3 $ l i | m ä3 k ~ b 'i2: l	PM NOM	eng	eng	Ally| |McBeal	731723
-Animal Planet	'ä3 $ n i $ m ë l | p l 'ä3 $ n ë t	PM NOM	eng	eng	Animal| |Planet	784142
-C. S. Lewis	s 'i2: | 'e s | l 'u4: $ i s	PM NOM	eng	eng	C.| |S.| |Lewis	731715
-Chartre des bibliothéques	rs 'a r $ t r ë | d 'e | b i $ b l i3 $ o3 $ t 'e k	PM NOM	fre	swe	chartre| |des| |bibliothéques	732270
-Crystal P	k r3 'i $ s t ë l | p 'i2:	PM NOM	eng	eng	crystal| |p	750928
-David Brooks	d 'ei $ v i d | b r3 'u4 k s	PM NOM	eng	eng	David| |Brooks	774221
-David Letterman	d 'e j $ v i d | l 'e $ t ë r $ m a n	PM NOM	eng	eng	David| |Letterman	731840
-Drott-La Rioja	d r 'å t | l a ~ r i $ 'å $ sj a	PM NOM	mix	swe	Drott|-|La~ ~Rioja	745510
-Final Fantasy	f 'ai $ n ë l | f 'ä3 n $ t ë $ s i	PM NOM	eng	eng	Final| |Fantasy	731722
-George Bernhard Shaw	j3 'å2: r0 j3 | b 'ö3: r0 $ n ë r0 d | rs 'å2:	PM NOM	eng	eng	George| |Bernhard| |Shaw	731851
-Gustav XVI:s	g "u $ s t `a v | d 'e n | s "e k $ s t `å n $ d ë s	PM GEN	swe	swe	Gustav| [den]|XVI:s[sextondes]	736456
-Gustav XVIs	g "u $ s t `a v | d 'e n | s "e k $ s t `å n $ d ë s	PM GEN	swe	swe	Gustav| [den]|XVIs[sextondes]	768819
-Hans Gribshund	h 'a2: n s | g r "i p s - h `u n d	PM NOM	swe	swe	Hans| |Gribs+hund	732544
-Jong Ils	j 'å ng | 'i l s	PM GEN	kor	swe	Jong| |Ils	775288
-Karl XIs	k 'a2: rl | d 'e n | "e l f $ t `ë s	PM GEN	swe	swe	Karl| [den]|XIs[elftes]	740657
-Ludvig XIII	l 'u d $ v i g | d 'e n | t r "ä $ t `å n $ d ë	PM NOM	swe	swe	Ludvig| [den]|XIII	732204
-Mel Brooks	m 'e l | b r3 'u4 k s	PM NOM	eng	eng	Mel| |Brooks	731696
-Mutar Muthanna Majid	m o3 $ t 'a r | m o $ h 'a $ n a | m a $ j 'i d	PM NOM	ara	swe	Mutar|muthanna|majid	811426
-No logo	n 'öw | l 'öw $ g öw	PM NOM	eng	eng	No| |logo	732384
-Patrick Mondianos	p a $ t r 'i k | m å $ d i3 $ a $ n 'å2: s	PM GEN	swe	swe	Patrick| |Mondianos	759507
-Red hat	r3 'e d | h 'ä3 t	PM NOM	eng	eng	Red| |hat	732304
-Sheridan Park	rs 'e $ r3 i $ d ë n | p 'a2: r0 k	PM NOM	eng	eng	Sheridan| |Park	731703
-Sixfeet under	s 'i k s | f 'i2: t | 'a n d $ ë r0	PM NOM	eng	eng	Six|feet| |under	731970
-Vartislav VII	v 'a r $ t i $ s l a v | d 'e n | sj "u n $ d `ë	PM NOM	swe	swe	Vartislav| [den]|VII	732200
-dine with	d 'ai n | w 'i dh	NN	eng	eng	dine| |with	773592
-hur så	<SPLIT>h 'u2: | rs 'å2:	AB	eng	eng	hur| |så	732030
-i dag x 3	i2: $ d 'a2: g | g 'å ng $ ë r | t r 'e2:	PM NOM	swe	swe	i dag| |x[gånger]| |3	791431
-like an	l 'ai k | 'ä3 n	PM NOM	eng	eng	like| |an	731783
-page frame	p 'ei j3 ~ f r3 ei m	NN	eng	eng	page frame	730447
-the ultimate	dh 'i2:	DT	eng	eng	the ultimate	761189
-1 tsk	'e n | t "e2: - sj `e2: d	ABBR	swe	swe	-	763777
-1:a VK	f "ö3 $ rs rt `a | v a $ t i $ k "a2: n - k å n $ s `i2: $ l i3 $ ë t	PM NOM	swe	swe	1:a| |v+k	731613
-4 x nya deckare	f "y2: $ r `a | g "å ng $ `ë r | n "y2: $ `a | d "e $ k `a $ r ë	NN	swe	swe	4| |x| |nya| |deckare	741051
-Anaheim-NY Rangers	'a $ n a $ h e j m | n j 'u4: | j 'å2: r k | r3 'e j n $ j3 ë rs	ABBR	eng	swe	-	761791
-Andra Kungaboken	"a n $ d r `a | k "u ng $ a - b `o2: $ k ë n	PM NOM	swe	swe	Andra| |Kunga+boken	731623
-Benedictus XVI	b e $ n e3 $ d "i k $ t `u s | d 'e n | s "e k $ s t `å n $ d ë	PM NOM	swe	swe	Benedictus| [den]|xvi	731506
-Carl XVI Gustav	k 'a2: rl | d 'e n | s "e k $ s t `å n d ë | g "u $ s t a v	PM NOM	swe	swe	carl| [den]|xvi| |gustav	731505
-Costa Rica	k 'å $ s t a | r 'i2: $ k a	PM NOM	swe	swe	costa| |Rica	731582
-Daim Orange	d 'a j m | o3 $ r 'a rn rs	PM NOM	swe	swe	Daim| |Orange	731837
-Första Mackabeerboken	f "ö3 $ rs rt `a | m a $ k a $ b "e2: $ ë r - b `o2: $ k ë n	PM NOM	swe	swe	Första| |Mackabeer+boken	731626
-Gustav VI Adolf	g "u $ s t `a v | d 'e n | s j "ä $ t `ë | 'a2: $ d å l f	PM NOM	swe	swe	Gustav| [den]|vi| |adolf	731524
-Johannes Paulus I	j o3 $ h 'a $ n ë s | p 'au $ l u s | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Johannes| |paulus| [den]|I	731513
-Jose-NY Rangers	sj o3 $ s 'e2: | n j 'u4: | j 'å2: r k | r 'e j n $ j3 ë rs	AB	mix	swe	-	743896
-Kejsar Leo III	tj 'e j $ s a r | l 'e2: $ o | d 'e n | t r "e2: $ d j `ë	PM NOM	swe	swe	Kejsar| |leo| [den]|III	731510
-Kristian IVs	k r 'i $ s t i3 $ a n | d 'e n | f j "ä3: $ rd `ë s	PM GEN	swe	swe	Kristian| [den]|ivs	731529
-Luciano Pavarotti	l u $ tj3 i3 $ 'a2: $ n o | p a $ v a $ r 'å $ t i	PM NOM	swe	swe	Luciano| |Pavarotti	731865
-Ludvig XIV:s	<SPLIT>l 'u d $ v i g | d 'e n | f j "o2: $ rt `å n $ d ë s	PM GEN	swe	swe	Ludvig| [den]|XIV:s	732158
-Michael Jordan	m 'a j $ k ë l | d j 'å2: $ rd ë n	PM NOM	swe	swe	Michael| |Jordan	731776
-Mikronesiens federerade stater	m i $ k r o3 $ n 'e2: $ s i3 $ ë n s | f e $ d e3 $ r 'e2: $ r a $ d ë | s t "a2: $ t `ë r	PM NOM	swe	swe	Mikronesiens| |federerade| |stater	731605
-Navy CIS	n 'e j $ v i | s i2: $ a j $ 'e s	PM NOM	swe	swe	Navy| |CIS	731815
-Net plex-talk	n 'e t | p l 'e k s | t 'å2: k	PM NOM	swe	swe	Net| |plex|-|talk	731668
-Nicholas Sarkozys	n i $ k o3 $ l 'a | s a r $ k o3 $ s 'i2: s	PM GEN	fre	swe	Nicholas| |Sarkozys	731874
-Paris St Germain	p a $ r 'i2: | s 'ä2: n t | rs e r $ m 'ä2: n	ABBR	fre	swe	-	765741
-Port of Spain	p 'å2: rt | 'å v | s p 'e j n	PM NOM	swe	swe	Port| |of| |Spain	731658
-Stavst. vänner	s t 'a2: v ~ s t e2: n s | v "ä $ n `ë r	ABBR	swe	swe	-	777765
-The Latin Kings	dh 'e | l 'ä3 t i n | k 'i ng s	PM NOM	swe	swe	The| |Latin| |Kings	731641
-Viking Lines	v "i2: $ k `i ng | l 'a j n s	PM GEN	swe	swe	Viking| |Lines	731897
-Weihenstephaner Hefe Weissbier	v 'a $ j ë n $ rs rt e2: $ f a $ n ë r | h 'e2: $ f ë | v 'a j s $ b i2: r	PM NOM	ger	swe	Weihenstephaner| |Hefe| |Weissbier	731901
-a prima vista	a $ p r i $ m a $ v "i $ s t `a	AB	swe	swe	a prima vista	80
-ad libitum	a d $ l 'i2: $ b i $ t u m	AB	swe	swe	ad libitum	2116
-alter ego	a l $ t ë $ r 'e2: $ g o	NN NEU SIN IND NOM	swe	swe	alter ego	9631
-annan stans	"a $ n `a n | s t 'a n s	AB	swe	swe	annan| |stans	750147
-bland annat	<SPLIT>b l 'a n d | "a $ n `a t	AB	swe	swe	bland| |annat	731562
-cordon sanitaire	k 'å r $ d å n | s a $ n i $ t 'ä3: r	PM NOM	swe	swe	cordon| |sanitaire	731835
-de jure	d e3 $ j 'o2: $ r ë	NN	lat	swe	de jure	775075
-der Gesundheit	d 'e2: r | g e $ s 'o n d $ h a j t	NN	ger	swe	der| |Gesundheit	731842
-des mers	d e3 $ m 'ä3: r	NN	fre	swe	des mers	748719
-desktop publishing	d 'e s k $ t å p | p 'a $ b l i $ rs i ng	NN - SIN IND NOM	eng	swe	desktop| |publishing	78433
-division V	d i $ v i $ sj 'o2: n | f 'e m	NN	swe	swe	division| |fem	808157
-efter kristus	'e f $ t ë r | k r "i $ s t `u s	AB	swe	swe	efter| |kristus	731674
-en passant	<SPLIT>a ng $ p a $ s 'a ng	NN - SIN IND NOM	fre	swe	en passant	99081
-f. Kr	f "ö3: $ r `ë | k r "i $ s t `u s	AB	swe	swe	-	737001
-fait accomplis	f ä2: $ t a $ k å m $ p l 'i2: s	NN UTR SIN IND GEN	fre-swe	swe	fait accomplis	111365
-fastställelse genom dom	f "a s t - s t `ä $ l ë l $ s ë | j 'e2: $ n å m | d 'o m	NN	swe	swe	fast+ställelse| |genom| |dom	731747
-fata morgana	f a2: $ t a $ m å r $ g 'a2: $ n a	NN - SIN IND NOM	swe	swe	fata morgana	114391
-filosofie doktor	f i $ l o $ s o3 $ f "i2: $ `ë | d 'å k $ t å r	NN	swe	swe	filosofie| |doktor	731651
-force majeures	f å r $ s m a $ rs 'ö3: rs	NN - SIN IND GEN	fre-swe	swe	force majeures	126915
-fyller i	f 'y $ l ë r | 'i2:	VB	swe	swe	fyller| |i	732390
-för Guds skull	f 'ö3: r | g 'u t s | s k 'u l	AB	swe	swe	för| |Guds| |skull	731695
-för den skull	f ö3 r $ d 'ä n ~ s k u l	SN	swe	swe	för den skull	139482
-före kristus	f "ö3: $ r ë | k r "i $ s t `u s	AB	swe	swe	före| |kristus	731673
-grand prix	<SPLIT>g r a n d $ p r 'i2: s	NN UTR SIN IND GEN	fre-swe	swe	grand prix	166517
-hip hopen	h "i p - h `å $ p ë n	NN	swe	swe	hip+ +hopen	731791
-hipp hurra	h 'i p | h u3 $ r 'a2:	IN	swe	swe	hipp| |hurra	760931
-i No logo	'i2: | n 'öw | l 'öw $ g öw	NN	eng	swe	i| |No| |logo	732385
-i fråga	i $ f r "å2: $ g `a	AB	swe	swe	i fråga	199033
-i jons	i $ j 'å n s	AB	swe	swe	i jons	199036
-i kapp	i $ k 'a p	AB	swe	swe	i kapp	199038
-i kraft	i $ k r 'a f t	AB	swe	swe	i kraft	199040
-i morrn	i $ m 'å rn	AB	swe	swe	i morrn	199044
-insp. av	"i n - s p `e2: $ l a d | 'a2: v	ABBR	swe	swe	-	791028
-inst. för	i n $ s t i $ t u3 $ sj 'o2: $ n ë n | f 'ö3: r	ABBR	swe	swe	-	775132
-ls -i	"ä l $ `ä s | s t r 'e k | 'i2:	NN	swe	swe	ls| |-[streck]|i	732317
-med mera	m 'e2: | m 'e2: $ r a	AB	swe	swe	med| |mera	731559
-mitt för	m i t $ f 'ö3: r	PP	swe	swe	mitt för	307429
-någon vart	n "å2: $ g å n $ v `a rt	AB	swe	swe	någon vart	331271
-och hör sen	å2: $ h 'ö3: $ rs ë n	IN	swe	swe	och hör sen	758242
-open source	'öw $ p ë n | s 'å2: r0 s	NN	swe	swe	open| |source	731667
-pauvres honteux	<SPLIT>p å2: $ v r å ng $ t 'ö2: s	NN - PLU IND GEN	swe	swe	pauvres honteux	367559
-per capita	p ä3 r $ k 'a2: $ p i $ t a	AB	swe	swe	per capita	369531
-per se	p ä3 r ~ s 'e2:	NN	swe	swe	per~ ~se	731909
-plurale tantums	p l u2: $ r a2: $ l ë $ t "a n $ t `u m s	NN - SIN IND GEN	swe	swe	plurale tantums	377972
-por favor	p 'å r | f a $ v 'å r	IN	spa	swe	por| |favor	732458
-poste restante	p å $ s t ë $ r e3 $ s t "a n $ t `ë	AB	swe	swe	poste restante	382644
-primus motor	p r 'i2: $ m u s | m "o2: $ t `o r	NN UTR SIN IND NOM	swe	swe	primus| |motor	386728
-på grund av	p 'å2: | g r 'u n d | 'a2: v	PP	swe	swe	på| |grund| |av	731558
-runt om	<SPLIT>r 'u n t | 'å m	PP	swe	swe	runt| |om	417819
-seine Sozialisation	s 'a j $ n ë | s å t $ s i $ a $ l i $ s a $ s j 'å n	NN	ger	swe	seine| |Sozialisation	731882
-small och mikro	s m 'å2: l | 'å k | m 'i $ k r o	NN	swe	swe	small| |och| |mikro	762257
-så småningom	s 'å2: | s m "å2: $ n i ng $ `å m	AB	swe	swe	så| |småningom	731557
-till buds	t i l $ b 'u2: d s	AB	swe	swe	till buds	510123
-till fånga	t i l $ f "å ng $ `a	AB	swe	swe	till fånga	510129
-till reds	t i l $ r 'e2: d s	AB	swe	swe	till reds	510136
-till sinnes	t i l $ s "i $ n `ë s	AB	swe	swe	till sinnes	510138
-till vara	t i l $ v "a2: $ r `a	AB	swe	swe	till vara	510142
-tillåta s	t "i l - l `å2: $ t a s	VB INF SFO	swe	swe	til[l]+låta s	512020
-tom rubrik	t 'o m | r u3 $ b r 'i2: k	NN	swe	swe	tom| |rubrik	747106
-tu man hands	t u2: $ m a n $ h 'a n d s	NN - SIN IND GEN	swe	swe	tu man hands	526829
-uppf med	"u p - f `ö d | m 'e2: d	ABBR	swe	swe	-	755956
-world wide web	w 'ö3: rl rd | w 'a j d | w 'e b	PM NOM	swe	swe	World| |wide| |web	731662
-à jour	a $ sj 'o2: r	AB	swe	swe	à jour	563990
-à la mode	a $ l a $ m 'å d	AB	swe	swe	à la mode	563993
-3 Sat	d r 'a j $ s a t	PM NOM	ger	swe	3 Sat	748774
-A. Gång	'a2: | g 'å ng	PM NOM	swe	swe	A.| |Gång	731945
-Absolute Return	ä3 p $ s å $ l 'u4: t | r3 i $ t 'ö3: r0 n	PM NOM	eng	eng	absolute| |return	788731
-Arctic Shatter	'a2: r0 k $ t i k | rs 'ä3 $ t ë r0	NN	eng	eng	Arctic| |Shatter	731829
-August II	'a2: $ g u s t | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	August| [den]|II	732164
-Budvar Budejovicky	b 'u $ d v a r | b u $ d e $ j 'å $ v i $ k i	PM NOM	eng	eng	Budvar| |Budejovicky	731832
-Canal Plus	k a $ n a2: l ~ p l 'u s	PM NOM	swe	swe	canal Plus	758361
-Cap Equ	k 'ä3 p | 'e $ k w i $ t i	AB	eng	eng	-	740736
-Charlie Hebdos	rs a r $ l 'i2: | e b $ d 'å2: s	PM GEN	fre	swe	charlie| |Hebdos	747760
-Chris Isac	k r3 'i s | 'ai $ s ë k	PM NOM	eng	eng	Chris| |Isac	731965
-Discovery Ch	d i $ s k 'a $ v ë $ r3 i | tj3 'ä3 $ n ë l	AB	eng	eng	-	738566
-El Bakraoui	e l ~ b a $ k r au $ 'i2:	PM NOM	ara	swe	Bakraoui	801216
-Eq Fund	'e $ k w i $ t i | f 'a n d	AB	eng	eng	-	770103
-Erik V	"e2: $ r `i k | d 'e n | f "e m $ t `ë	PM NOM	swe	swe	Erik| [den]|V	732167
-Fredrik I:s	f r 'e2: $ d r i k | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Fredrik| [den]|I:s	732129
-Fredrik II	f r 'e2: $ d r i k | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Fredrik| [den]|II	732169
-George Harrison	j3 'å2: j3 | h 'ä3 $ r3 i $ s ë n	PM NOM	eng	eng	George| |Harrison	731852
-Gina Gershon	j3 'i2: $ n a | g ö3: r0 $ rs 'å n	PM NOM	eng	eng	Gina| |Gershon	791750
-Gustav V:s	<SPLIT>g "u $ s t `a v | d 'e n | f "e m $ t `ë	PM GEN	swe	swe	Gustav| [den]|V:s[femtes]	772146
-Gustav XVI	g "u $ s t `a v | d 'e n | s "e k $ s t `å n $ d ë	PM NOM	swe	swe	Gustav| [den]|XVI[sextonde]	766829
-HV 71-Leksand	h "å2: ~ v `e2: | sj u $ t i $ 'e t | l 'e k $ s a n d	PM NOM	swe	swe	HV| |71|-|Lek~sand	783589
-Hell's Angels	h 'e l s | 'ei n $ j3 ë l s	PM NOM	eng	eng	Hell's| |Angels	731704
-Henrik IV:s	h 'e n $ r i k | d 'e n | f j "ä3: $ rd `ë s	PM GEN	swe	swe	Henrik| [den]|IV:s	732141
-Howards End	h 'au $ ë r0 d r0 s | 'e n d	PM GEN	eng	eng	Howards| |End	740933
-Hässleholms OK	h ä $ s l ë ~ h 'å l m s | "o2: $ k `å2:	PM NOM	swe	swe	Hässleholms| |OK	732207
-Jean-Michel Jarre	rs a2: n ~ m i $ rs 'e l | rs 'a r	PM NOM	fre	swe	Jean-Michel| |Jarre	731985
-Jong Il	j 'å ng | 'i l	PM NOM	kor	swe	Jong| |Il	748650
-Karl X:s	<SPLIT>k 'a2: rl | d 'e n | t "i2: $ `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|X:s[tiondes]	774426
-Karl XIIs	k 'a2: rl | d 'e n | t "å l f $ t `ë s	PM GEN	swe	swe	Karl| [den]|XIIs[tolftes]	761836
-Karl XI	<SPLIT>k 'a2: rl | d 'e n | "e l f $ t `ë	PM NOM	swe	swe	Karl| [den]|XI[elfte]	761592
-Katherine Hepbrun	k 'ä3 th $ r3 i n | h 'e p $ b ö3: r0 n	PM NOM	eng	eng	Katherine| |Hepbrun	731694
-MAN och Scania	ä m ~ a2: ~ 'ä n | 'å k | s k 'a2: $ n i3 $ a	PM NOM	swe	swe	MAN| |och| |Scania	749271
-Mount Haven	m 'au n t | h 'ei $ v ë n	PM NOM	eng	eng	Mount| |Haven	731872
-Mutar Mothanna	m o $ t 'a r | m o3 $ t 'a $ n a	PM NOM	ara	swe	Mutar|Mothanna	801956
-Ports d'atatche	p 'å2: r | d a $ t 'a rs	PM NOM	fre	swe	Ports| |d'atatche	762965
-Private School	p r3 'ai $ v ë t | s k 'u4: l	PM NOM	eng	eng	Private| |School	750164
-Quark XPress	k v 'a r k | e k $ s p r 'e s	PM NOM	swe	swe	Quark| |XPress	732516
-Richard III:s	r 'i $ k a rd | d 'e n | t r "e2: $ d j `ë s	PM GEN	swe	swe	Richard| [den]|III:s[tredjes]	753327
-Rod Laver	r 'å d | l 'e j $ v ë r	PM NOM	eng	swe	Rod| |Laver	779908
-Scania och MAN	s k 'a2: $ n i3 $ a | 'å k | ä m ~ a2: ~ 'ä n	PM NOM	swe	swe	Scania| |och| |MAN	783522
-St Andrews	s 'e j n t | 'ä3 n $ d r3 u4: s	PM NOM	eng	eng	St| |Andrews	784608
-Tracy D. Mygatt	t r3 'ei $ s i | d 'i2: | m i $ g 'ä3 t	PM NOM	eng	eng	Tracy| |D.| |Mygatt	733860
-Vladimir I	v l 'a $ d i $ m i2: r | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Vladimir| [den]|I	732201
-Wavin flag	w 'ei $ v i n | f l 'ä3 g	PM NOM	eng	eng	Wavin| |flag	762352
-White Lakes	w 'ai t | l 'ei k s	PM GEN	eng	eng	White| |Lakes	731690
-case studies	k 'ei s | s t 'a $ d i s	NN	eng	eng	case| |studies	731833
-des bourses	d e3 $ b 'o2: r s	PM NOM	fre	swe	Des~ ~bourses	732374
-desire - väcka	d i $ s 'a $ j ë r | v "ä $ k `a	PM NOM	swe	swe	Desire~ ~-| |väcka	732211
-hin und her	h 'i2: n | 'o n t | h 'e2: r	AB	ger	swe	hin| |und| |her	731936
-knight rider	n 'ai t | r3 'ai $ d ë r0	PM NOM	eng	eng	knight| |rider	731818
-last sky	l 'a2: s t | s k 'ai	NN	eng	eng	last| |sky	732463
-major incident	m 'ei $ j3 ë r0 | 'i n $ d i $ d ë n t	NN	eng	eng	major| |incident	731866
-make all	m 'ei k | 'å2: l	NN	eng	eng	make| |all	732344
-my studio pc	m 'ai | s t 'u4: $ d i3 $ öw | p i2: $ s 'i2:	PM NOM	eng	eng	my| |studio| |pc	731683
-new age	n j 'u4: | 'ei j3	NN	eng	eng	new| |age	732268
-trial and	t r3 'a $ j ë l | 'ä3 n d	NN	eng	eng	trial| |and	731775
-von Trier	f 'å n | t r 'i2: $ ë r	PM NOM	swe	swe	von| |Trier	731942
-Andra Mackabeerboken	"a n $ d r `a | m a $ k a $ b "e2: $ ë r - b `o2: $ k ë n	PM NOM	swe	swe	Andra| |Mackabeer+boken	731627
-Andra Thessalonikerbrevet	"a n $ d r `a | t e $ s a $ l o3 $ n "i2: $ k ë r - b r `e2: $ v ë t	PM NOM	swe	swe	Andra| |Thessaloniker+brevet	731631
-Ballon d'Or	b a $ l 'å n | d 'å2: r	PM NOM	fre	swe	Ballon| |d'Or	743352
-Barack Obama	b 'a $ r a k | o3 $ b 'a2: $ m a	PM NOM	swe	swe	Barack| |Obama	731664
-Carl XV	k 'a2: rl | d 'e n | f "e m $ t `å n $ d ë	PM NOM	swe	swe	carl| [den]|XV[femtonde]	739692
-Cartoon network	k a2: r0 $ t 'u4: n | n 'e t $ w ö3: r0 k	PM NOM	eng	eng	Cartoon| |network	753003
-Champs Élysées	rs 'a2: m s | e $ l y $ s 'e2:	PM NOM	fre	swe	champs| |Élysées	769306
-Chuck Berry	tj3 'a k | b 'e $ r3 i	PM NOM	eng	eng	Chuck| |Berry	731834
-Cox maze III-kirurgi	k 'å k s | m 'e j s | t r "e2: - tj i $ r u r $ g `i2:	NN UTR SIN IND NOM	swe	swe	Cox| |maze| |III+-+kirurgi	732274
-David Bowie	d 'e j $ v i d | b 'au $ i	PM NOM	swe	swe	David| |Bowie	731971
-El Monaco	'e l | m 'å $ n a $ k o	PM NOM	unk	swe	El| |Monaco	731691
-Ellis Island	'e $ l i s | 'a j $ l ë n d	PM NOM	swe	swe	Ellis| |Island	731904
-Erik XIV	<SPLIT>"e2: $ r `i k | d 'e n | f j "o2: $ rt `å n $ d ë	PM NOM	swe	swe	Erik| [den]|XIV[sextonde]	753196
-Eugenie Bouchard	ö $ rs e3 $ n 'i2: | b o3 $ rs 'a r	PM NOM	fre	swe	Eugenie| |Bouchard	739685
-Fredrik IV	f r 'e2: $ d r i k | d 'e n | f j "ä3: $ rd `ë	PM NOM	swe	swe	Fredrik| [den]|IV	732170
-Första Kungaboken	f "ö3 $ rs rt `a | k "u ng $ a - b `o2: $ k ë n	PM NOM	swe	swe	Första| |Kunga+boken	731622
-Gloria Gayner	g l 'å2: $ r i3 $ a | g 'ei $ n ë r0	PM NOM	eng	eng	Gloria| |Gayner	731856
-Gregorius VII:s	g r e3 $ g 'å2: $ r i3 $ u s | d 'e n | sj "u n $ d `ë s	PM GEN	swe	swe	Gregorius| [den]|VII:s	732133
-Gustav IV:s	g "u $ s t `a2: v | d 'e n | f j "ä3: $ rd `ë s	PM GEN	swe	swe	Gustav| [den]|IV:s	732138
-Hans Kronbrink	h 'a2: n s | k r "o2: n - b r `i ng k	PM NOM	swe	swe	Hans| |Kron+brink	754992
-Harry Potter	h 'a $ r y | p 'å $ t ë r	PM NOM	swe	swe	Harry| |Potter	731912
-Ian Rider	'i2: $ ë n | r3 'ai $ d ë r0	PM NOM	eng	eng	Ian| |Rider	731987
-Innocentius III	i $ n o3 $ s 'e n $ t i3 $ u s | t r 'e2:	PM NOM	swe	swe	Innocentius| |III	731908
-Inside man	'i n $ s ai d | m 'ä3 n	PM NOM	eng	eng	Inside| |man	775399
-Journal of medicine	j3 'ö2: r0 $ n ë l | 'å v | m 'e $ d i $ s i n	PM NOM	eng	swe	Journal| |of| |medicine	731675
-Jules Vernes	<SPLIT>rs 'y l | v 'ä3: rn rs	PM GEN	fre	swe	Jules| |Vernes	767699
-Karl IX:s	k 'a2: rl | d 'e n | n "i2: $ `å n $ d ë s	PM GEN	swe	swe	Karl| [den]|IX:s	732147
-Kuwait city	k u3 $ v 'a j t | s 'i $ t y	PM NOM	swe	swe	Kuwait| |city	731601
-La Paz	l 'a | p 'a s	PM NOM	swe	swe	La| |Paz	731533
-La Rioja	l 'a | r i $ 'å $ sj a	PM NOM	spa	swe	La| |Rioja	773676
-Le Fort	l e $ f 'å2: r	PM NOM	fre	swe	Le Fort	692631
-Manchester C-Liverpool	m 'ä3 n $ tj3 e $ s t ë r0 | s 'i $ t i | l 'i $ v ë r0 ~ p u4: l	AB	eng	eng	-	773859
-Manchester U-Swansea	m 'ä3 n $ tj3 e $ s t ë r0 | j u4 $ n 'ai $ t ë d | s w 'å n ~ s i2:	AB	eng	eng	-	761007
-Margaret Thatcher	m 'a2: r0 $ g r3 ë t | th 'ä3 $ tj3 ë r0	PM NOM	eng	eng	Margaret| |Thatcher	731867
-Minnesota-St Louis	m i $ n ë $ s 'öw $ t a | s 'ei n t | l 'u4: $ i s	AB	eng	eng	-	773788
-Mötley Crues	m 'å t $ l i | k r3 'u4: s	PM GEN	eng	eng	Mötley| |Crues	732287
-Papua Nya Guinea	p 'a $ p w a | n "y2: $ `a | g i $ n "e2: $ `a	PM NOM	swe	swe	Papua| |Nya| |Guinea	731608
-Pol Pot	p 'å l | p 'å t	PM NOM	asi	swe	Pol| |Pot	732279
-Punta Arenas	p 'o n $ t a | a $ r 'e2: $ n a s	PM NOM	swe	swe	Punta| |Arenas	731542
-Red bull	r 'e d | b 'u l	PM NOM	eng	swe	Red| |bull	749514
-S:t Iliansskolans	s 'a ng t | "i $ l i3 $ a n s - s k `o2: $ l a n s	PM GEN	swe	swe	S:t| |Ilians+skolans	810555
-S:t Ilian	s 'a ng t | 'i $ l i3 $ a n	PM NOM	swe	swe	S:t| |Ilian	759405
-SIGHSTEN I	s 'i k $ s t ë n | 'i2:	PM NOM	swe	swe	Sighsten| |i	732462
-Saint George's	s 'e j n t | j3 'å2: j3 s	PM GEN	swe	swe	Saint| |George's	731586
-Saint John's	s 'e j n t | j3 'å n s	PM NOM	swe	swe	Saint| |John's	731575
-Sex Pistols	s 'ä k s | p 'i $ s t ë l s	PM NOM	swe	swe	Sex| |Pistols	731884
-St Ilian	s 'a ng t | 'i $ l i3 $ a n	PM NOM	swe	swe	St| |Ilian	791977
-Uppl Väsby	'u p ~ l a n d s | v 'ä2: s ~ b y2:	AB	swe	swe	-	735633
-Washington Post	w 'å $ rs i ng $ t ë n | p 'öw s t	PM NOM	eng	eng	Washington| |Post	731745
-Wavin' flag	w 'ei $ v i n | f l 'ä3 g	PM NOM	eng	eng	Wavin'| |flag	785842
-Windows Vista	w 'i n $ d öw s | v "i $ s t `a	PM NOM	swe	swe	Windows| |Vista	731685
-alla breve	a $ l a $ b r "e2: $ v `ë	AB	swe	swe	alla breve	8308
-black metal	b l 'ä3 k | m 'e $ t ë l	NN	swe	swe	black| |metal	731679
-circumstantia est temporis	s i r k $ u m $ s t 'a n t $ s i3 $ a | 'e s t | t 'e m $ p o $ r i s	PM NOM	swe	swe	circumstantia| |est| |temporis	731918
-den VI	d 'e n | sj "e $ t `ë	NN	swe	swe	den| |VI	757681
-den XIII	d 'e n | t r "e $ t `å n $ d ë	NN	swe	swe	den| |XIII	741753
-der name der rose	d 'e2: r | n 'a3: $ m ë | d 'e2: r | r 'å2: $ s ë	PM NOM	ger	swe	der| |name| |der| |rose	731732
-det vill säga	d 'e2: | v 'i l | s "ä $ j `a	AB	swe	swe	det| |vill| |säga	731564
-direction générale	d i $ r e k t $ s j 'å n | rs e $ n e3 $ r 'a l	NN	fre	swe	direction| |générale	731845
-div I	d i $ v i $ sj 'o2: n | 'e t	NN	swe	swe	div| |I	784418
-division I	d i $ v i $ sj 'o2: n | 'e t	NN UTR SIN IND NOM	swe	swe	division| |I	790718
-en masse	a ng $ m 'a s	AB	fre	swe	en masse	99079
-ex officio	ä k $ s o $ f 'i $ s i3 $ o	AB	swe	swe	ex officio	107141
-för resten	f ö3 r $ r 'ä $ s t ë n	AB	swe	swe	för resten	139484
-halleluja moment	h a $ l e3 $ l 'u2: $ j a | m 'o2: $ m ë n t	NN	eng	swe	halleluja| |moment	778337
-hallelujah moment	h a $ l e3 $ l 'u2: $ j a | m 'o2: $ m ë n t	NN	eng	swe	hallelujah| |moment	735130
-hur som helst	h u2: ~ rs å m ~ h 'ä l s t	AB	swe	swe	hur som helst	189502
-i sänder	i $ s 'ä n $ d ë r	AB	swe	swe	i sänder	199047
-med eller utan	m 'e2: d | 'e $ l ë r | "u2: $ t `a n	AB	swe	swe	med| |eller| |utan	731721
-medical journal	m 'e $ d i $ k ë l | j3 'ö3: r0 $ n ë l	NN	eng	eng	medical| |journal	732029
-mitt emellan	m i $ t e3 $ m "ä $ l `a n	PP	swe	swe	mitt emellan	307427
-och modern till	'å2: | m "o2: $ d `ë rn | t 'i l	NN	swe	swe	och| |modern| |till	740060
-om intet	å $ m "i n $ t `ë t	AB	swe	swe	om intet	344241
-persona non grata	<SPLIT>p ä3 r $ s "å2: $ n `a | n 'å n | g r "a2: $ t `a	NN	swe	swe	persona| |non| |grata	732549
-pommes frites	<SPLIT>p 'å m | f r 'i t	NN UTR SIN IND NOM	swe	swe	pommes| |frites	760489
-runt omkring	<SPLIT>r 'u n t | å m $ k r 'i ng	PP	swe	swe	runt| |omkring	417821
-small and mid	s m 'å2: l | 'ä3 n d | m 'i d	NN	eng	eng	small| |and| |mid	737224
-table d'hôtes	t a $ b ë l $ d 'å2: t s	NN - SIN IND GEN	swe	swe	table d'hôtes	500954
-till dess	t i l $ d 'ä s	AB	swe	swe	till dess	510125
-tvärs över	t v ä3 $ rs 'ö2: $ v ë r	PP	swe	swe	tvärs över	529675
-une chaîne du signifiantsom	'y n | rs 'e n | d y ~ s i $ n i $ f i $ 'an | s 'å m	NN	fre	swe	une| |chaîne| |du~ ~signifiant|som	732548
-vart som helst	v a rt ~ s å m ~ h 'ä l s t	AB	swe	swe	vart som helst	547318
-world cup	w 'ö3: r0 l d | k 'a p	PM NOM	eng	eng	world| |cup	731767
-äger rurn	'ä2: $ g ë r | r 'u m	AB	swe	swe	äger| |rurn	751356
-Abraham Lincoln	'ei $ b r3 ë $ h ä3 m | l 'i ng $ k ë l n	PM NOM	eng	eng	Abraham| |Lincoln	769039
-Bibliothx{00E8}ques pour tous	b i $ b l i3 $ o3 $ t 'e k | p 'o r | t 'o2:	PM NOM	fre	swe	Bibliothx{00E8}ques| |pour| |tous	732269
-Conseil Constitutionnel	k å n $ s 'e j | k å n $ s t i $ t y $ rs o3 $ n 'e l	NN	fre	swe	Conseil| |Constitutionnel	732282
-Dick Dale	d 'i k | d 'e j l	PM NOM	swe	swe	Dick| |Dale	731964
-EURO SPORT	j 'u4: $ r3 öw $ s p å2: r0 t	PM NOM	eng	eng	EURO SPORT	778967
-El niño	'e l | n 'i $ n j o	PM NOM	swe	swe	El| |niño	731554
-Första Krönikeboken	f "ö3 $ rs rt `a | k r "ö2: $ n i $ k ë - b `o2: $ k ë n	PM NOM	swe	swe	Första| |Krönike+boken	731624
-Första Thessalonikerbrevet	f "ö3 $ rs rt `a | t e $ s a $ l o3 $ n "i2: $ k ë r - b r `e2: $ v ë t	PM NOM	swe	swe	Första| |Thessaloniker+brevet	731630
-Global Noble	g l 'öw $ b ë l | n 'öw $ b ë l	PM NOM	eng	eng	Global| |Noble	766357
-Gwen Stefani	g w 'e n | s t e $ f 'a2: $ n i	PM NOM	eng	eng	Gwen| |Stefani	758062
-HV 71-Färjestad	h "å2: $ v `e2: | sj u $ t i $ 'e t | f "ä3 r $ j ë - s t `a2: d	PM NOM	swe	swe	HV| |71|-|Färje+stad	786872
-Halmia Acad	h 'a l $ m i3 $ a | a $ k 'a $ d ë $ m i	AB	swe	swe	-	808033
-Hans Gribshunds	h 'a2: n s | g r "i p s - h `u n d s	PM GEN	swe	swe	Hans| |Gribs+hunds	732545
-Ivan IV	'i2: $ v a n | d 'e n | f j "ä3: $ rd `ë	PM NOM	swe	swe	Ivan| [den]|IV	732181
-Ivar I	'i2: $ v a r | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Ivar| [den]|I	732182
-Jewish Studies	j3 'u4: $ i rs | s t 'a $ d i s	NN	eng	eng	Jewish| |Studies	731862
-Jules Verne	rs 'y l | v 'ä3: rn	PM NOM	fre	swe	Jules| |Verne	734258
-Karl V:s	k 'a2: rl | d 'e n | f "ä m $ t `ë s	PM GEN	swe	swe	Karl| [den]|V:s	732148
-Karl XIV Johan	k 'a2: rl | d 'e n | f j "o2: $ rt `å n $ d ë | j "o2: $ `a n	PM NOM	swe	swe	Karl| [den]|xiv| |johan	731526
-Karl XVI	k 'a2: rl | d 'e n | s "e k $ s t `å n $ d ë	PM NOM	swe	swe	Karl| [den]|XVI[sextonde]	809077
-Ketjap manis	k 'ä $ tj3 a p | m 'a2: $ n i s	PM NOM	unk	swe	Ketjap| |manis	776806
-Kristian IV:s	k r 'i $ s t i3 $ a n | d 'e n | f j "ä3: $ rd `ë s	PM GEN	swe	swe	Kristian| [den]|iv:s	731528
-Kristoffer II	k r i $ s t 'å $ f ë r | d 'e n | "a n $ d r `ë	PM NOM	swe	swe	Kristoffer| [den]|II	732197
-Le Kid	l 'e | k 'i d	PM NOM	swe	swe	Le| |Kid	731769
-Michael Lang	m 'a j $ k ë l | l 'ä3 ng	PM NOM	eng	eng	Michael| |Lang	731693
-Mötley Crue	m 'å t $ l i | k r3 'u4:	PM NOM	eng	eng	Mötley| |Crue	732285
-Ne me quitte pas	n 'e | m 'e | k 'i t | p 'a	PM NOM	fre	swe	Ne| |me| |quitte| |pas	777813
-New York Times	n j 'u4: | j 'å2: r0 k | t 'ai m s	PM NOM	eng	eng	New| |York| |Times	731744
-New in town	n j 'u4: | 'i n | t 'au n	PM NOM	eng	eng	New| |in| |town	770897
-OS 2023	"o2: $ `ä s | tj u2: $ g o ~ h u n $ d r a ~ tj u2: $ g o ~ f "y2: $ r `a	NN	swe	swe	OS| |2023	732206
-Port Louis	p 'å2: rt | l 'u4: $ i s	PM NOM	swe	swe	Port| |Louis	731602
-S:t Iliansskolan	s 'a ng t | "i $ l i3 $ a n s - s k `o2: $ l a n	PM NOM	swe	swe	S:t| |Ilians+skolan	798610
-San Jose-NY Rangers	s 'a n | sj o3 $ s 'e2: | n j 'u4: | j 'å2: r k | r 'e j n $ j3 ë rs	ABBR	mix	swe	-	767258
-Santa's little helper	s 'a n $ t a s | l 'i $ t ë l | h 'e l $ p ë r	PM NOM	eng	swe	Santa's| |little| |helper	736943
-Sri Jayawardenapura	s r 'i2: | j a $ j a $ v a r $ d e $ n a $ p 'u2: $ r a	PM NOM	swe	swe	Sri| |Jayawardenapura	731596
-Steve Sem-Sandberg	s t 'i2: v | s 'e m | s "a n d - b `ä3 r j	PM NOM	swe	swe	Steve| |Sem|-|Sand+berg	733195
-Uncle Bens	'a ng $ k ë l | b 'e n s	PM NOM	swe	swe	Uncle| |Bens	731894
-a cappella	a $ k a $ p "ä $ l `a	AB	swe	swe	a cappella	76
-big five-drag	b 'i g | f "a j v - d r `a2: g	NN NEU PLU IND NOM	swe	swe	big| |five+-+drag	732377
-case manager	k 'e j s | m 'ä3 $ n ë $ j3 ë r	NN	swe	swe	case| |manager	731771
-curriculum vitaes	<SPLIT>k u $ r "i $ k `u $ l u m | v "i2: $ t `ë s	NN - SIN IND GEN	swe	swe	curriculum| |vitaes	732392
-den XV	d 'e n | f "e m $ t `å n $ d ë	NN	swe	swe	den| |XV	737708
-ding dång	d i ng $ d 'å ng	IN	swe	swe	ding dång	82094
-finalité politique	f i $ n a $ l i $ t 'e2: | p å $ l i $ t 'i k	NN	fre	swe	finalité| |politique	731849
-för så vitt	f ö3: ~ rs å2: ~ v 'i t	AB	swe	swe	för så vitt	139486
-hip hoparens	h "i p - h `å $ p a $ r ë n s	NN	swe	swe	hip+ +hoparens	731796
-il nome della rosa	'i l | n 'å2: $ m ë | d 'e $ l a | r 'å2: $ s a	PM NOM	ita	swe	il| |nome| |della| |rosa	731731
-inl gurka	"i n - l `a g d | g "u r $ k `a	ABBR	swe	swe	-	752952
-modern saknar	m "o2: $ d `ë rn | s "a2: $ k n `a r	VB PRS AKT	swe	swe	modern| |saknar	766024
-new line cinema	n j 'u4: | l 'ai n | s 'i $ n ë $ m a	PM NOM	eng	eng	new| |line| |cinema	731734
-när helst	<SPLIT>n ä3 r $ h 'ä l s t	SN	swe	swe	när helst	330465
-om sänder	å m $ s 'ä n $ d ë r	AB	swe	swe	om sänder	344244
-science fictions	s a $ j ë n s ~ f 'i k $ rs ë n s	NN - SIN IND GEN	swe	swe	science fictions	430158
-table d'hôte	t a $ b ë l $ d 'å2: t	NN - SIN IND NOM	swe	swe	table d'hôte	500953
-till döds	t 'i l | d 'ö t s	AB	swe	swe	till| |döds	731647
-till exempel	t 'i l | e k $ s 'e m $ p ë l	AB	swe	swe	till| |exempel	731561
-till handa	t i l $ h "a n $ d `a	AB	swe	swe	till handa	510131
-till mötes	t i l $ m "ö2: $ t `ë s	AB	swe	swe	till mötes	510134
-till ända	t i $ l "ä n $ d `a	AB	swe	swe	till ända	510144
-tills vidare	t i l $ s v "i2: $ d `a $ r ë	AB	swe	swe	tills vidare	511139
-une chaîne du signifiant	'y n | rs 'e n | d y ~ s i $ n i $ f i $ 'an	NN	fre	swe	une| |chaîne| |du~ ~signifiant	732547
-väl till mods	v 'ä2: l | t 'i | m 'o2: d s	NN	swe	swe	väl| |till| |mods	731899
-2:a VK	"a n $ d r `a | v a $ t i $ k "a2: n - k å n $ s `i2: $ l i3 $ ë t	PM NOM	swe	swe	2:a| |v+k	731614
-A case for feminist revolution	'ä3 | k 'ei s | f 'å r0 | f 'e $ m i $ n i s t | r3 e $ v ë $ l 'u4: $ rs ë n	NN	eng	eng	A| |case| |for| |feminist| |revolution	731763
-Ad Herennium	'a d | h e3 $ r 'e $ n i3 $ u m	NN	lat	swe	Ad| |Herennium	731823
-Andra Johannesbrevet	"a n $ d r `a | j o3 $ h "a $ n ë s - b r `e2: $ v ë t	PM NOM	swe	swe	Andra| |Johannes+brevet	731635
-Auguste Comte	å2: g 'y s t | k 'on t	PM NOM	fre	swe	Auguste| |Comte	731672
-C More	s 'i2: | m 'å2: r	PM NOM	swe	swe	c| |More	737752
-CM Lindqvist	s 'e2: | 'ä m | l "i n d - k v `i s t	PM NOM	swe	swe	c|M| |Lind+qvist	796513
-CSI NY	s i2: $ e s $ 'a j | n j u4: ~ j 'å2: r k	PM NOM	swe	swe	CSI| |NY	731814
-Euro Mate	j 'u4: $ r3 öw | m 'ei t	PM NOM	eng	eng	Euro| |Mate	734050
-Fredrik I	f r 'e2: $ d r i k | d 'e n | f "ö3 $ rs rt `ë	PM NOM	swe	swe	Fredrik| [den]|I	731516
-Frigg 1	f r 'i g | 'e t	PM NOM	swe	swe	Frigg| |1	785377
-George W Bush	j3 'å2: j3 | d "u $ b ë l ~ v `e2: | b 'u rs	PM NOM	swe	swe	George| |W| |Bush	731518
-Gustaf III:s	g "u $ s t `a2: v | d 'e n | t r "e2: d $ j `ë s	PM GEN	swe	swe	Gustaf| [den]|III:s	732134
-Gustav III:s	<SPLIT>g "u $ s t `a v | d 'e n | t r "e2: $ d j `ë	PM GEN	swe	swe	Gustav| [den]|III:s[tredjes]	777194
-Gustav IIIs	g "u $ s t `a v | d 'e n | t r "e2: $ d j `ë	PM GEN	swe	swe	Gustav| [den]|IIIs[tredjes]	746265
-HV 71	h "å2: ~ v `e2: | sj u $ t i $ 'e t	PM NOM	swe	swe	HV| |71	779030
-Karl I:s	k 'a2: rl | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Karl| [den]|I:s	732145
-Karl Tännerus	k 'a2: rl | t e3 $ n 'e2: $ r u s	PM NOM	swe	swe	Karl| |Tännerus	731713
-Kristian II:s	k r "i $ s t i3 $ `a n | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Kristian| [den]|II:s	732155
-La Liga	l a $ l 'i2: $ g a	PM NOM	spa	swe	La Liga	738415
-Las Vegas	l 'a s | v 'e2: $ g a s	PM NOM	swe	swe	Las| |Vegas	731746
-Leif GW	l 'e j f | g "e2: $ v `e2:	PM NOM	swe	swe	Leif| |GW	756266
-Mark Twain	m 'a2: r0 k | t w 'e j n	PM NOM	eng	swe	Mark| |Twain	731714
-Martha Finnemore	m 'a2: r0 $ th a | f 'i n $ m å2: r0	PM NOM	eng	eng	Martha| |Finnemore	731868
-Mexico city	m 'e k $ s i $ k o | s 'i $ t y	PM NOM	swe	swe	Mexico| |city	731604
-Osborne Paradis	'å s $ b å2: rn | p a $ r a $ d 'i2:	PM NOM	mix	swe	Osborne| |Paradis	756438
-Per Olsskolans	p 'ä3: r | "o l s - s k `o2: $ l a n s	PM GEN	swe	swe	Per| |Ols+skolans	788088
-Rosta Gärde	r 'o2: $ s t a | j "ä3: $ rd `ë	PM NOM	swe	swe	Rosta| |Gärde	785394
-Snow Flake	s n 'öw | f l 'ei k	PM NOM	eng	eng	Snow| |Flake	738476
-St Louis-Minnesota	s 'e j n t | l 'u4: $ i s | m i $ n e3 $ s 'o2: $ t a	PM NOM	eng	swe	St| |Louis|-|Minnesota	767441
-a vista	a $ v "i $ s t `a	AB	swe	swe	a vista	82
-ad hoc-lösning	'a d | h "å k - l `ö2: $ s n i ng	NN UTR SIN IND NOM	swe	swe	ad| |hoc+-+lösning	731661
-akademie für sprache	a $ k a $ d e3 $ m 'i2: | f 'y2: r | s p r 'a $ sj ë	PM NOM	swe	swe	Akademie| |für| |sprache	731915
-as usual	'ä3 s | j 'u4: $ rs ë l	AB	eng	eng	as| |usual	746674
-café au lait	k a $ f e2: $ å $ l 'ä2:	NN UTR SIN IND NOM	swe	swe	café au lait	65300
-crx{00E8}me de la crx{00E8}me	k r ä2: m $ d ë $ l a $ k r 'ä2: m	NN - SIN IND NOM	fre	swe	crx{00E8}me de la crx{00E8}me	70692
-de Blanche	d e3 ~ b l 'a2: rn rs	PM NOM	fre	swe	De~ ~Blanche	732303
-de Quervain	d e $ k e r $ v 'ä2: n	PM NOM	swe	swe	De Quervain	689890
-den IV	d 'e n | f j "ä3: $ rd `ë	NN	swe	swe	den| |IV	751110
-den VIII	d 'e n | "å $ t `å n $ d ë	NN	swe	swe	den| |VIII	787675
-die Welt	d 'i2: | v 'e l t	PM NOM	swe	swe	die| |Welt	731935
-div III	d i $ v i $ sj 'o2: n | t r 'e2:	NN	swe	swe	div| |III	754082
-division III	d i $ v i $ sj 'o2: n | t r 'e2:	NN	swe	swe	division| |III	775835
-douceur de vivre	d o3 $ s 'ö3: r | d 'e | v 'i2: $ v r ë	PM NOM	fre	swe	douceur| |de| |vivre	731972
-dungeons and dragons	d 'a n $ j3 ë n s | 'ä3 n d | d r3 'ä3 $ g ë n s	PM NOM	eng	eng	dungeons| |and| |dragons	731735
-fl yttkaren	f l "y t - k `a2: $ r ë n	NN	swe	swe	fl ytt+karen	790321
-huller om buller	h 'u $ l ë r | 'å m | b 'u $ l ë r	AB	swe	swe	huller| |om| |buller	188653
-i fjol	i $ f j 'o2: l	AB	swe	swe	i fjol	199031
-illa till mods	"i $ l `a | t 'i l | m 'o2: d s	JJ	swe	swe	illa| |till| |mods	731860
-la liga	l a $ l 'i2: $ g a	PM NOM	swe	swe	la~ ~liga	731821
-modus vivendis	m "o2: $ d `u s | v i $ v "ä n $ d `i s	NN - SIN IND GEN	swe	swe	modus| |vivendis	309046
-multi-sited ethnography	m 'a $ l t i ~ s a $ j t i d | e th $ n 'å $ g r3 ë $ f i	NN	eng	eng	multi-sited| |ethnography	731873
-och följande sidor	'å2: | f "ö l $ j `a n $ d ë | s "i2: $ d `o r	AB	swe	swe	och| |följande| |sidor	731716
-ok då	o3 $ k 'e j | d 'å	IN	swe	swe	ok| |då	732546
-post festum	p 'å s t | f "ä $ s t `u m	AB	lat	swe	post| |festum	382538
-prima vista	p r i $ m a $ v "i $ s t `a	AB	swe	swe	prima vista	386522
-pro forma	p r o3 $ f "å r $ m `a	AB	swe	swe	pro forma	387556
-pö om pö	p ö2: $ å m $ p 'ö2:	AB	swe	swe	pö om pö	398610
-strukturaliserad affekt	s t r "u k $ t u3 $ r a $ l i $ s `e2: $ r a d | a $ f 'e k t	NN	swe	swe	strukturaliserad| |affekt	731885
-sweet eaters	s w 'i2: t | 'i2: $ t ë r0 s	NN	eng	eng	sweet| |eaters	731888
-så kallad	s 'å2: | k "a $ l `a d	AB	swe	swe	så| |kallad	731568
-så kallat	s 'å2: | k "a $ l `a t	AB	swe	swe	så| |kallat	731570
-till godo	t i l $ g "o2: $ d `o	AB	swe	swe	till godo	510130
-till sist	t i l $ s 'i s t	AB	swe	swe	till sist	510139
-till spillo	t i l $ s p "i $ l `o	AB	swe	swe	till spillo	510140
-torskfi lé	t "å rs k - f i $ l `e2:	NN UTR SIN IND NOM	swe	swe	torsk+fi lé	756361
-uppf. av	"u p - f `ö d | 'a2: v	AB	swe	swe	-	734441
-Barack Obamas	b 'a $ r a k | o3 $ b 'a2: $ m a s	PM GEN	swe	swe	Barack| |Obamas	731665
-Champions League	tj3 'ä3 m $ p i3 $ ë n s | l 'i2: g	PM NOM	eng	eng	Champions| |League	745774
-Dar es-Salaam	d 'a3: r | e s ~ s a $ l 'a m	PM NOM	swe	swe	Dar| |es-Salaam	731597
-Donna Karan	d "å $ n `a | k 'ä3 $ r3 ë n	PM NOM	eng	eng	Donna| |Karan	731847
-El Monacos	'e l | m 'å $ n a $ k o s	PM GEN	unk	swe	El| |Monacos	731692
-Fire Island	f 'ai $ ë r0 | 'ai $ l ë n d	PM NOM	eng	eng	Fire| |Island	731699
-George Bush	j3 'å2: j3 | b 'u4 rs	PM NOM	swe	swe	George| |Bush	731517
-George Washington	j3 'å2: j3 | w 'å $ rs i ng $ t ë n	PM NOM	swe	swe	George| |Washington	731520
-Gran Torino	g r 'a n | t o3 $ r 'i2: $ n o	PM NOM	spa	swe	Gran| |Torino	734507
-Gustav II Adolf:s	g "u $ s t `a v | d 'e n | "a n $ d r `ë | 'a2: $ d å l f s	PM GEN	swe	swe	Gustav| [den]|II[andre]| |Adolf:s	736239
-Hans Gunnarson	h 'a2: n s | g "u $ n a $ rs `å n	PM NOM	swe	swe	Hans| |Gunnarson	731857
-Hotell Anglais	h o3 $ t 'e l | a ng $ g l 'ä2:	PM NOM	swe	swe	Hotell| |Anglais	731858
-Karl XIV	<SPLIT>k 'a2: rl | d 'e n | f j "o2: $ rt `å n $ d ë	PM NOM	swe	swe	Karl| [den]|XIV[fjortonde]	748326
-Manchester U	m 'ä3 n $ tj3 e $ s t ë r0 | j u4 $ n 'ai $ t ë d	AB	eng	eng	-	773297
-Margaret Atwood	m 'a2: r0 $ g r3 ë t | 'ä3 t $ w u4 d	PM NOM	eng	swe	Margaret| |Atwood	731682
-Mötley Crüe	m 'å t $ l i | k r3 'u4:	PM NOM	eng	eng	Mötley| |Crüe	732286
-National Geographic	n 'ä3 $ rs ë $ n ë l | j3 i2: $ öw $ g r3 'ä3 $ f i k	PM NOM	eng	eng	National| |Geographic	755605
-New York	n j 'u4: | j 'å2: r0 k	PM NOM	swe	swe	New| |York	731539
-Nordic Mines	n 'å2: $ rd i k | m 'a j n s	PM NOM	swe	swe	Nordic| |Mines	781837
-Nya Zeeland	n "y2: $ `a | s 'e2: $ l a n d	PM NOM	swe	swe	Nya| |Zeeland	731606
-O Keeffe	öw ~ k 'i2: f	PM NOM	eng	eng	O Keeffe	653006
-Oscar II:s	<SPLIT>'å $ s k a r | d 'e n | "a n $ d r `ë s	PM GEN	swe	swe	Oscar| [den]|II:s[andres]	774667
-Phnom Phen	p n 'å m | p 'e n	PM NOM	swe	swe	Phnom| |Phen	731764
-Phoenix-NY Rangers	f 'i2: $ n i k s | n j 'u4: | j 'å2: r k | r 'e j n $ j3 ë rs	AB	eng	swe	-	734552
-Pol Pots	p 'å l | p 'å t s	PM GEN	asi	swe	Pol| |Pots	732280
-Republiken Kongo	r e $ p u3 $ b l 'i2: $ k ë n | k 'å ng $ g o	PM NOM	swe	swe	Republiken| |Kongo	731589
-S:t Ilians	s 'a ng t | 'i $ l i3 $ a n s	PM GEN	swe	swe	S:t| |Ilians	765523
-Siri Bosse	s 'i2: $ r i | b "å $ s `ë	PM NOM	swe	swe	Siri| |Bosse	791788
-Sleepy Hollow	s l 'i2: $ p i | h 'å $ l öw	PM NOM	eng	eng	Sleepy| |Hollow	749074
-St Ilians	s 'a ng t | 'i $ l i3 $ a n s	PM GEN	swe	swe	St| |Ilians	790785
-Tom Yum	t 'å m | j 'o m	PM NOM	asi	swe	Tom| |Yum	765144
-Vartislav VII:s	v 'a r $ t i $ s l a v | d 'e n | sj "u n $ d `ë s	PM GEN	swe	swe	Vartislav| [den]|VII:s	732161
-Villa Triste	v i $ l 'a | t r 'i s t	PM NOM	fre	swe	Villa| |Triste	733277
-Visit Sweden	v 'i $ s i t | s w 'i2: $ d ë n	PM NOM	eng	eng	Visit| |Sweden	731898
-Washington D.C	w 'å $ rs i ng $ t ë n | d i2: $ s 'i2:	PM NOM	swe	swe	Washington| |D.C	731552
-Zulu Nation	s 'u2: $ l u | n 'e j $ rs ë n	PM NOM	eng	eng	Zulu| |Nation	731900
-a posteriori	a $ p å $ s t ë $ r i $ "å2: $ r `i	AB	swe	swe	a posteriori	79
-all right	å2: l $ r 'a j t	JJ POS UTR/NEU SIN/PLU IND/DEF NOM	swe	swe	all right	8300
-den V	d 'e n | f "e m $ t `ë	NN	swe	swe	den| |V	745632
-den XII	d 'e n | t "å l f $ t `ë	NN	swe	swe	den| |XII	761692
-et cetera	ä t $ s 'ä $ t ë $ r a	AB	swe	swe	et cetera	105161
-för all del	f ö3 r ~ 'a l ~ d e2: l	AB	swe	swe	för all del	139481
-halleluja moments	h a $ l e3 $ l 'u2: $ j a | m 'o2: $ m ë n t s	NN	eng	swe	halleluja| |moments	750811
-hallelujah moments	h a $ l e3 $ l 'u2: $ j a | m 'o2: $ m ë n t s	NN	eng	swe	hallelujah| |moments	752169
-hävas genom dom	h "ä2: $ v `a s | j 'e2: $ n å m | d 'o m	NN	swe	swe	hävas| |genom| |dom	731752
-i klyv	i $ k l 'y2: v	AB	swe	swe	i klyv	199039
-i morse	i $ m "å $ rs `ë	AB	swe	swe	i morse	199045
-imaging genomics	i $ m 'ä3 $ j3 i ng | j3 e $ n 'å $ m i k s	NN garb:0	eng	eng	imaging| |genomics	731861
-in spe	i n $ s p 'e2:	AB	swe	swe	in spe	203155
-kort kontakttid	k 'å rt | k å n $ t "a k t - t `i2: d	NN	swe	swe	kort| |kontakt+tid	731863
-lingua franca	l i ng $ v a $ f r "a ng $ k `a	NN NEU SIN IND NOM	swe	swe	lingua franca	279789
-lit de parade	l i $ d ë $ p a $ r 'a d	NN - SIN IND NOM	fre-swe	swe	lit de parade	280570
-nummer per år	n 'u $ m ë r | p 'ä3 r | 'å2: r	AB	swe	swe	nummer| |per| |år	731681
-om hand	å m ~ h 'a n d	AB	swe	swe	om hand	344239
-om lott	å m $ l 'å t	AB	swe	swe	om lott	344242
-perpetuum mobile	p ä3 r $ p "e2: $ t `u3 $ u m | m "å2: $ b `i $ l ë	NN - SIN IND NOM	swe	swe	perpetuum| |mobile	371118
-persona non gratas	p ä3 $ rs "å2: $ n `a | n å n ~ g r "a2: $ t `a s	NN - SIN IND GEN	swe	swe	persona| |non gratas	371332
-premiers x{00E8}pisodes	p r e m $ j 'e2: | e $ p i $ s 'å d	PM NOM	fre	swe	premiers| |x{00E8}pisodes	731994
-på tomt som	p 'å2: | t 'å m t | s 'å m	AB	swe	swe	på| |tomt| |som	751864
-sociologie de la littérature	s å $ s i3 $ o $ l o3 $ g 'i2: | d 'e | l 'a | l i $ t ë $ r a $ t 'y r	PM NOM	swe	swe	Sociologie| |de| |la| |littérature	731928
-så kallade	s 'å2: | k "a $ l `a d ë	AB	swe	swe	så| |kallade	731569
-tabla rasa	t a2: $ b l a $ r "a2: $ s `a	NN - SIN IND NOM	swe	swe	tabla rasa	500948
-till fullo	t i l $ f "u $ l `o	AB	swe	swe	till fullo	510127
-till följd av	t 'i l | f 'ö l j d | 'a2: v	AB	swe	swe	till| |följd| |av	731640
-till hands	t i l $ h 'a n d s	AB	swe	swe	till hands	510132
-till rätta	t i l $ r "ä $ t `a	AB	swe	swe	till rätta	510137
-van damme	v a n ~ d 'a m	PM NOM	fre	swe	Van damme	695524
-vart helst	v a rt ~ h 'e l s t	AB	swe	swe	vart helst	547316
-ägt rurn	'ä2: g t | r 'u m	AB	swe	swe	ägt| |rurn	742029
-över huvud taget	'ö2: $ v ë r | h "u2: $ v `u3 | t "a2: $ g `ë t	AB	swe	swe	över| |huvud| |taget	732375
-118 118	h u n $ d r a $ "a2: $ rt `å n | h u n $ d r a $ "a2: $ rt `å n	RG NOM	swe	swe	118| |118	731822
-Addis Abeba	'a $ d i s | 'a $ b e $ b a	PM NOM	swe	swe	Addis| |Abeba	731504
-Alexander III:s	a $ l ë k $ s 'a n $ d ë r | d 'e n | t r "e2: d $ j `ë s	PM GEN	swe	swe	Alexander| [den]|III:s	732123
-Andorra la Vella	a n $ d "å $ r `a | l 'a | v 'e $ l a	PM NOM	swe	swe	Andorra| |la| |Vella	731574
-Charlie Hebdo	rs a r $ l 'i2: | e b $ d 'å2:	PM NOM	fre	swe	charlie| |Hebdo	755725
-Dalai Lama	d 'a2: $ l a j | l 'a2: $ m a	PM NOM	swe	swe	Dalai| |Lama	731555
-Deutsche Buch-Gemeinschaft	d 'å j rt $ rs ë | b 'u sj ~ g e3 $ m a j n $ rs a f t	PM NOM	swe	swe	Deutsche| |Buch-Gemeinschaft	731919
-Don Quijote	d 'å n | k i $ sj 'å t	PM NOM	swe	swe	Don| |Quijote	731571
-Enarrationes seu postillæ	e $ n a $ r a $ t i $ 'å2: n $ ë s | s 'e v | p å s t $ "i $ l `ë	PM NOM	swe	swe	Enarrationes| |seu| |postillæ	731921
-European Liberal	j u4: $ r3 ë $ p 'i2: $ ë n | l 'i $ b ë $ r3 ë l	NN	eng	eng	European| |Liberal	731848
-Frankfurt am Main	f r 'a ng k $ f u rt | 'a m | m 'a j n	PM NOM	ger	swe	Frankfurt| |am| |Main	731677
-Fredrik III	f r 'e2: $ d r i k | d 'e n | t r "e2: $ d j `ë	PM NOM	swe	swe	Fredrik| [den]|III	732281
-Första Moseboken	f "ö3 $ rs rt `a | m "o2: $ s ë - b `o2: $ k ë n	PM NOM	swe	swe	Första| |Mose+boken	731615
-G. Andersson	g 'e2: | "a n $ d ë $ rs `å n	PM NOM	swe	swe	G.| |Andersson	739500
-George W. Bush	j3 'å2: j3 | d "u $ b ë l ~ v `e2: | b 'u rs	PM NOM	swe	swe	George| |W.| |Bush	731519
-Hans Lindström	h 'a2: n s | l "i n d - s t r `ö m	PM NOM	swe	swe	Hans| |Lind+ström	768290
-Henderson hospital	h 'e n $ d ë r0 $ s ë n | h 'å $ s p i $ t ë l	PM NOM	eng	eng	Henderson| |hospital	731742
-Janis Joplins	j3 'ä3 $ n i s | j3 'å $ p l i n s	PM GEN	eng	eng	Janis| |Joplins	731701
-Jönköpings S-Assyriska	j "ö2: n - tj `ö2: $ p i ng | s "ö2: $ d r `a | a $ s 'y2: $ r i $ s k a	ABBR	swe	swe	-	790160
-KG Hammar	k "å2: ~ g `e2: | h "a $ m `a r	PM NOM	swe	swe	K~G| |Hammar	804701
-Karl V	k 'a2: rl | d 'e n | f "ä m $ t `ë	PM NOM	swe	swe	Karl| [den]|V	732186
-Katarina II:s	k a $ t a $ r "i2: $ n `a | d 'e n | "a n $ d r `a s	PM GEN	swe	swe	Katarina| [den]|ii:s	731530
-Katarina IIs	k a $ t a $ r "i2: $ n `a | d 'e n | "a n $ d r `a s	PM GEN	swe	swe	Katarina| [den]|iis	731531
-Kristian IV	k r 'i $ s t i3 $ a n | d 'e n | f j "ä3: $ rd `ë	PM NOM	swe	swe	Kristian| [den]|iv	731527
-Le Louis XV:s	l e ~ l o3 $ 'i2: | d 'e n | f "e m $ t `å n $ d ë s	PM GEN	swe	swe	Le| |Louis| |XV:s	743616
-NCIS Los Angeles	e n $ s i2: $ a j $ 'e s | l å s ~ 'ä3 n $ j3 ë $ l ë s	PM NOM	swe	swe	NCIS| |los~ ~angeles	731816
-Oscar I:s	'å $ s k a r | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Oscar| [den]|I:s[förstes]	767367
-Oscar Is	'å $ s k a r | d 'e n | f "ö3 $ rs rt `ë s	PM GEN	swe	swe	Oscar| [den]|Is[förstes]	786718
-Patrick Modianos	p a $ t r 'i k | m å $ d i3 $ a $ n 'å2: s	PM GEN	fre	swe	Patrick| |Modianos	737128
-Pojken som kallades det	p "å j $ k `ë n | s 'å m | k "a $ l `a $ d ë s | d 'e2: t	NN	swe	swe	Pojken| |som| |kallades| |det	731725
-Port Moresby	p 'å2: rt | m 'å2: r s $ b y	PM NOM	swe	swe	Port| |Moresby	731609
-Rosta träffpunkt	r 'o2: $ s t a | t r "ä f - p `u ng t	PM NOM	swe	swe	Rosta| |träff+punkt	746696
-Santiago de Chile	s a n $ t i $ 'a2: $ g o | d 'e | tj "i2: $ l `ë	PM NOM	swe	swe	Santiago| |de| |Chile	731580
-Sugarhill Gang	rs 'u4 $ g ë r0 $ h i l | g 'ä3 ng	PM NOM	eng	eng	Sugarhill| |Gang	731886
-São Tomé	s 'a3: $ o | t o3 $ m 'e2:	PM NOM	swe	swe	São| |Tomé	731550
-Trail Smelter-skiljedomen	t r 'e j l | s m "e l $ t ë r - sj i l $ j ë - d `o $ m ë n	NN UTR SIN DEF NOM	swe	swe	Trail| |Smelter+-+skilje+domen	732366
-Ungd. kväll	"u ng - d o m s - k v `ä l	ABBR	swe	swe	-	763384
-Walt Disney	w 'å2: l t | d 'i $ s n i	PM NOM	eng	eng	Walt| |Disney	731707
-ad acta	a $ d "a k $ t `a	AB	swe	swe	ad acta	2115
-al-thawra alarabia	a l ~ t 'a $ v r a | a $ l a $ r 'a2: $ b i3 $ a	PM NOM	swe	swe	Al-thawra| |alarabia	732517
-blandad kör	b l "a n $ d `a d | k 'ö3: r	NN	swe	swe	blandad| |kör	811039
-christmas ale	k r3 'i $ s m ë s | 'ei l	NN	eng	eng	christmas| |ale	753004
-d'en haut	d 'a2: n | 'å2:	NN	fre	swe	d'en| |haut	783144
-das Boot	d 'a s | b 'å2: t	PM NOM	ger	swe	das| |Boot	731986
-de Saussure	d 'e | s å $ s 'y2: r	PM NOM	fre	swe	De| |Saussure	731717
-dom eller avtal	d 'o m | 'e $ l ë r | "a2: v - t `a2: l	NN	swe	swe	dom| |eller| |av+tal	731755
-escapades de	e $ s k a $ p 'a d | d 'e	NN	fre	swe	escapades| |de	749409
-fait accompli	f ä2: $ t a $ k å m $ p l 'i2:	NN UTR SIN IND NOM	fre-swe	swe	fait accompli	111364
-forme fruste	f 'å r m | f r 'y s t	NN	fre	swe	forme| |fruste	602333
-formel 1	f 'å r $ m ë l | 'e t	NN	swe	swe	formel| |1	775373
-för så vida	f ö3: ~ rs å2: ~ v "i2: $ d `a	AB	swe	swe	för så vida	139485
-föregrip kundens	f "ö3: $ r ë - g r `i2: p | k 'u n $ d ë n s	NN	swe	swe	före+grip| |kundens	732459
-i fatt	i $ f 'a t	AB	swe	swe	i fatt	199030
-inst. i priset	i n $ s t a $ l a $ sj 'o2: n | 'i2: | p r 'i2: $ s ë t	ABBR	swe	swe	-	778197
-laxfi lé	l "a k s - f i $ l `e2:	NN UTR SIN IND NOM	swe	swe	lax+fi lé	751372
-les gens du balto	l 'e2: | rs 'an | d 'y2: | b 'a l $ t o	PM NOM	fre	swe	les| |gens| |du| |balto	731684
-no 1	n 'a m $ b ë r0 | w 'a n	NN	eng	eng	no| |1	732461
-notarii publici	n o $ t a2: $ r i $ p 'u $ b l i $ s i	NN UTR PLU IND NOM	swe	swe	notarii publici	327907
-om sams	å m $ s 'a m s	AB	swe	swe	om sams	344243
-par préférence	p 'a r | p r e $ f e3 $ r 'a2: n s	AB	fre	swe	par| |préférence	732379
-portable embosser format	p 'å2: r0 $ t ë $ b ë l | e m $ b 'å $ s ë r0 | f 'å2: r0 $ m ë t	PM NOM	eng	eng	portable| |embosser| |format	731712
-scampi frittis	s k a m $ p i $ f r 'i $ t i s	NN NEU PLU IND GEN	swe	swe	scampi frittis	428743
-the Labyrinth	dh 'e | l 'ä3 $ b i $ r3 i n th	NN	eng	eng	the| |Labyrinth	731890
-till känna	t i l ~ tj "ä $ n `a	AB	swe	swe	till känna	510133
-trial and error-metoden	t r 'a $ j ë l | 'ä3 n d | "ä3 $ r3 å r - m e3 $ t `o2: $ d ë n	NN UTR SIN DEF NOM	swe	swe	trial| |and| |error+-+metoden	731773
-tu man hand	t u2: $ m a n $ h 'a n d	NN - SIN IND NOM	swe	swe	tu man hand	526828
-untying the knots	a n ~ t 'ai $ i ng | dh ë ~ n 'å t s	VB ING	eng	eng	untying| |the~ ~knots	750416
-uppf hemmiljö	"u p - f `ö d | h "e m - m i l $ j `ö2:	AB	swe	swe	-	741599
-uppf. i	"u p - f `ö d | 'i2:	ABBR	swe	swe	-	754919
-vice versa	v "i2: $ s `ë | v "ä3 $ rs `a	AB	swe	swe	vice| |versa	551051
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

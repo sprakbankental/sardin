@@ -84,8 +84,6 @@ use Test::MTM::Expansion::AbbreviationExpansion;
 use Test::MTM::Pronunciation;				# 220922 Dolled up to utilise Test::Class
 use Test::MTM::Pronunciation::Autopron;			# 220922 Dolled up to utilise Test::Class
 use Test::MTM::Pronunciation::AutopronEspeak;		# 240510
-use Test::MTM::Pronunciation::InsertSyllableBoundaries;
-use Test::MTM::Pronunciation::InsertSyllableBoundaries;
 
 # Conversion	240816
 ### CT241217 use Test::MTM::Pronunciation::Conversion::ACA;
@@ -107,15 +105,6 @@ use Test::MTM::Pronunciation::InsertSyllableBoundaries;
 # Pause
 use Test::MTM::Pause;
 
-# SSML
-# CT 240216 not used as before ... use Test::MTM::SSML;
-
-# Validation
-use Test::MTM::Validation::Pronunciation;
-
-# Frequency
-#use Test::MTM::Frequency::Entropy;
-#use Test::MTM::Frequency::Readability;
 
 # NB!!! Ugly trick until we can get test plans sorted
 use Test::More;

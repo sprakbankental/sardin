@@ -31,8 +31,8 @@ my $result;
 # MODULE	MTM::Legacy.pm
 
 # Function	addEnding
-( $pron, $morph ) = &MTM::Legacy::addEnding( "g n \'u2:", 's' );
-is( $pron, "g n \'u2: s", 'addEnding pron: correct.' );
+( $pron, $morph ) = &MTM::Legacy::addEnding( "g n \'uu:", 's' );
+is( $pron, "g n \'uu: s", 'addEnding pron: correct.' );
 is( $morph, "GEN", 'addEnding pron: correct.' );
 
 # Function	cleanBlanks

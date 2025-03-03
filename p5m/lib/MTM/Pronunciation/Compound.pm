@@ -38,19 +38,10 @@ sub createCompoundPronunciation {
 	# Compounds with hyphens or not
 	my $decomposed2 = $decomposed;
 
-
-	#print "$MTM::Legacy::Lists::sv_special_character_list\n";
-	#$decomposed2 =~ s/($MTM::Legacy::Lists::sv_special_character_list)/\+$1\+/g;
-	#$decomposed2 =~ s/(<SPLIT>)+/<SPLIT>/g;
-
 	$decomposed2 =~ s/\+\-\+/<SPLIT>/g;
 	$decomposed2 =~ s/\+/<SPLIT>/g;
 
-	#print "P $decomposed2\n";
-
 	my @decomposed = split/<SPLIT>/, $decomposed2;
-
-	# while(my($k,$v) = each(%MTM::Legacy::Lists::en_final_dec_parts)) { print STDERR "$k\t$v\n"; }
 
 	my $i = 0;
 	my @pron = ();
@@ -139,7 +130,7 @@ sub createCompoundPronunciation {
 					my $partPron = $MTM::Legacy::Lists::en_initial_dec_parts{ $lc_part };
 
 					# Safety removal if two pronunciations		CT 150330
-					$partPron =~ s/^.+\t(.*[\"\'\`].+)$/$1/;
+					$partPron =~ s/^.+\t(.*[\"\'\,].+)$/$1/;
 
 					push @pron, $partPron;
 
@@ -208,7 +199,7 @@ sub createCompoundPronunciation {
 						my $partPron = $MTM::Legacy::Lists::sv_initial_dec_parts{ $lc_part };
 
 						# Safety removal if two pronunciations		CT 150330
-						$partPron =~ s/^.+\t(.*[\"\'\`].+)$/$1/;
+						$partPron =~ s/^.+\t(.*[\"\'\,].+)$/$1/;
 
 						push @pron, $partPron;
 
@@ -312,9 +303,6 @@ sub createCompoundPronunciation {
 				} elsif (
 					exists( $MTM::Legacy::Lists::sv_final_dec_parts{ $part } )
 				) {
-
-		#			print "FINAL $part\n";
-
 					my $partPron = $MTM::Legacy::Lists::sv_final_dec_parts{ $part };
 					push @pron, $partPron;
 
@@ -327,7 +315,6 @@ sub createCompoundPronunciation {
 					push @pron, $partPron;
 
 					# print STDERR "\tFinal $MTM::Legacy::Lists::sv_acronym part\t$partPron\n";
-
 
 				# Spelling/autopron
 				} else {
@@ -417,10 +404,10 @@ sub createCompoundPronunciation {
 				) {
 					my $partPron = $MTM::Legacy::Lists::sv_medial_dec_parts{ $part };
 
-					$partPron =~ s/^m \'ä3 n s$/m \'a n s/;
+					$partPron =~ s/^m \'ae n s$/m \'a n s/;
 					push @pron, $partPron;
 
-					# print STDERR "Medial pron\t$partPron\n";
+					# print STDERR "Medial pron\t$partPron\n"; exit;
 
 				# Acronym list
 				} elsif ( exists( $MTM::Legacy::Lists::sv_acronym{ $part } )) {
@@ -466,8 +453,6 @@ sub createCompoundPronunciation {
 		$pron = &MTM::Pronunciation::Swedify::swedify( $pron );
 		$pron = &MTM::Pronunciation::Stress::sv_compound_stress( $pron );
 	}
-
-
 	# print STDERR "\nReturning $decomposed\t$pron\n";
 
 	$pron =~ s/^[\s\-]+//;
@@ -478,16 +463,12 @@ sub createCompoundPronunciation {
 sub getCartPron {
 	my ( $part, $domain ) = @_;
 
+
 	if( $runmode ne 'wordLookup' ) {
-
-		##### CT 2020-12-07 WAIT with this one, not committed
+		use MTM::Pronunciation::Conversion::TPA;
 		my $partPron = &MTM::Pronunciation::Autopron::cartAndStress( $part, $domain );
-		#my $partPron = "f \'e j k";
-
-		# print STDERR "PPP $partPron\n";
-
+		$partPron = MTM::Pronunciation::Conversion::TPA::decode( $partPron, $partPron );
 		$partPron = &MTM::Pronunciation::Syllabify::syllabify( $partPron );
-
 		return $partPron;
 	}
 

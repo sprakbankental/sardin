@@ -56,7 +56,7 @@ sub pronounce_and_insert {
 	}
 
 
-	#while(my($k,$v)=each(%MTM::Legacy::Lists::sv_dict_main)){ print "m $k\t$v\n"; }
+	#while(my($k,$v)=each(%MTM::Legacy::Lists::sv_braxen)){ print "m $k\t$v\n"; }
 	# print STDERR "W $word\t$t->{exp}\n";
 
 	if( &MTM::Legacy::isDefault( $t->{exp} )) {
@@ -121,13 +121,9 @@ sub pronounce_and_insert {
 					$conversion = 'tpa2cp';
 				}
 
-				#print STDERR "SEND\t$pron\t\t$conversion\n";
-				### CT $pron = &MTM::Pronunciation::Conversion::convert( $pron, $t->{pos}, $conversion, $word, $decomposed, $debug );
 			} elsif( $MTM::Vars::tts eq 'tacotron_1' && $pron =~ /[a-zåäö]/i ) {
 				$conversion = 'tpa2tacotron_1';
 
-				#print STDERR "SEND\t$pron\t\t$conversion\n";
-				### CT $pron = &MTM::Pronunciation::Conversion::convert( $pron, $t->{pos}, $conversion, $word, $decomposed, $debug );
 			}
 
 			# print STDERR "PPP $word\t$pron\t$pos_morph\n";
@@ -139,15 +135,8 @@ sub pronounce_and_insert {
 			}
 
 			$t->{pron} = $pron;
-
-			### CT 231115 Language tagging is done in LanguageDetection
-			### $t->{lang} = $pronlang;
-
 			$t->{dec} = $decomposed;
-
-			###$t->{pronmethod} = $pron_method;
 			$t->{isInDictionary} = $pron_method;
-			#print "isInDictionary $t->{orth}\t$t->{isInDictionary}\n";
 
 #	TODO		if( $t->{id} =~ /\d/ ) {
 #				$t->{isInDictionary} = $t->{id};
@@ -160,12 +149,6 @@ sub pronounce_and_insert {
 	# 241114
 	if( $t->{pos} =~ /^RG/ && $t->{exprType} eq '-' ) {
 		$t->{exprType} = 'NUMERAL';
-	}
-
-	# Convert to Base format
-	my $base_pron = convert2base( $t->{pron} );
-	if( $base_pron ne 'INVALID' ) {
-		$t->{pron} = $base_pron;
 	}
 
 	return $self;
@@ -182,6 +165,8 @@ sub convert2base {
 		# Validate
 		my $validated = MTM::Pronunciation::Validation::Base::validate( $base_pron, $base_pron, 'sv' );
 		
+		#print STDERR "$validated	$base_pron\n";
+		
 		if(
 			$validated =~ /^VALID/
 			||
@@ -189,7 +174,7 @@ sub convert2base {
 		) {
 			return $base_pron;
 		} else {
-			return 'INVALID';
+			return "INVALID	$base_pron";
 		}
 	}
 }
@@ -497,18 +482,24 @@ sub pronounce {
 	if( $t->{lang} =~ /^en/ ) {
 		my $err;
 		( $pron, $err ) = &MTM::Pronunciation::AutopronEspeak::run_espeak( $word );
+		$pron = &MTM::Pronunciation::Syllabify::syllabify( $pron );
 	} else {
 		my $domain = 'swe';
 		if( $MTM::Vars::runmode ne 'wordLookup' ) {
 			$pron = &MTM::Pronunciation::Autopron::cartAndStress( $word, $domain );
+			my $base_pron = MTM::Pronunciation::Pronunciation::convert2base( $pron );
+			
+			if( $base_pron =~ s/INVALID	// ) {
+				$pron = &MTM::Pronunciation::Syllabify::syllabify( $base_pron );
+
+				# Validate
+				my $validated = MTM::Pronunciation::Validation::Base::validate( $pron, $pron, 'sv' );
+			} else {
+				$pron = &MTM::Pronunciation::Syllabify::syllabify( $base_pron );
+			}
 		}
 	}
 
-	#if ( $debug ) {
-	#	print DEBUG "Cart result\t$word\t$domain\t$pron\n";
-	#}
-
-	$pron = &MTM::Pronunciation::Syllabify::syllabify( $pron );
 
 	# Cheating!
 	if ( $word =~ /^[A-ZÅÄÖ]/ ) {
@@ -531,33 +522,6 @@ sub pronounce {
 	#print "Cart: $pron\t$ortlang\n";
 	
 	return ( $pron, $posmorph, $ortlang, $pronlang, $word, $pron_method, '-' );
-
-
-#	my ( $word, $case, $posmorph, $mode, $index, $debug ) = @_;
-#
-#	$word =~ s/\’//;
-#
-#	if ( $debug ) {
-#		print DEBUG "\n\n************************************************************\nInput createPronunciation\n\t$word\t$case\t$posmorph\t$mode\t$debug\n";
-#	}
-#
-#	my $pron_method = 'void';
-#
-#	if ( $word eq '__paragraf_insertion' ) {
-#		return ( "p a \$ r a \$ g r \'a2: f", 'NN UTR SIN IND NOM', 'swe', 'swe', '-', 'dict', 0 );
-#	}
-#
-#	if ( $word eq '__kapitel_insertion' ) {
-#		return ( "k a \$ p \'i \$ t ë l", 'NN NEU SIN IND NOM', 'swe', 'swe', '-', 'dict', 0 );
-#	}
-#
-#	if ( $word eq '__stycke_insertion' ) {
-#		return ( "s t \"y \$ k \`ë", 'NN NEU SIN IND NOM', 'swe', 'swe', '-', 'dict', 0 );
-#	}
-#
-#	if ( $word =~ /^__mute_(\§\§|\§|kap\.?|st\.?)/ ) {
-#		return ( '', '-', '-', '-', '-', '-', 0 );
-#	}
 }
 #**************************************************************#
 # spell.pl

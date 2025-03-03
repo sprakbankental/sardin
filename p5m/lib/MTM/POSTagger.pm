@@ -786,7 +786,7 @@ sub KnownWord {
 			}
 		# kön
 		} elsif( $WordNow =~ /^kön/i ) {
-			if ( $PossTag eq 'NCNSN@IS' ) {	# kön --> /tj 'ö2: n/ alltid
+			if ( $PossTag eq 'NCNSN@IS' ) {	# kön --> /c 'ö: n/ alltid
 				$tmpProb *= 100;
 			}
 

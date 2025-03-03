@@ -112,7 +112,7 @@ sub expand : Tests(591) {
 		{orth => ' '},
 		{orth => '2', exp => 'paragraf|två'},
 		{orth => ' '},
-		{orth => 'a', pron => "\'a2:"},
+		{orth => 'a', pron => "\'a:"},
 		{orth => ' '},
 		{orth => '§', exp => '<none>'}
 	);
@@ -134,7 +134,7 @@ sub expand : Tests(591) {
 		{orth => '-', exp => 'till'},
 		{orth => '6', exp => 'sex'},
 		{orth => ' '},
-		{orth => 'c', pron => "s \'e2:"},
+		{orth => 'c', pron => "s \'e:"},
 		{orth => ' '},
 		{orth => 'kap', exp => '<none>'},
 		{orth => '.'}
@@ -147,7 +147,7 @@ sub expand : Tests(591) {
 		{orth => ' '},
 		{orth => '6', exp => 'sex'},
 		{orth => ' '},
-		{orth => 'c', pron => "s \'e2:"},
+		{orth => 'c', pron => "s \'e:"},
 		{orth => ' '},
 		{orth => 'kap', exp => '<none>'},
 		{orth => '.'}
@@ -221,11 +221,11 @@ sub expand : Tests(591) {
 		{orth => ' '},
 		{orth => '5', exp => 'paragraferna|fem'},
 		{orth => ' '},
-		{orth => 'a', pron => "\'a2:"},
+		{orth => 'a', pron => "\'a:"},
 		{orth => '-', exp => 'till'},
 		{orth => '5', exp => 'fem'},
 		{orth => ' '},
-		{orth => 'c', pron => "s \'e2:"},
+		{orth => 'c', pron => "s \'e:"},
 		{orth => ' '},
 		{orth => '§§', exp => '<none>'}
 	);
@@ -244,7 +244,7 @@ sub expand : Tests(591) {
 		{orth => ' '},
 		{orth => '30', exp => 'paragraf|trettio'},
 		{orth => ' '},
-		{orth => 'a', pron => "\'a2:"},
+		{orth => 'a', pron => "\'a:"},
 		{orth => ' '},
 		{orth => '§', exp => '<none>'}
 	);
@@ -277,7 +277,7 @@ sub expand : Tests(591) {
 		{orth => ' '},
 		{orth => '33', exp => 'trettiotre'},
 		{orth => ' '},
-		{orth => 'd', pron => "d \'e2:"},
+		{orth => 'd', pron => "d \'e:"},
 		{orth => ','},
 		{orth => ' '},
 		{orth => '36', exp => 'trettiosex'},

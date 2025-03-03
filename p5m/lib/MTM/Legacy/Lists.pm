@@ -134,9 +134,10 @@ our %p_suffixtag;
 our %p_backup_suffixtag;
 our %numeralPron;
 
-our %sv_dict_main;
-our %sv_dict_name;
-our %sv_dict_english;
+#our %sv_dict_main;
+#our %sv_dict_name;
+#our %sv_dict_english;
+our %sv_braxen;
 
 our %sv_nst_dict;
 
@@ -253,6 +254,7 @@ if (exists($GLOBAL_OVERRIDE{LISTMETHOD})) {
 } else {
 	$METHOD = 'retrieve';
 	#$METHOD = 'build';
+	
 	#$METHOD = 'build+store';
 	# $STORE = 0;
 }
@@ -263,15 +265,11 @@ print STDERR "$READERCUTOFF - $list_mode - $METHOD\n";
 if( $list_mode eq 'SRL' ) {
 	if ($METHOD eq 'build' ) {	##### CT 210215
 		MTM::Legacy::Lists::Build::build_lists( $MTM, $LEGACYPATH );
-
 	} elsif ($METHOD eq 'build+store') {	##### CT 210215
 		#MTM::Legacy::Lists::Build::build_lists( $MTM, $LEGACYPATH, $SRLPATH );	##### CT 210215
 		#store_lists() if $METHOD eq 'build+store';
-
-
 	} elsif ($METHOD eq 'retrieve') {
 		MTM::Legacy::Lists::Retrieve::read_lists($MTM, $SRLPATH);
-
 	} else {
 		die "Bad list population method: $METHOD";
 	}
@@ -288,6 +286,8 @@ if( $list_mode eq 'SRL' ) {
 	} elsif ($METHOD eq 'retrieve') {
 		#MTM::Legacy::Lists::Retrieve::read_lists($MTM, $SRLPATH);
 		MTM::Legacy::Lists::Build_DB_File::build_lists( $MTM, $LEGACYPATH, $SRLPATH, 0 );
+#		print STDERR "HOHO\n";
+#		while(my($k,$v)=each(%MTM::Legacy::Lists::sv_braxen)) { print STDERR "$k\n"; }
 
 	} else {
 		die "Bad list population method: $METHOD";

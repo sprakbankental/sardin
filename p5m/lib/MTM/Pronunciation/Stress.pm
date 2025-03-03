@@ -73,7 +73,7 @@ sub numeralStress {
 			my $second = $2;
 
 			# Save only the last stress symbol.
-			$first =~ s/[\"\'\`]//g;
+			$first =~ s/[\"\'\,]//g;
 
 			$p = $first . $second;
 		}
@@ -96,7 +96,7 @@ sub firstPartStress {	# return var
 	my $pron = shift;
 
 	# Remove secondary stress
-	$pron	 =~ s/\`//g;
+	$pron	 =~ s/\,//g;
 
 	# Change accent I to accent II
 	$pron	 =~ s/\'/\"/g;
@@ -121,18 +121,18 @@ sub lastPartStress {	# return var
 	my $pron = shift;
 
 	if( $pron =~ /[\"\']/ ) {
-		$pron =~ s/\`//;
-		$pron =~ s/[\"\']/\`/;
+		$pron =~ s/\,//;
+		$pron =~ s/[\"\']/\,/;
 	}
 
 	# CT 171208 use rule above
 	# Secondary stress exists - remove primary stress
-	#if ( $pron =~ /\`/ ) {
+	#if ( $pron =~ /\,/ ) {
 	#	$pron =~ s/[\"\']//;
 	#
 	## Else change primary stress to seconday stress
 	#} else {
-	#	$pron =~ s/[\"\']/\`/;
+	#	$pron =~ s/[\"\']/\,/;
 	#}
 
 	return $pron;
@@ -166,7 +166,7 @@ sub acronymStress {
 			if ( $nLetters == 1 ) {
 				# $pron[1] is the delimiter '~'
 				$pron[0] =~ s/\'/\"/;
-				$pron[2] =~ s/[\"\'\`]/\`/g;
+				$pron[2] =~ s/[\"\'\,]/\,/g;
 
 			# Accent II if more than three letters
 			} elsif ( $nLetters > 3 ) {
@@ -174,7 +174,7 @@ sub acronymStress {
 					if (
 						$i == $#pron
 					) {
-						$p =~ s/[\"\']/\`/g;
+						$p =~ s/[\"\']/\,/g;
 						$i++;
 					} elsif (
 						$i == $#pron-2
@@ -182,7 +182,7 @@ sub acronymStress {
 						$p =~ s/\'/\"/g;
 						$i++;
 					} else {
-						$p =~ s/[\'\"\`]//g;
+						$p =~ s/[\'\"\,]//g;
 						$i++;
 					}
 				}
@@ -194,7 +194,7 @@ sub acronymStress {
 					if (
 						$i != $#pron
 					) {
-						$p =~ s/[\"\'\`]//g;
+						$p =~ s/[\"\'\,]//g;
 						$i++;
 					}
 				}
@@ -240,7 +240,7 @@ sub englishAcronymStress {	# return: var
 			if (
 				$i != $#pron
 			) {
-				$p =~ s/[\"\'\`]//g;
+				$p =~ s/[\"\'\,]//g;
 				$i++;
 			}
 		}
@@ -258,7 +258,7 @@ sub englishAcronymStress {	# return: var
 sub sv_compound_stress {
 
 	my $pron = shift;
-
+	
 	# print STDERR "\n---- Compound stress ----\n$pron\n\n";
 
 	my @pron = split/ - /, $pron;
@@ -276,14 +276,14 @@ sub sv_compound_stress {
 				$part =~ /^(.+ \| )([^|]+)$/;
 				my $firstWords = $1;
 				my $lastWord = $2;
-				$lastWord =~ s/\`//;
+				$lastWord =~ s/\,//;
 				$lastWord =~ s/\'/\"/;
 
 				$part = $firstWords . $lastWord;
 
 			# Simplex
 			} else {
-				$part =~ s/\`//;
+				$part =~ s/\,//;
 				$part =~ s/\'/\"/;
 			}
 
@@ -294,17 +294,17 @@ sub sv_compound_stress {
 		} elsif ( $i == $#pron ) {
 
 			if ( $part =~ /\"/ ) {
-				$part =~ s/\`//;
-				$part =~ s/\"/\`/
+				$part =~ s/\,//;
+				$part =~ s/\"/\,/
 				#$part =~ s/\"//;
 
-			} elsif ( $part =~ s/\'/\`/ ) {
+			} elsif ( $part =~ s/\'/\,/ ) {
 				# do nothing
 			}
 
 		# Middle parts, remove all stress markers
 		} else {
-			$part =~ s/[\"\'\`]//g;
+			$part =~ s/[\"\'\,]//g;
 
 		}
 		$i++;
@@ -338,14 +338,14 @@ sub en_compound_stress {
 				$part =~ /^(.+ \| )([^|]+)$/;
 				my $firstWords = $1;
 				my $lastWord = $2;
-				$lastWord =~ s/\`//;
+				$lastWord =~ s/\,//;
 				$lastWord =~ s/\"/\'/;
 
 				$part = $firstWords . $lastWord;
 
 			# Simplex
 			} else {
-				$part =~ s/\`//;
+				$part =~ s/\,//;
 				$part =~ s/\"/\'/;
 			}
 
@@ -354,11 +354,11 @@ sub en_compound_stress {
 		# Last part, no stress
 		# It's not that simple...
 		} elsif ( $i == $#pron ) {
-			$part =~ s/[\"\'\`]//g;
+			$part =~ s/[\"\'\,]//g;
 
 		# Middle parts, remove all stress markers
 		} else {
-			$part =~ s/[\"\'\`]//g;
+			$part =~ s/[\"\'\,]//g;
 
 		}
 		$i++;

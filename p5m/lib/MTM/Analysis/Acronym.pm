@@ -164,11 +164,7 @@ sub markAcronymFirstInCompound {	# return: markup and flag (1/0)
 		}
 
 		# Insert fields
-		my $base_pron = MTM::Pronunciation::Pronunciation::convert2base( $pron );
-		if( $base_pron ne 'INVALID' ) {
-			$t->{pron} = $base_pron;
-		}
-
+		$t->{pron} = $pron;
 		$t->{pos} = $lastPos;
 		$t->{morph} = $lastMorph;
 		$t->{lang} = $lastOrtlang;
@@ -283,11 +279,7 @@ sub markAcronymLastInCompound {	# return: markup and flag (1/0)
 
 		# Insert fields
 		#&insertAcronymFields( $index, $pron, $lastPos, $lastMorph, $lastLang, 'ACRONYM COMPOUND' );	##### TODO
-		my $base_pron = MTM::Pronunciation::Pronunciation::convert2base( $pron );
-		if( $base_pron ne 'INVALID' ) {
-			$t->{pron} = $base_pron;
-		}
-
+		$t->{pron} = $pron;
 		$t->{pos} = $lastPos;
 		$t->{morph} = $lastMorph;
 		$t->{lang} = $current_lang;
@@ -339,11 +331,7 @@ sub markAcronym {	# return: markup and flag (1/0)
 		# print STDERR "Without ending $t->{orth}\t$pron\t$current_lang\n"; exit;
 
 		# Insert fields
-		my $base_pron = MTM::Pronunciation::Pronunciation::convert2base( $pron );
-		if( $base_pron ne 'INVALID' ) {
-			$t->{pron} = $base_pron;
-		}
-
+		$t->{pron} = $pron;
 		$t->{pos} = 'ACR';
 		$t->{morph} = 'NOM';
 		$t->{lang} = $current_lang;
@@ -381,11 +369,7 @@ sub markAcronym {	# return: markup and flag (1/0)
 			( $pron, $morph ) = MTM::Legacy::addEnding( $pron, $ending);
 
 			# Insert fields
-			my $base_pron = MTM::Pronunciation::Pronunciation::convert2base( $pron );
-			if( $base_pron ne 'INVALID' ) {
-				$t->{pron} = $base_pron;
-			}
-
+			$t->{pron} = $pron;
 			$t->{pos} = 'ACR';
 			$t->{morph} = $morph;
 			$t->{lang} = $current_lang;
@@ -466,11 +450,7 @@ sub isPossibleAcronym {
 				( $pron, $morph ) = MTM::Legacy::addEnding( $pron, $ending);
 
 				# Insert fields
-				my $base_pron = MTM::Pronunciation::Pronunciation::convert2base( $pron );
-				if( $base_pron ne 'INVALID' ) {
-					$t->{pron} = $base_pron;
-				}
-
+				$t->{pron} = $pron;
 				$t->{pos} = 'ACR';
 				$t->{morph} = $morph;
 				$t->{lang} = $current_lang;
@@ -485,11 +465,7 @@ sub isPossibleAcronym {
 				# Is pronouncable - do nothing here
 			} else {
 				my $pron = &MTM::Pronunciation::AcronymPronunciation::pronounce( $t->{orth}, 0 );
-				my $base_pron = MTM::Pronunciation::Pronunciation::convert2base( $pron );
-				if( $base_pron ne 'INVALID' ) {
-					$t->{pron} = $base_pron;
-				}
-
+				$t->{pron} = $pron;
 				$t->{pos} = 'ACR';
 				$t->{morph} = 'NOM';
 				$t->{lang} = $current_lang;

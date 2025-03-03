@@ -58,110 +58,11 @@ sub postag_in_context {
 	# NB! Ugly fix for out of bounds will disappear
 	my $t = $self->{LEGACYDATA};
 
-#	print STDERR "$t->{orth}\n";
-
-#	##### PANIC TAGGING: REMOVE THIS	CT 2020-11-26
-#	if( $t->{orth} =~ /^\d+$/ || $t->{orth} =~ /^\d+( \d\d\d)+$/ ) {
-#		$t->{pos} = 'RG';
-#		$t->{morph} = 'NOM';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^\d+:e$/ || $t->{orth} =~ /^\d+( \d\d\d)+:e$/ ) {
-#		$t->{pos} = 'RO';
-#		$t->{morph} = 'NOM';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^(en)$/i ) {
-#		$t->{pos} = 'DT';
-#		$t->{morph} = 'UTR SIN IND';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^(ett)$/i ) {
-#		$t->{pos} = 'DT';
-#		$t->{morph} = 'NEU SIN IND';
-#		return $self;
-#	}
-#	if( $t->{orth} =~ /^(de)$/i ) {
-#		$t->{pos} = 'DT';
-#		$t->{morph} = 'UTR/NEU PLU DEF';
-#		return $self;
-#	}
-#	if( $t->{orth} =~ /^(det)$/i ) {
-#		$t->{pos} = 'DT';
-#		$t->{morph} = 'NEU SIN DEF';
-#		return $self;
-#	}
-#	if( $t->{orth} =~ /^(den)$/i ) {
-#		$t->{pos} = 'DT';
-#		$t->{morph} = 'UTR SIN DEF';
-#		return $self;
-#	}
-#	if( $t->{orth} =~ /^(vad)$/i ) {
-#		$t->{pos} = 'HP';
-#		$t->{morph} = 'NEU SIN IND';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^(sedan)$/i ) {
-#		$t->{pos} = 'AB';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^(men)$/i ) {
-#		$t->{pos} = 'KN';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^(var)$/i ) {
-#		$t->{pos} = 'VB';
-#		$t->{morph} = 'PRT AKT';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^\s+$/ ) {
-#		$t->{pos} = 'DEL';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^(Nilsson|Karlsson|Peder|Karl)$/ ) {
-#		$t->{pos} = 'PM';
-#		$t->{morph} = 'NOM';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^[\.\!\?]$/ ) {
-#		$t->{pos} = 'DL';
-#		$t->{morph} = 'MAD';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^[\,\;\(\)\"]$/ ) {
-#		$t->{pos} = 'DL';
-#		$t->{morph} = 'MID';
-#		return $self;
-#	}
-#
-#	if( $t->{orth} =~ /^mått$/ ) {
-#		$t->{pos} = 'NN';
-#		$t->{morph} = 'NEU SIN IND NOM';
-#		return $self;
-#	}
-#
-#	##### END PANIC TAGGING: REMOVE THIS	CT 2020-11-26
-
-
-	###### CT 2020-12-08 Fake tagging: choose first alternative.
-
 	my @PossibleTags = @{ $t->{PossibleTags }};
 	#print "PT $t->{orth}\t@PossibleTags\n";
 
 	my $parole_tag = shift @PossibleTags;
 	my $suc_tag = 'NN UTR SIN IND NOM';
-
-	#while(my($k,$v)=each(%MTM::Legacy::Lists::p2s)){ print "I $k\t$v\n"; }
 
 	if( exists( $MTM::Legacy::Lists::p2s{ $parole_tag } )) {
 		$suc_tag = $MTM::Legacy::Lists::p2s{ $parole_tag };
@@ -170,59 +71,6 @@ sub postag_in_context {
 	#print STDERR "tagger\t$t->{orth}\t$t->{pos}\n";
 
 
-#	my $look_for_lc = 0;
-#
-#	# Get locations
-#	my $lc1base = $chunk->peek($look_for_lc - 1) or  return $self;
-#	my $lc1 = $lc1base->{LEGACYDATA};
-#
-#	my @lc1_PossibleTags = @{ $lc1->{PossibleTags }};
-#	#print "L1 @lc1_PossibleTags\n";
-#
-#	if( $lc1_PossibleTags[0] eq 'DEL' ) {
-#		$look_for_lc--;
-#		my $lc1base = $chunk->peek($look_for_lc - 1) or  return $self;
-#		my $lc1 = $lc1base->{LEGACYDATA};
-#		@lc1_PossibleTags = @{ $lc1->{PossibleTags }};
-#		#print "L1 NEW @L1_PossibleTags\n";
-#	}
-#
-##	my $l3base = $chunk->peek(-3) or return $self;
-##	my $l3 = $l3base->{LEGACYDATA};
-#
-##	my $lc2base = $chunk->peek(-2) or return $self;
-##	my $lc2 = $lc2base->{LEGACYDATA};
-#
-##	my $rc1base = $chunk->peek(1) or  return $self;
-##	my $rc1 = $rc1base->{LEGACYDATA};
-#
-##	my $rc2base = $chunk->peek(2) or return $self;
-##	my $rc2 = $rc2base->{LEGACYDATA};
-#
-##	my $rc3base = $chunk->peek(3) or return $self;
-##	my $rc3 = $rc3base->{LEGACYDATA};
-#
-#	#print "L3 $l3\nL2 $lc2\nR2 $rc2\nR3 $rc3\n";
-#
-#	# Do something with it
-#
-#	#print "Bigram\t" . "L2: " . $lc2->{orth} . "\t" . "L1: " . $lc1->{orth} . "\t" . $t->{orth} . "\t" . "R1: " . $rc1->{orth} . "\t" . "R2: " . $rc2->{orth} . "\n";
-#
-#
-#	#$lc2->{LEGACYDATA}{UnigramProb}
-#
-#	my @PossibleBigrams = ();
-#	foreach my $pt ( @PossibleTags ) {
-#		chomp $pt;
-#		foreach my $lc1_pt ( @lc1_PossibleTags ) {
-#			push @PossibleBigrams, "$pt\t$lc1_pt";
-#			#print "PossibleBigrams: " . "$pt\t$lc1_pt" . "\n";
-#		}
-#	}
-#
-#	#print "\tBigram\t" . "L2: ORTH $lc2->{orth}\tUNIGRAM: $lc2->{LEGACYDATA}{UnigramProb}\tPOSSTAG: $lc2->{LEGACYDATA}{PossibleTags}\n"; # . "POS L2:" . $self->{LEGACYDATA}{PossibleTags} . "\t" . "L1: " . $lc1->{orth} . "\t" . $t->{orth} . "\n";
-#	#print "\tTrigram\t" . "L3: " . $l3->{orth} . "\t" . "L2: " . $lc2->{orth} . "\t" . "L1: " . $lc1->{orth} . "\t" . $t->{orth} . "\n";
-#
 
 	return $self;
 }

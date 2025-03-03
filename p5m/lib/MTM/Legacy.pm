@@ -42,11 +42,11 @@ sub addEnding {
 		$morph	=	'GEN';
 
 	} elsif ($ending =~ /^er$/) {
-		$pron	.=	' ë r';
+		$pron	.=	' ex r';
 		$morph	=	'- PLU IND NOM';
 
 	} elsif ($ending =~ /^ers$/) {
-		$pron	.=	' ë rs';
+		$pron	.=	' ex rs';
 		$morph	=	'- PLU IND GEN';
 
 	} elsif ($ending =~ /^ar$/) {
@@ -66,60 +66,60 @@ sub addEnding {
 		$morph	=	'- PLU IND GEN';
 
 	} elsif ($ending =~ /^en$/) {
-		$pron	.=	' ë n';
+		$pron	.=	' ex n';
 		$morph	=	'UTR SIN DEF NOM';
 
 	} elsif ($ending =~ /^ens$/) {
-		$pron	.=	' ë n s';
+		$pron	.=	' ex n s';
 		$morph	=	'UTR SIN DEF GEN';
 
 	} elsif ($ending =~ /^et$/) {
-		$pron	.=	' ë t';
+		$pron	.=	' ex t';
 		$morph	=	'NEU SIN DEF NOM';
 
 	} elsif ($ending =~ /^ets$/) {
-		$pron	.=	' ë t s';
+		$pron	.=	' ex t s';
 		$morph	=	'NEU SIN DEF GEN';
 
 	} elsif ($ending =~ /^rna$/) {
-		$pron	.=	' $ rn a';
+		$pron	.=	' . rn a';
 		$morph	=	'- PLU DEF NOM';
 
 	} elsif ($ending =~ /^rnas$/) {
-		$pron	.=	' $ rna s';
+		$pron	.=	' . rna s';
 		$morph	=	'- PLU DEF GEN';
 
 	} elsif ($ending =~ /^erna$/) {
-		$pron	.=	' ë $ rn a';
+		$pron	.=	' ex . rn a';
 		$morph	=	'- PLU DEF NOM';
 
 	} elsif ($ending =~ /^ernas$/) {
-		$pron	.=	' ë $ rn a s';
+		$pron	.=	' ex . rn a s';
 		$morph	=	'- PLU DEF GEN';
 
 	} elsif ($ending =~ /^arna$/) {
-		$pron	.=	' a $ rn a';
+		$pron	.=	' a . rn a';
 		$morph	=	'- PLU DEF NOM';
 
 	} elsif ($ending =~ /^arnas$/) {
-		$pron	.=	' a $ rn a s';
+		$pron	.=	' a . rn a s';
 		$morph	=	'- PLU DEF GEN';
 
 	} elsif ($ending =~ /^orna$/) {
-		$pron	.=	' o $ rn a';
+		$pron	.=	' o . rn a';
 		$morph	=	'- PLU DEF NOM';
 
 	} elsif ($ending =~ /^ornas$/) {
-		$pron	.=	' o $ rn a s';
+		$pron	.=	' o . rn a s';
 		$morph	=	'- PLU DEF GEN';
 
 
 	} elsif ($ending =~ /^aren$/) {
-		$pron	.=	' a $ r ë n';
+		$pron	.=	' a . r ex n';
 		$morph	=	'UTR SIN DEF NOM';
 
 	} elsif ($ending =~ /^arens$/) {
-		$pron	.=	' a $ r ë n s';
+		$pron	.=	' a . r ex n s';
 		$morph	=	'UTR SIN DEF GEN';
 
 	} elsif ($ending =~ /^n$/) {

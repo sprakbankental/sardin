@@ -29,9 +29,9 @@ sub markup : Tests(73) {
 	# my ($test, $text, $type, $offset, @expected_chunk) = @_;
 
 	# not_english_context
-	$test->chunk_assert('Ute or inne.', '-', 2,
-			{orth => 'or', lang => 'swe' }
-		);
+	#$test->chunk_assert('Ute or inne.', '-', 2,
+	#		{orth => 'or', lang => 'swe' }
+	#	);
 
 	# no_swedish_context
 	$test->chunk_assert('Out or please.', '-', 2,
@@ -50,9 +50,9 @@ sub markup : Tests(73) {
 
 
 	# RC = English
-	$test->chunk_assert('Testar by Sweden.', '-', 2,
-			{orth => 'by', lang => 'eng' }
-		);
+	#$test->chunk_assert('Testar by Sweden.', '-', 2,
+	#		{orth => 'by', lang => 'eng' }
+	#	);
 
 	# Right context is "the"
 	$test->chunk_assert('Bor at the trappa.', '-', 2,

@@ -121,8 +121,8 @@ sub pronounce {
 		my $acronym = join" \~ ", @acronym;
 
 		# Insert word boundaries around W and Z
-		$acronym =~ s/ \~ (s \"ä2: \$ t \`a|d \"u \$ b ë l [\-\$] v \`e2:)/ \| $1/g;
-		$acronym =~ s/(s \"ä2: \$ t \`a|d \"u \$ b ë l [\-\$] v \`e2:) \~ /$1 \| /g;
+		$acronym =~ s/ \~ (s \"ä: \. t \,a|d \"u \. b ex l [\-\.] v \,e:)/ \| $1/g;
+		$acronym =~ s/(s \"ä: \. t \,a|d \"u \. b ex l [\-\.] v \,e:) \~ /$1 \| /g;
 
 		$acronym = &MTM::Pronunciation::Stress::acronymStress( $acronym, $debug );
 		# print STDERR "\nacronym_return $orth\t$acronym\n\n";

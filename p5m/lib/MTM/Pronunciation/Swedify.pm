@@ -34,12 +34,12 @@ sub swedify {
 
 	$pron =~ s/ei/e j/g;
 	$pron =~ s/ai/a j/g;
-	$pron =~ s/åi/å j/g;
+	$pron =~ s/oi/o j/g;
 
-	$pron =~ s/eë/ä3:/g;
-	$pron =~ s/ië/e2:/g;
+	$pron =~ s/eex/ae:/g;
+	$pron =~ s/iex/e:/g;
 
-	$pron =~ s/r3/r/g;
+	$pron =~ s/rh/r/g;
 
 	# print STDERR "\n---------------------------\nSwedify\n\t$pron\n";
 

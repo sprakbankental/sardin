@@ -12,6 +12,20 @@ use DBM_Filter;
 use Sereal::Encoder;
 use Sereal::Decoder;
 
+# SBTal boilerplate
+use strict;
+use utf8;
+use autodie;
+use warnings;
+use warnings    qw< FATAL  utf8 >;
+use open        qw< :std  :utf8 >;     # Should perhaps be :encoding(utf-8)?
+use charnames   qw< :full :short >;    # autoenables in v5.16 and above
+use feature     qw< unicode_strings >;
+no feature      qw< indirect >;
+use feature     qw< signatures >;
+no warnings     qw< experimental::signatures >;
+# END SBTal boilerplate
+
 #***************************************************************************#
 #
 # 2021-09-22 CT need them for now
@@ -31,6 +45,8 @@ sub build_lists {
 	print STDERR "LIST READING START\t$mtm\t$legacypath\t$do_build\n";
 
 	### &readMultiwordList( $legacypath, $do_build )  or die;
+
+	$do_build = 0;
 
 	&read_sv_alphabet( $legacypath, $do_build ) or die;
 	&read_en_alphabet( $legacypath, $do_build ) or die;
@@ -60,42 +76,12 @@ sub build_lists {
 	&read_sv_medial_dec_parts( $legacypath, $SRLPATH, $do_build ) or die;
 	&read_sv_final_dec_parts( $legacypath, $SRLPATH, $do_build ) or die;
 
-	#print STDERR "IMF lists read.\n";
 
-###	&read_sv_initial_orth_dec_parts( $legacypath, $do_build ) or die;
-###	&read_sv_medial_orth_dec_parts( $legacypath, $do_build ) or die;
-###	&read_sv_final_orth_dec_parts( $legacypath, $do_build ) or die;
-###	&read_sv_final_orth_meta( $legacypath, $do_build ) or die;
-
-	#print STDERR "IMF orth lists read.\n";
-
-	#&read_en_initial_dec_parts( $legacypath, $SRLPATH, $do_build ) or die;
-	#&read_en_medial_dec_parts( $legacypath, $SRLPATH, $do_build ) or die;
-	#&read_en_final_dec_parts( $legacypath, $SRLPATH, $do_build ) or die;
-
-	#print STDERR "IMF en lists read.\n";
-
-###	&read_en_initial_orth_dec_parts( $legacypath, $do_build ) or die;
-###	&read_en_medial_orth_dec_parts( $legacypath, $do_build ) or die;
-###	&read_en_final_orth_dec_parts( $legacypath, $do_build ) or die;
-###	&read_en_final_orth_meta( $legacypath, $do_build ) or die;
-
-	#print STDERR "IMF orth en lists read.\n";
-
-	#print STDERR "Decomp lists read.\n";
-
-	&read_sv_dict_main( $legacypath, $do_build ) or die;
-	&read_sv_dict_name( $legacypath, $do_build ) or die;
-	&read_sv_dict_english( $legacypath, $do_build ) or die;
+	&read_sv_braxen($legacypath, $do_build) or die;
+	&read_en_braxen($legacypath, $do_build) or die;
 
 	# TODO Switch?
 	if( $MTM::Vars::use_dict eq 'NST' ) { &read_nst_dict( $do_build ) or die; }
-
-	#print STDERR "Lexicon read.\n";
-
-	#&read_en_dict_main( $legacypath, $do_build ) or die;
-	#&read_en_dict_name( $legacypath, $do_build ) or die;
-	#&read_en_dict_english( $legacypath, $do_build ) or die;
 
 	&read_sv_initial_c( $legacypath, $do_build ) or die;
 	&read_sv_initial_v( $legacypath, $do_build ) or die;
@@ -704,19 +690,15 @@ sub read_en_special_character {
 	}
 
 	$MTM::Legacy::Lists::en_special_character_list = &create_sorted_scalar( \%MTM::Legacy::Lists::en_special_character );
-#	print "I $MTM::Legacy::Lists::specialCharactersList\n";
-#	use utf8;
-#	my $test = 'd';
-#	while(my($k,$v)=each(%MTM::Legacy::Lists::specialCharacters)){ print "ttttttttt $test\tk $k\tv $v\n"; }
 	return 1;
 }
 #*******************************************************************************************#
-# Read main lexicon
-sub read_sv_dict_main {
+# CT 2025-02-27	Read Braxen
+sub read_sv_braxen {	# return: 1
 	my $path = shift or die "Missing path!";
 	my $do_build = shift;
 
-	my $file = $path . 'sv_dict_main.txt';
+	my $file = $path . 'sv_braxen.txt';
 
 	my $db = $file;
 	$db =~ s/legacy/legacy\/db/;
@@ -724,123 +706,155 @@ sub read_sv_dict_main {
 
 	if( $do_build == 1 ) {
 		open my $fh_FILE, '<:encoding(UTF-8)', $file or die "Cannot open $file: $!\n";
-		print STDERR "Reading readsv_dict_main\n";
-		unlink $db;
-		%MTM::Legacy::Lists::sv_dict_main = ();
+		print STDERR "Reading sv_braxen\n";
+		unlink $db if -e $db;
+		%MTM::Legacy::Lists::sv_braxen = ();
 
-		my $sv_dict_main_obj = tie %MTM::Legacy::Lists::sv_dict_main, "DB_File", $db;
+		my $sv_braxen_obj = tie %MTM::Legacy::Lists::sv_braxen, "DB_File", $db;
 		#$sv_dict_main_obj->Filter_Push('utf8');
 
+		my $i = 0;
 		while(<$fh_FILE>) {
+			$i++;
 			last if $. == $MTM::Legacy::Lists::READERCUTOFF;
 			next if /\#/;
 			my $line = $_;
 			chomp $line;
 			$line =~ s/\r//g;
-			my ( $k, @v ) = split/\t+/, $line;
 
-			if( exists( $MTM::Legacy::Lists::sv_dict_main{ $k } )) {
-				$MTM::Legacy::Lists::sv_dict_main{ $k } .= '<SPLIT>' . join"\t", @v;
-			} else {
-				$MTM::Legacy::Lists::sv_dict_main{ $k } = join"\t", @v;
+			my ( $k, @v ) = split/\t+/, $line;
+			
+			if(
+				$k =~ /(ī|¢|©|®|°|´|µ|¸|½|¾|À|Á|Ã|Æ|Ç|È|É|Ì|Í|Î|Ï|Ð|Ó|Ô|Ø|Ú|Ü|Þ|ß|à|á|â|ã|æ|ç|è|é|ê|ë|ì|í|î|ï|ð|ñ|ò|ó|ô|õ|ø|ù|ú|û|ü|ý|þ|ā|ă|ć|ċ|Č|č|Ď|đ|ē|ė|ę|ě|ğ|ī|ı|ł|ń|Ņ|ņ|ŋ|ō|ő|œ|ř|Ś|ś|Ş|ş|Š|š|ţ|ū|ů|ű|ź|Ž|ž|ɑ|ɪ|ʌ|ʻ|ʿ|̈|̊|έ|ή|ί|α|β|γ|δ|ε|η|ι|κ|λ|μ|ν|ο|ρ|ς|σ|τ|υ|φ|χ|ό|ύ|ώ|ϰ|Б|В|Г|Д|К|П|С|Ф|Х|Ш|Ю|а|б|в|г|д|е|ж|з|и|й|к|л|м|н|о|п|р|с|т|у|х|ц|ч|ш|ы|ь|я|Ḥ|Ṣ|ẏ|\’|ﬀ|ﬁ|ﬂ|ﬃ)/
+			) {
+				#my  $found = $1;
+				utf8::encode( $k );
+				#print "encode $k	$found\n";
 			}
+
+
+			# $pron, $posmorph, $ortlang, $pronlang, $decomposed, $id
+			my $val = "$v[0]	$v[1]	$v[2]	-	-	$v[25]";
+			
+			#print "$k\t$val\n";
+			if( exists( $MTM::Legacy::Lists::sv_braxen{ $k } )) {
+				$MTM::Legacy::Lists::sv_braxen{ $k } .= '<SPLIT>' . $val;
+			} else {
+				$MTM::Legacy::Lists::sv_braxen{ $k } = $val;
+			}
+			
+			print "$i\n" if $i =~  /00000/;
 		}
 		close $fh_FILE;
 	} else {
-		my $sv_dict_main_obj = tie %MTM::Legacy::Lists::sv_dict_main, "DB_File", $db;
+		my $sv_braxen_obj = tie %MTM::Legacy::Lists::sv_braxen, "DB_File", $db;
+		#$sv_braxen_obj->Filter_Push('utf8');
+	}
+	return 1;
+}
+#*******************************************************************************************#
+# CT 2025-02-27	Read Braxen
+sub read_en_braxen {	# return: 1
+	my $path = shift or die "Missing path!";
+	my $do_build = shift;
+
+	my $file = $path . 'en_braxen.txt';
+
+	my $db = $file;
+	$db =~ s/legacy/legacy\/db/;
+	$db =~ s/\.txt/\.db/;
+
+	if( $do_build == 1 ) {
+		open my $fh_FILE, '<:encoding(UTF-8)', $file or die "Cannot open $file: $!\n";
+		print STDERR "Reading en_braxen\n";
+		unlink $db if -e $db;
+		%MTM::Legacy::Lists::en_braxen = ();
+
+		my $en_braxen_obj = tie %MTM::Legacy::Lists::en_braxen, "DB_File", $db;
 		#$sv_dict_main_obj->Filter_Push('utf8');
-	}
-	return 1;
-}
-#*******************************************************************************************#
-# read_sv_dict_name
-sub read_sv_dict_name {
-	my $path = shift or die "Missing path!";
-	my $do_build = shift;
 
-	my $file = $path . 'sv_dict_name.txt';
-
-	my $db = $file;
-	$db =~ s/legacy/legacy\/db/;
-	$db =~ s/\.txt/\.db/;
-
-	if( $do_build == 1 ) {
-		open my $fh_FILE, '<:encoding(UTF-8)', $file or die "Cannot open $file: $!\n";
-		print STDERR "Reading read_sv_dict_name\n";
-		unlink $db;
-		%MTM::Legacy::Lists::sv_dict_name = ();
-
-		my $sv_dict_name_obj = tie %MTM::Legacy::Lists::sv_dict_name, "DB_File", $db;
-		#$sv_dict_name_obj->Filter_Push('utf8');
-
+		my $i = 0;
 		while(<$fh_FILE>) {
+			$i++;
 			last if $. == $MTM::Legacy::Lists::READERCUTOFF;
 			next if /\#/;
 			my $line = $_;
 			chomp $line;
 			$line =~ s/\r//g;
-			my ( $k, @v ) = split/\t+/, $line;
 
-			if( exists( $MTM::Legacy::Lists::sv_dict_name{ $k } )) {
-				$MTM::Legacy::Lists::sv_dict_name{ $k } .= '<SPLIT>' . join"\t", @v;
-			} else {
-				$MTM::Legacy::Lists::sv_dict_name{ $k } = join"\t", @v;
+			my ( $k, @v ) = split/\t+/, $line;
+			
+			if( $k =~ /(ﬂ|ﬁ)/ ) {
+				utf8::encode( $k );
 			}
+
+			#print "$k\n";
+			# $pron, $posmorph, $ortlang, $pronlang, $decomposed, $id
+			my $val = "$v[0]	$v[1]	$v[2]	-	-	$v[25]";
+			
+			#print "$k\t$val\n";
+			if( exists( $MTM::Legacy::Lists::en_braxen{ $k } )) {
+				$MTM::Legacy::Lists::en_braxen{ $k } .= '<SPLIT>' . $val;
+			} else {
+				$MTM::Legacy::Lists::en_braxen{ $k } = $val;
+			}
+			
+			print "$i\n" if $i =~  /00000/;
 		}
 		close $fh_FILE;
 	} else {
-		my $sv_dict_name_obj = tie %MTM::Legacy::Lists::sv_dict_name, "DB_File", $db;
-		#$sv_dict_name_obj->Filter_Push('utf8');
+		my $en_braxen_obj = tie %MTM::Legacy::Lists::en_braxen, "DB_File", $db;
+		#$en_braxen_obj->Filter_Push('utf8');
 	}
 	return 1;
 }
 #*******************************************************************************************#
-# read_sv_dict_english
-sub read_sv_dict_english {
-	my $path = shift or die "Missing path!";
-	my $do_build = shift;
-
-	my $file = $path . 'sv_dict_english.txt';
-
-	my $db = $file;
-	$db =~ s/legacy/legacy\/db/;
-	$db =~ s/\.txt/\.db/;
-
-	#$do_build = 1;
-
-	if( $do_build == 1 ) {
-		open my $fh_FILE, '<:encoding(UTF-8)', $file or die "Cannot open $file: $!\n";
-		print STDERR "Reading sv_dict_english\n";
-		%MTM::Legacy::Lists::sv_dict_english = ();
-		unlink $db;
-
-		my $sv_dict_english_obj = tie %MTM::Legacy::Lists::sv_dict_english, "DB_File", $db;
-		#$sv_dict_english_obj->Filter_Push('utf8');
-		while(<$fh_FILE>) {
-			last if $. == $MTM::Legacy::Lists::READERCUTOFF;
-			next if /\#/;
-			my $line = $_;
-			$line =~ s/\r//g;
-			chomp $line;
-			$line =~ s/\r//g;
-
-			my ( $k, @v ) = split/\t+/, $line;
-
-			if( exists( $MTM::Legacy::Lists::sv_dict_english{ $k } )) {
-				$MTM::Legacy::Lists::sv_dict_english{ $k } .= '<SPLIT>' . join"\t", @v;
-			} else {
-				$MTM::Legacy::Lists::sv_dict_english{ $k } = join"\t", @v;
-			}
-		}
-		close $fh_FILE;
-	} else {
-		my %tmp = ();
-		tie( %MTM::Legacy::Lists::sv_dict_english, "DB_File", $db ) or die "Cannot tie sv_dict_english: $!";
-
-		#$sv_dict_english_obj->Filter_Push('utf8');
-	}
-	return 1;
-}
+## read_sv_dict_english
+#sub read_sv_dict_english {
+#	my $path = shift or die "Missing path!";
+#	my $do_build = shift;
+#
+#	my $file = $path . 'sv_dict_english.txt';
+#
+#	my $db = $file;
+#	$db =~ s/legacy/legacy\/db/;
+#	$db =~ s/\.txt/\.db/;
+#
+#	#$do_build = 1;
+#
+#	if( $do_build == 1 ) {
+#		open my $fh_FILE, '<:encoding(UTF-8)', $file or die "Cannot open $file: $!\n";
+#		print STDERR "Reading sv_dict_english\n";
+#		%MTM::Legacy::Lists::sv_dict_english = ();
+#		unlink $db;
+#
+#		my $sv_dict_english_obj = tie %MTM::Legacy::Lists::sv_dict_english, "DB_File", $db;
+#		#$sv_dict_english_obj->Filter_Push('utf8');
+#		while(<$fh_FILE>) {
+#			last if $. == $MTM::Legacy::Lists::READERCUTOFF;
+#			next if /\#/;
+#			my $line = $_;
+#			$line =~ s/\r//g;
+#			chomp $line;
+#			$line =~ s/\r//g;
+#
+#			my ( $k, @v ) = split/\t+/, $line;
+#
+#			if( exists( $MTM::Legacy::Lists::sv_dict_english{ $k } )) {
+#				$MTM::Legacy::Lists::sv_dict_english{ $k } .= '<SPLIT>' . join"\t", @v;
+#			} else {
+#				$MTM::Legacy::Lists::sv_dict_english{ $k } = join"\t", @v;
+#			}
+#		}
+#		close $fh_FILE;
+#	} else {
+#		my %tmp = ();
+#		tie( %MTM::Legacy::Lists::sv_dict_english, "DB_File", $db ) or die "Cannot tie sv_dict_english: $!";
+#
+#		#$sv_dict_english_obj->Filter_Push('utf8');
+#	}
+#	return 1;
+#}
 #*******************************************************************************************#
 # Read NST lexicon
 sub read_nst_dict {

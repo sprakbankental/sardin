@@ -1,71 +1,71 @@
 ﻿#
-Α	stort alfa	k 'ä3 $ p i $ t ë l | 'ä3 l $ f a
-α	alfa		'ä3 l $ f a
-Β	stort beta	k 'ä3 $ p i $ t ë l | b 'i2: $ t a
-β	beta		b 'i2: $ t a
-Γ	stort gamma	k 'ä3 $ p i $ t ë l | g 'ä3 $ m a
-γ	gamma		g 'ä3 $ m a
-Δ	stort delta	k 'ä3 $ p i $ t ë l | d 'e l $ t a
-δ	delta		d 'e l $ t a
-Ε	stort epsilon	k 'ä3 $ p i $ t ë l | 'e p $ s i $ l å n
-ε	epsilon		'e p $ s i $ l å n
-Ζ	stort zeta	k 'ä3 $ p i $ t ë l | z 'i2: $ t a
-ζ	zeta		z 'i2: $ t a
-Η	stort eta		k 'ä3 $ p i $ t ë l | 'i2: $ t a
-η	eta		'i2: $ t a
-Θ	stort theta	k 'ä3 $ p i $ t ë l | th 'i2: $ t a
-θ	theta		th 'i2: $ t a
-Ι	stort iota	k 'ä3 $ p i $ t ë l | j 'ou $ t a
-ι	iota		j 'ou $ t a
-Κ	stort kappa	k 'ä3 $ p i $ t ë l | k 'ä3 $ p a
-κ	kappa		k 'ä3 $ p a
-Λ	stort lambda	k 'ä3 $ p i $ t ë l | l 'ä3 m $ d a
-λ	lambda		l 'ä3 m $ d a
-Μ	stort my		k 'ä3 $ p i $ t ë l | m 'ai
+Α	stort alfa	k 'ae . p i . t ex l | 'ae l . f a
+α	alfa		'ae l . f a
+Β	stort beta	k 'ae . p i . t ex l | b 'i: . t a
+β	beta		b 'i: . t a
+Γ	stort gamma	k 'ae . p i . t ex l | g 'ae . m a
+γ	gamma		g 'ae . m a
+Δ	stort delta	k 'ae . p i . t ex l | d 'e l . t a
+δ	delta		d 'e l . t a
+Ε	stort epsilon	k 'ae . p i . t ex l | 'e p . s i . l o n
+ε	epsilon		'e p . s i . l o n
+Ζ	stort zeta	k 'ae . p i . t ex l | z 'i: . t a
+ζ	zeta		z 'i: . t a
+Η	stort eta		k 'ae . p i . t ex l | 'i: . t a
+η	eta		'i: . t a
+Θ	stort theta	k 'ae . p i . t ex l | th 'i: . t a
+θ	theta		th 'i: . t a
+Ι	stort iota	k 'ae . p i . t ex l | j 'ou . t a
+ι	iota		j 'ou . t a
+Κ	stort kappa	k 'ae . p i . t ex l | k 'ae . p a
+κ	kappa		k 'ae . p a
+Λ	stort lambda	k 'ae . p i . t ex l | l 'ae m . d a
+λ	lambda		l 'ae m . d a
+Μ	stort my		k 'ae . p i . t ex l | m 'ai
 μ	my		m 'ai
-Ν	stort ny		k 'ä3 $ p i $ t ë l | n 'ai
+Ν	stort ny		k 'ae . p i . t ex l | n 'ai
 ν	ny		n 'ai
-Ξ	stort xi		k 'ä3 $ p i $ t ë l | k s 'ai:
+Ξ	stort xi		k 'ae . p i . t ex l | k s 'ai:
 ξ	xi		k s 'ai
-Ο	stort omkikron	k 'ä3 $ p i $ t ë l | 'å $ m i $ k r3 ë n
-ο	omikron		'å $ m i $ k r3 ë n
-Π	stort pi		k 'ä3 $ p i $ t ë l | p 'ai:
+Ο	stort omkikron	k 'ae . p i . t ex l | 'o . m i . k rh ex n
+ο	omikron		'o . m i . k rh ex n
+Π	stort pi		k 'ae . p i . t ex l | p 'ai:
 π	pi		p 'ai:
-Ρ	stort rho		k 'ä3 $ p i $ t ë l | rh 'ou
+Ρ	stort rho		k 'ae . p i . t ex l | rh 'ou
 ρ	rho		rh 'ou
-Σ	stort sigma	k 'ä3 $ p i $ t ë l | s 'i g $ m a
-σ	sigma		s 'i g $ m a
-ς	sigma		s 'i g $ m a
-Τ	stort tau		k 'ä3 $ p i $ t ë l | t 'a f
+Σ	stort sigma	k 'ae . p i . t ex l | s 'i g . m a
+σ	sigma		s 'i g . m a
+ς	sigma		s 'i g . m a
+Τ	stort tau		k 'ae . p i . t ex l | t 'a f
 τ	tau		t 'a f
-Υ	stort ypsilon	k 'ä3 $ p i $ t ë l | 'i p $ s i $ l åe n
-υ	ypsilon		'i p $ s i $ l åe n
-Φ	stort fi		k 'ä3 $ p i $ t ë l | f 'ai
+Υ	stort ypsilon	k 'ae . p i . t ex l | 'i p . s i . l åe n
+υ	ypsilon		'i p . s i . l åe n
+Φ	stort fi		k 'ae . p i . t ex l | f 'ai
 φ	fi		f 'ai
-Χ	stort chi		k 'ä3 $ p i $ t ë l | tj 'ai
-χ	chi		tj 'ai
-Ψ	stort psi		k 'ä3 $ p i $ t ë l | p s 'ai
+Χ	stort chi		k 'ae . p i . t ex l | tc 'ai
+χ	chi		tc 'ai
+Ψ	stort psi		k 'ae . p i . t ex l | p s 'ai
 ψ	psi		p s 'ai
-Ω	stort omega	k 'ä3 $ p i $ t ë l | 'å $ m ë $ g a
-ω	omega		'å $ m ë $ g a
-א	Aleph		'ä3 $ l ë f
+Ω	stort omega	k 'ae . p i . t ex l | 'o . m ex . g a
+ω	omega		'o . m ex . g a
+א	Aleph		'ae . l ex f
 ב	Beth		b 'e th
-ג	Gimel		g 'i $ m ë l
-ד	Daleth		d 'ä3: $ l ë t
+ג	Gimel		g 'i . m ex l
+ד	Daleth		d 'ae: . l ex t
 ה	He		h 'e
 ט	Thet		th 'e t
 י	Yodh		j 'o d
-ך	Kaph		sj3 'a f
-כ	Kaph		sj3 'a f
-ל	Lamed		l 'a $ m ë d
+ך	Kaph		x 'a f
+כ	Kaph		x 'a f
+ל	Lamed		l 'a . m ex d
 ם	Mem		m 'e m
 מ	Mem		m 'e m
 ן	Nun		n 'o n
 נ	Nun		n 'o n
-ס	Samekh		s 'a3: $ m ë sj3
+ס	Samekh		s 'a3: . m ex x
 ע	Ayin		'a j n
-ף	Pe		p 'e2:
-פ	Pe		p 'e2:
+ף	Pe		p 'e:
+פ	Pe		p 'e:
 ר	Resh		r 'e rs
 ש	Shin		rs 'i n
 ת	Taw		t 'a v

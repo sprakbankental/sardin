@@ -1,2220 +1,2217 @@
-﻿# Acronyms
-A-HLR	'a2: | h å2: ~ ä l ~ 'ä3 r	ACR NOM	swe	swe
-AA	"a2: ~ `a2:	ACR NOM	swe	swe
-AACN	a2: ~ a2: ~ s e2: ~ 'ä n	ACR NOM	swe	swe
-AAI	a2: ~ a2: ~ 'i2:	ACR NOM	swe	swe
-AAiR	a2: ~ a2: ~ i2: ~ 'ä3 r	ACR NOM	swe	swe
-Aaodc	a2: ~ a2: ~ o2: ~ d e2: ~ s 'e2:	ACR NOM	swe	swe
-AAS	a2: ~ a2: ~ 'ä s	ACR NOM	swe	swe
-AB	"a2: ~ b `e2:	ACR NOM	swe	swe
-aB-pO	"a2: ~ b `e2: | p "e2: ~ `o2:	ACR NOM	swe	swe
-aB-SaO	"a2: ~ b `e2: | ä s ~ a2: ~ 'o2:	ACR NOM	swe	swe
-AB-U	"a2: ~ b `e2: | 'u2:	ACR NOM	swe	swe
-ABB	a2: ~ b e2: ~ b 'e2:	ACR NOM	swe	swe
-ABBL	a2: ~ b e2: ~ b "e2: ~ `ä l	ACR NOM	swe	swe
-ABC	a2: ~ b e2: ~ s 'e2:	ACR NOM	swe	swe
-ABCDe	a2: ~ b e2: ~ s e2: ~ d e2: ~ 'e2:	ACR NOM	swe	swe
-ABE	a2: ~ b e2: ~ 'e2:	ACR NOM	swe	swe
-ABF	a2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-ABFs	a2: ~ b e2: ~ 'ä f s	ACR GEN	swe	swe
-ABL	a2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-ABL:s	a2: ~ b e2: ~ 'ä l s	ACR GEN	swe	swe
-ABLP	a2: ~ b e2: ~ "ä l ~ p `e2:	ACR NOM	swe	swe
-ABM	a2: ~ b e2: ~ 'ä m	ACR NOM	swe	swe
-ABO	a2: ~ b e2: ~ 'o2:	ACR NOM	swe	swe
-ABR	a2: ~ b e2: ~ 'ä3 r	ACR NOM	swe	swe
-ABS	a2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-ABT	a2: ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-ABT-U	a2: ~ b e2: ~ t e2: ~ 'u2:	ACR NOM	swe	swe
-AC	"a2: ~ s `e2:	ACR NOM	swe	swe
-acc	a2: ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-ACD	a2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-ACER	a2: ~ s e2: ~ e2: ~ 'ä3 r	ACR NOM	swe	swe
-ACHD	a2: ~ s e2: ~ h "å2: ~ d `e2:	ACR NOM	swe	swe
-ACIA	a2: ~ s e2: ~ i2: ~ 'a2:	ACR NOM	swe	swe
-ACTH	a2: ~ s e2: ~ t "e2: ~ h `å2:	ACR NOM	swe	swe
-ACTH	a2: ~ s e2: ~ t e2: ~ h 'å2:	ACR NOM	swe	swe
-AD/HD	a2: ~ d e2: ~ h "å2: ~ d `e2:	ACR NOM	swe	swe
-ADA	a2: ~ d e2: ~ 'a2:	ACR NOM	swe	swe
-ADCC	a2: ~ d e2: ~ s "e2: ~ s `e2:	ACR NOM	swe	swe
-adh	a2: ~ d e2: ~ h 'å2:	ACR NOM	swe	swe
-ADHD	a2: ~ d e2: ~ h "å2: ~ d `e2:	ACR NOM	swe	swe
-ADL	a2: ~ d e2: ~ 'ä l	ACR NOM	swe	swe
-ADP	a2: ~ d e2: ~ p 'e2:	ACR NOM	swe	swe
-ADR	a2: ~ d e2: ~ 'ä3 r	ACR NOM	swe	swe
-ADRs	a2: ~ d e2: ~ 'ä3 r s	ACR GEN	swe	swe
-ADSL	a2: ~ d e2: ~ "ä s ~ `ä l	ACR NOM	swe	swe
-AE	"a2: ~ `e2:	ACR NOM	swe	swe
-AERA	a2: ~ e2: ~ ä3 r ~ 'a2:	ACR NOM	swe	swe
-AF	"a2: ~ `ä f	ACR NOM	swe	swe
-AFA	a2: ~ ä f ~ 'a2:	ACR NOM	swe	swe
-AFC	a2: ~ ä f ~ s 'e2:	ACR NOM	swe	swe
-AFDL	a2: ~ ä f ~ d "e2: ~ `ä l	ACR NOM	swe	swe
-AFL	a2: ~ ä f ~ 'ä l	ACR NOM	swe	swe
-AFP	a2: ~ ä f ~ p 'e2:	ACR NOM	swe	swe
-AFS	a2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-AGB	a2: ~ g e2: ~ b 'e2:	ACR NOM	swe	swe
-AGL	a2: ~ g e2: ~ 'ä l	ACR NOM	swe	swe
-AGM	a2: ~ g e2: ~ 'ä m	ACR NOM	swe	swe
-AgRP	a2: ~ g e2: ~ "ä3 r ~ p `e2:	ACR NOM	swe	swe
-AGS	a2: ~ g e2: ~ 'ä s	ACR NOM	swe	swe
-AGS-KL	a2: ~ g e2: ~ 'ä s | k "å2: ~ `ä l	ACR NOM	swe	swe
-AGVFS	a2: ~ g e2: ~ v e2: ~ "ä f ~ `ä s	ACR NOM	swe	swe
-AH	"a2: ~ h `å2:	ACR NOM	swe	swe
-AHF	a2: ~ h å2: ~ 'ä f	ACR NOM	swe	swe
-AHI	a2: ~ h å2: ~ 'i2:	ACR NOM	swe	swe
-AHMA	a2: ~ h å2: ~ ä m ~ 'a2:	ACR NOM	swe	swe
-AHNA	a2: ~ h å2: ~ ä n ~ 'a2:	ACR NOM	swe	swe
-AHP	a2: ~ h å2: ~ p 'e2:	ACR NOM	swe	swe
-AI	"a2: ~ `i2:	ACR NOM	swe	swe
-AIB	a2: ~ i2: ~ b 'e2:	ACR NOM	swe	swe
-AICPA	a2: ~ i2: ~ s e2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-AIF	a2: ~ i2: ~ 'ä f	ACR NOM	swe	swe
-AIH	a2: ~ i2: ~ h 'å2:	ACR NOM	swe	swe
-AIHA	a2: ~ i2: ~ h å2: ~ 'a2:	ACR NOM	swe	swe
-AIK	"a2: ~ i2: ~ k `å2:	ACR NOM	swe	swe
-AIO	a2: ~ i2: ~ 'o2:	ACR NOM	swe	swe
-AIP	a2: ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-AIX	a2: ~ i2: ~ 'ä k s	ACR NOM	swe	swe
-AJM	a2: ~ j i2: ~ 'ä m	ACR NOM	swe	swe
-AK	"a2: ~ k `å2:	ACR NOM	swe	swe
-AKK	a2: ~ k å2: ~ k 'å2:	ACR NOM	swe	swe
-AKU	a2: ~ k å2: ~ 'u2:	ACR NOM	swe	swe
-akv	a2: ~ k å2: ~ v 'e2:	ACR NOM	swe	swe
-AL	"a2: ~ `ä l	ACR NOM	swe	swe
-ALAT	a2: ~ ä l ~ "a2: ~ t `e2:	ACR NOM	swe	swe
-ALC	a2: ~ ä l ~ s 'e2:	ACR NOM	swe	swe
-ALK	a2: ~ ä l ~ k 'å2:	ACR NOM	swe	swe
-ALS	a2: ~ ä l ~ 'ä s	ACR NOM	swe	swe
-AMA	a2: ~ ä m ~ 'a2:	ACR NOM	swe	swe
-AMD	"a2: ~ ä m ~ d `e2:	ACR NOM	swe	swe
-AMF	'a2: ~ ä m ~ ä f	ACR NOM	swe	swe
-AMF	a2: ~ ä m ~ 'ä f	ACR NOM	swe	swe
-AMF:s	a2: ~ ä m ~ 'ä f s	ACR GEN	swe	swe
-AML	a2: ~ ä m ~ 'ä l	ACR NOM	swe	swe
-AMP	"a2: ~ ä m ~ p `e2:	ACR NOM	swe	swe
-AMPK	a2: ~ ä m ~ p "e2: ~ k `å2:	ACR NOM	swe	swe
-AMU	a2: ~ ä m ~ 'u2:	ACR NOM	swe	swe
-AMV	"a2: ~ ä m ~ v `e2:	ACR NOM	swe	swe
-ANC	a2: ~ ä n ~ s 'e2:	ACR NOM	swe	swe
-ANCA	a2: ~ ä n ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-ANF	a2: ~ ä n ~ 'ä f	ACR NOM	swe	swe
-ANP	"a2: ~ ä n ~ p `e2:	ACR NOM	swe	swe
-AOM	a2: ~ o2: ~ 'ä m	ACR NOM	swe	swe
-AORN	a2: ~ o2: ~ ä3 r ~ 'ä n	ACR NOM	swe	swe
-AP	"a2: ~ p `e2:	ACR NOM	swe	swe
-APC	a2: ~ p e2: ~ s 'e2:	ACR NOM	swe	swe
-API	a2: ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-APL	a2: ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-APS	a2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-APT	a2: ~ p e2: ~ t 'e2:	ACR NOM	swe	swe
-APTT	a2: ~ p e2: ~ t e2: ~ t 'e2:	ACR NOM	swe	swe
-APU	a2: ~ p e2: ~ 'u2:	ACR NOM	swe	swe
-APUA	a2: ~ p e2: ~ u2: ~ 'a2:	ACR NOM	swe	swe
-APUD	a2: ~ p e2: ~ u2: ~ d 'e2:	ACR NOM	swe	swe
-aq	"a2: ~ k `u2:	ACR NOM	swe	swe
-aqu	a2: ~ k u2: ~ 'u2:	ACR NOM	swe	swe
-ARB	a2: ~ ä3 r ~ b 'e2:	ACR NOM	swe	swe
-ARD	a2: ~ ä3 r ~ d 'e2:	ACR NOM	swe	swe
-ARDS	a2: ~ ä3 r ~ d e2: ~ 'ä s	ACR NOM	swe	swe
-ARN	a2: ~ ä3 r ~ 'ä n	ACR NOM	swe	swe
-arthr	a2: ~ ä3 r ~ t e2: ~ h å2: ~ 'ä3 r	ACR NOM	swe	swe
-artr	a2: ~ ä3 r ~ t e2: ~ 'ä3 r	ACR NOM	swe	swe
-ARVC	a2: ~ ä3 r ~ v "e2: ~ s `e2:	ACR NOM	swe	swe
-ASD	a2: ~ ä s ~ d 'e2:	ACR NOM	swe	swe
-ASGB	a2: ~ ä s ~ g "e2: ~ b `e2:	ACR NOM	swe	swe
-ASI	a2: ~ ä s ~ 'i2:	ACR NOM	swe	swe
-AsLCDbt-R	a2: ~ ä s ~ ä l ~ s e2: ~ d e2: ~ "b e2: ~ t e2: ~ `ä3 r	ACR NOM	swe	swe
-Asn	a2: ~ ä s ~ 'ä n	ACR NOM	swe	swe
-ASPD	a2: ~ ä s ~ p e2: ~ d 'e2:	ACR NOM	swe	swe
-aspx	a2: ~ ä s ~ p e2: ~ 'ä k s	ACR NOM	swe	swe
-ASS	a2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-AST	"a2: ~ ä s ~ t `e2:	ACR NOM	swe	swe
-ASW	a2: ~ ä s ~ d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-ATC	a2: ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-ATG	a2: ~ t e2: ~ g 'e2:	ACR NOM	swe	swe
-ATK	a2: ~ t e2: ~ k 'å2:	ACR NOM	swe	swe
-ATL	a2: ~ t e2: ~ 'ä l	ACR NOM	swe	swe
-ATLL	a2: ~ t e2: ~ ä l ~ 'ä l	ACR NOM	swe	swe
-ATLS	a2: ~ t e2: ~ ä l ~ 'ä s	ACR NOM	swe	swe
-ATLS	a2: ~ t e2: ~ ä l ~ 'ä s	ACR NOM	swe	swe
-ATNR	a2: ~ t e2: ~ ä n ~ 'ä3 r	ACR NOM	swe	swe
-ATP	a2: ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-ATS	a2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-attC	a2: ~ t e2: ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-AU	"a2: ~ `u2:	ACR NOM	swe	swe
-AUC	a2: ~ u2: ~ s 'e2:	ACR NOM	swe	swe
-AUL	a2: ~ u2: ~ 'ä l	ACR NOM	swe	swe
-AUP	a2: ~ u2: ~ p 'e2:	ACR NOM	swe	swe
-AUU	a2: ~ u2: ~ 'u2:	ACR NOM	swe	swe
-AVK	a2: ~ v e2: ~ k 'å2:	ACR NOM	swe	swe
-AVL	a2: ~ v e2: ~ 'ä l	ACR NOM	swe	swe
-AVNRT	a2: ~ v e2: ~ ä n ~ ä3 r ~ t 'e2:	ACR NOM	swe	swe
-AVSD	a2: ~ v e2: ~ "ä s ~ d `e2:	ACR NOM	swe	swe
-AW	'a2: | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-AWE	'a2: | d "u $ b ë l - v `e2: | 'e2:	ACR NOM	swe	swe
-AWEA	a2: ~ v e2: ~ e2: ~ 'a2:	ACR NOM	swe	swe
-AWG	a2: ~ v e2: ~ g 'e2:	ACR NOM	swe	swe
-AZT	'a2: | s "ä2: $ t `a | t 'e2:	ACR NOM	swe	swe
-B-LPK	b e2: ~ ä l ~ p e2: ~ k 'å2:	ACR NOM	swe	swe
-BA	b "e2: ~ `a2:	ACR NOM	swe	swe
-BABL	b e2: ~ a2: ~ b "e2: ~ `ä l	ACR NOM	swe	swe
-BAC	b e2: ~ a2: ~ s 'e2:	ACR NOM	swe	swe
-BAE	b e2: ~ a2: ~ 'e2:	ACR NOM	swe	swe
-BAU	b e2: ~ a2: ~ 'u2:	ACR NOM	swe	swe
-BB	b "e2: ~ b `e2:	ACR NOM	swe	swe
-BBL	b e2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-BBR	b e2: ~ b e2: ~ 'ä3 r	ACR NOM	swe	swe
-BCF	b e2: ~ s e2: ~ 'ä f	ACR NOM	swe	swe
-BCG	b e2: ~ s e2: ~ g 'e2:	ACR NOM	swe	swe
-bd	b "e2: ~ d `e2:	ACR NOM	swe	swe
-BDFL	b e2: ~ d e2: ~ "ä f ~ `ä l	ACR NOM	swe	swe
-BDI	b e2: ~ d e2: ~ 'i2:	ACR NOM	swe	swe
-BDZ	b e2: ~ d e2: ~ s "ä2: $ t `a	ACR NOM	swe	swe
-BehL	b e2: ~ e2: ~ h "å2: ~ `ä l	ACR NOM	swe	swe
-Behl	b e2: ~ e2: ~ h å2: ~ 'ä l	ACR NOM	swe	swe
-BEO	b e2: ~ e2: ~ 'o2:	ACR NOM	swe	swe
-BEV	b e2: ~ e2: ~ v 'e2:	ACR NOM	swe	swe
-BF	b "e2: ~ `ä f	ACR NOM	swe	swe
-BFF	b e2: ~ ä f ~ 'ä f	ACR NOM	swe	swe
-BFL	b e2: ~ ä f ~ 'ä l	ACR NOM	swe	swe
-BFN	b e2: ~ ä f ~ 'ä n	ACR NOM	swe	swe
-BFO	b e2: ~ ä f ~ 'o2:	ACR NOM	swe	swe
-BGB	b e2: ~ g e2: ~ b 'e2:	ACR NOM	swe	swe
-bh	b "e2: ~ h `å2:	ACR NOM	swe	swe
-BHB	b e2: ~ h 'å2: ~ b 'e2:	ACR NOM	swe	swe
-Bih	b e2: ~ i2: ~ h 'å2:	ACR NOM	swe	swe
-BJ	b "e2: ~ j `i2:	ACR NOM	swe	swe
-BJM	b e2: ~ j i2: ~ 'ä m	ACR NOM	swe	swe
-BJU	b e2: ~ j i2: ~ 'u2:	ACR NOM	swe	swe
-BK	b "e2: ~ k `å2:	ACR NOM	swe	swe
-BKA	b e2: ~ k å2: ~ 'a2:	ACR NOM	swe	swe
-BKK	b e2: ~ k å2: ~ k 'å2:	ACR NOM	swe	swe
-BKN	b e2: ~ k å2: ~ 'ä n	ACR NOM	swe	swe
-BL	b "e2: ~ `ä l	ACR NOM	swe	swe
-blf	b e2: ~ ä l ~ 'ä f	ACR NOM	swe	swe
-BLU	b e2: ~ ä l ~ 'u2:	ACR NOM	swe	swe
-BM	b "e2: ~ `ä m	ACR NOM	swe	swe
-BMB	b e2: ~ ä m ~ b 'e2:	ACR NOM	swe	swe
-BMC	b e2: ~ ä m ~ s 'e2:	ACR NOM	swe	swe
-BMD	b e2: ~ ä m ~ d 'e2:	ACR NOM	swe	swe
-BMI	b e2: ~ ä m ~ 'i2:	ACR NOM	swe	swe
-BMJ	b e2: ~ ä m ~ j 'i2:	ACR NOM	swe	swe
-BMM	b e2: ~ ä m ~ 'ä m	ACR NOM	swe	swe
-BMR	b e2: ~ ä m ~ 'ä3 r	ACR NOM	swe	swe
-BMS	b e2: ~ ä m ~ 'ä s	ACR NOM	swe	swe
-BMW	b "e2: ~ ä m ~ v `e2:	ACR NOM	swe	swe
-BMW:S	b "e2: ~ ä m ~ v `e2: s	ACR GEN	swe	swe
-BMX	b e2: ~ ä m ~ 'ä k s	ACR NOM	swe	swe
-BNCT	b e2: ~ ä n ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-BNP	b "e2: ~ ä n ~ p `e2:	ACR NOM	swe	swe
-BNPs	b "e2: ~ ä n ~ p `e2: s	ACR GEN	swe	swe
-BO	b "e2: ~ `o2:	ACR NOM	swe	swe
-BP	b "e2: ~ p `e2:	ACR NOM	swe	swe
-BPD	b e2: ~ p e2: ~ d 'e2:	ACR NOM	swe	swe
-BPH	b e2: ~ p e2: ~ h 'å2:	ACR NOM	swe	swe
-BPPV	b e2: ~ p e2: ~ p "e2: ~ v `e2:	ACR NOM	swe	swe
-BPQ	b e2: ~ p e2: ~ k 'u2:	ACR NOM	swe	swe
-BPR	b e2: ~ p e2: ~ 'ä3 r	ACR NOM	swe	swe
-BPs	b "e2: ~ p `e2: s	ACR GEN	swe	swe
-Bq	b "e2: ~ k `u2:	ACR NOM	swe	swe
-Br	b "e2: ~ `ä3 r	ACR NOM	swe	swe
-BrB	b e2: ~ ä3 r ~ b 'e2:	ACR NOM	swe	swe
-BrCA	b e2: ~ ä3 r ~ s "e2: ~ `a2:	ACR NOM	swe	swe
-BRD	b e2: ~ ä3 r ~ d 'e2:	ACR NOM	swe	swe
-BRFL	b e2: ~ ä3 r ~ "ä f ~ `ä l	ACR NOM	swe	swe
-BRL	b e2: ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-BRU	b e2: ~ ä3 r ~ 'u2:	ACR NOM	swe	swe
-BS	b "e2: ~ `ä s	ACR NOM	swe	swe
-BSE	b e2: ~ ä s ~ 'e2:	ACR NOM	swe	swe
-BSL	b e2: ~ ä s ~ 'ä l	ACR NOM	swe	swe
-BSS	b e2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-BT	b "e2: ~ t `e2:	ACR NOM	swe	swe
-BTJ	b e2: ~ t e2: ~ j 'i2:	ACR NOM	swe	swe
-Btj:s	b e2: ~ t e2: ~ j 'i2: s	ACR GEN	swe	swe
-Btjs	b e2: ~ t e2: ~ j 'i2: s	ACR GEN	swe	swe
-BTK	b e2: ~ t e2: ~ k 'å2:	ACR NOM	swe	swe
-BTM	b e2: ~ t e2: ~ 'ä m	ACR NOM	swe	swe
-BUG	b e2: ~ u2: ~ g 'e2:	ACR NOM	swe	swe
-BV	b "e2: ~ v `e2:	ACR NOM	swe	swe
-BVC	b e2: ~ v e2: ~ s 'e2:	ACR NOM	swe	swe
-BVL	b e2: ~ v e2: ~ 'ä l	ACR NOM	swe	swe
-BW	b 'e2: | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-BZ	b "e2: ~ s `ä2: $ t a	ACR NOM	swe	swe
-c-ANCA	s "e2: - a2: ~ ä n ~ s e2: ~ `a2:	ACR NOM	swe	swe
-CABG	s e2: ~ a2: ~ b "e2: ~ g `e2:	ACR NOM	swe	swe
-CAC	s e2: ~ a2: ~ s 'e2:	ACR NOM	swe	swe
-CAEL	s e2: ~ a2: ~ e2: ~ 'ä l	ACR NOM	swe	swe
-CAG	s e2: ~ a2: ~ g 'e2:	ACR NOM	swe	swe
-CAH	s e2: ~ a2: ~ h 'å2:	ACR NOM	swe	swe
-CAPD	s e2: ~ a2: ~ p e2: ~ d 'e2:	ACR NOM	swe	swe
-CAS	s e2: ~ a2: ~ 'ä s	ACR NOM	swe	swe
-CB	s "e2: ~ b `e2:	ACR NOM	swe	swe
-CBF	s e2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-cc	s "e2: ~ s `e2:	ACR NOM	swe	swe
-CCK	s e2: ~ s e2: ~ k 'å2:	ACR NOM	swe	swe
-CCK-PZ	s e2: ~ s e2: ~ k 'å2: | p "e2: ~ s `ä2: $ t a	ACR NOM	swe	swe
-CCKs	s e2: ~ s e2: ~ k 'å2: s	ACR GEN	swe	swe
-CCr	s e2: ~ s e2: ~ 'ä3 r	ACR NOM	swe	swe
-CCT	s e2: ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-CD	s "e2: ~ d `e2:	ACR NOM	swe	swe
-CD-R	s e2: ~ d e2: ~ 'ä3 r	ACR NOM	swe	swe
-CDA	s e2: ~ d e2: ~ 'a2:	ACR NOM	swe	swe
-CDC	s e2: ~ d e2: ~ s 'e2:	ACR NOM	swe	swe
-CDI	s e2: ~ d e2: ~ 'i2:	ACR NOM	swe	swe
-CDIAC	s e2: ~ d e2: ~ i2: ~ a2: ~ s 'e2:	ACR NOM	swe	swe
-CDT	s e2: ~ d e2: ~ t 'e2:	ACR NOM	swe	swe
-cdu	s e2: ~ d e2: ~ 'u2:	ACR NOM	swe	swe
-CE	s "e2: ~ `e2:	ACR NOM	swe	swe
-CEA	s e2: ~ e2: ~ 'a2:	ACR NOM	swe	swe
-CEEP	s e2: ~ e2: ~ e2: ~ p 'e2:	ACR NOM	swe	swe
-CEO	s e2: ~ e2: ~ 'o2:	ACR NOM	swe	swe
-CEQ	s e2: ~ e2: ~ k 'u2:	ACR NOM	swe	swe
-CERI	s e2: ~ e2: ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
-CESCR	s e2: ~ e2: ~ ä s ~ s e2: ~ 'ä3 r	ACR NOM	swe	swe
-CF	s "e2: ~ `ä f	ACR NOM	swe	swe
-CFC	s e2: ~ ä f ~ s 'e2:	ACR NOM	swe	swe
-CFF	s e2: ~ ä f ~ 'ä f	ACR NOM	swe	swe
-CFIDS	s e2: ~ ä f ~ i2: ~ d e2: ~ 'ä s	ACR NOM	swe	swe
-CFK	s e2: ~ ä f ~ k 'å2:	ACR NOM	swe	swe
-CFL	s e2: ~ ä f ~ 'ä l	ACR NOM	swe	swe
-CFLL	s e2: ~ ä f ~ "ä l ~ `ä l	ACR NOM	swe	swe
-CFN	s e2: ~ ä f ~ 'ä n	ACR NOM	swe	swe
-CFTr	s e2: ~ ä f ~ t "e2: ~ `ä3 r	ACR NOM	swe	swe
-CFU	s e2: ~ ä f ~ 'u2:	ACR NOM	swe	swe
-CGD	s e2: ~ g e2: ~ d 'e2:	ACR NOM	swe	swe
-cgishl	s e2: ~ g e2: ~ i2: ~ ä s ~ h å2: ~ 'ä l	ACR NOM	swe	swe
-cGMP	s e2: ~ g e2: ~ ä m ~ p 'e2:	ACR NOM	swe	swe
-CGrP	s e2: ~ g e2: ~ "ä3 r ~ p `e2:	ACR NOM	swe	swe
-ch	s "e2: ~ h `å2:	ACR NOM	swe	swe
-CHD	s e2: ~ h å2: ~ d 'e2:	ACR NOM	swe	swe
-CHMP	s e2: ~ h å2: ~ "ä m ~ p `e2:	ACR NOM	swe	swe
-CHOHCH	s e2: ~ h å2: ~ o2: ~ h å2: ~ s e2: ~ h 'å2:	ACR NOM	swe	swe
-CI	s e2: ~ 'i2:	ACR NOM	swe	swe
-CIAM	s e2: ~ i2: ~ a2: ~ 'ä m	ACR NOM	swe	swe
-CIC	s e2: ~ i2: ~ s 'e2:	ACR NOM	swe	swe
-CIIP	s e2: ~ i2: ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-CIM	s e2: ~ i2: ~ 'ä m	ACR NOM	swe	swe
-CIO	s e2: ~ i2: ~ 'o2:	ACR NOM	swe	swe
-CIOS	s e2: ~ i2: ~ o2: ~ 'ä s	ACR NOM	swe	swe
-CIP	s e2: ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-CISG	s e2: ~ i2: ~ ä s ~ g 'e2:	ACR NOM	swe	swe
-CIV	s e2: ~ i2: ~ v 'e2:	ACR NOM	swe	swe
-CJ	s "e2: ~ j `i2:	ACR NOM	swe	swe
-CJA	s e2: ~ j i2: ~ 'a2:	ACR NOM	swe	swe
-CJS	s e2: ~ j i2: ~ 'ä s	ACR NOM	swe	swe
-CK	s "e2: ~ k `å2:	ACR NOM	swe	swe
-cl	s "e2: ~ `ä l	ACR NOM	swe	swe
-CLE	s e2: ~ ä l ~ 'e2:	ACR NOM	swe	swe
-CMAJ	s e2: ~ ä m ~ "a2: ~ j `i2:	ACR NOM	swe	swe
-cmH	s e2: ~ ä m ~ h 'å2:	ACR NOM	swe	swe
-CMLR	s e2: ~ ä m ~ ä l ~ 'ä3 r	ACR NOM	swe	swe
-CMV	s "e2: ~ ä m ~ v `e2:	ACR NOM	swe	swe
-CN	s "e2: ~ `ä n	ACR NOM	swe	swe
-CNA	s e2: ~ ä n ~ 'a2:	ACR NOM	swe	swe
-CND	s e2: ~ ä n ~ d 'e2:	ACR NOM	swe	swe
-CND:s	s e2: ~ ä n ~ d 'e2: s	ACR NOM	swe	swe
-CNED	s e2: ~ ä n ~ e2: ~ d 'e2:	ACR NOM	swe	swe
-CNIB	s e2: ~ ä n ~ i2: ~ b 'e2:	ACR NOM	swe	swe
-CNP	s e2: ~ ä n ~ p 'e2:	ACR NOM	swe	swe
-CNS	s e2: ~ ä n ~ 'ä s	ACR NOM	swe	swe
-CNUCED	s e2: ~ ä n ~ u2: ~ s e2: ~ e2: ~ d 'e2:	ACR NOM	swe	swe
-CO	s "e2: ~ `o2:	ACR NOM	swe	swe
-CoA	s e2: ~ o2: ~ 'a2:	ACR NOM	swe	swe
-COHb	s e2: ~ o2: ~ h "å2: ~ b `e2:	ACR NOM	swe	swe
-COI	s e2: ~ o2: ~ 'i2:	ACR NOM	swe	swe
-COOH	s e2: ~ o2: ~ o2: ~ h 'å2:	ACR NOM	swe	swe
-COPD	s e2: ~ o2: ~ p e2: ~ d 'e2:	ACR NOM	swe	swe
-COPM	s e2: ~ o2: ~ p e2: ~ 'ä m	ACR NOM	swe	swe
-COR	s e2: ~ o2: ~ 'ä3 r	ACR NOM	swe	swe
-CP	s "e2: ~ p `e2:	ACR NOM	swe	swe
-CPAP	s e2: ~ p e2: ~ "a2: ~ p `e2:	ACR NOM	swe	swe
-CPC	s e2: ~ p e2: ~ s 'e2:	ACR NOM	swe	swe
-CPH	s e2: ~ p e2: ~ h 'å2:	ACR NOM	swe	swe
-CPP	s e2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-cr	s "e2: ~ `ä3 r	ACR NOM	swe	swe
-Cr-EDTA	s "e2: ~ `ä3 r | e2: ~ d e2: ~ t e2: ~ 'a2:	ACR NOM	swe	swe
-CRB	s e2: ~ ä3 r ~ b 'e2:	ACR NOM	swe	swe
-CRDQ	s e2: ~ ä3 r ~ d e2: ~ k 'u2:	ACR NOM	swe	swe
-CRF	s e2: ~ ä3 r ~ 'ä f	ACR NOM	swe	swe
-CrH	s e2: ~ ä3 r ~ h 'å2:	ACR NOM	swe	swe
-CRI	s e2: ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
-CRLOO	s e2: ~ ä3 r ~ ä l ~ o2: ~ s 'e2:	ACR NOM	swe	swe
-CRP	s e2: ~ ä3 r ~ p 'e2:	ACR NOM	swe	swe
-CRPS	s e2: ~ ä3 r ~ p "e2: ~ `ä s	ACR NOM	swe	swe
-CrT	s "e2: ~ ä3 r ~ t `e2:	ACR NOM	swe	swe
-CRT-D	s e2: ~ ä3 r ~ t 'e2: | d 'e2:	ACR NOM	swe	swe
-CS	s "e2: ~ `ä s	ACR NOM	swe	swe
-CSA	s e2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-CSCL	s e2: ~ ä s ~ s e2: ~ 'ä l	ACR NOM	swe	swe
-CSEL	s e2: ~ ä s ~ e2: ~ 'ä l	ACR NOM	swe	swe
-CSES	s e2: ~ ä s ~ "e2: ~ `ä s	ACR NOM	swe	swe
-CSF	s e2: ~ ä s ~ 'ä f	ACR NOM	swe	swe
-CSF	s e2: ~ ä s ~ 'ä f	ACR NOM	swe	swe
-CSIE	s e2: ~ ä s ~ i2: ~ 'e2:	ACR NOM	swe	swe
-CSL	s e2: ~ ä s ~ 'ä l	ACR NOM	swe	swe
-CSN	s e2: ~ ä s ~ 'ä n	ACR NOM	swe	swe
-CSO	s e2: ~ ä s ~ 'o2:	ACR NOM	swe	swe
-CSOs	s e2: ~ ä s ~ 'o2: s	ACR GEN	swe	swe
-csqca	s e2: ~ ä s ~ k u2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-csQCA	s e2: ~ ä s ~ k u2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-CSU	s e2: ~ ä s ~ 'u2:	ACR NOM	swe	swe
-CSUN	s e2: ~ ä s ~ u2: ~ 'ä n	ACR NOM	swe	swe
-CT	s "e2: ~ t `e2:	ACR NOM	swe	swe
-CTG	s e2: ~ t e2: ~ g 'e2:	ACR NOM	swe	swe
-CTL	s e2: ~ t e2: ~ 'ä l	ACR NOM	swe	swe
-CTM	s e2: ~ t e2: ~ 'ä m	ACR NOM	swe	swe
-CTOPP	s e2: ~ t e2: ~ o2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-CTT	s e2: ~ t e2: ~ t 'e2:	ACR NOM	swe	swe
-CU	s "e2: ~ `u2:	ACR NOM	swe	swe
-CUA	s e2: ~ u2: ~ 'a2:	ACR NOM	swe	swe
-CUF	s e2: ~ u2: ~ 'ä f	ACR NOM	swe	swe
-CUL	s e2: ~ u2: ~ 'ä l	ACR NOM	swe	swe
-CUS	s e2: ~ u2: ~ 'ä s	ACR NOM	swe	swe
-CV	s "e2: ~ v `e2:	ACR NOM	swe	swe
-CVC	s e2: ~ v e2: ~ s 'e2:	ACR NOM	swe	swe
-CVI	s e2: ~ v e2: ~ 'i2:	ACR NOM	swe	swe
-CVK	s e2: ~ v e2: ~ k 'å2:	ACR NOM	swe	swe
-CVP	s e2: ~ v e2: ~ p 'e2:	ACR NOM	swe	swe
-CVS	s e2: ~ v e2: ~ 'ä s	ACR NOM	swe	swe
-CWK	s 'e2: | d "u $ b ë l - v `e2: | k 'å2:	ACR NOM	swe	swe
-CYP	s e2: ~ y2: ~ p 'e2:	ACR NOM	swe	swe
-DAW	d 'e2: | 'a2: | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-DBF	d e2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-DBS	d e2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-DBT	d e2: ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-DBV	d e2: ~ b e2: ~ v 'e2:	ACR NOM	swe	swe
-DCD	d e2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-Dd	d "e2: ~ d `e2:	ACR NOM	swe	swe
-dda	d e2: ~ d e2: ~ 'a2:	ACR NOM	swe	swe
-DDAVP	d e2: ~ d e2: ~ a2: ~ v e2: ~ p 'e2:	ACR NOM	swe	swe
-DDD	d e2: ~ d e2: ~ d 'e2:	ACR NOM	swe	swe
-dde	d e2: ~ d e2: ~ 'e2:	ACR NOM	swe	swe
-DDNOS	d e2: ~ d e2: ~ ä n ~ o2: ~ 'ä s	ACR NOM	swe	swe
-DDR	d e2: ~ d e2: ~ 'ä3 r	ACR NOM	swe	swe
-DDT	d e2: ~ d e2: ~ t 'e2:	ACR NOM	swe	swe
-DEBQ	d e2: ~ e2: ~ b "e2: ~ k `u2:	ACR NOM	swe	swe
-DEC	d e2: ~ e2: ~ s 'e2:	ACR NOM	swe	swe
-DF	d "e2: ~ `ä f	ACR NOM	swe	swe
-DFEE	d e2: ~ ä f ~ e2: ~ 'e2:	ACR NOM	swe	swe
-dff	d e2: ~ ä f ~ 'ä f	ACR NOM	swe	swe
-dfr	d e2: ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-DGJ	d e2: ~ g e2: ~ j 'i2:	ACR NOM	swe	swe
-DGR	d e2: ~ g e2: ~ 'ä3 r	ACR NOM	swe	swe
-DH	d "e2: ~ h `å2:	ACR NOM	swe	swe
-DHE	d e2: ~ h å2: ~ 'e2:	ACR NOM	swe	swe
-DHEA	d e2: ~ h å2: ~ e2: ~ 'a2:	ACR NOM	swe	swe
-DHEAS	d e2: ~ h å2: ~ e2: ~ a2: ~ 'ä s	ACR NOM	swe	swe
-dhps	d e2: ~ h å2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-DHR	d e2: ~ h å2: ~ 'ä3 r	ACR NOM	swe	swe
-DIFS	d e2: ~ i2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-dk	d "e2: ~ k `å2:	ACR NOM	swe	swe
-DKK	d e2: ~ k å2: ~ k 'å2:	ACR NOM	swe	swe
-DLCO	d e2: ~ ä l ~ s e2: ~ 'o2:	ACR NOM	swe	swe
-DMA	d e2: ~ ä m ~ 'a2:	ACR NOM	swe	swe
-DMARD	d e2: ~ ä m ~ a2: ~ ä3 r ~ d 'e2:	ACR NOM	swe	swe
-DMH	d "e2: ~ ä m ~ h `å2:	ACR NOM	swe	swe
-DMN	d e2: ~ ä m ~ 'ä n	ACR NOM	swe	swe
-DMPS	d e2: ~ ä m ~ p "e2: ~ `ä s	ACR NOM	swe	swe
-DMSA	d e2: ~ ä m ~ "ä s ~ `a2:	ACR NOM	swe	swe
-DMT	d e2: ~ ä m ~ t 'e2:	ACR NOM	swe	swe
-DN	d "e2: ~ `ä n	ACR NOM	swe	swe
-DNA	d e2: ~ ä n ~ 'a2:	ACR NOM	swe	swe
-dna	d e2: ~ ä n ~ 'a2:	ACR NOM	swe	swe
-DNA-ak	d e2: ~ ä n ~ a2: ~ "a2: ~ k `å2:	ACR NOM	swe	swe
-DNCB	d e2: ~ ä n ~ s e2: ~ b 'e2:	ACR NOM	swe	swe
-DOI	d e2: ~ o2: ~ 'i2:	ACR NOM	swe	swe
-DP	d "e2: ~ p `e2:	ACR NOM	swe	swe
-dpi	d e2: ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-DPP	d e2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-DPS	d e2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-DR	d "e2: ~ `ä3 r	ACR NOM	swe	swe
-DRF	d e2: ~ ä3 r ~ 'ä f	ACR NOM	swe	swe
-DrG	d "e2: ~ ä3 r ~ g `e2:	ACR NOM	swe	swe
-Ds	d "e2: ~ `ä s	ACR NOM	swe	swe
-DSA	d e2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-DSF	d e2: ~ ä s ~ 'ä f	ACR NOM	swe	swe
-DSK	d "e2: ~ ä s ~ k `å2:	ACR NOM	swe	swe
-DSM	d e2: ~ ä s ~ 'ä m	ACR NOM	swe	swe
-DSM-FV	d e2: ~ ä s ~ 'ä m | "ä f ~ v `e2:	ACR NOM	swe	swe
-DsS	d e2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-DsU	d e2: ~ ä s ~ 'u2:	ACR NOM	swe	swe
-DT	d "e2: ~ t `e2:	ACR NOM	swe	swe
-DTIC	d e2: ~ t e2: ~ i2: ~ s 'e2:	ACR NOM	swe	swe
-DTP	d e2: ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-DV	d "e2: ~ v `e2:	ACR NOM	swe	swe
-DVD	d e2: ~ v e2: ~ d 'e2:	ACR NOM	swe	swe
-DVT	d e2: ~ v e2: ~ t 'e2:	ACR NOM	swe	swe
-dx	d "e2: ~ `ä k s	ACR NOM	swe	swe
-DXA	d e2: ~ ä k s ~ 'a2:	ACR NOM	swe	swe
-dxe	d e2: ~ ä k s ~ 'e2:	ACR NOM	swe	swe
-DXM	d e2: ~ ä k s ~ 'ä m	ACR NOM	swe	swe
-dxt	d e2: ~ ä k s ~ t 'e2:	ACR NOM	swe	swe
-EA	"e2: ~ `a2:	ACR NOM	swe	swe
-EaG	e2: ~ a2: ~ g 'e2:	ACR NOM	swe	swe
-EAN	e2: ~ a2: ~ 'ä n	ACR NOM	swe	swe
-EANU	e2: ~ a2: ~ ä n ~ 'u2:	ACR NOM	swe	swe
-EAP	e2: ~ a2: ~ p 'e2:	ACR NOM	swe	swe
-EASA	e2: ~ a2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-Eass	e2: ~ a2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-EBD	e2: ~ b e2: ~ d 'e2:	ACR NOM	swe	swe
-Ebewe	e2: ~ b e2: ~ v 'e2:	ACR NOM	swe	swe
-EBI	e2: ~ b e2: ~ 'i2:	ACR NOM	swe	swe
-EBIs	e2: ~ b e2: ~ 'i2: s	ACR GEN	swe	swe
-EBM	e2: ~ b e2: ~ 'ä m	ACR NOM	swe	swe
-EBT	e2: ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-EBV	e2: ~ b e2: ~ v 'e2:	ACR NOM	swe	swe
-EC	"e2: ~ s `e2:	ACR NOM	swe	swe
-ECA	e2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-ECB	e2: ~ s e2: ~ b 'e2:	ACR NOM	swe	swe
-ECDC	e2: ~ s e2: ~ d e2: ~ s 'e2:	ACR NOM	swe	swe
-ECE	e2: ~ s e2: ~ 'e2:	ACR NOM	swe	swe
-ECG	e2: ~ s e2: ~ g 'e2:	ACR NOM	swe	swe
-ech	e2: ~ s e2: ~ h 'å2:	ACR NOM	swe	swe
-ECLA	e2: ~ s e2: ~ ä l ~ 'a2:	ACR NOM	swe	swe
-ECLAS	e2: ~ s e2: ~ ä l ~ a2: ~ 'ä s	ACR NOM	swe	swe
-ECMO	e2: ~ s e2: ~ ä m ~ 'o2:	ACR NOM	swe	swe
-ECP	e2: ~ s e2: ~ p 'e2:	ACR NOM	swe	swe
-ECR	e2: ~ s e2: ~ 'ä3 r	ACR NOM	swe	swe
-ECRI	e2: ~ s e2: ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
-ECT	e2: ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-ECTS	e2: ~ s e2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-ecv	e2: ~ s e2: ~ v 'e2:	ACR NOM	swe	swe
-EDrF	e2: ~ d e2: ~ "ä3 r ~ `ä f	ACR NOM	swe	swe
-EDTA	e2: ~ d e2: ~ t e2: ~ 'a2:	ACR NOM	swe	swe
-edu	e2: ~ d e2: ~ 'u2:	ACR NOM	swe	swe
-EE	"e2: ~ `e2:	ACR NOM	swe	swe
-EEC	e2: ~ e2: ~ s 'e2:	ACR NOM	swe	swe
-EEG	e2: ~ e2: ~ g 'e2:	ACR NOM	swe	swe
-EEIG	e2: ~ e2: ~ i2: ~ g 'e2:	ACR NOM	swe	swe
-EER	e2: ~ e2: ~ 'ä3 r	ACR NOM	swe	swe
-EES	e2: ~ e2: ~ 'ä s	ACR NOM	swe	swe
-EES-	e2: ~ e2: ~ 'ä s	ACR NOM	swe	swe
-EESK	e2: ~ e2: ~ ä s ~ k 'å2:	ACR NOM	swe	swe
-EEZ	e2: ~ e2: ~ s "ä2: $ t `a	ACR NOM	swe	swe
-EF	"e2: ~ `ä f	ACR NOM	swe	swe
-EF-G	"e2: ~ `ä f | g 'e2:	ACR NOM	swe	swe
-EFI	e2: ~ ä f ~ 'i2:	ACR NOM	swe	swe
-EFNS	e2: ~ ä f ~ ä n ~ 'ä s	ACR NOM	swe	swe
-EFPA	e2: ~ ä f ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-EFS	e2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-EFSA	e2: ~ ä f ~ ä s ~ 'a2:	ACR NOM	swe	swe
-EG	"e2: ~ g `e2:	ACR NOM	swe	swe
-EGF	e2: ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-EGFR	e2: ~ g e2: ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-EGs	"e2: ~ g `e2: s	ACR GEN	swe	swe
-EGT	e2: ~ g e2: ~ t 'e2:	ACR NOM	swe	swe
-EIASM	e2: ~ i2: ~ a2: ~ ä s ~ 'ä m	ACR NOM	swe	swe
-EIB	e2: ~ i2: ~ b 'e2:	ACR NOM	swe	swe
-EIS	e2: ~ i2: ~ 'ä s	ACR NOM	swe	swe
-EJM	e2: ~ j i2: ~ 'ä m	ACR NOM	swe	swe
-EKI	e2: ~ k å2: ~ 'i2:	ACR NOM	swe	swe
-EKMR	e2: ~ k å2: ~ ä m ~ 'ä3 r	ACR NOM	swe	swe
-EKN	e2: ~ k å2: ~ 'ä n	ACR NOM	swe	swe
-EKSG	e2: ~ k å2: ~ ä s ~ g 'e2:	ACR NOM	swe	swe
-EM	"e2: ~ `ä m	ACR NOM	swe	swe
-EMA	e2: ~ ä m ~ 'a2:	ACR NOM	swe	swe
-EMC	"e2: ~ ä m ~ s `e2:	ACR NOM	swe	swe
-EMCDDA	e2: ~ ä m ~ s e2: ~ d e2: ~ d e2: ~ 'a2:	ACR NOM	swe	swe
-EMEA	e2: ~ ä m ~ e2: ~ 'a2:	ACR NOM	swe	swe
-EMG	e2: ~ ä m ~ g 'e2:	ACR NOM	swe	swe
-EMM	e2: ~ ä m ~ 'ä m	ACR NOM	swe	swe
-emph	e2: ~ ä m ~ p e2: ~ h 'å2:	ACR NOM	swe	swe
-EMU	e2: ~ ä m ~ 'u2:	ACR NOM	swe	swe
-EMV	"e2: ~ ä m ~ v `e2:	ACR NOM	swe	swe
-EMW	"e2: ~ ä m ~ v `e2:	ACR NOM	swe	swe
-enc	e2: ~ ä n ~ s 'e2:	ACR NOM	swe	swe
-ENFSI	e2: ~ ä n ~ ä f ~ ä s ~ 'i2:	ACR NOM	swe	swe
-EO	"e2: ~ `o2:	ACR NOM	swe	swe
-EOA	e2: ~ o2: ~ 'a2:	ACR NOM	swe	swe
-EOG	e2: ~ o2: ~ g 'e2:	ACR NOM	swe	swe
-EOV	e2: ~ o2: ~ v 'e2:	ACR NOM	swe	swe
-EpC	e2: ~ p e2: ~ s 'e2:	ACR NOM	swe	swe
-EPD	e2: ~ p e2: ~ d 'e2:	ACR NOM	swe	swe
-EPI	e2: ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-EPI	e2: ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-EPIA	e2: ~ p e2: ~ i2: ~ 'a2:	ACR NOM	swe	swe
-EPIs	e2: ~ p e2: ~ 'i2: s	ACR GEN	swe	swe
-EPK	e2: ~ p e2: ~ k 'å2:	ACR NOM	swe	swe
-EPL	e2: ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-EPNP	e2: ~ p e2: ~ ä n ~ p 'e2:	ACR NOM	swe	swe
-EPP	e2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-EPQ	e2: ~ p e2: ~ k 'u2:	ACR NOM	swe	swe
-EPS	e2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-epsp	e2: ~ p e2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-EQ	"e2: ~ k `u2:	ACR NOM	swe	swe
-EQL	e2: ~ k u2: ~ 'ä l	ACR NOM	swe	swe
-EQT	e2: ~ k u2: ~ t 'e2:	ACR NOM	swe	swe
-EQUI	e2: ~ k u2: ~ u2: ~ 'i2:	ACR NOM	swe	swe
-ErCP	e2: ~ ä3 r ~ s "e2: ~ p `e2:	ACR NOM	swe	swe
-ErG	e2: ~ ä3 r ~ g 'e2:	ACR NOM	swe	swe
-ERK	e2: ~ ä3 r ~ k 'å2:	ACR NOM	swe	swe
-ERM	e2: ~ ä3 r ~ 'ä m	ACR NOM	swe	swe
-ERP	e2: ~ ä3 r ~ p 'e2:	ACR NOM	swe	swe
-ERU	e2: ~ ä3 r ~ 'u2:	ACR NOM	swe	swe
-ESA	e2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-ESBL	e2: ~ ä s ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-ESC	e2: ~ ä s ~ s 'e2:	ACR NOM	swe	swe
-ESH	e2: ~ ä s ~ h 'å2:	ACR NOM	swe	swe
-ESI	e2: ~ ä s ~ 'i2:	ACR NOM	swe	swe
-ESK	e2: ~ ä s ~ k 'å2:	ACR NOM	swe	swe
-ESP	e2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-ESRC	e2: ~ ä s ~ ä3 r ~ s 'e2:	ACR NOM	swe	swe
-ESREA	e2: ~ ä s ~ ä3 r ~ e2: ~ 'a2:	ACR NOM	swe	swe
-ESV	e2: ~ ä s ~ v 'e2:	ACR NOM	swe	swe
-ESVL	e2: ~ ä s ~ v e2: ~ 'ä l	ACR NOM	swe	swe
-ETCO	e2: ~ t e2: ~ s "e2: ~ `o2:	ACR NOM	swe	swe
-ETS	e2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-eTV	"e2: ~ t `e2: ~ v e2:	ACR NOM	swe	swe
-eu	"e2: ~ `u2:	ACR NOM	swe	swe
-EU	"e2: ~ `u2:	ACR NOM	swe	swe
-EU:S	"e2: ~ `u2: s	ACR NOM	swe	swe
-EUD	e2: ~ u2: ~ d 'e2:	ACR NOM	swe	swe
-EUF	e2: ~ u2: ~ 'ä f	ACR NOM	swe	swe
-EUP	e2: ~ u2: ~ p 'e2:	ACR NOM	swe	swe
-EUR	e2: ~ u2: ~ 'ä3 r	ACR NOM	swe	swe
-EUR-OP	e2: ~ u2: ~ 'ä3 r | "o2: ~ p `e2:	ACR NOM	swe	swe
-EUs	"e2: ~ `u2: s	ACR GEN	swe	swe
-EUT	e2: ~ u2: ~ t 'e2:	ACR NOM	swe	swe
-EVF	e2: ~ v e2: ~ 'ä f	ACR NOM	swe	swe
-EW	'e2: | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-EWK	e2: ~ v e2: ~ k å2:	ACR NOM	swe	swe
-F-Hb	ä f ~ h "å2: ~ b `e2:	ACR NOM	swe	swe
-FA	"ä f ~ `a2:	ACR NOM	swe	swe
-FAI	ä f ~ a2: ~ 'i2:	ACR NOM	swe	swe
-FAL	ä f ~ a2: ~ 'ä l	ACR NOM	swe	swe
-FAM	ä f ~ a2: ~ 'ä m	ACR NOM	swe	swe
-FAO	ä f ~ a2: ~ 'o2:	ACR NOM	swe	swe
-FAP	ä f ~ a2: ~ p 'e2:	ACR NOM	swe	swe
-FAV	ä f ~ a2: ~ v 'e2:	ACR NOM	swe	swe
-FB	"ä f ~ b `e2:	ACR NOM	swe	swe
-FBH	ä f ~ b e2: ~ h 'å2:	ACR NOM	swe	swe
-FBL	ä f ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-FBLP	ä f ~ b e2: ~ "ä l ~ p `e2:	ACR NOM	swe	swe
-FBR	ä f ~ b e2: ~ 'ä3 r	ACR NOM	swe	swe
-FC	"ä f ~ s `e2:	ACR NOM	swe	swe
-FCO	ä f ~ s e2: ~ 'o2:	ACR NOM	swe	swe
-FDA	ä f ~ d e2: ~ 'a2:	ACR NOM	swe	swe
-fdp	ä f ~ d e2: ~ p 'e2:	ACR NOM	swe	swe
-FEE	ä f ~ e2: ~ 'e2:	ACR NOM	swe	swe
-FEF	ä f ~ e2: ~ 'ä f	ACR NOM	swe	swe
-FEUF	ä f ~ e2: ~ u2: ~ 'ä f	ACR NOM	swe	swe
-FEV	ä f ~ e2: ~ v 'e2:	ACR NOM	swe	swe
-FFA	ä f ~ ä f ~ 'a2:	ACR NOM	swe	swe
-FFI	ä f ~ ä f ~ 'i2:	ACR NOM	swe	swe
+A-HLR	'a: | h o: ~ ä l ~ 'ae r	ACR NOM	swe	swe
+AA	"a: ~ ,a:	ACR NOM	swe	swe
+AACN	a: ~ a: ~ s e: ~ 'ä n	ACR NOM	swe	swe
+AAI	a: ~ a: ~ 'i:	ACR NOM	swe	swe
+AAiR	a: ~ a: ~ i: ~ 'ae r	ACR NOM	swe	swe
+Aaodc	a: ~ a: ~ u: ~ d e: ~ s 'e:	ACR NOM	swe	swe
+AAS	a: ~ a: ~ 'ä s	ACR NOM	swe	swe
+AB	"a: ~ b ,e:	ACR NOM	swe	swe
+aB-pO	"a: ~ b ,e: | p "e: ~ ,u:	ACR NOM	swe	swe
+aB-SaO	"a: ~ b ,e: | ä s ~ a: ~ 'u:	ACR NOM	swe	swe
+AB-U	"a: ~ b ,e: | 'uu:	ACR NOM	swe	swe
+ABB	a: ~ b e: ~ b 'e:	ACR NOM	swe	swe
+ABBL	a: ~ b e: ~ b "e: ~ ,ä l	ACR NOM	swe	swe
+ABC	a: ~ b e: ~ s 'e:	ACR NOM	swe	swe
+ABCDe	a: ~ b e: ~ s e: ~ d e: ~ 'e:	ACR NOM	swe	swe
+ABE	a: ~ b e: ~ 'e:	ACR NOM	swe	swe
+ABF	a: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+ABFs	a: ~ b e: ~ 'ä f s	ACR GEN	swe	swe
+ABL	a: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+ABL:s	a: ~ b e: ~ 'ä l s	ACR GEN	swe	swe
+ABLP	a: ~ b e: ~ "ä l ~ p ,e:	ACR NOM	swe	swe
+ABM	a: ~ b e: ~ 'ä m	ACR NOM	swe	swe
+ABO	a: ~ b e: ~ 'u:	ACR NOM	swe	swe
+ABR	a: ~ b e: ~ 'ae r	ACR NOM	swe	swe
+ABS	a: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+ABT	a: ~ b e: ~ t 'e:	ACR NOM	swe	swe
+ABT-U	a: ~ b e: ~ t e: ~ 'uu:	ACR NOM	swe	swe
+AC	"a: ~ s ,e:	ACR NOM	swe	swe
+acc	a: ~ s e: ~ s 'e:	ACR NOM	swe	swe
+ACD	a: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+ACER	a: ~ s e: ~ e: ~ 'ae r	ACR NOM	swe	swe
+ACHD	a: ~ s e: ~ h "o: ~ d ,e:	ACR NOM	swe	swe
+ACIA	a: ~ s e: ~ i: ~ 'a:	ACR NOM	swe	swe
+ACTH	a: ~ s e: ~ t "e: ~ h ,o:	ACR NOM	swe	swe
+ACTH	a: ~ s e: ~ t e: ~ h 'o:	ACR NOM	swe	swe
+AD/HD	a: ~ d e: ~ h "o: ~ d ,e:	ACR NOM	swe	swe
+ADA	a: ~ d e: ~ 'a:	ACR NOM	swe	swe
+ADCC	a: ~ d e: ~ s "e: ~ s ,e:	ACR NOM	swe	swe
+adh	a: ~ d e: ~ h 'o:	ACR NOM	swe	swe
+ADHD	a: ~ d e: ~ h "o: ~ d ,e:	ACR NOM	swe	swe
+ADL	a: ~ d e: ~ 'ä l	ACR NOM	swe	swe
+ADP	a: ~ d e: ~ p 'e:	ACR NOM	swe	swe
+ADR	a: ~ d e: ~ 'ae r	ACR NOM	swe	swe
+ADRs	a: ~ d e: ~ 'ae r s	ACR GEN	swe	swe
+ADSL	a: ~ d e: ~ "ä s ~ ,ä l	ACR NOM	swe	swe
+AE	"a: ~ ,e:	ACR NOM	swe	swe
+AERA	a: ~ e: ~ ae r ~ 'a:	ACR NOM	swe	swe
+AF	"a: ~ ,ä f	ACR NOM	swe	swe
+AFA	a: ~ ä f ~ 'a:	ACR NOM	swe	swe
+AFC	a: ~ ä f ~ s 'e:	ACR NOM	swe	swe
+AFDL	a: ~ ä f ~ d "e: ~ ,ä l	ACR NOM	swe	swe
+AFL	a: ~ ä f ~ 'ä l	ACR NOM	swe	swe
+AFP	a: ~ ä f ~ p 'e:	ACR NOM	swe	swe
+AFS	a: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+AGB	a: ~ g e: ~ b 'e:	ACR NOM	swe	swe
+AGL	a: ~ g e: ~ 'ä l	ACR NOM	swe	swe
+AGM	a: ~ g e: ~ 'ä m	ACR NOM	swe	swe
+AgRP	a: ~ g e: ~ "ae r ~ p ,e:	ACR NOM	swe	swe
+AGS	a: ~ g e: ~ 'ä s	ACR NOM	swe	swe
+AGS-KL	a: ~ g e: ~ 'ä s | k "o: ~ ,ä l	ACR NOM	swe	swe
+AGVFS	a: ~ g e: ~ v e: ~ "ä f ~ ,ä s	ACR NOM	swe	swe
+AH	"a: ~ h ,o:	ACR NOM	swe	swe
+AHF	a: ~ h o: ~ 'ä f	ACR NOM	swe	swe
+AHI	a: ~ h o: ~ 'i:	ACR NOM	swe	swe
+AHMA	a: ~ h o: ~ ä m ~ 'a:	ACR NOM	swe	swe
+AHNA	a: ~ h o: ~ ä n ~ 'a:	ACR NOM	swe	swe
+AHP	a: ~ h o: ~ p 'e:	ACR NOM	swe	swe
+AI	"a: ~ ,i:	ACR NOM	swe	swe
+AIB	a: ~ i: ~ b 'e:	ACR NOM	swe	swe
+AICPA	a: ~ i: ~ s e: ~ p e: ~ 'a:	ACR NOM	swe	swe
+AIF	a: ~ i: ~ 'ä f	ACR NOM	swe	swe
+AIH	a: ~ i: ~ h 'o:	ACR NOM	swe	swe
+AIHA	a: ~ i: ~ h o: ~ 'a:	ACR NOM	swe	swe
+AIK	"a: ~ i: ~ k ,o:	ACR NOM	swe	swe
+AIO	a: ~ i: ~ 'u:	ACR NOM	swe	swe
+AIP	a: ~ i: ~ p 'e:	ACR NOM	swe	swe
+AIX	a: ~ i: ~ 'ä k s	ACR NOM	swe	swe
+AJM	a: ~ j i: ~ 'ä m	ACR NOM	swe	swe
+AK	"a: ~ k ,o:	ACR NOM	swe	swe
+AKK	a: ~ k o: ~ k 'o:	ACR NOM	swe	swe
+AKU	a: ~ k o: ~ 'uu:	ACR NOM	swe	swe
+akv	a: ~ k o: ~ v 'e:	ACR NOM	swe	swe
+AL	"a: ~ ,ä l	ACR NOM	swe	swe
+ALAT	a: ~ ä l ~ "a: ~ t ,e:	ACR NOM	swe	swe
+ALC	a: ~ ä l ~ s 'e:	ACR NOM	swe	swe
+ALK	a: ~ ä l ~ k 'o:	ACR NOM	swe	swe
+ALS	a: ~ ä l ~ 'ä s	ACR NOM	swe	swe
+AMA	a: ~ ä m ~ 'a:	ACR NOM	swe	swe
+AMD	"a: ~ ä m ~ d ,e:	ACR NOM	swe	swe
+AMF	'a: ~ ä m ~ ä f	ACR NOM	swe	swe
+AMF	a: ~ ä m ~ 'ä f	ACR NOM	swe	swe
+AMF:s	a: ~ ä m ~ 'ä f s	ACR GEN	swe	swe
+AML	a: ~ ä m ~ 'ä l	ACR NOM	swe	swe
+AMP	"a: ~ ä m ~ p ,e:	ACR NOM	swe	swe
+AMPK	a: ~ ä m ~ p "e: ~ k ,o:	ACR NOM	swe	swe
+AMU	a: ~ ä m ~ 'uu:	ACR NOM	swe	swe
+AMV	"a: ~ ä m ~ v ,e:	ACR NOM	swe	swe
+ANC	a: ~ ä n ~ s 'e:	ACR NOM	swe	swe
+ANCA	a: ~ ä n ~ s e: ~ 'a:	ACR NOM	swe	swe
+ANF	a: ~ ä n ~ 'ä f	ACR NOM	swe	swe
+ANP	"a: ~ ä n ~ p ,e:	ACR NOM	swe	swe
+AOM	a: ~ u: ~ 'ä m	ACR NOM	swe	swe
+AORN	a: ~ u: ~ ae r ~ 'ä n	ACR NOM	swe	swe
+AP	"a: ~ p ,e:	ACR NOM	swe	swe
+APC	a: ~ p e: ~ s 'e:	ACR NOM	swe	swe
+API	a: ~ p e: ~ 'i:	ACR NOM	swe	swe
+APL	a: ~ p e: ~ 'ä l	ACR NOM	swe	swe
+APS	a: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+APT	a: ~ p e: ~ t 'e:	ACR NOM	swe	swe
+APTT	a: ~ p e: ~ t e: ~ t 'e:	ACR NOM	swe	swe
+APU	a: ~ p e: ~ 'uu:	ACR NOM	swe	swe
+APUA	a: ~ p e: ~ uu: ~ 'a:	ACR NOM	swe	swe
+APUD	a: ~ p e: ~ uu: ~ d 'e:	ACR NOM	swe	swe
+aq	"a: ~ k ,uu:	ACR NOM	swe	swe
+aqu	a: ~ k uu: ~ 'uu:	ACR NOM	swe	swe
+ARB	a: ~ ae r ~ b 'e:	ACR NOM	swe	swe
+ARD	a: ~ ae r ~ d 'e:	ACR NOM	swe	swe
+ARDS	a: ~ ae r ~ d e: ~ 'ä s	ACR NOM	swe	swe
+ARN	a: ~ ae r ~ 'ä n	ACR NOM	swe	swe
+arthr	a: ~ ae r ~ t e: ~ h o: ~ 'ae r	ACR NOM	swe	swe
+artr	a: ~ ae r ~ t e: ~ 'ae r	ACR NOM	swe	swe
+ARVC	a: ~ ae r ~ v "e: ~ s ,e:	ACR NOM	swe	swe
+ASD	a: ~ ä s ~ d 'e:	ACR NOM	swe	swe
+ASGB	a: ~ ä s ~ g "e: ~ b ,e:	ACR NOM	swe	swe
+ASI	a: ~ ä s ~ 'i:	ACR NOM	swe	swe
+AsLCDbt-R	a: ~ ä s ~ ä l ~ s e: ~ d e: ~ b "e: ~ t e: ~ ,ae r	ACR NOM	swe	swe
+Asn	a: ~ ä s ~ 'ä n	ACR NOM	swe	swe
+ASPD	a: ~ ä s ~ p e: ~ d 'e:	ACR NOM	swe	swe
+aspx	a: ~ ä s ~ p e: ~ 'ä k s	ACR NOM	swe	swe
+ASS	a: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+AST	"a: ~ ä s ~ t ,e:	ACR NOM	swe	swe
+ASW	a: ~ ä s ~ d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+ATC	a: ~ t e: ~ s 'e:	ACR NOM	swe	swe
+ATG	a: ~ t e: ~ g 'e:	ACR NOM	swe	swe
+ATK	a: ~ t e: ~ k 'o:	ACR NOM	swe	swe
+ATL	a: ~ t e: ~ 'ä l	ACR NOM	swe	swe
+ATLL	a: ~ t e: ~ ä l ~ 'ä l	ACR NOM	swe	swe
+ATLS	a: ~ t e: ~ ä l ~ 'ä s	ACR NOM	swe	swe
+ATLS	a: ~ t e: ~ ä l ~ 'ä s	ACR NOM	swe	swe
+ATNR	a: ~ t e: ~ ä n ~ 'ae r	ACR NOM	swe	swe
+ATP	a: ~ t e: ~ p 'e:	ACR NOM	swe	swe
+ATS	a: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+attC	a: ~ t e: ~ t e: ~ s 'e:	ACR NOM	swe	swe
+AU	"a: ~ ,uu:	ACR NOM	swe	swe
+AUC	a: ~ uu: ~ s 'e:	ACR NOM	swe	swe
+AUL	a: ~ uu: ~ 'ä l	ACR NOM	swe	swe
+AUP	a: ~ uu: ~ p 'e:	ACR NOM	swe	swe
+AUU	a: ~ uu: ~ 'uu:	ACR NOM	swe	swe
+AVK	a: ~ v e: ~ k 'o:	ACR NOM	swe	swe
+AVL	a: ~ v e: ~ 'ä l	ACR NOM	swe	swe
+AVNRT	a: ~ v e: ~ ä n ~ ae r ~ t 'e:	ACR NOM	swe	swe
+AVSD	a: ~ v e: ~ "ä s ~ d ,e:	ACR NOM	swe	swe
+AW	'a: | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+AWE	'a: | d "uu . b ex l - v ,e: | 'e:	ACR NOM	swe	swe
+AWEA	a: ~ v e: ~ e: ~ 'a:	ACR NOM	swe	swe
+AWG	a: ~ v e: ~ g 'e:	ACR NOM	swe	swe
+AZT	'a: | s "ä: . t ,a | t 'e:	ACR NOM	swe	swe
+B-LPK	b e: ~ ä l ~ p e: ~ k 'o:	ACR NOM	swe	swe
+BA	b "e: ~ ,a:	ACR NOM	swe	swe
+BABL	b e: ~ a: ~ b "e: ~ ,ä l	ACR NOM	swe	swe
+BAC	b e: ~ a: ~ s 'e:	ACR NOM	swe	swe
+BAE	b e: ~ a: ~ 'e:	ACR NOM	swe	swe
+BAU	b e: ~ a: ~ 'uu:	ACR NOM	swe	swe
+BB	b "e: ~ b ,e:	ACR NOM	swe	swe
+BBL	b e: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+BBR	b e: ~ b e: ~ 'ae r	ACR NOM	swe	swe
+BCF	b e: ~ s e: ~ 'ä f	ACR NOM	swe	swe
+BCG	b e: ~ s e: ~ g 'e:	ACR NOM	swe	swe
+bd	b "e: ~ d ,e:	ACR NOM	swe	swe
+BDFL	b e: ~ d e: ~ "ä f ~ ,ä l	ACR NOM	swe	swe
+BDI	b e: ~ d e: ~ 'i:	ACR NOM	swe	swe
+BDZ	b e: ~ d e: ~ s "ä: . t ,a	ACR NOM	swe	swe
+BehL	b e: ~ e: ~ h "o: ~ ,ä l	ACR NOM	swe	swe
+Behl	b e: ~ e: ~ h o: ~ 'ä l	ACR NOM	swe	swe
+BEO	b e: ~ e: ~ 'u:	ACR NOM	swe	swe
+BEV	b e: ~ e: ~ v 'e:	ACR NOM	swe	swe
+BF	b "e: ~ ,ä f	ACR NOM	swe	swe
+BFF	b e: ~ ä f ~ 'ä f	ACR NOM	swe	swe
+BFL	b e: ~ ä f ~ 'ä l	ACR NOM	swe	swe
+BFN	b e: ~ ä f ~ 'ä n	ACR NOM	swe	swe
+BFO	b e: ~ ä f ~ 'u:	ACR NOM	swe	swe
+BGB	b e: ~ g e: ~ b 'e:	ACR NOM	swe	swe
+bh	b "e: ~ h ,o:	ACR NOM	swe	swe
+BHB	b e: ~ h o: ~ b 'e:	ACR NOM	swe	swe
+Bih	b e: ~ i: ~ h 'o:	ACR NOM	swe	swe
+BJ	b "e: ~ j ,i:	ACR NOM	swe	swe
+BJM	b e: ~ j i: ~ 'ä m	ACR NOM	swe	swe
+BJU	b e: ~ j i: ~ 'uu:	ACR NOM	swe	swe
+BK	b "e: ~ k ,o:	ACR NOM	swe	swe
+BKA	b e: ~ k o: ~ 'a:	ACR NOM	swe	swe
+BKK	b e: ~ k o: ~ k 'o:	ACR NOM	swe	swe
+BKN	b e: ~ k o: ~ 'ä n	ACR NOM	swe	swe
+BL	b "e: ~ ,ä l	ACR NOM	swe	swe
+blf	b e: ~ ä l ~ 'ä f	ACR NOM	swe	swe
+BLU	b e: ~ ä l ~ 'uu:	ACR NOM	swe	swe
+BM	b "e: ~ ,ä m	ACR NOM	swe	swe
+BMB	b e: ~ ä m ~ b 'e:	ACR NOM	swe	swe
+BMC	b e: ~ ä m ~ s 'e:	ACR NOM	swe	swe
+BMD	b e: ~ ä m ~ d 'e:	ACR NOM	swe	swe
+BMI	b e: ~ ä m ~ 'i:	ACR NOM	swe	swe
+BMJ	b e: ~ ä m ~ j 'i:	ACR NOM	swe	swe
+BMM	b e: ~ ä m ~ 'ä m	ACR NOM	swe	swe
+BMR	b e: ~ ä m ~ 'ae r	ACR NOM	swe	swe
+BMS	b e: ~ ä m ~ 'ä s	ACR NOM	swe	swe
+BMW	b "e: ~ ä m ~ v ,e:	ACR NOM	swe	swe
+BMW:S	b "e: ~ ä m ~ v ,e: s	ACR GEN	swe	swe
+BMX	b e: ~ ä m ~ 'ä k s	ACR NOM	swe	swe
+BNCT	b e: ~ ä n ~ s e: ~ t 'e:	ACR NOM	swe	swe
+BNP	b "e: ~ ä n ~ p ,e:	ACR NOM	swe	swe
+BNPs	b "e: ~ ä n ~ p ,e: s	ACR GEN	swe	swe
+BO	b "e: ~ ,u:	ACR NOM	swe	swe
+BP	b "e: ~ p ,e:	ACR NOM	swe	swe
+BPD	b e: ~ p e: ~ d 'e:	ACR NOM	swe	swe
+BPH	b e: ~ p e: ~ h 'o:	ACR NOM	swe	swe
+BPPV	b e: ~ p e: ~ p "e: ~ v ,e:	ACR NOM	swe	swe
+BPQ	b e: ~ p e: ~ k 'uu:	ACR NOM	swe	swe
+BPR	b e: ~ p e: ~ 'ae r	ACR NOM	swe	swe
+BPs	b "e: ~ p ,e: s	ACR GEN	swe	swe
+Bq	b "e: ~ k ,uu:	ACR NOM	swe	swe
+Br	b "e: ~ ,ae r	ACR NOM	swe	swe
+BrB	b e: ~ ae r ~ b 'e:	ACR NOM	swe	swe
+BrCA	b e: ~ ae r ~ s "e: ~ ,a:	ACR NOM	swe	swe
+BRD	b e: ~ ae r ~ d 'e:	ACR NOM	swe	swe
+BRFL	b e: ~ ae r ~ "ä f ~ ,ä l	ACR NOM	swe	swe
+BRL	b e: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+BRU	b e: ~ ae r ~ 'uu:	ACR NOM	swe	swe
+BS	b "e: ~ ,ä s	ACR NOM	swe	swe
+BSE	b e: ~ ä s ~ 'e:	ACR NOM	swe	swe
+BSL	b e: ~ ä s ~ 'ä l	ACR NOM	swe	swe
+BSS	b e: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+BT	b "e: ~ t ,e:	ACR NOM	swe	swe
+BTJ	b e: ~ t e: ~ j 'i:	ACR NOM	swe	swe
+Btj:s	b e: ~ t e: ~ j 'i: s	ACR GEN	swe	swe
+Btjs	b e: ~ t e: ~ j 'i: s	ACR GEN	swe	swe
+BTK	b e: ~ t e: ~ k 'o:	ACR NOM	swe	swe
+BTM	b e: ~ t e: ~ 'ä m	ACR NOM	swe	swe
+BUG	b e: ~ uu: ~ g 'e:	ACR NOM	swe	swe
+BV	b "e: ~ v ,e:	ACR NOM	swe	swe
+BVC	b e: ~ v e: ~ s 'e:	ACR NOM	swe	swe
+BVL	b e: ~ v e: ~ 'ä l	ACR NOM	swe	swe
+BW	b 'e: | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+BZ	b "e: ~ s ,ä: . t a	ACR NOM	swe	swe
+c-ANCA	s "e: - a: ~ ä n ~ s e: ~ ,a:	ACR NOM	swe	swe
+CABG	s e: ~ a: ~ b "e: ~ g ,e:	ACR NOM	swe	swe
+CAC	s e: ~ a: ~ s 'e:	ACR NOM	swe	swe
+CAEL	s e: ~ a: ~ e: ~ 'ä l	ACR NOM	swe	swe
+CAG	s e: ~ a: ~ g 'e:	ACR NOM	swe	swe
+CAH	s e: ~ a: ~ h 'o:	ACR NOM	swe	swe
+CAPD	s e: ~ a: ~ p e: ~ d 'e:	ACR NOM	swe	swe
+CAS	s e: ~ a: ~ 'ä s	ACR NOM	swe	swe
+CB	s "e: ~ b ,e:	ACR NOM	swe	swe
+CBF	s e: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+cc	s "e: ~ s ,e:	ACR NOM	swe	swe
+CCK	s e: ~ s e: ~ k 'o:	ACR NOM	swe	swe
+CCK-PZ	s e: ~ s e: ~ k 'o: | p "e: ~ s ,ä: . t a	ACR NOM	swe	swe
+CCKs	s e: ~ s e: ~ k 'o: s	ACR GEN	swe	swe
+CCr	s e: ~ s e: ~ 'ae r	ACR NOM	swe	swe
+CCT	s e: ~ s e: ~ t 'e:	ACR NOM	swe	swe
+CD	s "e: ~ d ,e:	ACR NOM	swe	swe
+CD-R	s e: ~ d e: ~ 'ae r	ACR NOM	swe	swe
+CDA	s e: ~ d e: ~ 'a:	ACR NOM	swe	swe
+CDC	s e: ~ d e: ~ s 'e:	ACR NOM	swe	swe
+CDI	s e: ~ d e: ~ 'i:	ACR NOM	swe	swe
+CDIAC	s e: ~ d e: ~ i: ~ a: ~ s 'e:	ACR NOM	swe	swe
+CDT	s e: ~ d e: ~ t 'e:	ACR NOM	swe	swe
+cdu	s e: ~ d e: ~ 'uu:	ACR NOM	swe	swe
+CE	s "e: ~ ,e:	ACR NOM	swe	swe
+CEA	s e: ~ e: ~ 'a:	ACR NOM	swe	swe
+CEEP	s e: ~ e: ~ e: ~ p 'e:	ACR NOM	swe	swe
+CEO	s e: ~ e: ~ 'u:	ACR NOM	swe	swe
+CEQ	s e: ~ e: ~ k 'uu:	ACR NOM	swe	swe
+CERI	s e: ~ e: ~ ae r ~ 'i:	ACR NOM	swe	swe
+CESCR	s e: ~ e: ~ ä s ~ s e: ~ 'ae r	ACR NOM	swe	swe
+CF	s "e: ~ ,ä f	ACR NOM	swe	swe
+CFC	s e: ~ ä f ~ s 'e:	ACR NOM	swe	swe
+CFF	s e: ~ ä f ~ 'ä f	ACR NOM	swe	swe
+CFIDS	s e: ~ ä f ~ i: ~ d e: ~ 'ä s	ACR NOM	swe	swe
+CFK	s e: ~ ä f ~ k 'o:	ACR NOM	swe	swe
+CFL	s e: ~ ä f ~ 'ä l	ACR NOM	swe	swe
+CFLL	s e: ~ ä f ~ "ä l ~ ,ä l	ACR NOM	swe	swe
+CFN	s e: ~ ä f ~ 'ä n	ACR NOM	swe	swe
+CFTr	s e: ~ ä f ~ t "e: ~ ,ae r	ACR NOM	swe	swe
+CFU	s e: ~ ä f ~ 'uu:	ACR NOM	swe	swe
+CGD	s e: ~ g e: ~ d 'e:	ACR NOM	swe	swe
+cgishl	s e: ~ g e: ~ i: ~ ä s ~ h o: ~ 'ä l	ACR NOM	swe	swe
+cGMP	s e: ~ g e: ~ ä m ~ p 'e:	ACR NOM	swe	swe
+CGrP	s e: ~ g e: ~ "ae r ~ p ,e:	ACR NOM	swe	swe
+ch	s "e: ~ h ,o:	ACR NOM	swe	swe
+CHD	s e: ~ h o: ~ d 'e:	ACR NOM	swe	swe
+CHMP	s e: ~ h o: ~ "ä m ~ p ,e:	ACR NOM	swe	swe
+CHOHCH	s e: ~ h o: ~ u: ~ h o: ~ s e: ~ h 'o:	ACR NOM	swe	swe
+CI	s e: ~ 'i:	ACR NOM	swe	swe
+CIAM	s e: ~ i: ~ a: ~ 'ä m	ACR NOM	swe	swe
+CIC	s e: ~ i: ~ s 'e:	ACR NOM	swe	swe
+CIIP	s e: ~ i: ~ i: ~ p 'e:	ACR NOM	swe	swe
+CIM	s e: ~ i: ~ 'ä m	ACR NOM	swe	swe
+CIO	s e: ~ i: ~ 'u:	ACR NOM	swe	swe
+CIOS	s e: ~ i: ~ u: ~ 'ä s	ACR NOM	swe	swe
+CIP	s e: ~ i: ~ p 'e:	ACR NOM	swe	swe
+CISG	s e: ~ i: ~ ä s ~ g 'e:	ACR NOM	swe	swe
+CIV	s e: ~ i: ~ v 'e:	ACR NOM	swe	swe
+CJ	s "e: ~ j ,i:	ACR NOM	swe	swe
+CJA	s e: ~ j i: ~ 'a:	ACR NOM	swe	swe
+CJS	s e: ~ j i: ~ 'ä s	ACR NOM	swe	swe
+CK	s "e: ~ k ,o:	ACR NOM	swe	swe
+cl	s "e: ~ ,ä l	ACR NOM	swe	swe
+CLE	s e: ~ ä l ~ 'e:	ACR NOM	swe	swe
+CMAJ	s e: ~ ä m ~ "a: ~ j ,i:	ACR NOM	swe	swe
+cmH	s e: ~ ä m ~ h 'o:	ACR NOM	swe	swe
+CMLR	s e: ~ ä m ~ ä l ~ 'ae r	ACR NOM	swe	swe
+CMV	s "e: ~ ä m ~ v ,e:	ACR NOM	swe	swe
+CN	s "e: ~ ,ä n	ACR NOM	swe	swe
+CNA	s e: ~ ä n ~ 'a:	ACR NOM	swe	swe
+CND	s e: ~ ä n ~ d 'e:	ACR NOM	swe	swe
+CND:s	s e: ~ ä n ~ d 'e: s	ACR NOM	swe	swe
+CNED	s e: ~ ä n ~ e: ~ d 'e:	ACR NOM	swe	swe
+CNIB	s e: ~ ä n ~ i: ~ b 'e:	ACR NOM	swe	swe
+CNP	s e: ~ ä n ~ p 'e:	ACR NOM	swe	swe
+CNS	s e: ~ ä n ~ 'ä s	ACR NOM	swe	swe
+CNUCED	s e: ~ ä n ~ uu: ~ s e: ~ e: ~ d 'e:	ACR NOM	swe	swe
+CO	s "e: ~ ,u:	ACR NOM	swe	swe
+CoA	s e: ~ u: ~ 'a:	ACR NOM	swe	swe
+COHb	s e: ~ u: ~ h "o: ~ b ,e:	ACR NOM	swe	swe
+COI	s e: ~ u: ~ 'i:	ACR NOM	swe	swe
+COOH	s e: ~ u: ~ u: ~ h 'o:	ACR NOM	swe	swe
+COPD	s e: ~ u: ~ p e: ~ d 'e:	ACR NOM	swe	swe
+COPM	s e: ~ u: ~ p e: ~ 'ä m	ACR NOM	swe	swe
+COR	s e: ~ u: ~ 'ae r	ACR NOM	swe	swe
+CP	s "e: ~ p ,e:	ACR NOM	swe	swe
+CPAP	s e: ~ p e: ~ "a: ~ p ,e:	ACR NOM	swe	swe
+CPC	s e: ~ p e: ~ s 'e:	ACR NOM	swe	swe
+CPH	s e: ~ p e: ~ h 'o:	ACR NOM	swe	swe
+CPP	s e: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+cr	s "e: ~ ,ae r	ACR NOM	swe	swe
+Cr-EDTA	s "e: ~ ,ae r | e: ~ d e: ~ t e: ~ 'a:	ACR NOM	swe	swe
+CRB	s e: ~ ae r ~ b 'e:	ACR NOM	swe	swe
+CRDQ	s e: ~ ae r ~ d e: ~ k 'uu:	ACR NOM	swe	swe
+CRF	s e: ~ ae r ~ 'ä f	ACR NOM	swe	swe
+CrH	s e: ~ ae r ~ h 'o:	ACR NOM	swe	swe
+CRI	s e: ~ ae r ~ 'i:	ACR NOM	swe	swe
+CRLOO	s e: ~ ae r ~ ä l ~ u: ~ s 'e:	ACR NOM	swe	swe
+CRP	s e: ~ ae r ~ p 'e:	ACR NOM	swe	swe
+CRPS	s e: ~ ae r ~ p "e: ~ ,ä s	ACR NOM	swe	swe
+CrT	s "e: ~ ae r ~ t ,e:	ACR NOM	swe	swe
+CRT-D	s e: ~ ae r ~ t 'e: | d 'e:	ACR NOM	swe	swe
+CS	s "e: ~ ,ä s	ACR NOM	swe	swe
+CSA	s e: ~ ä s ~ 'a:	ACR NOM	swe	swe
+CSCL	s e: ~ ä s ~ s e: ~ 'ä l	ACR NOM	swe	swe
+CSEL	s e: ~ ä s ~ e: ~ 'ä l	ACR NOM	swe	swe
+CSES	s e: ~ ä s ~ "e: ~ ,ä s	ACR NOM	swe	swe
+CSF	s e: ~ ä s ~ 'ä f	ACR NOM	swe	swe
+CSIE	s e: ~ ä s ~ i: ~ 'e:	ACR NOM	swe	swe
+CSL	s e: ~ ä s ~ 'ä l	ACR NOM	swe	swe
+CSN	s e: ~ ä s ~ 'ä n	ACR NOM	swe	swe
+CSO	s e: ~ ä s ~ 'u:	ACR NOM	swe	swe
+CSOs	s e: ~ ä s ~ 'u: s	ACR GEN	swe	swe
+csqca	s e: ~ ä s ~ k uu: ~ s e: ~ 'a:	ACR NOM	swe	swe
+csQCA	s e: ~ ä s ~ k uu: ~ s e: ~ 'a:	ACR NOM	swe	swe
+CSU	s e: ~ ä s ~ 'uu:	ACR NOM	swe	swe
+CSUN	s e: ~ ä s ~ uu: ~ 'ä n	ACR NOM	swe	swe
+CT	s "e: ~ t ,e:	ACR NOM	swe	swe
+CTG	s e: ~ t e: ~ g 'e:	ACR NOM	swe	swe
+CTL	s e: ~ t e: ~ 'ä l	ACR NOM	swe	swe
+CTM	s e: ~ t e: ~ 'ä m	ACR NOM	swe	swe
+CTOPP	s e: ~ t e: ~ u: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+CTT	s e: ~ t e: ~ t 'e:	ACR NOM	swe	swe
+CU	s "e: ~ ,uu:	ACR NOM	swe	swe
+CUA	s e: ~ uu: ~ 'a:	ACR NOM	swe	swe
+CUF	s e: ~ uu: ~ 'ä f	ACR NOM	swe	swe
+CUL	s e: ~ uu: ~ 'ä l	ACR NOM	swe	swe
+CUS	s e: ~ uu: ~ 'ä s	ACR NOM	swe	swe
+CV	s "e: ~ v ,e:	ACR NOM	swe	swe
+CVC	s e: ~ v e: ~ s 'e:	ACR NOM	swe	swe
+CVI	s e: ~ v e: ~ 'i:	ACR NOM	swe	swe
+CVK	s e: ~ v e: ~ k 'o:	ACR NOM	swe	swe
+CVP	s e: ~ v e: ~ p 'e:	ACR NOM	swe	swe
+CVS	s e: ~ v e: ~ 'ä s	ACR NOM	swe	swe
+CWK	s 'e: | d "uu . b ex l - v ,e: | k 'o:	ACR NOM	swe	swe
+CYP	s e: ~ y: ~ p 'e:	ACR NOM	swe	swe
+DAW	d 'e: | 'a: | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+DBF	d e: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+DBS	d e: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+DBT	d e: ~ b e: ~ t 'e:	ACR NOM	swe	swe
+DBV	d e: ~ b e: ~ v 'e:	ACR NOM	swe	swe
+DCD	d e: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+Dd	d "e: ~ d ,e:	ACR NOM	swe	swe
+dda	d e: ~ d e: ~ 'a:	ACR NOM	swe	swe
+DDAVP	d e: ~ d e: ~ a: ~ v e: ~ p 'e:	ACR NOM	swe	swe
+DDD	d e: ~ d e: ~ d 'e:	ACR NOM	swe	swe
+dde	d e: ~ d e: ~ 'e:	ACR NOM	swe	swe
+DDNOS	d e: ~ d e: ~ ä n ~ u: ~ 'ä s	ACR NOM	swe	swe
+DDR	d e: ~ d e: ~ 'ae r	ACR NOM	swe	swe
+DDT	d e: ~ d e: ~ t 'e:	ACR NOM	swe	swe
+DEBQ	d e: ~ e: ~ b "e: ~ k ,uu:	ACR NOM	swe	swe
+DEC	d e: ~ e: ~ s 'e:	ACR NOM	swe	swe
+DF	d "e: ~ ,ä f	ACR NOM	swe	swe
+DFEE	d e: ~ ä f ~ e: ~ 'e:	ACR NOM	swe	swe
+dff	d e: ~ ä f ~ 'ä f	ACR NOM	swe	swe
+dfr	d e: ~ ä f ~ 'ae r	ACR NOM	swe	swe
+DGJ	d e: ~ g e: ~ j 'i:	ACR NOM	swe	swe
+DGR	d e: ~ g e: ~ 'ae r	ACR NOM	swe	swe
+DH	d "e: ~ h ,o:	ACR NOM	swe	swe
+DHE	d e: ~ h o: ~ 'e:	ACR NOM	swe	swe
+DHEA	d e: ~ h o: ~ e: ~ 'a:	ACR NOM	swe	swe
+DHEAS	d e: ~ h o: ~ e: ~ a: ~ 'ä s	ACR NOM	swe	swe
+dhps	d e: ~ h o: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+DHR	d e: ~ h o: ~ 'ae r	ACR NOM	swe	swe
+DIFS	d e: ~ i: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+dk	d "e: ~ k ,o:	ACR NOM	swe	swe
+DKK	d e: ~ k o: ~ k 'o:	ACR NOM	swe	swe
+DLCO	d e: ~ ä l ~ s e: ~ 'u:	ACR NOM	swe	swe
+DMA	d e: ~ ä m ~ 'a:	ACR NOM	swe	swe
+DMARD	d e: ~ ä m ~ a: ~ ae r ~ d 'e:	ACR NOM	swe	swe
+DMH	d "e: ~ ä m ~ h ,o:	ACR NOM	swe	swe
+DMN	d e: ~ ä m ~ 'ä n	ACR NOM	swe	swe
+DMPS	d e: ~ ä m ~ p "e: ~ ,ä s	ACR NOM	swe	swe
+DMSA	d e: ~ ä m ~ "ä s ~ ,a:	ACR NOM	swe	swe
+DMT	d e: ~ ä m ~ t 'e:	ACR NOM	swe	swe
+DN	d "e: ~ ,ä n	ACR NOM	swe	swe
+DNA	d e: ~ ä n ~ 'a:	ACR NOM	swe	swe
+dna	d e: ~ ä n ~ 'a:	ACR NOM	swe	swe
+DNA-ak	d e: ~ ä n ~ a: ~ "a: ~ k ,o:	ACR NOM	swe	swe
+DNCB	d e: ~ ä n ~ s e: ~ b 'e:	ACR NOM	swe	swe
+DOI	d e: ~ u: ~ 'i:	ACR NOM	swe	swe
+DP	d "e: ~ p ,e:	ACR NOM	swe	swe
+dpi	d e: ~ p e: ~ 'i:	ACR NOM	swe	swe
+DPP	d e: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+DPS	d e: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+DR	d "e: ~ ,ae r	ACR NOM	swe	swe
+DRF	d e: ~ ae r ~ 'ä f	ACR NOM	swe	swe
+DrG	d "e: ~ ae r ~ g ,e:	ACR NOM	swe	swe
+Ds	d "e: ~ ,ä s	ACR NOM	swe	swe
+DSA	d e: ~ ä s ~ 'a:	ACR NOM	swe	swe
+DSF	d e: ~ ä s ~ 'ä f	ACR NOM	swe	swe
+DSK	d "e: ~ ä s ~ k ,o:	ACR NOM	swe	swe
+DSM	d e: ~ ä s ~ 'ä m	ACR NOM	swe	swe
+DSM-FV	d e: ~ ä s ~ 'ä m | "ä f ~ v ,e:	ACR NOM	swe	swe
+DsS	d e: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+DsU	d e: ~ ä s ~ 'uu:	ACR NOM	swe	swe
+DT	d "e: ~ t ,e:	ACR NOM	swe	swe
+DTIC	d e: ~ t e: ~ i: ~ s 'e:	ACR NOM	swe	swe
+DTP	d e: ~ t e: ~ p 'e:	ACR NOM	swe	swe
+DV	d "e: ~ v ,e:	ACR NOM	swe	swe
+DVD	d e: ~ v e: ~ d 'e:	ACR NOM	swe	swe
+DVT	d e: ~ v e: ~ t 'e:	ACR NOM	swe	swe
+dx	d "e: ~ ,ä k s	ACR NOM	swe	swe
+DXA	d e: ~ ä k s ~ 'a:	ACR NOM	swe	swe
+dxe	d e: ~ ä k s ~ 'e:	ACR NOM	swe	swe
+DXM	d e: ~ ä k s ~ 'ä m	ACR NOM	swe	swe
+dxt	d e: ~ ä k s ~ t 'e:	ACR NOM	swe	swe
+EA	"e: ~ ,a:	ACR NOM	swe	swe
+EaG	e: ~ a: ~ g 'e:	ACR NOM	swe	swe
+EAN	e: ~ a: ~ 'ä n	ACR NOM	swe	swe
+EANU	e: ~ a: ~ ä n ~ 'uu:	ACR NOM	swe	swe
+EAP	e: ~ a: ~ p 'e:	ACR NOM	swe	swe
+EASA	e: ~ a: ~ ä s ~ 'a:	ACR NOM	swe	swe
+Eass	e: ~ a: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+EBD	e: ~ b e: ~ d 'e:	ACR NOM	swe	swe
+Ebewe	e: ~ b e: ~ v 'e:	ACR NOM	swe	swe
+EBI	e: ~ b e: ~ 'i:	ACR NOM	swe	swe
+EBIs	e: ~ b e: ~ 'i: s	ACR GEN	swe	swe
+EBM	e: ~ b e: ~ 'ä m	ACR NOM	swe	swe
+EBT	e: ~ b e: ~ t 'e:	ACR NOM	swe	swe
+EBV	e: ~ b e: ~ v 'e:	ACR NOM	swe	swe
+EC	"e: ~ s ,e:	ACR NOM	swe	swe
+ECA	e: ~ s e: ~ 'a:	ACR NOM	swe	swe
+ECB	e: ~ s e: ~ b 'e:	ACR NOM	swe	swe
+ECDC	e: ~ s e: ~ d e: ~ s 'e:	ACR NOM	swe	swe
+ECE	e: ~ s e: ~ 'e:	ACR NOM	swe	swe
+ECG	e: ~ s e: ~ g 'e:	ACR NOM	swe	swe
+ech	e: ~ s e: ~ h 'o:	ACR NOM	swe	swe
+ECLA	e: ~ s e: ~ ä l ~ 'a:	ACR NOM	swe	swe
+ECLAS	e: ~ s e: ~ ä l ~ a: ~ 'ä s	ACR NOM	swe	swe
+ECMO	e: ~ s e: ~ ä m ~ 'u:	ACR NOM	swe	swe
+ECP	e: ~ s e: ~ p 'e:	ACR NOM	swe	swe
+ECR	e: ~ s e: ~ 'ae r	ACR NOM	swe	swe
+ECRI	e: ~ s e: ~ ae r ~ 'i:	ACR NOM	swe	swe
+ECT	e: ~ s e: ~ t 'e:	ACR NOM	swe	swe
+ECTS	e: ~ s e: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+ecv	e: ~ s e: ~ v 'e:	ACR NOM	swe	swe
+EDrF	e: ~ d e: ~ "ae r ~ ,ä f	ACR NOM	swe	swe
+EDTA	e: ~ d e: ~ t e: ~ 'a:	ACR NOM	swe	swe
+edu	e: ~ d e: ~ 'uu:	ACR NOM	swe	swe
+EE	"e: ~ ,e:	ACR NOM	swe	swe
+EEC	e: ~ e: ~ s 'e:	ACR NOM	swe	swe
+EEG	e: ~ e: ~ g 'e:	ACR NOM	swe	swe
+EEIG	e: ~ e: ~ i: ~ g 'e:	ACR NOM	swe	swe
+EER	e: ~ e: ~ 'ae r	ACR NOM	swe	swe
+EES	e: ~ e: ~ 'ä s	ACR NOM	swe	swe
+EES-	e: ~ e: ~ 'ä s	ACR NOM	swe	swe
+EESK	e: ~ e: ~ ä s ~ k 'o:	ACR NOM	swe	swe
+EEZ	e: ~ e: ~ s "ä: . t ,a	ACR NOM	swe	swe
+EF	"e: ~ ,ä f	ACR NOM	swe	swe
+EF-G	"e: ~ ,ä f | g 'e:	ACR NOM	swe	swe
+EFI	e: ~ ä f ~ 'i:	ACR NOM	swe	swe
+EFNS	e: ~ ä f ~ ä n ~ 'ä s	ACR NOM	swe	swe
+EFPA	e: ~ ä f ~ p e: ~ 'a:	ACR NOM	swe	swe
+EFS	e: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+EFSA	e: ~ ä f ~ ä s ~ 'a:	ACR NOM	swe	swe
+EG	"e: ~ g ,e:	ACR NOM	swe	swe
+EGF	e: ~ g e: ~ 'ä f	ACR NOM	swe	swe
+EGFR	e: ~ g e: ~ ä f ~ 'ae r	ACR NOM	swe	swe
+EGs	"e: ~ g ,e: s	ACR GEN	swe	swe
+EGT	e: ~ g e: ~ t 'e:	ACR NOM	swe	swe
+EIASM	e: ~ i: ~ a: ~ ä s ~ 'ä m	ACR NOM	swe	swe
+EIB	e: ~ i: ~ b 'e:	ACR NOM	swe	swe
+EIS	e: ~ i: ~ 'ä s	ACR NOM	swe	swe
+EJM	e: ~ j i: ~ 'ä m	ACR NOM	swe	swe
+EKI	e: ~ k o: ~ 'i:	ACR NOM	swe	swe
+EKMR	e: ~ k o: ~ ä m ~ 'ae r	ACR NOM	swe	swe
+EKN	e: ~ k o: ~ 'ä n	ACR NOM	swe	swe
+EKSG	e: ~ k o: ~ ä s ~ g 'e:	ACR NOM	swe	swe
+EM	"e: ~ ,ä m	ACR NOM	swe	swe
+EMA	e: ~ ä m ~ 'a:	ACR NOM	swe	swe
+EMC	"e: ~ ä m ~ s ,e:	ACR NOM	swe	swe
+EMCDDA	e: ~ ä m ~ s e: ~ d e: ~ d e: ~ 'a:	ACR NOM	swe	swe
+EMEA	e: ~ ä m ~ e: ~ 'a:	ACR NOM	swe	swe
+EMG	e: ~ ä m ~ g 'e:	ACR NOM	swe	swe
+EMM	e: ~ ä m ~ 'ä m	ACR NOM	swe	swe
+emph	e: ~ ä m ~ p e: ~ h 'o:	ACR NOM	swe	swe
+EMU	e: ~ ä m ~ 'uu:	ACR NOM	swe	swe
+EMV	"e: ~ ä m ~ v ,e:	ACR NOM	swe	swe
+EMW	"e: ~ ä m ~ v ,e:	ACR NOM	swe	swe
+enc	e: ~ ä n ~ s 'e:	ACR NOM	swe	swe
+ENFSI	e: ~ ä n ~ ä f ~ ä s ~ 'i:	ACR NOM	swe	swe
+EO	"e: ~ ,u:	ACR NOM	swe	swe
+EOA	e: ~ u: ~ 'a:	ACR NOM	swe	swe
+EOG	e: ~ u: ~ g 'e:	ACR NOM	swe	swe
+EOV	e: ~ u: ~ v 'e:	ACR NOM	swe	swe
+EpC	e: ~ p e: ~ s 'e:	ACR NOM	swe	swe
+EPD	e: ~ p e: ~ d 'e:	ACR NOM	swe	swe
+EPI	e: ~ p e: ~ 'i:	ACR NOM	swe	swe
+EPI	e: ~ p e: ~ 'i:	ACR NOM	swe	swe
+EPIA	e: ~ p e: ~ i: ~ 'a:	ACR NOM	swe	swe
+EPIs	e: ~ p e: ~ 'i: s	ACR GEN	swe	swe
+EPK	e: ~ p e: ~ k 'o:	ACR NOM	swe	swe
+EPL	e: ~ p e: ~ 'ä l	ACR NOM	swe	swe
+EPNP	e: ~ p e: ~ ä n ~ p 'e:	ACR NOM	swe	swe
+EPP	e: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+EPQ	e: ~ p e: ~ k 'uu:	ACR NOM	swe	swe
+EPS	e: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+epsp	e: ~ p e: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+EQ	"e: ~ k ,uu:	ACR NOM	swe	swe
+EQL	e: ~ k uu: ~ 'ä l	ACR NOM	swe	swe
+EQT	e: ~ k uu: ~ t 'e:	ACR NOM	swe	swe
+EQUI	e: ~ k uu: ~ uu: ~ 'i:	ACR NOM	swe	swe
+ErCP	e: ~ ae r ~ s "e: ~ p ,e:	ACR NOM	swe	swe
+ErG	e: ~ ae r ~ g 'e:	ACR NOM	swe	swe
+ERK	e: ~ ae r ~ k 'o:	ACR NOM	swe	swe
+ERM	e: ~ ae r ~ 'ä m	ACR NOM	swe	swe
+ERP	e: ~ ae r ~ p 'e:	ACR NOM	swe	swe
+ERU	e: ~ ae r ~ 'uu:	ACR NOM	swe	swe
+ESA	e: ~ ä s ~ 'a:	ACR NOM	swe	swe
+ESBL	e: ~ ä s ~ b e: ~ 'ä l	ACR NOM	swe	swe
+ESC	e: ~ ä s ~ s 'e:	ACR NOM	swe	swe
+ESH	e: ~ ä s ~ h 'o:	ACR NOM	swe	swe
+ESI	e: ~ ä s ~ 'i:	ACR NOM	swe	swe
+ESK	e: ~ ä s ~ k 'o:	ACR NOM	swe	swe
+ESP	e: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+ESRC	e: ~ ä s ~ ae r ~ s 'e:	ACR NOM	swe	swe
+ESREA	e: ~ ä s ~ ae r ~ e: ~ 'a:	ACR NOM	swe	swe
+ESV	e: ~ ä s ~ v 'e:	ACR NOM	swe	swe
+ESVL	e: ~ ä s ~ v e: ~ 'ä l	ACR NOM	swe	swe
+ETCO	e: ~ t e: ~ s "e: ~ ,u:	ACR NOM	swe	swe
+ETS	e: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+eTV	"e: ~ t ,e: ~ v e:	ACR NOM	swe	swe
+eu	"e: ~ ,uu:	ACR NOM	swe	swe
+EU	"e: ~ ,uu:	ACR NOM	swe	swe
+EU:S	"e: ~ ,uu: s	ACR NOM	swe	swe
+EUD	e: ~ uu: ~ d 'e:	ACR NOM	swe	swe
+EUF	e: ~ uu: ~ 'ä f	ACR NOM	swe	swe
+EUP	e: ~ uu: ~ p 'e:	ACR NOM	swe	swe
+EUR	e: ~ uu: ~ 'ae r	ACR NOM	swe	swe
+EUR-OP	e: ~ uu: ~ 'ae r | "u: ~ p ,e:	ACR NOM	swe	swe
+EUs	"e: ~ ,uu: s	ACR GEN	swe	swe
+EUT	e: ~ uu: ~ t 'e:	ACR NOM	swe	swe
+EVF	e: ~ v e: ~ 'ä f	ACR NOM	swe	swe
+EW	'e: | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+EWK	e: ~ v e: ~ k 'o:	ACR NOM	swe	swe
+F-Hb	ä f ~ h "o: ~ b ,e:	ACR NOM	swe	swe
+FA	"ä f ~ ,a:	ACR NOM	swe	swe
+FAI	ä f ~ a: ~ 'i:	ACR NOM	swe	swe
+FAL	ä f ~ a: ~ 'ä l	ACR NOM	swe	swe
+FAM	ä f ~ a: ~ 'ä m	ACR NOM	swe	swe
+FAO	ä f ~ a: ~ 'u:	ACR NOM	swe	swe
+FAP	ä f ~ a: ~ p 'e:	ACR NOM	swe	swe
+FAV	ä f ~ a: ~ v 'e:	ACR NOM	swe	swe
+FB	"ä f ~ b ,e:	ACR NOM	swe	swe
+FBH	ä f ~ b e: ~ h 'o:	ACR NOM	swe	swe
+FBL	ä f ~ b e: ~ 'ä l	ACR NOM	swe	swe
+FBLP	ä f ~ b e: ~ "ä l ~ p ,e:	ACR NOM	swe	swe
+FBR	ä f ~ b e: ~ 'ae r	ACR NOM	swe	swe
+FC	"ä f ~ s ,e:	ACR NOM	swe	swe
+FCO	ä f ~ s e: ~ 'u:	ACR NOM	swe	swe
+FDA	ä f ~ d e: ~ 'a:	ACR NOM	swe	swe
+fdp	ä f ~ d e: ~ p 'e:	ACR NOM	swe	swe
+FEE	ä f ~ e: ~ 'e:	ACR NOM	swe	swe
+FEF	ä f ~ e: ~ 'ä f	ACR NOM	swe	swe
+FEUF	ä f ~ e: ~ uu: ~ 'ä f	ACR NOM	swe	swe
+FEV	ä f ~ e: ~ v 'e:	ACR NOM	swe	swe
+FFA	ä f ~ ä f ~ 'a:	ACR NOM	swe	swe
+FFI	ä f ~ ä f ~ 'i:	ACR NOM	swe	swe
 FFM	ä f ~ ä f ~ 'ä m	ACR NOM	swe	swe
-FFP	ä f ~ ä f ~ p 'e2:	ACR NOM	swe	swe
-FGF	ä f ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-fgi	ä f ~ g e2: ~ 'i2:	ACR NOM	swe	swe
-FH	"ä f ~ h `å2:	ACR NOM	swe	swe
-fhi	ä f ~ h å2: ~ 'i2:	ACR NOM	swe	swe
-FHL	ä f ~ h å2: ~ 'ä l	ACR NOM	swe	swe
-FHS	ä f ~ h å2: ~ 'ä s	ACR NOM	swe	swe
-FHSF	ä f ~ h å2: ~ "ä s ~ `ä f	ACR NOM	swe	swe
-FIB	ä f ~ i2: ~ b 'e2:	ACR NOM	swe	swe
-FID	ä f ~ i2: ~ d 'e2:	ACR NOM	swe	swe
-FIM	ä f ~ i2: ~ 'ä m	ACR NOM	swe	swe
-FIV	ä f ~ i2: ~ v 'e2:	ACR NOM	swe	swe
-FIV	ä f ~ i2: ~ v 'e2:	ACR NOM	swe	swe
-FJ	"ä f ~ j `i2:	ACR NOM	swe	swe
-FK	"ä f ~ k `å2:	ACR NOM	swe	swe
-FKF	"ä f ~ k å2: ~ `ä f	ACR NOM	swe	swe
-FKG	ä f ~ k å2: ~ g 'e2:	ACR NOM	swe	swe
-FKP	ä f ~ k å2: ~ p 'e2:	ACR NOM	swe	swe
-FL	"ä f ~ `ä l	ACR NOM	swe	swe
-FLA	ä f ~ ä l ~ 'a2:	ACR NOM	swe	swe
+FFP	ä f ~ ä f ~ p 'e:	ACR NOM	swe	swe
+FGF	ä f ~ g e: ~ 'ä f	ACR NOM	swe	swe
+fgi	ä f ~ g e: ~ 'i:	ACR NOM	swe	swe
+FH	"ä f ~ h ,o:	ACR NOM	swe	swe
+fhi	ä f ~ h o: ~ 'i:	ACR NOM	swe	swe
+FHL	ä f ~ h o: ~ 'ä l	ACR NOM	swe	swe
+FHS	ä f ~ h o: ~ 'ä s	ACR NOM	swe	swe
+FHSF	ä f ~ h o: ~ "ä s ~ ,ä f	ACR NOM	swe	swe
+FIB	ä f ~ i: ~ b 'e:	ACR NOM	swe	swe
+FID	ä f ~ i: ~ d 'e:	ACR NOM	swe	swe
+FIM	ä f ~ i: ~ 'ä m	ACR NOM	swe	swe
+FIV	ä f ~ i: ~ v 'e:	ACR NOM	swe	swe
+FIV	ä f ~ i: ~ v 'e:	ACR NOM	swe	swe
+FJ	"ä f ~ j ,i:	ACR NOM	swe	swe
+FK	"ä f ~ k ,o:	ACR NOM	swe	swe
+FKF	"ä f ~ k o: ~ ,ä f	ACR NOM	swe	swe
+FKG	ä f ~ k o: ~ g 'e:	ACR NOM	swe	swe
+FKP	ä f ~ k o: ~ p 'e:	ACR NOM	swe	swe
+FL	"ä f ~ ,ä l	ACR NOM	swe	swe
+FLA	ä f ~ ä l ~ 'a:	ACR NOM	swe	swe
 FLF	ä f ~ ä l ~ 'ä f	ACR NOM	swe	swe
 FLL	ä f ~ ä l ~ 'ä l	ACR NOM	swe	swe
 FLN	ä f ~ ä l ~ 'ä n	ACR NOM	swe	swe
-FM	"ä f ~ `ä m	ACR NOM	swe	swe
-FMC	ä f ~ ä m ~ s 'e2:	ACR NOM	swe	swe
+FM	"ä f ~ ,ä m	ACR NOM	swe	swe
+FMC	ä f ~ ä m ~ s 'e:	ACR NOM	swe	swe
 FML	ä f ~ ä m ~ 'ä l	ACR NOM	swe	swe
-FMLOG	ä f ~ ä m ~ ä l ~ o2: ~ g 'e2:	ACR NOM	swe	swe
-FMLS	ä f ~ ä m ~ "ä l ~ `ä s	ACR NOM	swe	swe
+FMLOG	ä f ~ ä m ~ ä l ~ u: ~ g 'e:	ACR NOM	swe	swe
+FMLS	ä f ~ ä m ~ "ä l ~ ,ä s	ACR NOM	swe	swe
 FMN	ä f ~ ä m ~ 'ä n	ACR NOM	swe	swe
-fMr	ä f ~ ä m ~ 'ä3 r	ACR NOM	swe	swe
-fMRI	ä f ~ ä m ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
-fMrT	ä f ~ ä m ~ "ä3 r ~ t `e2:	ACR NOM	swe	swe
+fMr	ä f ~ ä m ~ 'ae r	ACR NOM	swe	swe
+fMRI	ä f ~ ä m ~ ae r ~ 'i:	ACR NOM	swe	swe
+fMrT	ä f ~ ä m ~ "ae r ~ t ,e:	ACR NOM	swe	swe
 FMS	ä f ~ ä m ~ 'ä s	ACR NOM	swe	swe
-FMV	ä f ~ ä m ~ v 'e2:	ACR NOM	swe	swe
-FN	"ä f ~ `ä n	ACR NOM	swe	swe
+FMV	ä f ~ ä m ~ v 'e:	ACR NOM	swe	swe
+FN	"ä f ~ ,ä n	ACR NOM	swe	swe
 FNL	ä f ~ ä n ~ 'ä l	ACR NOM	swe	swe
-FNs	"ä f ~ `ä n s	ACR GEN	swe	swe
-FNU	ä f ~ ä n ~ 'u2:	ACR NOM	swe	swe
-FOA	ä f ~ o2: ~ 'a2:	ACR NOM	swe	swe
-FOI	ä f ~ o2: ~ 'i2:	ACR NOM	swe	swe
-FoU	ä f ~ o2: ~ 'u2:	ACR NOM	swe	swe
-FP	"ä f ~ p `e2:	ACR NOM	swe	swe
-FPBB	ä f ~ p e2: ~ b e2: ~ b 'e2:	ACR NOM	swe	swe
-FPCB	ä f ~ p e2: ~ s "e2: ~ b `e2:	ACR NOM	swe	swe
-fpg	ä f ~ p e2: ~ g 'e2:	ACR NOM	swe	swe
-FPL	ä f ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-FPT	ä f ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-FRC	ä f ~ ä3 r ~ s 'e2:	ACR NOM	swe	swe
-FRF	ä f ~ ä3 r ~ 'ä f	ACR NOM	swe	swe
-FRL	ä f ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-FRN	ä f ~ ä3 r ~ 'ä n	ACR NOM	swe	swe
-FRN	ä f ~ ä3 r ~ 'ä n	ACR NOM	swe	swe
-FRNs	ä f ~ ä3 r ~ 'ä n s	ACR GEN	swe	swe
-FRNs	ä f ~ ä3 r ~ 'ä n s	ACR NOM	swe	swe
-FRO	ä f ~ ä3 r ~ 'o2:	ACR NOM	swe	swe
-FS	"ä f ~ `ä s	ACR NOM	swe	swe
-FSA	ä f ~ ä s ~ 'a2:	ACR NOM	swe	swe
-FSD	ä f ~ ä s ~ d 'e2:	ACR NOM	swe	swe
+FNs	"ä f ~ ,ä n s	ACR GEN	swe	swe
+FNU	ä f ~ ä n ~ 'uu:	ACR NOM	swe	swe
+FOA	ä f ~ u: ~ 'a:	ACR NOM	swe	swe
+FOI	ä f ~ u: ~ 'i:	ACR NOM	swe	swe
+FoU	ä f ~ u: ~ 'uu:	ACR NOM	swe	swe
+FP	"ä f ~ p ,e:	ACR NOM	swe	swe
+FPBB	ä f ~ p e: ~ b e: ~ b 'e:	ACR NOM	swe	swe
+FPCB	ä f ~ p e: ~ s "e: ~ b ,e:	ACR NOM	swe	swe
+fpg	ä f ~ p e: ~ g 'e:	ACR NOM	swe	swe
+FPL	ä f ~ p e: ~ 'ä l	ACR NOM	swe	swe
+FPT	ä f ~ t e: ~ p 'e:	ACR NOM	swe	swe
+FRC	ä f ~ ae r ~ s 'e:	ACR NOM	swe	swe
+FRF	ä f ~ ae r ~ 'ä f	ACR NOM	swe	swe
+FRL	ä f ~ ae r ~ 'ä l	ACR NOM	swe	swe
+FRN	ä f ~ ae r ~ 'ä n	ACR NOM	swe	swe
+FRN	ä f ~ ae r ~ 'ä n	ACR NOM	swe	swe
+FRNs	ä f ~ ae r ~ 'ä n s	ACR GEN	swe	swe
+FRNs	ä f ~ ae r ~ 'ä n s	ACR NOM	swe	swe
+FRO	ä f ~ ae r ~ 'u:	ACR NOM	swe	swe
+FS	"ä f ~ ,ä s	ACR NOM	swe	swe
+FSA	ä f ~ ä s ~ 'a:	ACR NOM	swe	swe
+FSD	ä f ~ ä s ~ d 'e:	ACR NOM	swe	swe
 FSF	ä f ~ ä s ~ 'ä f	ACR NOM	swe	swe
-FSH	ä f ~ ä s ~ h 'å2:	ACR NOM	swe	swe
-FSH-rH	ä f ~ ä s ~ h 'å2: | "ä3 r ~ h `å2:	ACR NOM	swe	swe
+FSH	ä f ~ ä s ~ h 'o:	ACR NOM	swe	swe
+FSH-rH	ä f ~ ä s ~ h 'o: | "ae r ~ h ,o:	ACR NOM	swe	swe
 FSL	ä f ~ ä s ~ 'ä l	ACR NOM	swe	swe
 FSM	ä f ~ ä s ~ 'ä m	ACR NOM	swe	swe
-fsqca	ä f ~ ä s ~ k u2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-fsQCA	ä f ~ ä s ~ k u2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-Fst	ä f ~ ä s ~ t 'e2:	ACR NOM	swe	swe
-FSU	ä f ~ ä s ~ 'u2:	ACR NOM	swe	swe
-FT	"ä f ~ t `e2:	ACR NOM	swe	swe
-FTF	ä f ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-FTL	ä f ~ t e2: ~ 'ä l	ACR NOM	swe	swe
-FTU	ä f ~ t e2: ~ 'u2:	ACR NOM	swe	swe
-FU	"ä f ~ `u2:	ACR NOM	swe	swe
-FVC	ä f ~ v e2: ~ s 'e2:	ACR NOM	swe	swe
-FYHS	ä f ~ y2: ~ h "å2: ~ `ä s	ACR NOM	swe	swe
-Fö	"ä f ~ `ö2:	ACR NOM	swe	swe
-G-CSF	g 'e2: | s e2: ~ ä s ~ `ä f	ACR NOM	swe	swe
-GAO	g e2: ~ a2: ~ 'o2:	ACR NOM	swe	swe
-GB	g "e2: ~ b `e2:	ACR NOM	swe	swe
-GBFL	g e2: ~ b e2: ~ "ä f ~ `ä l	ACR NOM	swe	swe
-Gbg	g e2: ~ b e2: ~ g 'e2:	ACR NOM	swe	swe
-GBm	g e2: ~ b e2: ~ 'ä m	ACR NOM	swe	swe
-GBP	g e2: ~ b e2: ~ p 'e2:	ACR NOM	swe	swe
-GBS	g e2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-GC	g "e2: ~ s `e2:	ACR NOM	swe	swe
-GCS	g e2: ~ s e2: ~ 'ä s	ACR NOM	swe	swe
-GD	g "e2: ~ d `e2:	ACR NOM	swe	swe
-GDM	g e2: ~ d e2: ~ 'ä m	ACR NOM	swe	swe
-GDP	g e2: ~ d e2: ~ p 'e2:	ACR NOM	swe	swe
-GFr	g e2: ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-GFS	g e2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-Gg	g "e2: ~ g `e2:	ACR NOM	swe	swe
-GGT	g e2: ~ g e2: ~ t 'e2:	ACR NOM	swe	swe
-GH	g "e2: ~ h `å2:	ACR NOM	swe	swe
-GHB	g e2: ~ h å2: ~ b 'e2:	ACR NOM	swe	swe
-GHrH	g e2: ~ h å2: ~ "ä3 r ~ h `å2:	ACR NOM	swe	swe
-GHRI	g e2: ~ h å2: ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
-GHSR	g e2: ~ h å2: ~ ä s ~ 'ä3 r	ACR NOM	swe	swe
-GI	g "e2: ~ `i2:	ACR NOM	swe	swe
-GIC	g e2: ~ i2: ~ s 'e2:	ACR NOM	swe	swe
-GID	g e2: ~ i2: ~ d 'e2:	ACR NOM	swe	swe
-GIH	g e2: ~ i2: ~ h 'å2:	ACR NOM	swe	swe
-GIS	g e2: ~ i2: ~ 'ä s	ACR NOM	swe	swe
-GJ	g "e2: ~ j `i2:	ACR NOM	swe	swe
-GK	g "e2: ~ k `å2:	ACR NOM	swe	swe
-GKSS	g e2: ~ k å2: ~ "ä s ~ `ä s	ACR NOM	swe	swe
-GL	g "e2: ~ `ä l	ACR NOM	swe	swe
-Gln	g e2: ~ ä l ~ 'ä n	ACR NOM	swe	swe
-GLP	g e2: ~ ä l ~ p 'e2:	ACR NOM	swe	swe
-GLSK	g e2: ~ ä l ~ "ä s ~ k `å2:	ACR NOM	swe	swe
-GLU	g e2: ~ ä l ~ 'u2:	ACR NOM	swe	swe
-GM	g "e2: ~ `ä m	ACR NOM	swe	swe
-GM-CSF	g "e2: ~ `ä m | s e2: ~ ä s ~ `ä f	ACR NOM	swe	swe
-GME	g e2: ~ ä m ~ 'e2:	ACR NOM	swe	swe
-GML	g e2: ~ ä m ~ 'ä l	ACR NOM	swe	swe
-GML-FG	g e2: ~ ä m ~ 'ä l | "ä f ~ g `e2:	ACR NOM	swe	swe
-GMP	g e2: ~ ä m ~ p 'e2:	ACR NOM	swe	swe
-GMROI	g e2: ~ ä m ~ ä3 r ~ o2: ~ 'i2:	ACR NOM	swe	swe
-GMROS	g e2: ~ ä m ~ ä3 r ~ o2: ~ 'ä s	ACR NOM	swe	swe
-GNRH	g e2: ~ ä n ~ "ä3 r ~ h `å2:	ACR NOM	swe	swe
-GP	g "e2: ~ p `e2:	ACR NOM	swe	swe
-GPA	g e2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-GPL	g e2: ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-GPS	g e2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-GR	g "e2: ~ `ä3 r	ACR NOM	swe	swe
-GRS	g e2: ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-GS	g "e2: ~ `ä s	ACR NOM	swe	swe
-GSM	g e2: ~ ä s ~ 'ä m	ACR NOM	swe	swe
-GSS	g e2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-GT	g "e2: ~ t `e2:	ACR NOM	swe	swe
-GTC	g e2: ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-GTL	g e2: ~ t e2: ~ 'ä l	ACR NOM	swe	swe
-GTP	g e2: ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-GUCH	e2: ~ u2: ~ s e2: ~ h 'å2:	ACR NOM	swe	swe
-GUE	g e2: ~ u2: ~ 'e2:	ACR NOM	swe	swe
-GVH	g e2: ~ v e2: ~ h 'å2:	ACR NOM	swe	swe
-GW	g "e2: ~ v `e2:	ACR NOM	swe	swe
-GYF	g e2: ~ y2: ~ 'ä f	ACR NOM	swe	swe
-HACCP	h å2: ~ a2: ~ s e2: ~ s e2: ~ p 'e2:	ACR NOM	swe	swe
-HB	h "å2: ~ b `e2:	ACR NOM	swe	swe
-HbA	h å2: ~ b e2: ~ 'a2:	ACR NOM	swe	swe
-HBcAg	h å2: ~ b e2: ~ s e2: ~ "a2: ~ g `e2:	ACR NOM	swe	swe
-HbF	h å2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-HBL	h å2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-HBO	h å2: ~ b e2: ~ 'o2:	ACR NOM	swe	swe
-HbS	h å2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-HBsAg	h å2: ~ b e2: ~ ä s ~ "a2: ~ g `e2:	ACR NOM	swe	swe
-hbt	h å2: ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-HBV	h å2: ~ b e2: ~ v 'e2:	ACR NOM	swe	swe
-HC	h "å2: ~ s `e2:	ACR NOM	swe	swe
-hCG	h å2: ~ s e2: ~ g 'e2:	ACR NOM	swe	swe
-HCO	h å2: ~ s e2: ~ 'o2:	ACR NOM	swe	swe
-HCP	h å2: ~ s e2: ~ p 'e2:	ACR NOM	swe	swe
-HCV	h å2: ~ s e2: ~ v 'e2:	ACR NOM	swe	swe
-HD	h "å2: ~ d `e2:	ACR NOM	swe	swe
-HDI	h å2: ~ d e2: ~ 'i2:	ACR NOM	swe	swe
-HDL	h å2: ~ d e2: ~ 'ä l	ACR NOM	swe	swe
-HDV	h å2: ~ d e2: ~ v 'e2:	ACR NOM	swe	swe
-HEK	h å2: ~ e2: ~ k 'å2:	ACR NOM	swe	swe
-HEV	h å2: ~ e2: ~ v 'e2:	ACR NOM	swe	swe
-HF	h "å2: ~ `ä f	ACR NOM	swe	swe
-HFI	h å2: ~ ä f ~ 'i2:	ACR NOM	swe	swe
-HFL	h å2: ~ ä f ~ 'ä l	ACR NOM	swe	swe
-HGF	h å2: ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-hGH	h å2: ~ g e2: ~ h 'å2:	ACR NOM	swe	swe
-HGV	h å2: ~ g e2: ~ v 'e2:	ACR NOM	swe	swe
-HH	h "å2: ~ h `å2:	ACR NOM	swe	swe
-HHS	h å2: ~ h å2: ~ 'ä s	ACR NOM	swe	swe
-HHV	h å2: ~ h å2: ~ v 'e2:	ACR NOM	swe	swe
-HI	h "å2: ~ `i2:	ACR NOM	swe	swe
-HIA	h å2: ~ i2: ~ 'a2:	ACR NOM	swe	swe
-HIAA	h å2: ~ i2: ~ "a2: ~ `a2:	ACR NOM	swe	swe
-HIF	h å2: ~ i2: ~ 'ä f	ACR NOM	swe	swe
-HII	h å2: ~ i2: ~ 'i2:	ACR NOM	swe	swe
-HJ	h "å2: ~ j `i2:	ACR NOM	swe	swe
-HKF	h å2: ~ k å2: ~ 'ä f	ACR NOM	swe	swe
-HKT	h å2: ~ k å2: ~ t 'e2:	ACR NOM	swe	swe
-HKV	h å2: ~ k å2: ~ v 'e2:	ACR NOM	swe	swe
-HL	h "å2: ~ `ä l	ACR NOM	swe	swe
-HLA	h å2: ~ ä l ~ 'a2:	ACR NOM	swe	swe
-HLA-B	h å2: ~ ä l ~ 'a2: | b 'e2:	ACR NOM	swe	swe
-HLr	h å2: ~ ä l ~ 'ä3 r	ACR NOM	swe	swe
-HLS	h å2: ~ ä l ~ 'ä s	ACR NOM	swe	swe
-HLT	h å2: ~ ä l ~ t 'e2:	ACR NOM	swe	swe
-HMG-CoA	h å2: ~ ä m ~ g 'e2: | s e2: ~ o2: ~ 'a2:	ACR NOM	swe	swe
-HMI	h å2: ~ ä m ~ 'i2:	ACR NOM	swe	swe
-HMM	h å2: ~ ä m ~ 'ä m	ACR NOM	swe	swe
-HMS	h å2: ~ ä m ~ 'ä s	ACR NOM	swe	swe
-HMSO	h å2: ~ ä m ~ ä s ~ 'o2:	ACR NOM	swe	swe
-HN	h "å2: ~ `ä n	ACR NOM	swe	swe
-HNPCC	h å2: ~ ä n ~ p e2: ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-HP	h "å2: ~ p `e2:	ACR NOM	swe	swe
-HpH	h å2: ~ p e2: ~ h 'å2:	ACR NOM	swe	swe
-hPL	h å2: ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-HPLC	h å2: ~ p e2: ~ "ä l ~ s `e2:	ACR NOM	swe	swe
-HPV	h å2: ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-HQ	h "å2: ~ k `u2:	ACR NOM	swe	swe
-HR	h "å2: ~ `ä3 r	ACR NOM	swe	swe
-HRA	h å2: ~ ä3 r ~ 'a2:	ACR NOM	swe	swe
-HRM	h å2: ~ ä3 r ~ 'ä m	ACR NOM	swe	swe
-HRQOL	h å2: ~ ä3 r ~ k u2: ~ o2: ~ 'ä l	ACR NOM	swe	swe
-HRS	h å2: ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-HrT	h å2: ~ ä3 r ~ t 'e2:	ACR NOM	swe	swe
-HrV	h å2: ~ ä3 r ~ v 'e2:	ACR NOM	swe	swe
-HS	h "å2: ~ `ä s	ACR NOM	swe	swe
-HSAN	h å2: ~ ä s ~ a2: ~ 'ä n	ACR NOM	swe	swe
-HSB	h "å2: ~ ä s ~ b `e2:	ACR NOM	swe	swe
-HSB:s	h "å2: ~ ä s ~ b `e2: s	ACR GEN	swe	swe
-HSC	h å2: ~ ä s ~ s 'e2:	ACR NOM	swe	swe
-HSD	h "å2: ~ ä s ~ d `e2:	ACR NOM	swe	swe
-HSFR	h å2: ~ ä s ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-HSG	h å2: ~ ä s ~ g 'e2:	ACR NOM	swe	swe
-HSL	h å2: ~ ä s ~ 'ä l	ACR NOM	swe	swe
-HsLs	h å2: ~ ä s ~ ä l ~ 'ä s	ACR NOM	swe	swe
-HSO	h å2: ~ ä s ~ 'o2:	ACR NOM	swe	swe
-HSP	h å2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-HSS	h å2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-HSU	h å2: ~ ä s ~ 'u2:	ACR NOM	swe	swe
-hsv	h "å2: ~ ä s ~ v `e2:	ACR NOM	swe	swe
-HT	h "å2: ~ t `e2:	ACR NOM	swe	swe
-HTLV	h å2: ~ t e2: ~ "ä l ~ v `e2:	ACR NOM	swe	swe
-htm	h å2: ~ t e2: ~ 'ä m	ACR NOM	swe	swe
-HTML	h å2: ~ t e2: ~ "ä m ~ `ä l	ACR NOM	swe	swe
-http	h å2: ~ t e2: ~ t "e2: ~ p `e2:	ACR NOM	swe	swe
-HTU	h å2: ~ t e2: ~ 'u2:	ACR NOM	swe	swe
-HV	h "å2: ~ v `e2:	ACR NOM	swe	swe
-HVB	h å2: ~ v e2: ~ b 'e2:	ACR NOM	swe	swe
-HvU	h å2: ~ v e2: ~ 'u2:	ACR NOM	swe	swe
-HW	h 'å2: | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-I/O	"i2: ~ `o2:	ACR NOM	swe	swe
-IA	"i2: ~ `a2:	ACR NOM	swe	swe
-IAASB	i2: ~ a2: ~ a2: ~ "ä s ~ b `e2:	ACR NOM	swe	swe
-IAB	i2: ~ a2: ~ b 'e2:	ACR NOM	swe	swe
-IAEA	i2: ~ a2: ~ e2: ~ 'a2:	ACR NOM	swe	swe
-IAF	i2: ~ a2: ~ 'ä f	ACR NOM	swe	swe
-IAIA	i2: ~ a2: ~ i2: ~ 'a2:	ACR NOM	swe	swe
-IAM	i2: ~ a2: ~ 'ä m	ACR NOM	swe	swe
-IAMS	i2: ~ a2: ~ ä m ~ 'ä s	ACR NOM	swe	swe
-IANA	i2: ~ a2: ~ ä n ~ 'a2:	ACR NOM	swe	swe
-IARC	i2: ~ a2: ~ ä3 r ~ s 'e2:	ACR NOM	swe	swe
-IAS	i2: ~ a2: ~ 'ä s	ACR NOM	swe	swe
-IASB	i2: ~ a2: ~ ä s ~ b 'e2:	ACR NOM	swe	swe
-IASBs	i2: ~ a2: ~ ä s ~ b 'e2: s	ACR GEN	swe	swe
-IASC:s	i2: ~ a2: ~ ä s ~ s 'e2: s	ACR GEN	swe	swe
-IASP	i2: ~ a2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-IAT	i2: ~ a2: ~ t 'e2:	ACR NOM	swe	swe
-IB	"i2: ~ b `e2:	ACR NOM	swe	swe
-IBA	i2: ~ b e2: ~ 'a2:	ACR NOM	swe	swe
-IBD	i2: ~ b e2: ~ d 'e2:	ACR NOM	swe	swe
-IBE	i2: ~ b e2: ~ 'e2:	ACR NOM	swe	swe
-IBK	i2: ~ b e2: ~ k 'å2:	ACR NOM	swe	swe
-IBL	i2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-IBM	i2: ~ b e2: ~ 'ä m	ACR NOM	swe	swe
-Ibn	i2: ~ b e2: ~ 'ä n	ACR NOM	swe	swe
-IBS	i2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-IBV	i2: ~ b e2: ~ v 'e2:	ACR NOM	swe	swe
-IBWA	i2: ~ b e2: ~ d "u $ b ë l - v `e2: | 'a2:	ACR NOM	swe	swe
-IC	"i2: ~ s `e2:	ACR NOM	swe	swe
-ICAM	i2: ~ s e2: ~ a2: ~ 'ä m	ACR NOM	swe	swe
-ICANN	i2: ~ s e2: ~ a2: ~ ä n ~ 'ä n	ACR NOM	swe	swe
-ICAO	i2: ~ s e2: ~ a2: ~ 'o2:	ACR NOM	swe	swe
-ICAO-TI	i2: ~ s e2: ~ a2: ~ 'o2: | t "e2: ~ `i2:	ACR NOM	swe	swe
-ICC	i2: ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-ICCPR	i2: ~ s e2: ~ s e2: ~ p e2: ~ 'ä3 r	ACR NOM	swe	swe
-iccwbo	i2: ~ s e2: ~ s e2: ~ v e2: ~ b e2: ~ 'o2:	ACR NOM	swe	swe
-ICD	i2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-ICDE	i2: ~ s e2: ~ d e2: ~ 'e2:	ACR NOM	swe	swe
-ICDP	i2: ~ s e2: ~ d e2: ~ p 'e2:	ACR NOM	swe	swe
-ICEJ	i2: ~ s e2: ~ e2: ~ j 'i2:	ACR NOM	swe	swe
-ICF	i2: ~ s e2: ~ 'ä f	ACR NOM	swe	swe
-ICF-CY	i2: ~ s e2: ~ 'ä f | s "e2: ~ `y2:	ACR NOM	swe	swe
-ICFDH	i2: ~ s e2: ~ ä f ~ d e2: ~ h 'å2:	ACR NOM	swe	swe
-ICI	i2: ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-ICIDH	i2: ~ s e2: ~ i2: ~ d e2: ~ h 'å2:	ACR NOM	swe	swe
-ICJSt	i2: ~ s e2: ~ j i2: ~ ä s ~ t 'e2:	ACR NOM	swe	swe
-ICL	i2: ~ s e2: ~ 'ä l	ACR NOM	swe	swe
-ICLs	i2: ~ s e2: ~ 'ä l s	ACR GEN	swe	swe
-ICN	i2: ~ s e2: ~ 'ä n	ACR NOM	swe	swe
-ICP	i2: ~ s e2: ~ p 'e2:	ACR NOM	swe	swe
-ICS	i2: ~ s e2: ~ 'ä s	ACR NOM	swe	swe
-ICSH	i2: ~ s e2: ~ ä s ~ h 'å2:	ACR NOM	swe	swe
-ICSI	i2: ~ s e2: ~ ä s ~ 'i2:	ACR NOM	swe	swe
-ICSTIS	i2: ~ s e2: ~ ä s ~ t e2: ~ i2: ~ 'ä s	ACR NOM	swe	swe
-ICT	i2: ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-ictr	i2: ~ s e2: ~ t e2: ~ 'ä3 r	ACR NOM	swe	swe
-ICU	i2: ~ s e2: ~ 'u2:	ACR NOM	swe	swe
-ICV	i2: ~ s e2: ~ v 'e2:	ACR NOM	swe	swe
-ID	"i2: ~ d `e2:	ACR NOM	swe	swe
-IDDM	i2: ~ d e2: ~ d e2: ~ 'ä m	ACR NOM	swe	swe
-IDF	i2: ~ d e2: ~ 'ä f	ACR NOM	swe	swe
-IDL	i2: ~ d e2: ~ 'ä l	ACR NOM	swe	swe
-IDPF	i2: ~ d e2: ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-Idx-R	i2: ~ d e2: ~ 'ä k s | 'ä3 r	ACR NOM	swe	swe
-iea	i2: ~ e2: ~ 'a2:	ACR NOM	swe	swe
-IEC	i2: ~ e2: ~ s 'e2:	ACR NOM	swe	swe
-IEEE	i2: ~ e2: ~ e2: ~ 'e2:	ACR NOM	swe	swe
-IEP	i2: ~ e2: ~ p 'e2:	ACR NOM	swe	swe
-IEPs	i2: ~ e2: ~ p 'e2: s	ACR GEN	swe	swe
-IESG	i2: ~ e2: ~ ä s ~ g 'e2:	ACR NOM	swe	swe
-IETF	i2: ~ e2: ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-IFC	i2: ~ ä f ~ s 'e2:	ACR NOM	swe	swe
-IFCC	i2: ~ ä f ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-ifcfg	i2: ~ ä f ~ s e2: ~ ä f ~ g 'e2:	ACR NOM	swe	swe
-IFK	"i2: ~ ä f ~ k `å2:	ACR NOM	swe	swe
-IFN	i2: ~ ä f ~ 'ä n	ACR NOM	swe	swe
-IFPI	i2: ~ ä f ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-IFS	i2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-IFU	i2: ~ ä f ~ 'u2:	ACR NOM	swe	swe
-IG	"i2: ~ g `e2:	ACR NOM	swe	swe
-IgA	i2: ~ g e2: ~ 'a2:	ACR NOM	swe	swe
-IGBP	i2: ~ g e2: ~ b e2: ~ p 'e2:	ACR NOM	swe	swe
-IgD	i2: ~ g e2: ~ d 'e2:	ACR NOM	swe	swe
-IgE	i2: ~ g e2: ~ 'e2:	ACR NOM	swe	swe
-IGF	i2: ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-IGF-I	i2: ~ g e2: ~ 'ä f | 'i2:	ACR NOM	swe	swe
-IgG	i2: ~ g e2: ~ g 'e2:	ACR NOM	swe	swe
-IGM	i2: ~ g e2: ~ 'ä m	ACR NOM	swe	swe
-IGN	i2: ~ g e2: ~ 'ä n	ACR NOM	swe	swe
-IGT	i2: ~ g e2: ~ t 'e2:	ACR NOM	swe	swe
-IHD	i2: ~ h å2: ~ d 'e2:	ACR NOM	swe	swe
-IHS	i2: ~ h å2: ~ 'ä s	ACR NOM	swe	swe
-IIB	i2: ~ i2: ~ b 'e2:	ACR NOM	swe	swe
-IIP	i2: ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-IK	"i2: ~ k `å2:	ACR NOM	swe	swe
-IKA	i2: ~ k å2: ~ 'a2:	ACR NOM	swe	swe
-IKESKR	i2: ~ k å2: ~ e2: ~ ä s ~ k å2: ~ 'ä3 r	ACR NOM	swe	swe
-IKK	i2: ~ k å2: ~ k 'å2:	ACR NOM	swe	swe
-IKMPR	i2: ~ k å2: ~ "ä m ~ p e2: ~ `ä3 r	ACR NOM	swe	swe
-IKS	i2: ~ k å2: ~ 'ä s	ACR NOM	swe	swe
-IKT	i2: ~ k å2: ~ t 'e2:	ACR NOM	swe	swe
-IKU	i2: ~ k å2: ~ 'u2:	ACR NOM	swe	swe
-IKV	i2: ~ k å2: ~ v 'e2:	ACR NOM	swe	swe
-IL	"i2: ~ `ä l	ACR NOM	swe	swe
-ILC	i2: ~ ä l ~ s 'e2:	ACR NOM	swe	swe
-ILO	i2: ~ ä l ~ 'o2:	ACR NOM	swe	swe
-IM	"i2: ~ `ä m	ACR NOM	swe	swe
-IM	"i2: ~ `ä m	ACR NOM	swe	swe
-IMF	i2: ~ ä m ~ 'ä f	ACR NOM	swe	swe
-IMM	i2: ~ ä m ~ 'ä m	ACR NOM	swe	swe
-IMP	i2: ~ ä m ~ p 'e2:	ACR NOM	swe	swe
-IMS	i2: ~ ä m ~ 'ä s	ACR NOM	swe	swe
-IMT	i2: ~ ä m ~ t 'e2:	ACR NOM	swe	swe
-INH	i2: ~ ä n ~ h 'å2:	ACR NOM	swe	swe
-INr	i2: ~ ä n ~ 'ä3 r	ACR NOM	swe	swe
-INR	i2: ~ ä n ~ 'ä3 r	ACR NOM	swe	swe
-IO	"i2: ~ `o2:	ACR NOM	swe	swe
-IOCE	i2: ~ o2: ~ s e2: ~ 'e2:	ACR NOM	swe	swe
-iof	i2: ~ o2: ~ 'ä f	ACR NOM	swe	swe
-IOGT	i2: ~ o2: ~ g e2: ~ t 'e2:	ACR NOM	swe	swe
-IOM	i2: ~ o2: ~ 'ä m	ACR NOM	swe	swe
-IOT	i2: ~ o2: ~ t 'e2:	ACR NOM	swe	swe
-IOTF	i2: ~ o2: ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-IP	"i2: ~ p `e2:	ACR NOM	swe	swe
-IP-	"i2: ~ p `e2:	ACR NOM	swe	swe
-IP-TV	"i2: ~ p e2: ~ t `e2: ~ v e2:	ACR NOM	swe	swe
-ipcc	i2: ~ p e2: ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-IPD	i2: ~ p e2: ~ d 'e2:	ACR NOM	swe	swe
-IPE	i2: ~ p e2: ~ 'e2:	ACR NOM	swe	swe
-IPF	i2: ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-IPG	i2: ~ p e2: ~ g 'e2:	ACR NOM	swe	swe
-ipg-cf	i2: ~ p e2: ~ g 'e2: | s "e2: ~ `ä f	ACR NOM	swe	swe
-IPO	i2: ~ p e2: ~ 'o2:	ACR NOM	swe	swe
-IPP	i2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-IPPV	i2: ~ p e2: ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-IPR	i2: ~ p e2: ~ 'ä3 r	ACR NOM	swe	swe
-IPS	i2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-IPSASB	i2: ~ p e2: ~ ä s ~ a2: ~ ä s ~ b 'e2:	ACR NOM	swe	swe
-IPT	i2: ~ p e2: ~ t 'e2:	ACR NOM	swe	swe
-IPTS	i2: ~ p e2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-IPU	i2: ~ p e2: ~ 'u2:	ACR NOM	swe	swe
-IPV	i2: ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-IQ	"i2: ~ k `u2:	ACR NOM	swe	swe
-IR	"i2: ~ `ä3 r	ACR NOM	swe	swe
-IRDS	i2: ~ ä3 r ~ d "e2: ~ `ä s	ACR NOM	swe	swe
-irl	i2: ~ 'ä3 r ~ 'ä l	ACR NOM	swe	swe
-IRL	i2: ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-IRS	i2: ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-ISBN	i2: ~ ä s ~ b "e2: ~ `ä n	ACR NOM	swe	swe
-ISDN	i2: ~ ä s ~ d "e2: ~ `ä n	ACR NOM	swe	swe
-ISE	i2: ~ ä s ~ 'e2:	ACR NOM	swe	swe
-ISEP	i2: ~ ä s ~ e2: ~ p 'e2:	ACR NOM	swe	swe
-ISEW	i2: ~ ä s ~ e2: ~ v 'e2:	ACR NOM	swe	swe
-ISF	i2: ~ ä s ~ 'ä f	ACR NOM	swe	swe
-ISFV	i2: ~ ä s ~ "ä f ~ v `e2:	ACR NOM	swe	swe
-ISH	i2: ~ ä s ~ h 'å2:	ACR NOM	swe	swe
-ISHLT	i2: ~ ä s ~ h å2: ~ ä l ~ t 'e2:	ACR NOM	swe	swe
-ISME	i2: ~ ä s ~ ä m ~ 'e2:	ACR NOM	swe	swe
-ISOC	i2: ~ ä s ~ o2: ~ s 'e2:	ACR NOM	swe	swe
-ISOC-SE	i2: ~ ä s ~ o2: ~ s 'e2: | "ä s ~ `e2:	ACR NOM	swe	swe
-ISOU	i2: ~ ä s ~ o2: ~ 'u2:	ACR NOM	swe	swe
-ISP	i2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-ISPS	i2: ~ ä s ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-ISRN	i2: ~ ä s ~ ä3 r ~ 'ä n	ACR NOM	swe	swe
-ISS	i2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-issn	i2: ~ ä s ~ ä s ~ 'ä n	ACR NOM	swe	swe
-ISWT	i2: ~ ä s ~ d "u $ b ë l - v `e2: | t 'e2:	ACR NOM	swe	swe
-IT	"i2: ~ t `e2:	ACR NOM	swe	swe
-ITB	i2: ~ t e2: ~ b 'e2:	ACR NOM	swe	swe
-ITC	i2: ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-ITP	i2: ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-ITPS	i2: ~ t e2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-ITT	i2: ~ t e2: ~ t 'e2:	ACR NOM	swe	swe
-IUD	i2: ~ u2: ~ d 'e2:	ACR NOM	swe	swe
-IUHPE	i2: ~ u2: ~ h å2: ~ p e2: ~ 'e2:	ACR NOM	swe	swe
-IUP	i2: ~ u2: ~ p 'e2:	ACR NOM	swe	swe
-IVC	i2: ~ v e2: ~ s 'e2:	ACR NOM	swe	swe
-IVF	i2: ~ ä f ~ v 'e2:	ACR NOM	swe	swe
-IVIG	i2: ~ v e2: ~ i2: ~ g 'e2:	ACR NOM	swe	swe
-IVP	i2: ~ v e2: ~ p 'e2:	ACR NOM	swe	swe
-IÖV	i2: ~ ö2: ~ v 'e2:	ACR NOM	swe	swe
-JAI	j i2: ~ a2: ~ 'i2:	ACR NOM	swe	swe
-JAU	j i2: ~ a2: ~ 'u2:	ACR NOM	swe	swe
-JB	j "i2: ~ b `e2:	ACR NOM	swe	swe
-JC	j "i2: ~ s `e2:	ACR NOM	swe	swe
-JD	j "i2: ~ d `e2:	ACR NOM	swe	swe
-JEM	j i2: ~ e2: ~ 'ä m	ACR NOM	swe	swe
-JF	j "i2: ~ `ä f	ACR NOM	swe	swe
-JFE	j i2: ~ ä f ~ 'e2:	ACR NOM	swe	swe
-JFT	j i2: ~ ä f ~ t 'e2:	ACR NOM	swe	swe
-JG	j "i2: ~ g `e2:	ACR NOM	swe	swe
-JH	j "i2: ~ h `å2:	ACR NOM	swe	swe
-JI	j "i2: ~ `i2:	ACR NOM	swe	swe
-JIBS	j i2: ~ i2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-JIT	j i2: ~ i2: ~ t 'e2:	ACR NOM	swe	swe
-JJ	j "i2: ~ j `i2:	ACR NOM	swe	swe
-JK	j "i2: ~ k `å2:	ACR NOM	swe	swe
-JKL	j i2: ~ k å2: ~ 'ä l	ACR NOM	swe	swe
-JL	j "i2: ~ `ä l	ACR NOM	swe	swe
-JM	j "i2: ~ `ä m	ACR NOM	swe	swe
-JMB	j "i2: ~ ä m ~ b `e2:	ACR NOM	swe	swe
-JMG	j "i2: ~ ä m ~ g `e2:	ACR NOM	swe	swe
-JN	j "i2: ~ `ä n	ACR NOM	swe	swe
-JO	j "i2: ~ `o2:	ACR NOM	swe	swe
-JP	j "i2: ~ p `e2:	ACR NOM	swe	swe
-JQ	j "i2: ~ k `u2:	ACR NOM	swe	swe
-JS	j "i2: ~ `ä s	ACR NOM	swe	swe
-JSM	j i2: ~ ä s ~ 'ä m	ACR NOM	swe	swe
-jsp	j i2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-JT	j "i2: ~ t `e2:	ACR NOM	swe	swe
-JUF	j i2: ~ u2: ~ 'ä f	ACR NOM	swe	swe
-JV	j "i2: ~ v `e2:	ACR NOM	swe	swe
-JVM	j i2: ~ v e2: ~ 'ä m	ACR NOM	swe	swe
-JW	j 'i2: | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-JÅ	j "i2: ~ `å2:	ACR NOM	swe	swe
-KA	k "å2: ~ `a2:	ACR NOM	swe	swe
-kb	k "å2: ~ b `e2:	ACR NOM	swe	swe
-Kbh	k å2: ~ b e2: ~ h 'å2:	ACR NOM	swe	swe
-KBM	k å2: ~ b e2: ~ 'ä m	ACR NOM	swe	swe
-KbSS	k å2: ~ b e2: ~ "ä s ~ `ä s	ACR NOM	swe	swe
-KBT	k å2: ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-KC	k "å2: ~ s `e2:	ACR NOM	swe	swe
-KD	k "å2: ~ d `e2:	ACR NOM	swe	swe
-kDa	k å2: ~ d e2: ~ 'a2:	ACR NOM	swe	swe
-KE	k "å2: ~ `e2:	ACR NOM	swe	swe
-KF	k "å2: ~ `ä f	ACR NOM	swe	swe
-KF:S	k "å2: ~ `ä f s	ACR GEN	swe	swe
-KFB	k å2: ~ ä f ~ b 'e2:	ACR NOM	swe	swe
-KFF	k å2: ~ ä f ~ 'ä f	ACR NOM	swe	swe
-KFIiS	k å2: ~ ä f ~ i2: ~ i2: ~ 'ä s	ACR NOM	swe	swe
-KFM	k å2: ~ ä f ~ 'ä m	ACR NOM	swe	swe
-KFUK	k å2: ~ ä f ~ "u2: ~ k `å2:	ACR NOM	swe	swe
-kfuk-m	k å2: ~ ä f ~ "u2: ~ k å2: ~ `ä m	ACR NOM	swe	swe
-KFUKs	k å2: ~ ä f ~ "u2: ~ k `å2: s	ACR GEN	swe	swe
-KFUM	k å2: ~ ä f ~ "u2: ~ `ä m	ACR NOM	swe	swe
-KGB	k å2: ~ g e2: ~ b 'e2:	ACR NOM	swe	swe
-KGFS	k å2: ~ g e2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-KGMM	k å2: ~ g e2: ~ "ä m ~ `ä m	ACR NOM	swe	swe
-KH	k "å2: ~ h `å2:	ACR NOM	swe	swe
-KHA	k å2: ~ h å2: ~ 'a2:	ACR NOM	swe	swe
-KHiS	k å2: ~ h å2: ~ "i2: ~ `ä s	ACR NOM	swe	swe
-KHK	k å2: ~ h å2: ~ k 'å2:	ACR NOM	swe	swe
-KI	k "å2: ~ `i2:	ACR NOM	swe	swe
-KIF	k å2: ~ i2: ~ 'ä f	ACR NOM	swe	swe
-KK	k "å2: ~ k `å2:	ACR NOM	swe	swe
-KKF	k å2: ~ k å2: ~ 'ä f	ACR NOM	swe	swe
-KKK	k å2: ~ k å2: ~ k 'å2:	ACR NOM	swe	swe
-KKL	k å2: ~ k å2: ~ 'ä l	ACR NOM	swe	swe
-kkp	k å2: ~ k å2: ~ p 'e2:	ACR NOM	swe	swe
-KKR	k å2: ~ k å2: ~ 'ä3 r	ACR NOM	swe	swe
-KKV	k å2: ~ k å2: ~ v 'e2:	ACR NOM	swe	swe
-KL	k "å2: ~ `ä l	ACR NOM	swe	swe
-KLA	k å2: ~ ä l ~ 'a2:	ACR NOM	swe	swe
-KLF	k å2: ~ ä l ~ 'ä f	ACR NOM	swe	swe
-KLL	k å2: ~ ä l ~ 'ä l	ACR NOM	swe	swe
-KML	k å2: ~ ä m ~ 'ä l	ACR NOM	swe	swe
-KN	k "å2: ~ `ä n	ACR NOM	swe	swe
-KO	k "å2: ~ `o2:	ACR NOM	swe	swe
-KOV	k å2: ~ o2: ~ v 'e2:	ACR NOM	swe	swe
-KOVFS	k å2: ~ o2: ~ v e2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-KP	k "å2: ~ p `e2:	ACR NOM	swe	swe
-KPA	k å2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-kPa	k å2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-kpa	k å2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-KPI	k å2: ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-kpu	k å2: ~ p e2: ~ 'u2:	ACR NOM	swe	swe
-KR	k "å2: ~ `ä3 r	ACR NOM	swe	swe
-KRK	k å2: ~ ä3 r ~ k 'å2:	ACR NOM	swe	swe
-KRKA	k å2: ~ ä3 r ~ k å2: ~ 'a2:	ACR NOM	swe	swe
-KS	k "å2: ~ `ä s	ACR NOM	swe	swe
-KSAK	k å2: ~ ä s ~ "a2: ~ k `å2:	ACR NOM	swe	swe
-KSH	k å2: ~ ä s ~ h 'å2:	ACR NOM	swe	swe
-KSP	k å2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-KSS	k å2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-KTH	k å2: ~ t e2: ~ h 'å2:	ACR NOM	swe	swe
-KTHNOC	k å2: ~ t e2: ~ h å2: ~ ä n ~ o2: ~ s 'e2:	ACR NOM	swe	swe
-KTV	k å2: ~ t e2: ~ v 'e2:	ACR NOM	swe	swe
-KU	k "å2: ~ `u2:	ACR NOM	swe	swe
-Kua	k å2: ~ u2: ~ 'a2:	ACR NOM	swe	swe
-KUF	k å2: ~ u2: ~ 'ä f	ACR NOM	swe	swe
-KUNQ	k å2: ~ u2: ~ ä n ~ k 'u2:	ACR NOM	swe	swe
-KvP	k å2: ~ v e2: ~ p 'e2:	ACR NOM	swe	swe
-KVS	k å2: ~ v e2: ~ 'ä s	ACR NOM	swe	swe
-KY	k "å2: ~ `y2:	ACR NOM	swe	swe
-KYM	k å2: ~ y2: ~ 'ä m	ACR NOM	swe	swe
-LAF	ä l ~ a2: ~ 'ä f	ACR NOM	swe	swe
-LAH	ä l ~ a2: ~ h 'å2:	ACR NOM	swe	swe
-LASKF	ä l ~ a2: ~ ä s ~ k å2: ~ 'ä f	ACR NOM	swe	swe
-LAU	ä l ~ a2: ~ 'u2:	ACR NOM	swe	swe
-LB	"ä l ~ b `e2:	ACR NOM	swe	swe
-LBBB	ä l ~ b e2: ~ b e2: ~ b 'e2:	ACR NOM	swe	swe
-LBF	ä l ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-LBP	ä l ~ b e2: ~ p 'e2:	ACR NOM	swe	swe
-LBU	ä l ~ b e2: ~ 'u2:	ACR NOM	swe	swe
-LC	"ä l ~ s `e2:	ACR NOM	swe	swe
-LCAT	ä l ~ s e2: ~ "a2: ~ t `e2:	ACR NOM	swe	swe
-LCC	ä l ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-LCD	ä l ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-LCHF	ä l ~ s e2: ~ h "å2: ~ `ä f	ACR NOM	swe	swe
-LCI	ä l ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-LCP	ä l ~ s e2: ~ p 'e2:	ACR NOM	swe	swe
-LD	"ä l ~ d `e2:	ACR NOM	swe	swe
-LDE	ä l ~ d e2: ~ 'e2:	ACR NOM	swe	swe
-LDF	ä l ~ d e2: ~ 'ä f	ACR NOM	swe	swe
-LDFH	ä l ~ d e2: ~ "ä f ~ h `å2:	ACR NOM	swe	swe
-LDL	ä l ~ d e2: ~ 'ä l	ACR NOM	swe	swe
-LDS	ä l ~ d e2: ~ 'ä s	ACR NOM	swe	swe
-LEU	ä l ~ e2: ~ 'u2:	ACR NOM	swe	swe
-LF	"ä l ~ `ä f	ACR NOM	swe	swe
-LFA	ä l ~ ä f ~ 'a2:	ACR NOM	swe	swe
-LFB	"ä l ~ ä f ~ b `e2:	ACR NOM	swe	swe
-Lfpi	ä l ~ ä f ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-LFT	ä l ~ ä f ~ t 'e2:	ACR NOM	swe	swe
-LG	"ä l ~ g `e2:	ACR NOM	swe	swe
-LGF	ä l ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-LGL	ä l ~ g e2: ~ 'ä l	ACR NOM	swe	swe
-LGPL	ä l ~ g e2: ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-Lgr	ä l ~ g e2: ~ 'ä3 r	ACR NOM	swe	swe
-Lgy	ä l ~ g e2: ~ 'y2:	ACR NOM	swe	swe
-LH	"ä l ~ h `å2:	ACR NOM	swe	swe
-LHrH	ä l ~ h å2: ~ "ä3 r ~ h `å2:	ACR NOM	swe	swe
-LHS	ä l ~ h å2: ~ 'ä s	ACR NOM	swe	swe
-LIP	ä l ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-LISF	ä l ~ i2: ~ "ä s ~ `ä f	ACR NOM	swe	swe
-LiU	ä l ~ i2: ~ 'u2:	ACR NOM	swe	swe
-LJ	"ä l ~ j `i2:	ACR NOM	swe	swe
-LK	"ä l ~ k `å2:	ACR NOM	swe	swe
-LKA	ä l ~ k å2: ~ 'a2:	ACR NOM	swe	swe
-LKAB	ä l ~ k å2: ~ "a2: ~ b `e2:	ACR NOM	swe	swe
-LKPR	ä l ~ k å2: ~ p "e2: ~ `ä3 r	ACR NOM	swe	swe
-LKVV	ä l ~ k å2: ~ v "e2: ~ v `e2:	ACR NOM	swe	swe
-LL	"ä l ~ `ä l	ACR NOM	swe	swe
-LLMS	ä l ~ ä l ~ "ä m ~ `ä s	ACR NOM	swe	swe
-LM	"ä l ~ `ä m	ACR NOM	swe	swe
-LMA	ä l ~ ä m ~ 'a2:	ACR NOM	swe	swe
+fsqca	ä f ~ ä s ~ k uu: ~ s e: ~ 'a:	ACR NOM	swe	swe
+fsQCA	ä f ~ ä s ~ k uu: ~ s e: ~ 'a:	ACR NOM	swe	swe
+Fst	ä f ~ ä s ~ t 'e:	ACR NOM	swe	swe
+FSU	ä f ~ ä s ~ 'uu:	ACR NOM	swe	swe
+FT	"ä f ~ t ,e:	ACR NOM	swe	swe
+FTF	ä f ~ t e: ~ 'ä f	ACR NOM	swe	swe
+FTL	ä f ~ t e: ~ 'ä l	ACR NOM	swe	swe
+FTU	ä f ~ t e: ~ 'uu:	ACR NOM	swe	swe
+FU	"ä f ~ ,uu:	ACR NOM	swe	swe
+FVC	ä f ~ v e: ~ s 'e:	ACR NOM	swe	swe
+FYHS	ä f ~ y: ~ h "o: ~ ,ä s	ACR NOM	swe	swe
+Fö	"ä f ~ ,ö:	ACR NOM	swe	swe
+G-CSF	g 'e: | s e: ~ ä s ~ 'ä f	ACR NOM	swe	swe
+GAO	g e: ~ a: ~ 'u:	ACR NOM	swe	swe
+GB	g "e: ~ b ,e:	ACR NOM	swe	swe
+GBFL	g e: ~ b e: ~ "ä f ~ ,ä l	ACR NOM	swe	swe
+Gbg	g e: ~ b e: ~ g 'e:	ACR NOM	swe	swe
+GBm	g e: ~ b e: ~ 'ä m	ACR NOM	swe	swe
+GBP	g e: ~ b e: ~ p 'e:	ACR NOM	swe	swe
+GBS	g e: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+GC	g "e: ~ s ,e:	ACR NOM	swe	swe
+GCS	g e: ~ s e: ~ 'ä s	ACR NOM	swe	swe
+GD	g "e: ~ d ,e:	ACR NOM	swe	swe
+GDM	g e: ~ d e: ~ 'ä m	ACR NOM	swe	swe
+GDP	g e: ~ d e: ~ p 'e:	ACR NOM	swe	swe
+GFr	g e: ~ ä f ~ 'ae r	ACR NOM	swe	swe
+GFS	g e: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+Gg	g "e: ~ g ,e:	ACR NOM	swe	swe
+GGT	g e: ~ g e: ~ t 'e:	ACR NOM	swe	swe
+GH	g "e: ~ h ,o:	ACR NOM	swe	swe
+GHB	g e: ~ h o: ~ b 'e:	ACR NOM	swe	swe
+GHrH	g e: ~ h o: ~ "ae r ~ h ,o:	ACR NOM	swe	swe
+GHRI	g e: ~ h o: ~ ae r ~ 'i:	ACR NOM	swe	swe
+GHSR	g e: ~ h o: ~ ä s ~ 'ae r	ACR NOM	swe	swe
+GI	g "e: ~ ,i:	ACR NOM	swe	swe
+GIC	g e: ~ i: ~ s 'e:	ACR NOM	swe	swe
+GID	g e: ~ i: ~ d 'e:	ACR NOM	swe	swe
+GIH	g e: ~ i: ~ h 'o:	ACR NOM	swe	swe
+GIS	g e: ~ i: ~ 'ä s	ACR NOM	swe	swe
+GJ	g "e: ~ j ,i:	ACR NOM	swe	swe
+GK	g "e: ~ k ,o:	ACR NOM	swe	swe
+GKSS	g e: ~ k o: ~ "ä s ~ ,ä s	ACR NOM	swe	swe
+GL	g "e: ~ ,ä l	ACR NOM	swe	swe
+Gln	g e: ~ ä l ~ 'ä n	ACR NOM	swe	swe
+GLP	g e: ~ ä l ~ p 'e:	ACR NOM	swe	swe
+GLSK	g e: ~ ä l ~ "ä s ~ k ,o:	ACR NOM	swe	swe
+GLU	g e: ~ ä l ~ 'uu:	ACR NOM	swe	swe
+GM	g "e: ~ ,ä m	ACR NOM	swe	swe
+GM-CSF	g "e: ~ ,ä m | s e: ~ ä s ~ 'ä f	ACR NOM	swe	swe
+GME	g e: ~ ä m ~ 'e:	ACR NOM	swe	swe
+GML	g e: ~ ä m ~ 'ä l	ACR NOM	swe	swe
+GML-FG	g e: ~ ä m ~ 'ä l | "ä f ~ g ,e:	ACR NOM	swe	swe
+GMP	g e: ~ ä m ~ p 'e:	ACR NOM	swe	swe
+GMROI	g e: ~ ä m ~ ae r ~ u: ~ 'i:	ACR NOM	swe	swe
+GMROS	g e: ~ ä m ~ ae r ~ u: ~ 'ä s	ACR NOM	swe	swe
+GNRH	g e: ~ ä n ~ "ae r ~ h ,o:	ACR NOM	swe	swe
+GP	g "e: ~ p ,e:	ACR NOM	swe	swe
+GPA	g e: ~ p e: ~ 'a:	ACR NOM	swe	swe
+GPL	g e: ~ p e: ~ 'ä l	ACR NOM	swe	swe
+GPS	g e: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+GR	g "e: ~ ,ae r	ACR NOM	swe	swe
+GRS	g e: ~ ae r ~ 'ä s	ACR NOM	swe	swe
+GS	g "e: ~ ,ä s	ACR NOM	swe	swe
+GSM	g e: ~ ä s ~ 'ä m	ACR NOM	swe	swe
+GSS	g e: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+GT	g "e: ~ t ,e:	ACR NOM	swe	swe
+GTC	g e: ~ t e: ~ s 'e:	ACR NOM	swe	swe
+GTL	g e: ~ t e: ~ 'ä l	ACR NOM	swe	swe
+GTP	g e: ~ t e: ~ p 'e:	ACR NOM	swe	swe
+GUCH	e: ~ uu: ~ s e: ~ h 'o:	ACR NOM	swe	swe
+GUE	g e: ~ uu: ~ 'e:	ACR NOM	swe	swe
+GVH	g e: ~ v e: ~ h 'o:	ACR NOM	swe	swe
+GW	g "e: ~ v ,e:	ACR NOM	swe	swe
+GYF	g e: ~ y: ~ 'ä f	ACR NOM	swe	swe
+HACCP	h o: ~ a: ~ s e: ~ s e: ~ p 'e:	ACR NOM	swe	swe
+HB	h "o: ~ b ,e:	ACR NOM	swe	swe
+HbA	h o: ~ b e: ~ 'a:	ACR NOM	swe	swe
+HBcAg	h o: ~ b e: ~ s e: ~ "a: ~ g ,e:	ACR NOM	swe	swe
+HbF	h o: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+HBL	h o: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+HBO	h o: ~ b e: ~ 'u:	ACR NOM	swe	swe
+HbS	h o: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+HBsAg	h o: ~ b e: ~ ä s ~ "a: ~ g ,e:	ACR NOM	swe	swe
+hbt	h o: ~ b e: ~ t 'e:	ACR NOM	swe	swe
+HBV	h o: ~ b e: ~ v 'e:	ACR NOM	swe	swe
+HC	h "o: ~ s ,e:	ACR NOM	swe	swe
+hCG	h o: ~ s e: ~ g 'e:	ACR NOM	swe	swe
+HCO	h o: ~ s e: ~ 'u:	ACR NOM	swe	swe
+HCP	h o: ~ s e: ~ p 'e:	ACR NOM	swe	swe
+HCV	h o: ~ s e: ~ v 'e:	ACR NOM	swe	swe
+HD	h "o: ~ d ,e:	ACR NOM	swe	swe
+HDI	h o: ~ d e: ~ 'i:	ACR NOM	swe	swe
+HDL	h o: ~ d e: ~ 'ä l	ACR NOM	swe	swe
+HDV	h o: ~ d e: ~ v 'e:	ACR NOM	swe	swe
+HEK	h o: ~ e: ~ k 'o:	ACR NOM	swe	swe
+HEV	h o: ~ e: ~ v 'e:	ACR NOM	swe	swe
+HF	h "o: ~ ,ä f	ACR NOM	swe	swe
+HFI	h o: ~ ä f ~ 'i:	ACR NOM	swe	swe
+HFL	h o: ~ ä f ~ 'ä l	ACR NOM	swe	swe
+HGF	h o: ~ g e: ~ 'ä f	ACR NOM	swe	swe
+hGH	h o: ~ g e: ~ h 'o:	ACR NOM	swe	swe
+HGV	h o: ~ g e: ~ v 'e:	ACR NOM	swe	swe
+HH	h "o: ~ h ,o:	ACR NOM	swe	swe
+HHS	h o: ~ h o: ~ 'ä s	ACR NOM	swe	swe
+HHV	h o: ~ h o: ~ v 'e:	ACR NOM	swe	swe
+HI	h "o: ~ ,i:	ACR NOM	swe	swe
+HIA	h o: ~ i: ~ 'a:	ACR NOM	swe	swe
+HIAA	h o: ~ i: ~ "a: ~ ,a:	ACR NOM	swe	swe
+HIF	h o: ~ i: ~ 'ä f	ACR NOM	swe	swe
+HII	h o: ~ i: ~ 'i:	ACR NOM	swe	swe
+HJ	h "o: ~ j ,i:	ACR NOM	swe	swe
+HKF	h o: ~ k o: ~ 'ä f	ACR NOM	swe	swe
+HKT	h o: ~ k o: ~ t 'e:	ACR NOM	swe	swe
+HKV	h o: ~ k o: ~ v 'e:	ACR NOM	swe	swe
+HL	h "o: ~ ,ä l	ACR NOM	swe	swe
+HLA	h o: ~ ä l ~ 'a:	ACR NOM	swe	swe
+HLA-B	h o: ~ ä l ~ 'a: | b 'e:	ACR NOM	swe	swe
+HLr	h o: ~ ä l ~ 'ae r	ACR NOM	swe	swe
+HLS	h o: ~ ä l ~ 'ä s	ACR NOM	swe	swe
+HLT	h o: ~ ä l ~ t 'e:	ACR NOM	swe	swe
+HMG-CoA	h o: ~ ä m ~ g 'e: | s e: ~ u: ~ 'a:	ACR NOM	swe	swe
+HMI	h o: ~ ä m ~ 'i:	ACR NOM	swe	swe
+HMM	h o: ~ ä m ~ 'ä m	ACR NOM	swe	swe
+HMS	h o: ~ ä m ~ 'ä s	ACR NOM	swe	swe
+HMSO	h o: ~ ä m ~ ä s ~ 'u:	ACR NOM	swe	swe
+HN	h "o: ~ ,ä n	ACR NOM	swe	swe
+HNPCC	h o: ~ ä n ~ p e: ~ s e: ~ s 'e:	ACR NOM	swe	swe
+HP	h "o: ~ p ,e:	ACR NOM	swe	swe
+HpH	h o: ~ p e: ~ h 'o:	ACR NOM	swe	swe
+hPL	h o: ~ p e: ~ 'ä l	ACR NOM	swe	swe
+HPLC	h o: ~ p e: ~ "ä l ~ s ,e:	ACR NOM	swe	swe
+HPV	h o: ~ p e: ~ v 'e:	ACR NOM	swe	swe
+HQ	h "o: ~ k ,uu:	ACR NOM	swe	swe
+HR	h "o: ~ ,ae r	ACR NOM	swe	swe
+HRA	h o: ~ ae r ~ 'a:	ACR NOM	swe	swe
+HRM	h o: ~ ae r ~ 'ä m	ACR NOM	swe	swe
+HRQOL	h o: ~ ae r ~ k uu: ~ u: ~ 'ä l	ACR NOM	swe	swe
+HRS	h o: ~ ae r ~ 'ä s	ACR NOM	swe	swe
+HrT	h o: ~ ae r ~ t 'e:	ACR NOM	swe	swe
+HrV	h o: ~ ae r ~ v 'e:	ACR NOM	swe	swe
+HS	h "o: ~ ,ä s	ACR NOM	swe	swe
+HSAN	h o: ~ ä s ~ a: ~ 'ä n	ACR NOM	swe	swe
+HSB	h "o: ~ ä s ~ b ,e:	ACR NOM	swe	swe
+HSB:s	h "o: ~ ä s ~ b ,e: s	ACR GEN	swe	swe
+HSC	h o: ~ ä s ~ s 'e:	ACR NOM	swe	swe
+HSD	h "o: ~ ä s ~ d ,e:	ACR NOM	swe	swe
+HSFR	h o: ~ ä s ~ ä f ~ 'ae r	ACR NOM	swe	swe
+HSG	h o: ~ ä s ~ g 'e:	ACR NOM	swe	swe
+HSL	h o: ~ ä s ~ 'ä l	ACR NOM	swe	swe
+HsLs	h o: ~ ä s ~ ä l ~ 'ä s	ACR NOM	swe	swe
+HSO	h o: ~ ä s ~ 'u:	ACR NOM	swe	swe
+HSP	h o: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+HSS	h o: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+HSU	h o: ~ ä s ~ 'uu:	ACR NOM	swe	swe
+hsv	h "o: ~ ä s ~ v ,e:	ACR NOM	swe	swe
+HT	h "o: ~ t ,e:	ACR NOM	swe	swe
+HTLV	h o: ~ t e: ~ "ä l ~ v ,e:	ACR NOM	swe	swe
+htm	h o: ~ t e: ~ 'ä m	ACR NOM	swe	swe
+HTML	h o: ~ t e: ~ "ä m ~ ,ä l	ACR NOM	swe	swe
+http	h o: ~ t e: ~ t "e: ~ p ,e:	ACR NOM	swe	swe
+HTU	h o: ~ t e: ~ 'uu:	ACR NOM	swe	swe
+HV	h "o: ~ v ,e:	ACR NOM	swe	swe
+HVB	h o: ~ v e: ~ b 'e:	ACR NOM	swe	swe
+HvU	h o: ~ v e: ~ 'uu:	ACR NOM	swe	swe
+HW	h 'o: | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+I/O	"i: ~ ,u:	ACR NOM	swe	swe
+IA	"i: ~ ,a:	ACR NOM	swe	swe
+IAASB	i: ~ a: ~ a: ~ "ä s ~ b ,e:	ACR NOM	swe	swe
+IAB	i: ~ a: ~ b 'e:	ACR NOM	swe	swe
+IAEA	i: ~ a: ~ e: ~ 'a:	ACR NOM	swe	swe
+IAF	i: ~ a: ~ 'ä f	ACR NOM	swe	swe
+IAIA	i: ~ a: ~ i: ~ 'a:	ACR NOM	swe	swe
+IAM	i: ~ a: ~ 'ä m	ACR NOM	swe	swe
+IAMS	i: ~ a: ~ ä m ~ 'ä s	ACR NOM	swe	swe
+IANA	i: ~ a: ~ ä n ~ 'a:	ACR NOM	swe	swe
+IARC	i: ~ a: ~ ae r ~ s 'e:	ACR NOM	swe	swe
+IAS	i: ~ a: ~ 'ä s	ACR NOM	swe	swe
+IASB	i: ~ a: ~ ä s ~ b 'e:	ACR NOM	swe	swe
+IASBs	i: ~ a: ~ ä s ~ b 'e: s	ACR GEN	swe	swe
+IASC:s	i: ~ a: ~ ä s ~ s 'e: s	ACR GEN	swe	swe
+IASP	i: ~ a: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+IAT	i: ~ a: ~ t 'e:	ACR NOM	swe	swe
+IB	"i: ~ b ,e:	ACR NOM	swe	swe
+IBA	i: ~ b e: ~ 'a:	ACR NOM	swe	swe
+IBD	i: ~ b e: ~ d 'e:	ACR NOM	swe	swe
+IBE	i: ~ b e: ~ 'e:	ACR NOM	swe	swe
+IBK	i: ~ b e: ~ k 'o:	ACR NOM	swe	swe
+IBL	i: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+IBM	i: ~ b e: ~ 'ä m	ACR NOM	swe	swe
+Ibn	i: ~ b e: ~ 'ä n	ACR NOM	swe	swe
+IBS	i: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+IBV	i: ~ b e: ~ v 'e:	ACR NOM	swe	swe
+IBWA	i: ~ b e: ~ d "uu . b ex l - v ,e: | 'a:	ACR NOM	swe	swe
+IC	"i: ~ s ,e:	ACR NOM	swe	swe
+ICAM	i: ~ s e: ~ a: ~ 'ä m	ACR NOM	swe	swe
+ICANN	i: ~ s e: ~ a: ~ ä n ~ 'ä n	ACR NOM	swe	swe
+ICAO	i: ~ s e: ~ a: ~ 'u:	ACR NOM	swe	swe
+ICAO-TI	i: ~ s e: ~ a: ~ 'u: | t "e: ~ ,i:	ACR NOM	swe	swe
+ICC	i: ~ s e: ~ s 'e:	ACR NOM	swe	swe
+ICCPR	i: ~ s e: ~ s e: ~ p e: ~ 'ae r	ACR NOM	swe	swe
+iccwbo	i: ~ s e: ~ s e: ~ v e: ~ b e: ~ 'u:	ACR NOM	swe	swe
+ICD	i: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+ICDE	i: ~ s e: ~ d e: ~ 'e:	ACR NOM	swe	swe
+ICDP	i: ~ s e: ~ d e: ~ p 'e:	ACR NOM	swe	swe
+ICEJ	i: ~ s e: ~ e: ~ j 'i:	ACR NOM	swe	swe
+ICF	i: ~ s e: ~ 'ä f	ACR NOM	swe	swe
+ICF-CY	i: ~ s e: ~ 'ä f | s "e: ~ ,y:	ACR NOM	swe	swe
+ICFDH	i: ~ s e: ~ ä f ~ d e: ~ h 'o:	ACR NOM	swe	swe
+ICI	i: ~ s e: ~ 'i:	ACR NOM	swe	swe
+ICIDH	i: ~ s e: ~ i: ~ d e: ~ h 'o:	ACR NOM	swe	swe
+ICJSt	i: ~ s e: ~ j i: ~ ä s ~ t 'e:	ACR NOM	swe	swe
+ICL	i: ~ s e: ~ 'ä l	ACR NOM	swe	swe
+ICLs	i: ~ s e: ~ 'ä l s	ACR GEN	swe	swe
+ICN	i: ~ s e: ~ 'ä n	ACR NOM	swe	swe
+ICP	i: ~ s e: ~ p 'e:	ACR NOM	swe	swe
+ICS	i: ~ s e: ~ 'ä s	ACR NOM	swe	swe
+ICSH	i: ~ s e: ~ ä s ~ h 'o:	ACR NOM	swe	swe
+ICSI	i: ~ s e: ~ ä s ~ 'i:	ACR NOM	swe	swe
+ICSTIS	i: ~ s e: ~ ä s ~ t e: ~ i: ~ 'ä s	ACR NOM	swe	swe
+ICT	i: ~ s e: ~ t 'e:	ACR NOM	swe	swe
+ictr	i: ~ s e: ~ t e: ~ 'ae r	ACR NOM	swe	swe
+ICU	i: ~ s e: ~ 'uu:	ACR NOM	swe	swe
+ICV	i: ~ s e: ~ v 'e:	ACR NOM	swe	swe
+ID	"i: ~ d ,e:	ACR NOM	swe	swe
+IDDM	i: ~ d e: ~ d e: ~ 'ä m	ACR NOM	swe	swe
+IDF	i: ~ d e: ~ 'ä f	ACR NOM	swe	swe
+IDL	i: ~ d e: ~ 'ä l	ACR NOM	swe	swe
+IDPF	i: ~ d e: ~ p e: ~ 'ä f	ACR NOM	swe	swe
+Idx-R	i: ~ d e: ~ 'ä k s | 'ae r	ACR NOM	swe	swe
+iea	i: ~ e: ~ 'a:	ACR NOM	swe	swe
+IEC	i: ~ e: ~ s 'e:	ACR NOM	swe	swe
+IEEE	i: ~ e: ~ e: ~ 'e:	ACR NOM	swe	swe
+IEP	i: ~ e: ~ p 'e:	ACR NOM	swe	swe
+IEPs	i: ~ e: ~ p 'e: s	ACR GEN	swe	swe
+IESG	i: ~ e: ~ ä s ~ g 'e:	ACR NOM	swe	swe
+IETF	i: ~ e: ~ t e: ~ 'ä f	ACR NOM	swe	swe
+IFC	i: ~ ä f ~ s 'e:	ACR NOM	swe	swe
+IFCC	i: ~ ä f ~ s e: ~ s 'e:	ACR NOM	swe	swe
+ifcfg	i: ~ ä f ~ s e: ~ ä f ~ g 'e:	ACR NOM	swe	swe
+IFK	"i: ~ ä f ~ k ,o:	ACR NOM	swe	swe
+IFN	i: ~ ä f ~ 'ä n	ACR NOM	swe	swe
+IFPI	i: ~ ä f ~ p e: ~ 'i:	ACR NOM	swe	swe
+IFS	i: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+IFU	i: ~ ä f ~ 'uu:	ACR NOM	swe	swe
+IG	"i: ~ g ,e:	ACR NOM	swe	swe
+IgA	i: ~ g e: ~ 'a:	ACR NOM	swe	swe
+IGBP	i: ~ g e: ~ b e: ~ p 'e:	ACR NOM	swe	swe
+IgD	i: ~ g e: ~ d 'e:	ACR NOM	swe	swe
+IgE	i: ~ g e: ~ 'e:	ACR NOM	swe	swe
+IGF	i: ~ g e: ~ 'ä f	ACR NOM	swe	swe
+IGF-I	i: ~ g e: ~ 'ä f | 'i:	ACR NOM	swe	swe
+IgG	i: ~ g e: ~ g 'e:	ACR NOM	swe	swe
+IGM	i: ~ g e: ~ 'ä m	ACR NOM	swe	swe
+IGN	i: ~ g e: ~ 'ä n	ACR NOM	swe	swe
+IGT	i: ~ g e: ~ t 'e:	ACR NOM	swe	swe
+IHD	i: ~ h o: ~ d 'e:	ACR NOM	swe	swe
+IHS	i: ~ h o: ~ 'ä s	ACR NOM	swe	swe
+IIB	i: ~ i: ~ b 'e:	ACR NOM	swe	swe
+IIP	i: ~ i: ~ p 'e:	ACR NOM	swe	swe
+IK	"i: ~ k ,o:	ACR NOM	swe	swe
+IKA	i: ~ k o: ~ 'a:	ACR NOM	swe	swe
+IKESKR	i: ~ k o: ~ e: ~ ä s ~ k o: ~ 'ae r	ACR NOM	swe	swe
+IKK	i: ~ k o: ~ k 'o:	ACR NOM	swe	swe
+IKMPR	i: ~ k o: ~ "ä m ~ p e: ~ ,ae r	ACR NOM	swe	swe
+IKS	i: ~ k o: ~ 'ä s	ACR NOM	swe	swe
+IKT	i: ~ k o: ~ t 'e:	ACR NOM	swe	swe
+IKU	i: ~ k o: ~ 'uu:	ACR NOM	swe	swe
+IKV	i: ~ k o: ~ v 'e:	ACR NOM	swe	swe
+IL	"i: ~ ,ä l	ACR NOM	swe	swe
+ILC	i: ~ ä l ~ s 'e:	ACR NOM	swe	swe
+ILO	i: ~ ä l ~ 'u:	ACR NOM	swe	swe
+IM	"i: ~ ,ä m	ACR NOM	swe	swe
+IM	"i: ~ ,ä m	ACR NOM	swe	swe
+IMF	i: ~ ä m ~ 'ä f	ACR NOM	swe	swe
+IMM	i: ~ ä m ~ 'ä m	ACR NOM	swe	swe
+IMP	i: ~ ä m ~ p 'e:	ACR NOM	swe	swe
+IMS	i: ~ ä m ~ 'ä s	ACR NOM	swe	swe
+IMT	i: ~ ä m ~ t 'e:	ACR NOM	swe	swe
+INH	i: ~ ä n ~ h 'o:	ACR NOM	swe	swe
+INr	i: ~ ä n ~ 'ae r	ACR NOM	swe	swe
+INR	i: ~ ä n ~ 'ae r	ACR NOM	swe	swe
+IO	"i: ~ ,u:	ACR NOM	swe	swe
+IOCE	i: ~ u: ~ s e: ~ 'e:	ACR NOM	swe	swe
+iof	i: ~ u: ~ 'ä f	ACR NOM	swe	swe
+IOGT	i: ~ u: ~ g e: ~ t 'e:	ACR NOM	swe	swe
+IOM	i: ~ u: ~ 'ä m	ACR NOM	swe	swe
+IOT	i: ~ u: ~ t 'e:	ACR NOM	swe	swe
+IOTF	i: ~ u: ~ t e: ~ 'ä f	ACR NOM	swe	swe
+IP	"i: ~ p ,e:	ACR NOM	swe	swe
+IP-	"i: ~ p ,e:	ACR NOM	swe	swe
+IP-TV	"i: ~ p e: ~ t ,e: ~ v e:	ACR NOM	swe	swe
+ipcc	i: ~ p e: ~ s e: ~ s 'e:	ACR NOM	swe	swe
+IPD	i: ~ p e: ~ d 'e:	ACR NOM	swe	swe
+IPE	i: ~ p e: ~ 'e:	ACR NOM	swe	swe
+IPF	i: ~ p e: ~ 'ä f	ACR NOM	swe	swe
+IPG	i: ~ p e: ~ g 'e:	ACR NOM	swe	swe
+ipg-cf	i: ~ p e: ~ g 'e: | s "e: ~ ,ä f	ACR NOM	swe	swe
+IPO	i: ~ p e: ~ 'u:	ACR NOM	swe	swe
+IPP	i: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+IPPV	i: ~ p e: ~ p e: ~ v 'e:	ACR NOM	swe	swe
+IPR	i: ~ p e: ~ 'ae r	ACR NOM	swe	swe
+IPS	i: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+IPSASB	i: ~ p e: ~ ä s ~ a: ~ ä s ~ b 'e:	ACR NOM	swe	swe
+IPT	i: ~ p e: ~ t 'e:	ACR NOM	swe	swe
+IPTS	i: ~ p e: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+IPU	i: ~ p e: ~ 'uu:	ACR NOM	swe	swe
+IPV	i: ~ p e: ~ v 'e:	ACR NOM	swe	swe
+IQ	"i: ~ k ,uu:	ACR NOM	swe	swe
+IR	"i: ~ ,ae r	ACR NOM	swe	swe
+IRDS	i: ~ ae r ~ d "e: ~ ,ä s	ACR NOM	swe	swe
+irl	i: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+IRL	i: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+IRS	i: ~ ae r ~ 'ä s	ACR NOM	swe	swe
+ISBN	i: ~ ä s ~ b "e: ~ ,ä n	ACR NOM	swe	swe
+ISDN	i: ~ ä s ~ d "e: ~ ,ä n	ACR NOM	swe	swe
+ISE	i: ~ ä s ~ 'e:	ACR NOM	swe	swe
+ISEP	i: ~ ä s ~ e: ~ p 'e:	ACR NOM	swe	swe
+ISEW	i: ~ ä s ~ e: ~ v 'e:	ACR NOM	swe	swe
+ISF	i: ~ ä s ~ 'ä f	ACR NOM	swe	swe
+ISFV	i: ~ ä s ~ "ä f ~ v ,e:	ACR NOM	swe	swe
+ISH	i: ~ ä s ~ h 'o:	ACR NOM	swe	swe
+ISHLT	i: ~ ä s ~ h o: ~ ä l ~ t 'e:	ACR NOM	swe	swe
+ISME	i: ~ ä s ~ ä m ~ 'e:	ACR NOM	swe	swe
+ISOC	i: ~ ä s ~ u: ~ s 'e:	ACR NOM	swe	swe
+ISOC-SE	i: ~ ä s ~ u: ~ s 'e: | "ä s ~ ,e:	ACR NOM	swe	swe
+ISOU	i: ~ ä s ~ u: ~ 'uu:	ACR NOM	swe	swe
+ISP	i: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+ISPS	i: ~ ä s ~ p e: ~ 'ä s	ACR NOM	swe	swe
+ISRN	i: ~ ä s ~ ae r ~ 'ä n	ACR NOM	swe	swe
+ISS	i: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+issn	i: ~ ä s ~ ä s ~ 'ä n	ACR NOM	swe	swe
+ISWT	i: ~ ä s ~ d "uu . b ex l - v ,e: | t 'e:	ACR NOM	swe	swe
+IT	"i: ~ t ,e:	ACR NOM	swe	swe
+ITB	i: ~ t e: ~ b 'e:	ACR NOM	swe	swe
+ITC	i: ~ t e: ~ s 'e:	ACR NOM	swe	swe
+ITP	i: ~ t e: ~ p 'e:	ACR NOM	swe	swe
+ITPS	i: ~ t e: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+ITT	i: ~ t e: ~ t 'e:	ACR NOM	swe	swe
+IUD	i: ~ uu: ~ d 'e:	ACR NOM	swe	swe
+IUHPE	i: ~ uu: ~ h o: ~ p e: ~ 'e:	ACR NOM	swe	swe
+IUP	i: ~ uu: ~ p 'e:	ACR NOM	swe	swe
+IVC	i: ~ v e: ~ s 'e:	ACR NOM	swe	swe
+IVF	i: ~ ä f ~ v 'e:	ACR NOM	swe	swe
+IVIG	i: ~ v e: ~ i: ~ g 'e:	ACR NOM	swe	swe
+IVP	i: ~ v e: ~ p 'e:	ACR NOM	swe	swe
+IÖV	i: ~ ö: ~ v 'e:	ACR NOM	swe	swe
+JAI	j i: ~ a: ~ 'i:	ACR NOM	swe	swe
+JAU	j i: ~ a: ~ 'uu:	ACR NOM	swe	swe
+JB	j "i: ~ b ,e:	ACR NOM	swe	swe
+JC	j "i: ~ s ,e:	ACR NOM	swe	swe
+JD	j "i: ~ d ,e:	ACR NOM	swe	swe
+JEM	j i: ~ e: ~ 'ä m	ACR NOM	swe	swe
+JF	j "i: ~ ,ä f	ACR NOM	swe	swe
+JFE	j i: ~ ä f ~ 'e:	ACR NOM	swe	swe
+JFT	j i: ~ ä f ~ t 'e:	ACR NOM	swe	swe
+JG	j "i: ~ g ,e:	ACR NOM	swe	swe
+JH	j "i: ~ h ,o:	ACR NOM	swe	swe
+JI	j "i: ~ ,i:	ACR NOM	swe	swe
+JIBS	j i: ~ i: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+JIT	j i: ~ i: ~ t 'e:	ACR NOM	swe	swe
+JJ	j "i: ~ j ,i:	ACR NOM	swe	swe
+JK	j "i: ~ k ,o:	ACR NOM	swe	swe
+JKL	j i: ~ k o: ~ 'ä l	ACR NOM	swe	swe
+JL	j "i: ~ ,ä l	ACR NOM	swe	swe
+JM	j "i: ~ ,ä m	ACR NOM	swe	swe
+JMB	j "i: ~ ä m ~ b ,e:	ACR NOM	swe	swe
+JMG	j "i: ~ ä m ~ g ,e:	ACR NOM	swe	swe
+JN	j "i: ~ ,ä n	ACR NOM	swe	swe
+JO	j "i: ~ ,u:	ACR NOM	swe	swe
+JP	j "i: ~ p ,e:	ACR NOM	swe	swe
+JQ	j "i: ~ k ,uu:	ACR NOM	swe	swe
+JS	j "i: ~ ,ä s	ACR NOM	swe	swe
+JSM	j i: ~ ä s ~ 'ä m	ACR NOM	swe	swe
+jsp	j i: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+JT	j "i: ~ t ,e:	ACR NOM	swe	swe
+JUF	j i: ~ uu: ~ 'ä f	ACR NOM	swe	swe
+JV	j "i: ~ v ,e:	ACR NOM	swe	swe
+JVM	j i: ~ v e: ~ 'ä m	ACR NOM	swe	swe
+JW	j 'i: | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+JÅ	j "i: ~ ,o:	ACR NOM	swe	swe
+KA	k "o: ~ ,a:	ACR NOM	swe	swe
+kb	k "o: ~ b ,e:	ACR NOM	swe	swe
+Kbh	k o: ~ b e: ~ h 'o:	ACR NOM	swe	swe
+KBM	k o: ~ b e: ~ 'ä m	ACR NOM	swe	swe
+KbSS	k o: ~ b e: ~ "ä s ~ ,ä s	ACR NOM	swe	swe
+KBT	k o: ~ b e: ~ t 'e:	ACR NOM	swe	swe
+KC	k "o: ~ s ,e:	ACR NOM	swe	swe
+KD	k "o: ~ d ,e:	ACR NOM	swe	swe
+kDa	k o: ~ d e: ~ 'a:	ACR NOM	swe	swe
+KE	k "o: ~ ,e:	ACR NOM	swe	swe
+KF	k "o: ~ ,ä f	ACR NOM	swe	swe
+KF:S	k "o: ~ ,ä f s	ACR GEN	swe	swe
+KFB	k o: ~ ä f ~ b 'e:	ACR NOM	swe	swe
+KFF	k o: ~ ä f ~ 'ä f	ACR NOM	swe	swe
+KFIiS	k o: ~ ä f ~ i: ~ i: ~ 'ä s	ACR NOM	swe	swe
+KFM	k o: ~ ä f ~ 'ä m	ACR NOM	swe	swe
+KFUK	k o: ~ ä f ~ "uu: ~ k ,o:	ACR NOM	swe	swe
+kfuk-m	k o: ~ ä f ~ "uu: ~ k o: ~ ,ä m	ACR NOM	swe	swe
+KFUKs	k o: ~ ä f ~ "uu: ~ k ,o: s	ACR GEN	swe	swe
+KFUM	k o: ~ ä f ~ "uu: ~ ,ä m	ACR NOM	swe	swe
+KGB	k o: ~ g e: ~ b 'e:	ACR NOM	swe	swe
+KGFS	k o: ~ g e: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+KGMM	k o: ~ g e: ~ "ä m ~ ,ä m	ACR NOM	swe	swe
+KH	k "o: ~ h ,o:	ACR NOM	swe	swe
+KHA	k o: ~ h o: ~ 'a:	ACR NOM	swe	swe
+KHiS	k o: ~ h o: ~ "i: ~ ,ä s	ACR NOM	swe	swe
+KHK	k o: ~ h o: ~ k 'o:	ACR NOM	swe	swe
+KI	k "o: ~ ,i:	ACR NOM	swe	swe
+KIF	k o: ~ i: ~ 'ä f	ACR NOM	swe	swe
+KK	k "o: ~ k ,o:	ACR NOM	swe	swe
+KKF	k o: ~ k o: ~ 'ä f	ACR NOM	swe	swe
+KKK	k o: ~ k o: ~ k 'o:	ACR NOM	swe	swe
+KKL	k o: ~ k o: ~ 'ä l	ACR NOM	swe	swe
+kkp	k o: ~ k o: ~ p 'e:	ACR NOM	swe	swe
+KKR	k o: ~ k o: ~ 'ae r	ACR NOM	swe	swe
+KKV	k o: ~ k o: ~ v 'e:	ACR NOM	swe	swe
+KL	k "o: ~ ,ä l	ACR NOM	swe	swe
+KLA	k o: ~ ä l ~ 'a:	ACR NOM	swe	swe
+KLF	k o: ~ ä l ~ 'ä f	ACR NOM	swe	swe
+KLL	k o: ~ ä l ~ 'ä l	ACR NOM	swe	swe
+KML	k o: ~ ä m ~ 'ä l	ACR NOM	swe	swe
+KN	k "o: ~ ,ä n	ACR NOM	swe	swe
+KO	k "o: ~ ,u:	ACR NOM	swe	swe
+KOV	k o: ~ u: ~ v 'e:	ACR NOM	swe	swe
+KOVFS	k o: ~ u: ~ v e: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+KP	k "o: ~ p ,e:	ACR NOM	swe	swe
+KPA	k o: ~ p e: ~ 'a:	ACR NOM	swe	swe
+kPa	k o: ~ p e: ~ 'a:	ACR NOM	swe	swe
+kpa	k o: ~ p e: ~ 'a:	ACR NOM	swe	swe
+KPI	k o: ~ p e: ~ 'i:	ACR NOM	swe	swe
+kpu	k o: ~ p e: ~ 'uu:	ACR NOM	swe	swe
+KR	k "o: ~ ,ae r	ACR NOM	swe	swe
+KRK	k o: ~ ae r ~ k 'o:	ACR NOM	swe	swe
+KRKA	k o: ~ ae r ~ k o: ~ 'a:	ACR NOM	swe	swe
+KS	k "o: ~ ,ä s	ACR NOM	swe	swe
+KSAK	k o: ~ ä s ~ "a: ~ k ,o:	ACR NOM	swe	swe
+KSH	k o: ~ ä s ~ h 'o:	ACR NOM	swe	swe
+KSP	k o: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+KSS	k o: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+KTH	k o: ~ t e: ~ h 'o:	ACR NOM	swe	swe
+KTHNOC	k o: ~ t e: ~ h o: ~ ä n ~ u: ~ s 'e:	ACR NOM	swe	swe
+KTV	k o: ~ t e: ~ v 'e:	ACR NOM	swe	swe
+KU	k "o: ~ ,uu:	ACR NOM	swe	swe
+Kua	k o: ~ uu: ~ 'a:	ACR NOM	swe	swe
+KUF	k o: ~ uu: ~ 'ä f	ACR NOM	swe	swe
+KUNQ	k o: ~ uu: ~ ä n ~ k 'uu:	ACR NOM	swe	swe
+KvP	k o: ~ v e: ~ p 'e:	ACR NOM	swe	swe
+KVS	k o: ~ v e: ~ 'ä s	ACR NOM	swe	swe
+KY	k "o: ~ ,y:	ACR NOM	swe	swe
+KYM	k o: ~ y: ~ 'ä m	ACR NOM	swe	swe
+LAF	ä l ~ a: ~ 'ä f	ACR NOM	swe	swe
+LAH	ä l ~ a: ~ h 'o:	ACR NOM	swe	swe
+LASKF	ä l ~ a: ~ ä s ~ k o: ~ 'ä f	ACR NOM	swe	swe
+LAU	ä l ~ a: ~ 'uu:	ACR NOM	swe	swe
+LB	"ä l ~ b ,e:	ACR NOM	swe	swe
+LBBB	ä l ~ b e: ~ b e: ~ b 'e:	ACR NOM	swe	swe
+LBF	ä l ~ b e: ~ 'ä f	ACR NOM	swe	swe
+LBP	ä l ~ b e: ~ p 'e:	ACR NOM	swe	swe
+LBU	ä l ~ b e: ~ 'uu:	ACR NOM	swe	swe
+LC	"ä l ~ s ,e:	ACR NOM	swe	swe
+LCAT	ä l ~ s e: ~ "a: ~ t ,e:	ACR NOM	swe	swe
+LCC	ä l ~ s e: ~ s 'e:	ACR NOM	swe	swe
+LCD	ä l ~ s e: ~ d 'e:	ACR NOM	swe	swe
+LCHF	ä l ~ s e: ~ h "o: ~ ,ä f	ACR NOM	swe	swe
+LCI	ä l ~ s e: ~ 'i:	ACR NOM	swe	swe
+LCP	ä l ~ s e: ~ p 'e:	ACR NOM	swe	swe
+LD	"ä l ~ d ,e:	ACR NOM	swe	swe
+LDE	ä l ~ d e: ~ 'e:	ACR NOM	swe	swe
+LDF	ä l ~ d e: ~ 'ä f	ACR NOM	swe	swe
+LDFH	ä l ~ d e: ~ "ä f ~ h ,o:	ACR NOM	swe	swe
+LDL	ä l ~ d e: ~ 'ä l	ACR NOM	swe	swe
+LDS	ä l ~ d e: ~ 'ä s	ACR NOM	swe	swe
+LEU	ä l ~ e: ~ 'uu:	ACR NOM	swe	swe
+LF	"ä l ~ ,ä f	ACR NOM	swe	swe
+LFA	ä l ~ ä f ~ 'a:	ACR NOM	swe	swe
+LFB	"ä l ~ ä f ~ b ,e:	ACR NOM	swe	swe
+Lfpi	ä l ~ ä f ~ p e: ~ 'i:	ACR NOM	swe	swe
+LFT	ä l ~ ä f ~ t 'e:	ACR NOM	swe	swe
+LG	"ä l ~ g ,e:	ACR NOM	swe	swe
+LGF	ä l ~ g e: ~ 'ä f	ACR NOM	swe	swe
+LGL	ä l ~ g e: ~ 'ä l	ACR NOM	swe	swe
+LGPL	ä l ~ g e: ~ p e: ~ 'ä l	ACR NOM	swe	swe
+Lgr	ä l ~ g e: ~ 'ae r	ACR NOM	swe	swe
+Lgy	ä l ~ g e: ~ 'y:	ACR NOM	swe	swe
+LH	"ä l ~ h ,o:	ACR NOM	swe	swe
+LHrH	ä l ~ h o: ~ "ae r ~ h ,o:	ACR NOM	swe	swe
+LHS	ä l ~ h o: ~ 'ä s	ACR NOM	swe	swe
+LIP	ä l ~ i: ~ p 'e:	ACR NOM	swe	swe
+LISF	ä l ~ i: ~ "ä s ~ ,ä f	ACR NOM	swe	swe
+LiU	ä l ~ i: ~ 'uu:	ACR NOM	swe	swe
+LJ	"ä l ~ j ,i:	ACR NOM	swe	swe
+LK	"ä l ~ k ,o:	ACR NOM	swe	swe
+LKA	ä l ~ k o: ~ 'a:	ACR NOM	swe	swe
+LKAB	ä l ~ k o: ~ "a: ~ b ,e:	ACR NOM	swe	swe
+LKPR	ä l ~ k o: ~ p "e: ~ ,ae r	ACR NOM	swe	swe
+LKVV	ä l ~ k o: ~ v "e: ~ v ,e:	ACR NOM	swe	swe
+LL	"ä l ~ ,ä l	ACR NOM	swe	swe
+LLMS	ä l ~ ä l ~ "ä m ~ ,ä s	ACR NOM	swe	swe
+LM	"ä l ~ ,ä m	ACR NOM	swe	swe
+LMA	ä l ~ ä m ~ 'a:	ACR NOM	swe	swe
 LMF	ä l ~ ä m ~ 'ä f	ACR NOM	swe	swe
-LMH	ä l ~ ä m ~ h 'å2:	ACR NOM	swe	swe
-LMV	"ä l ~ ä m ~ v `e2:	ACR NOM	swe	swe
-LMW	"ä l ~ ä m ~ v `e2:	ACR NOM	swe	swe
-Ln	"ä l ~ `ä n	ACR NOM	swe	swe
+LMH	ä l ~ ä m ~ h 'o:	ACR NOM	swe	swe
+LMV	"ä l ~ ä m ~ v ,e:	ACR NOM	swe	swe
+LMW	"ä l ~ ä m ~ v ,e:	ACR NOM	swe	swe
+Ln	"ä l ~ ,ä n	ACR NOM	swe	swe
 LNF	ä l ~ ä n ~ 'ä f	ACR NOM	swe	swe
-LO	"ä l ~ `o2:	ACR NOM	swe	swe
-LOA	ä l ~ o2: ~ 'a2:	ACR NOM	swe	swe
-LOFV	ä l ~ o2: ~ "ä f ~ v `e2:	ACR NOM	swe	swe
-Loi	ä l ~ o2: ~ 'i2:	ACR NOM	swe	swe
-LoL	ä l ~ o2: ~ 'ä l	ACR NOM	swe	swe
-LOMB	ä l ~ o2: ~ "ä m ~ b `e2:	ACR NOM	swe	swe
-LOR	ä l ~ o2: ~ 'ä3 r	ACR NOM	swe	swe
-LOU	ä l ~ o2: ~ 'u2:	ACR NOM	swe	swe
-LP	"ä l ~ p `e2:	ACR NOM	swe	swe
-Lpf	ä l ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-Lpfö	ä l ~ p e2: ~ "ä f ~ `ö2:	ACR NOM	swe	swe
-LPG	ä l ~ p e2: ~ g 'e2:	ACR NOM	swe	swe
-LPH	ä l ~ p e2: ~ h 'å2:	ACR NOM	swe	swe
-LPK	ä l ~ p e2: ~ k 'å2:	ACR NOM	swe	swe
-Lpo	ä l ~ p e2: ~ 'o2:	ACR NOM	swe	swe
-LPP	ä l ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-LPS	ä l ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-LPT	ä l ~ p e2: ~ t 'e2:	ACR NOM	swe	swe
-LpX	ä l ~ p e2: ~ 'ä k s	ACR NOM	swe	swe
-LQTS	ä l ~ k u2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-LR	"ä l ~ `ä3 r	ACR NOM	swe	swe
-LRA	ä l ~ ä3 r ~ 'a2:	ACR NOM	swe	swe
-LRF	"ä l ~ ä3 r ~ `ä f	ACR NOM	swe	swe
-LrH	"ä l ~ ä3 r ~ h `å2:	ACR NOM	swe	swe
-LRV	"ä l ~ ä3 r ~ v `e2:	ACR NOM	swe	swe
-LS	"ä l ~ `ä s	ACR NOM	swe	swe
-LSA	ä l ~ ä s ~ 'a2:	ACR NOM	swe	swe
-LSD	"ä l ~ ä s ~ d `e2:	ACR NOM	swe	swe
-LSE	ä l ~ ä s ~ 'e2:	ACR NOM	swe	swe
-LSG	"ä l ~ ä s ~ g `e2:	ACR NOM	swe	swe
-LSII	ä l ~ ä s ~ "i2: ~ `i2:	ACR NOM	swe	swe
-LSK	"ä l ~ ä s ~ k `å2:	ACR NOM	swe	swe
-LSO	ä l ~ ä s ~ 'o2:	ACR NOM	swe	swe
-LSP	"ä l ~ ä s ~ p `e2:	ACR NOM	swe	swe
-LSPV	ä l ~ ä s ~ p "e2: ~ v `e2:	ACR NOM	swe	swe
+LO	"ä l ~ ,u:	ACR NOM	swe	swe
+LOA	ä l ~ u: ~ 'a:	ACR NOM	swe	swe
+LOFV	ä l ~ u: ~ "ä f ~ v ,e:	ACR NOM	swe	swe
+Loi	ä l ~ u: ~ 'i:	ACR NOM	swe	swe
+LoL	ä l ~ u: ~ 'ä l	ACR NOM	swe	swe
+LOMB	ä l ~ u: ~ "ä m ~ b ,e:	ACR NOM	swe	swe
+LOR	ä l ~ u: ~ 'ae r	ACR NOM	swe	swe
+LOU	ä l ~ u: ~ 'uu:	ACR NOM	swe	swe
+LP	"ä l ~ p ,e:	ACR NOM	swe	swe
+Lpf	ä l ~ p e: ~ 'ä f	ACR NOM	swe	swe
+Lpfö	ä l ~ p e: ~ "ä f ~ ,ö:	ACR NOM	swe	swe
+LPG	ä l ~ p e: ~ g 'e:	ACR NOM	swe	swe
+LPH	ä l ~ p e: ~ h 'o:	ACR NOM	swe	swe
+LPK	ä l ~ p e: ~ k 'o:	ACR NOM	swe	swe
+Lpo	ä l ~ p e: ~ 'u:	ACR NOM	swe	swe
+LPP	ä l ~ p e: ~ p 'e:	ACR NOM	swe	swe
+LPS	ä l ~ p e: ~ 'ä s	ACR NOM	swe	swe
+LPT	ä l ~ p e: ~ t 'e:	ACR NOM	swe	swe
+LpX	ä l ~ p e: ~ 'ä k s	ACR NOM	swe	swe
+LQTS	ä l ~ k uu: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+LR	"ä l ~ ,ae r	ACR NOM	swe	swe
+LRA	ä l ~ ae r ~ 'a:	ACR NOM	swe	swe
+LRF	"ä l ~ ae r ~ ,ä f	ACR NOM	swe	swe
+LrH	"ä l ~ ae r ~ h ,o:	ACR NOM	swe	swe
+LRV	"ä l ~ ae r ~ v ,e:	ACR NOM	swe	swe
+LS	"ä l ~ ,ä s	ACR NOM	swe	swe
+LSA	ä l ~ ä s ~ 'a:	ACR NOM	swe	swe
+LSD	"ä l ~ ä s ~ d ,e:	ACR NOM	swe	swe
+LSE	ä l ~ ä s ~ 'e:	ACR NOM	swe	swe
+LSG	"ä l ~ ä s ~ g ,e:	ACR NOM	swe	swe
+LSII	ä l ~ ä s ~ "i: ~ ,i:	ACR NOM	swe	swe
+LSK	"ä l ~ ä s ~ k ,o:	ACR NOM	swe	swe
+LSO	ä l ~ ä s ~ 'u:	ACR NOM	swe	swe
+LSP	"ä l ~ ä s ~ p ,e:	ACR NOM	swe	swe
+LSPV	ä l ~ ä s ~ p "e: ~ v ,e:	ACR NOM	swe	swe
 LSS	ä l ~ ä s ~ 'ä s	ACR NOM	swe	swe
-LSt	"ä l ~ ä s ~ t `e2:	ACR NOM	swe	swe
-LSU	ä l ~ ä s ~ 'u2:	ACR NOM	swe	swe
-LT	"ä l ~ t `e2:	ACR NOM	swe	swe
-LTAB	ä l ~ t e2: ~ "a2: ~ b `e2:	ACR NOM	swe	swe
-LTB	ä l ~ t e2: ~ b 'e2:	ACR NOM	swe	swe
-LTC	ä l ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-LTEr	ä l ~ t e2: ~ "e2: ~ `ä3 r	ACR NOM	swe	swe
-LTF	ä l ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-LTP	ä l ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-LTs	"ä l ~ t e2: s	ACR GEN	swe	swe
-LU	"ä l ~ `u2:	ACR NOM	swe	swe
-LUB	ä l ~ u2: ~ b 'e2:	ACR NOM	swe	swe
-LUF	ä l ~ u2: ~ 'ä f	ACR NOM	swe	swe
-LUL	ä l ~ u2: ~ 'ä l	ACR NOM	swe	swe
-LV	"ä l ~ v `e2:	ACR NOM	swe	swe
-LVD	"ä l ~ v e2: ~ d `e2:	ACR NOM	swe	swe
-LVEDP	ä l ~ v e2: ~ e2: ~ d e2: ~ p 'e2:	ACR NOM	swe	swe
-LVFS	ä l ~ v e2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-LVM	ä l ~ v e2: ~ 'ä m	ACR NOM	swe	swe
-LVU	ä l ~ v e2: ~ 'u2:	ACR NOM	swe	swe
-LYHS	ä l ~ y2: ~ h "å2: ~ `ä s	ACR NOM	swe	swe
-LäL	ä l ~ ä2: ~ 'ä l	ACR NOM	swe	swe
-LÅ	"ä l ~ `å2:	ACR NOM	swe	swe
+LSt	"ä l ~ ä s ~ t ,e:	ACR NOM	swe	swe
+LSU	ä l ~ ä s ~ 'uu:	ACR NOM	swe	swe
+LT	"ä l ~ t ,e:	ACR NOM	swe	swe
+LTAB	ä l ~ t e: ~ "a: ~ b ,e:	ACR NOM	swe	swe
+LTB	ä l ~ t e: ~ b 'e:	ACR NOM	swe	swe
+LTC	ä l ~ t e: ~ s 'e:	ACR NOM	swe	swe
+LTEr	ä l ~ t e: ~ "e: ~ ,ae r	ACR NOM	swe	swe
+LTF	ä l ~ t e: ~ 'ä f	ACR NOM	swe	swe
+LTP	ä l ~ t e: ~ p 'e:	ACR NOM	swe	swe
+LTs	"ä l ~ t ,e: s	ACR GEN	swe	swe
+LU	"ä l ~ ,uu:	ACR NOM	swe	swe
+LUB	ä l ~ uu: ~ b 'e:	ACR NOM	swe	swe
+LUF	ä l ~ uu: ~ 'ä f	ACR NOM	swe	swe
+LUL	ä l ~ uu: ~ 'ä l	ACR NOM	swe	swe
+LV	"ä l ~ v ,e:	ACR NOM	swe	swe
+LVD	"ä l ~ v e: ~ d ,e:	ACR NOM	swe	swe
+LVEDP	ä l ~ v e: ~ e: ~ d e: ~ p 'e:	ACR NOM	swe	swe
+LVFS	ä l ~ v e: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+LVM	ä l ~ v e: ~ 'ä m	ACR NOM	swe	swe
+LVU	ä l ~ v e: ~ 'uu:	ACR NOM	swe	swe
+LYHS	ä l ~ y: ~ h "o: ~ ,ä s	ACR NOM	swe	swe
+LäL	ä l ~ ä: ~ 'ä l	ACR NOM	swe	swe
+LÅ	"ä l ~ ,o:	ACR NOM	swe	swe
 M-F-L:s	ä m ~ ä f ~ 'ä l s	ACR NOM	swe	swe
-MACL	ä m ~ a2: ~ s e2: ~ 'ä l	ACR NOM	swe	swe
-MADRS	ä m ~ a2: ~ d e2: ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-MAO-A	ä m ~ a2: ~ o2: ~ 'a2:	ACR NOM	swe	swe
-MAO-B	ä m ~ a2: ~ o2: ~ b 'e2:	ACR NOM	swe	swe
-MAOA	ä m ~ a2: ~ o2: ~ 'a2:	ACR NOM	swe	swe
-MB	"ä m ~ b `e2:	ACR NOM	swe	swe
-MBD	ä m ~ b e2: ~ d 'e2:	ACR NOM	swe	swe
-mbl	ä m ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-MBL:s	ä m ~ b e2: ~ 'ä l s	ACR GEN	swe	swe
-MBO	ä m ~ b e2: ~ 'o2:	ACR NOM	swe	swe
-MBOs	ä m ~ b e2: ~ 'o2: s	ACR GEN	swe	swe
-MBSK	ä m ~ b e2: ~ "ä s ~ k `å2:	ACR NOM	swe	swe
-MBT	ä m ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-mc	"ä m ~ s `e2:	ACR NOM	swe	swe
-MCA	ä m ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-MCB	ä m ~ s e2: ~ b 'e2:	ACR NOM	swe	swe
-McbG	ä m ~ s e2: ~ b e2: ~ g 'e2:	ACR NOM	swe	swe
-MCH	ä m ~ s e2: ~ h 'å2:	ACR NOM	swe	swe
-MCHC	ä m ~ s e2: ~ h "å2: ~ s `e2:	ACR NOM	swe	swe
-MCI	ä m ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-MCr	ä m ~ s e2: ~ 'ä3 r	ACR NOM	swe	swe
-MCTD	ä m ~ s e2: ~ t e2: ~ d 'e2:	ACR NOM	swe	swe
-MCV	ä m ~ s e2: ~ v 'e2:	ACR NOM	swe	swe
-MD	"ä m ~ d `e2:	ACR NOM	swe	swe
-MDL	ä m ~ d e2: ~ 'ä l	ACR NOM	swe	swe
-MDMA	ä m ~ d e2: ~ ä m ~ 'a2:	ACR NOM	swe	swe
-MDR-tbc	ä m ~ d e2: ~ "ä3 r - t e2: ~ b e2: ~ s `e2:	ACR NOM	swe	swe
-MDS	ä m ~ d e2: ~ 'ä s	ACR NOM	swe	swe
-MEA	ä m ~ e2: ~ 'a2:	ACR NOM	swe	swe
-mecA	ä m ~ e2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-MEF	ä m ~ e2: ~ 'ä f	ACR NOM	swe	swe
-MF	"ä m ~ `ä f	ACR NOM	swe	swe
+MACL	ä m ~ a: ~ s e: ~ 'ä l	ACR NOM	swe	swe
+MADRS	ä m ~ a: ~ d e: ~ ae r ~ 'ä s	ACR NOM	swe	swe
+MAO-A	ä m ~ a: ~ u: ~ 'a:	ACR NOM	swe	swe
+MAO-B	ä m ~ a: ~ u: ~ b 'e:	ACR NOM	swe	swe
+MAOA	ä m ~ a: ~ u: ~ 'a:	ACR NOM	swe	swe
+MB	"ä m ~ b ,e:	ACR NOM	swe	swe
+MBD	ä m ~ b e: ~ d 'e:	ACR NOM	swe	swe
+mbl	ä m ~ b e: ~ 'ä l	ACR NOM	swe	swe
+MBL:s	ä m ~ b e: ~ 'ä l s	ACR GEN	swe	swe
+MBO	ä m ~ b e: ~ 'u:	ACR NOM	swe	swe
+MBOs	ä m ~ b e: ~ 'u: s	ACR GEN	swe	swe
+MBSK	ä m ~ b e: ~ "ä s ~ k ,o:	ACR NOM	swe	swe
+MBT	ä m ~ b e: ~ t 'e:	ACR NOM	swe	swe
+mc	"ä m ~ s ,e:	ACR NOM	swe	swe
+MCA	ä m ~ s e: ~ 'a:	ACR NOM	swe	swe
+MCB	ä m ~ s e: ~ b 'e:	ACR NOM	swe	swe
+McbG	ä m ~ s e: ~ b e: ~ g 'e:	ACR NOM	swe	swe
+MCH	ä m ~ s e: ~ h 'o:	ACR NOM	swe	swe
+MCHC	ä m ~ s e: ~ h "o: ~ s ,e:	ACR NOM	swe	swe
+MCI	ä m ~ s e: ~ 'i:	ACR NOM	swe	swe
+MCr	ä m ~ s e: ~ 'ae r	ACR NOM	swe	swe
+MCTD	ä m ~ s e: ~ t e: ~ d 'e:	ACR NOM	swe	swe
+MCV	ä m ~ s e: ~ v 'e:	ACR NOM	swe	swe
+MD	"ä m ~ d ,e:	ACR NOM	swe	swe
+MDL	ä m ~ d e: ~ 'ä l	ACR NOM	swe	swe
+MDMA	ä m ~ d e: ~ ä m ~ 'a:	ACR NOM	swe	swe
+MDR-tbc	ä m ~ d e: ~ "ae r - t e: ~ b e: ~ s ,e:	ACR NOM	swe	swe
+MDS	ä m ~ d e: ~ 'ä s	ACR NOM	swe	swe
+MEA	ä m ~ e: ~ 'a:	ACR NOM	swe	swe
+mecA	ä m ~ e: ~ s e: ~ 'a:	ACR NOM	swe	swe
+MEF	ä m ~ e: ~ 'ä f	ACR NOM	swe	swe
+MF	"ä m ~ ,ä f	ACR NOM	swe	swe
 MFF:S	ä m ~ ä f ~ 'ä f s	ACR GEN	swe	swe
 MFL	ä m ~ ä f ~ 'ä l	ACR NOM	swe	swe
-MGUS	ä m ~ g e2: ~ u2: ~ 'ä s	ACR NOM	swe	swe
-MH	"ä m ~ h `å2:	ACR NOM	swe	swe
-MHC	ä m ~ h å2: ~ s 'e2:	ACR NOM	swe	swe
-MHK	ä m ~ h å2: ~ k 'å2:	ACR NOM	swe	swe
-MI	"ä m ~ `i2:	ACR NOM	swe	swe
-MIP	ä m ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-mIRC	ä m ~ i2: ~ ä3 r ~ s 'e2:	ACR NOM	swe	swe
-MIV	ä m ~ i2: ~ v 'e2:	ACR NOM	swe	swe
-MJU	ä m ~ j i2: ~ 'u2:	ACR NOM	swe	swe
-MK	"ä m ~ k `å2:	ACR NOM	swe	swe
-MKA	ä m ~ k å2: ~ 'a2:	ACR NOM	swe	swe
-MKB	ä m ~ k å2: ~ b 'e2:	ACR NOM	swe	swe
-ML	"ä m ~ `ä l	ACR NOM	swe	swe
-MM	"ä m ~ `ä m	ACR NOM	swe	swe
-MMA	ä m ~ ä m ~ 'a2:	ACR NOM	swe	swe
-MMT	ä m ~ ä m ~ t 'e2:	ACR NOM	swe	swe
-Mn	"ä m ~ `ä n	ACR NOM	swe	swe
-MNA	ä m ~ ä n ~ 'a2:	ACR NOM	swe	swe
+MGUS	ä m ~ g e: ~ uu: ~ 'ä s	ACR NOM	swe	swe
+MH	"ä m ~ h ,o:	ACR NOM	swe	swe
+MHC	ä m ~ h o: ~ s 'e:	ACR NOM	swe	swe
+MHK	ä m ~ h o: ~ k 'o:	ACR NOM	swe	swe
+MI	"ä m ~ ,i:	ACR NOM	swe	swe
+MIP	ä m ~ i: ~ p 'e:	ACR NOM	swe	swe
+mIRC	ä m ~ i: ~ ae r ~ s 'e:	ACR NOM	swe	swe
+MIV	ä m ~ i: ~ v 'e:	ACR NOM	swe	swe
+MJU	ä m ~ j i: ~ 'uu:	ACR NOM	swe	swe
+MK	"ä m ~ k ,o:	ACR NOM	swe	swe
+MKA	ä m ~ k o: ~ 'a:	ACR NOM	swe	swe
+MKB	ä m ~ k o: ~ b 'e:	ACR NOM	swe	swe
+ML	"ä m ~ ,ä l	ACR NOM	swe	swe
+MM	"ä m ~ ,ä m	ACR NOM	swe	swe
+MMA	ä m ~ ä m ~ 'a:	ACR NOM	swe	swe
+MMT	ä m ~ ä m ~ t 'e:	ACR NOM	swe	swe
+Mn	"ä m ~ ,ä n	ACR NOM	swe	swe
+MNA	ä m ~ ä n ~ 'a:	ACR NOM	swe	swe
 MNS	ä m ~ ä n ~ 'ä s	ACR NOM	swe	swe
-MOW	ä m ~ o2: ~ d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-MP	"ä m ~ p `e2:	ACR NOM	swe	swe
-MPA	ä m ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-MPL	ä m ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-MPN	ä m ~ p e2: ~ 'ä n	ACR NOM	swe	swe
-MPr	ä m ~ p e2: ~ 'ä3 r	ACR NOM	swe	swe
-MPS	ä m ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-MR	"ä m ~ `ä3 r	ACR NOM	swe	swe
-MR-BR	ä m ~ ä3 r ~ b "e2: ~ `ä3 r	ACR NOM	swe	swe
-MRA	ä m ~ ä3 r ~ 'a2:	ACR NOM	swe	swe
-MRC	ä m ~ ä3 r ~ s 'e2:	ACR NOM	swe	swe
-mrc-hnr	ä m ~ ä3 r ~ s e2: ~ h å2: ~ ä n ~ 'ä3 r	ACR NOM	swe	swe
-mRNA	"ä m ~ ä3 r ~ ä n ~ `a2:	ACR NOM	swe	swe
-MRSA	ä m ~ ä3 r ~ ä s ~ 'a2:	ACR NOM	swe	swe
-MRT	ä m ~ ä3 r ~ t 'e2:	ACR NOM	swe	swe
-MS	"ä m ~ `ä s	ACR NOM	swe	swe
-MSA	ä m ~ ä s ~ 'a2:	ACR NOM	swe	swe
-MSD	ä m ~ ä s ~ d 'e2:	ACR NOM	swe	swe
-MSH	ä m ~ ä s ~ h 'å2:	ACR NOM	swe	swe
+MOW	ä m ~ u: ~ d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+MP	"ä m ~ p ,e:	ACR NOM	swe	swe
+MPA	ä m ~ p e: ~ 'a:	ACR NOM	swe	swe
+MPL	ä m ~ p e: ~ 'ä l	ACR NOM	swe	swe
+MPN	ä m ~ p e: ~ 'ä n	ACR NOM	swe	swe
+MPr	ä m ~ p e: ~ 'ae r	ACR NOM	swe	swe
+MPS	ä m ~ p e: ~ 'ä s	ACR NOM	swe	swe
+MR	"ä m ~ ,ae r	ACR NOM	swe	swe
+MR-BR	ä m ~ ae r ~ b "e: ~ ,ae r	ACR NOM	swe	swe
+MRA	ä m ~ ae r ~ 'a:	ACR NOM	swe	swe
+MRC	ä m ~ ae r ~ s 'e:	ACR NOM	swe	swe
+mrc-hnr	ä m ~ ae r ~ s e: ~ h o: ~ ä n ~ 'ae r	ACR NOM	swe	swe
+mRNA	"ä m ~ ae r ~ ä n ~ ,a:	ACR NOM	swe	swe
+MRSA	ä m ~ ae r ~ ä s ~ 'a:	ACR NOM	swe	swe
+MRT	ä m ~ ae r ~ t 'e:	ACR NOM	swe	swe
+MS	"ä m ~ ,ä s	ACR NOM	swe	swe
+MSA	ä m ~ ä s ~ 'a:	ACR NOM	swe	swe
+MSD	ä m ~ ä s ~ d 'e:	ACR NOM	swe	swe
+MSH	ä m ~ ä s ~ h 'o:	ACR NOM	swe	swe
 MSM	ä m ~ ä s ~ 'ä m	ACR NOM	swe	swe
 msn	ä m ~ ä s ~ 'ä n	ACR NOM	swe	swe
-MSr	ä m ~ ä s ~ 'ä3 r	ACR NOM	swe	swe
+MSr	ä m ~ ä s ~ 'ae r	ACR NOM	swe	swe
 MSS	ä m ~ ä s ~ 'ä s	ACR NOM	swe	swe
-MST	ä m ~ ä s ~ t 'e2:	ACR NOM	swe	swe
-MT	"ä m ~ t `e2:	ACR NOM	swe	swe
-mTc	ä m ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-MTDNA	"ä m ~ t `e2: | d e2: ~ ä n ~ 'a2:	ACR NOM	swe	swe
-MTF	ä m ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-MTG	ä m ~ t e2: ~ g 'e2:	ACR NOM	swe	swe
-MTR	ä m ~ t e2: ~ 'ä3 r	ACR NOM	swe	swe
-MUCG	ä m ~ u2: ~ s e2: ~ g 'e2:	ACR NOM	swe	swe
-MV	"ä m ~ v `e2:	ACR NOM	swe	swe
-MVC	"ä m ~ v e2: ~ s `e2:	ACR NOM	swe	swe
-MVD	ä m ~ v e2: ~ d 'e2:	ACR NOM	swe	swe
-MVG	ä m ~ v e2: ~ g 'e2:	ACR NOM	swe	swe
-MVL	ä m ~ v e2: ~ 'ä l	ACR NOM	swe	swe
-MVSF	ä m ~ v e2: ~ "ä s ~ `ä f	ACR NOM	swe	swe
-NA	"ä n ~ `a2:	ACR NOM	swe	swe
-Na	"ä n ~ `a2:	ACR NOM	swe	swe
-NAB	ä n ~ a2: ~ b 'e2:	ACR NOM	swe	swe
-NaCl	"ä n ~ `a2: | s "e2: ~ `ä l	ACR NOM	swe	swe
-NaCl	ä n ~ a2: ~ s "e2: ~ `ä l	ACR NOM	swe	swe
-nacl	ä n ~ a2: ~ s "e2: ~ `ä l	ACR NOM	swe	swe
-NADH	ä n ~ a2: ~ d "e2: ~ h `å2:	ACR NOM	swe	swe
-NADP	ä n ~ a2: ~ d e2: ~ p 'e2:	ACR NOM	swe	swe
-NAFLD	ä n ~ a2: ~ ä f ~ ä l ~ d 'e2:	ACR NOM	swe	swe
-NAM	ä n ~ a2: ~ 'ä m	ACR NOM	swe	swe
-NAT	ä n ~ a2: ~ t 'e2:	ACR NOM	swe	swe
-NB	"ä n ~ b `e2:	ACR NOM	swe	swe
-NBER	ä n ~ b e2: ~ e2: ~ 'ä3 r	ACR NOM	swe	swe
-NBFL	ä n ~ b e2: ~ "ä f ~ `ä l	ACR NOM	swe	swe
-NBK	ä n ~ b e2: ~ k 'å2:	ACR NOM	swe	swe
-NBL	ä n ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-nbv	ä n ~ b e2: ~ v 'e2:	ACR NOM	swe	swe
-NC	"ä n ~ s `e2:	ACR NOM	swe	swe
-NCAP	ä n ~ s e2: ~ a2: ~ p 'e2:	ACR NOM	swe	swe
-NCC	"ä n ~ s e2: ~ s `e2:	ACR NOM	swe	swe
-NCCAM	ä n ~ s e2: ~ s e2: ~ "a2: ~ `ä m	ACR NOM	swe	swe
-NCEP	ä n ~ s e2: ~ e2: ~ p 'e2:	ACR NOM	swe	swe
-ND	"ä n ~ d `e2:	ACR NOM	swe	swe
-NDI	ä n ~ d e2: ~ 'i2:	ACR NOM	swe	swe
-NDR	ä n ~ d e2: ~ 'ä3 r	ACR NOM	swe	swe
-NDs	"ä n ~ d `e2: s	ACR GEN	swe	swe
-NE	"ä n ~ `e2:	ACR NOM	swe	swe
-NEA	ä n ~ e2: ~ 'a2:	ACR NOM	swe	swe
-NEAs	ä n ~ e2: ~ 'a2: s	ACR GEN	swe	swe
-NF	"ä n ~ `ä f	ACR NOM	swe	swe
-NFPF	ä n ~ ä f ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-NFPFs	ä n ~ ä f ~ p "e2: ~ `ä f s	ACR GEN	swe	swe
-NFR	ä n ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
+MST	ä m ~ ä s ~ t 'e:	ACR NOM	swe	swe
+MT	"ä m ~ t ,e:	ACR NOM	swe	swe
+mTc	ä m ~ t e: ~ s 'e:	ACR NOM	swe	swe
+MTDNA	"ä m ~ t ,e: | d e: ~ ä n ~ 'a:	ACR NOM	swe	swe
+MTF	ä m ~ t e: ~ 'ä f	ACR NOM	swe	swe
+MTG	ä m ~ t e: ~ g 'e:	ACR NOM	swe	swe
+MTR	ä m ~ t e: ~ 'ae r	ACR NOM	swe	swe
+MUCG	ä m ~ uu: ~ s e: ~ g 'e:	ACR NOM	swe	swe
+MV	"ä m ~ v ,e:	ACR NOM	swe	swe
+MVC	"ä m ~ v e: ~ s ,e:	ACR NOM	swe	swe
+MVD	ä m ~ v e: ~ d 'e:	ACR NOM	swe	swe
+MVG	ä m ~ v e: ~ g 'e:	ACR NOM	swe	swe
+MVL	ä m ~ v e: ~ 'ä l	ACR NOM	swe	swe
+MVSF	ä m ~ v e: ~ "ä s ~ ,ä f	ACR NOM	swe	swe
+NA	"ä n ~ ,a:	ACR NOM	swe	swe
+Na	"ä n ~ ,a:	ACR NOM	swe	swe
+NAB	ä n ~ a: ~ b 'e:	ACR NOM	swe	swe
+NaCl	"ä n ~ ,a: | s "e: ~ ,ä l	ACR NOM	swe	swe
+NaCl	ä n ~ a: ~ s "e: ~ ,ä l	ACR NOM	swe	swe
+nacl	ä n ~ a: ~ s "e: ~ ,ä l	ACR NOM	swe	swe
+NADH	ä n ~ a: ~ d "e: ~ h ,o:	ACR NOM	swe	swe
+NADP	ä n ~ a: ~ d e: ~ p 'e:	ACR NOM	swe	swe
+NAFLD	ä n ~ a: ~ ä f ~ ä l ~ d 'e:	ACR NOM	swe	swe
+NAM	ä n ~ a: ~ 'ä m	ACR NOM	swe	swe
+NAT	ä n ~ a: ~ t 'e:	ACR NOM	swe	swe
+NB	"ä n ~ b ,e:	ACR NOM	swe	swe
+NBER	ä n ~ b e: ~ e: ~ 'ae r	ACR NOM	swe	swe
+NBFL	ä n ~ b e: ~ "ä f ~ ,ä l	ACR NOM	swe	swe
+NBK	ä n ~ b e: ~ k 'o:	ACR NOM	swe	swe
+NBL	ä n ~ b e: ~ 'ä l	ACR NOM	swe	swe
+nbv	ä n ~ b e: ~ v 'e:	ACR NOM	swe	swe
+NC	"ä n ~ s ,e:	ACR NOM	swe	swe
+NCAP	ä n ~ s e: ~ a: ~ p 'e:	ACR NOM	swe	swe
+NCC	"ä n ~ s e: ~ s ,e:	ACR NOM	swe	swe
+NCCAM	ä n ~ s e: ~ s e: ~ "a: ~ ,ä m	ACR NOM	swe	swe
+NCEP	ä n ~ s e: ~ e: ~ p 'e:	ACR NOM	swe	swe
+ND	"ä n ~ d ,e:	ACR NOM	swe	swe
+NDI	ä n ~ d e: ~ 'i:	ACR NOM	swe	swe
+NDR	ä n ~ d e: ~ 'ae r	ACR NOM	swe	swe
+NDs	"ä n ~ d ,e: s	ACR GEN	swe	swe
+NE	"ä n ~ ,e:	ACR NOM	swe	swe
+NEA	ä n ~ e: ~ 'a:	ACR NOM	swe	swe
+NEAs	ä n ~ e: ~ 'a: s	ACR GEN	swe	swe
+NF	"ä n ~ ,ä f	ACR NOM	swe	swe
+NFPF	ä n ~ ä f ~ p e: ~ 'ä f	ACR NOM	swe	swe
+NFPFs	ä n ~ ä f ~ p "e: ~ ,ä f s	ACR GEN	swe	swe
+NFR	ä n ~ ä f ~ 'ae r	ACR NOM	swe	swe
 NFS	ä n ~ ä f ~ 'ä s	ACR NOM	swe	swe
-NGF	ä n ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-NGM	ä n ~ g e2: ~ 'ä m	ACR NOM	swe	swe
-NH	"ä n ~ h `å2:	ACR NOM	swe	swe
-NHL	ä n ~ h å2: ~ 'ä l	ACR NOM	swe	swe
-NHP	ä n ~ h å2: ~ p 'e2:	ACR NOM	swe	swe
-NHP	ä n ~ h å2: ~ p 'e2:	ACR NOM	swe	swe
-NHRK	ä n ~ h å2: ~ "ä3 r ~ k `å2:	ACR NOM	swe	swe
-NHS	ä n ~ h 'å2: ~ 'ä s	ACR NOM	swe	swe
-NHTCU	ä n ~ h å2: ~ t e2: ~ s e2: ~ 'u2:	ACR NOM	swe	swe
-NIACE	ä n ~ i2: ~ a2: ~ s e2: ~ 'e2:	ACR NOM	swe	swe
-NIBR	ä n ~ i2: ~ b e2: ~ 'ä3 r	ACR NOM	swe	swe
-NIDDM	ä n ~ i2: ~ d e2: ~ d e2: ~ 'ä m	ACR NOM	swe	swe
-NIPC	ä n ~ i2: ~ p e2: ~ s 'e2:	ACR NOM	swe	swe
-NIPF	ä n ~ i2: ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-NIPPV	ä n ~ i2: ~ p e2: ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-NIPPV	ä n ~ i2: ~ p e2: ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-NIR	ä n ~ i2: ~ 'ä3 r	ACR NOM	swe	swe
-NISCC	ä n ~ i2: ~ ä s ~ s "e2: ~ s `e2:	ACR NOM	swe	swe
-NIV	ä n ~ i2: ~ v 'e2:	ACR NOM	swe	swe
-NIV	ä n ~ i2: ~ v 'e2:	ACR NOM	swe	swe
-NJ	"ä n ~ j `i2:	ACR NOM	swe	swe
-NJA	ä n ~ j i2: ~ 'a2:	ACR NOM	swe	swe
-NK	"ä n ~ k `å2:	ACR NOM	swe	swe
-NK:S	"ä n ~ k `å2: s	ACR GEN	swe	swe
-NKVD	ä n ~ k å2: ~ v e2: ~ d 'e2:	ACR NOM	swe	swe
-nl	"ä n ~ `ä l	ACR NOM	swe	swe
-NLI	ä n ~ ä l ~ 'i2:	ACR NOM	swe	swe
+NGF	ä n ~ g e: ~ 'ä f	ACR NOM	swe	swe
+NGM	ä n ~ g e: ~ 'ä m	ACR NOM	swe	swe
+NH	"ä n ~ h ,o:	ACR NOM	swe	swe
+NHL	ä n ~ h o: ~ 'ä l	ACR NOM	swe	swe
+NHP	ä n ~ h o: ~ p 'e:	ACR NOM	swe	swe
+NHP	ä n ~ h o: ~ p 'e:	ACR NOM	swe	swe
+NHRK	ä n ~ h o: ~ "ae r ~ k ,o:	ACR NOM	swe	swe
+NHS	ä n ~ h o: ~ 'ä s	ACR NOM	swe	swe
+NHTCU	ä n ~ h o: ~ t e: ~ s e: ~ 'uu:	ACR NOM	swe	swe
+NIACE	ä n ~ i: ~ a: ~ s e: ~ 'e:	ACR NOM	swe	swe
+NIBR	ä n ~ i: ~ b e: ~ 'ae r	ACR NOM	swe	swe
+NIDDM	ä n ~ i: ~ d e: ~ d e: ~ 'ä m	ACR NOM	swe	swe
+NIPC	ä n ~ i: ~ p e: ~ s 'e:	ACR NOM	swe	swe
+NIPF	ä n ~ i: ~ p e: ~ 'ä f	ACR NOM	swe	swe
+NIPPV	ä n ~ i: ~ p e: ~ p e: ~ v 'e:	ACR NOM	swe	swe
+NIPPV	ä n ~ i: ~ p e: ~ p e: ~ v 'e:	ACR NOM	swe	swe
+NIR	ä n ~ i: ~ 'ae r	ACR NOM	swe	swe
+NISCC	ä n ~ i: ~ ä s ~ s "e: ~ s ,e:	ACR NOM	swe	swe
+NIV	ä n ~ i: ~ v 'e:	ACR NOM	swe	swe
+NIV	ä n ~ i: ~ v 'e:	ACR NOM	swe	swe
+NJ	"ä n ~ j ,i:	ACR NOM	swe	swe
+NJA	ä n ~ j i: ~ 'a:	ACR NOM	swe	swe
+NK	"ä n ~ k ,o:	ACR NOM	swe	swe
+NK:S	"ä n ~ k ,o: s	ACR GEN	swe	swe
+NKVD	ä n ~ k o: ~ v e: ~ d 'e:	ACR NOM	swe	swe
+nl	"ä n ~ ,ä l	ACR NOM	swe	swe
+NLI	ä n ~ ä l ~ 'i:	ACR NOM	swe	swe
 nlm	ä n ~ ä l ~ 'ä m	ACR NOM	swe	swe
-NM	"ä n ~ `ä m	ACR NOM	swe	swe
-NMr	ä n ~ ä m ~ 'ä3 r	ACR NOM	swe	swe
-NMROS	ä n ~ ä m ~ ä3 r ~ o2: ~ 'ä s	ACR NOM	swe	swe
-NN	"ä n ~ `ä n	ACR NOM	swe	swe
-NNH	ä n ~ ä n ~ h 'å2:	ACR NOM	swe	swe
-NNP	"ä n ~ ä n ~ p `e2:	ACR NOM	swe	swe
-NNR	ä n ~ ä n ~ 'ä3 r	ACR NOM	swe	swe
-NNs	"ä n ~ `ä n s	ACR GEN	swe	swe
-NNT	"ä n ~ ä n ~ t `e2:	ACR NOM	swe	swe
-NO	"ä n ~ `o2:	ACR NOM	swe	swe
-NOS-H	ä n ~ o2: ~ ä s ~ h 'å2:	ACR NOM	swe	swe
-NOU	ä n ~ o2: ~ 'u2:	ACR NOM	swe	swe
-NPF	ä n ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-NPH	ä n ~ p e2: ~ h 'å2:	ACR NOM	swe	swe
-NPI	ä n ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-NPM	ä n ~ p e2: ~ 'ä m	ACR NOM	swe	swe
-NPPV	ä n ~ p e2: ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-NPY	ä n ~ p e2: ~ 'y2:	ACR NOM	swe	swe
-NPÖ	ä n ~ p e2: ~ 'ö2:	ACR NOM	swe	swe
-NRK	"ä n ~ ä3 r ~ k `å2:	ACR NOM	swe	swe
-NRL:s	ä n ~ ä3 r ~ 'ä l s	ACR GEN	swe	swe
-NRP	"ä n ~ ä3 r ~ p `e2:	ACR NOM	swe	swe
-NRS	ä n ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-NS	"ä n ~ `ä s	ACR NOM	swe	swe
-NSAID	ä n ~ ä s ~ a2: ~ i2: ~ d 'e2:	ACR NOM	swe	swe
-NSAID:s	ä n ~ ä s ~ a2: ~ i2: ~ d 'e2: s	ACR GEN	swe	swe
-NSAL	ä n ~ ä s ~ "a2: ~ `ä l	ACR NOM	swe	swe
-NSC	ä n ~ ä s ~ s 'e2:	ACR NOM	swe	swe
-NSFR	ä n ~ ä s ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
+NM	"ä n ~ ,ä m	ACR NOM	swe	swe
+NMr	ä n ~ ä m ~ 'ae r	ACR NOM	swe	swe
+NMROS	ä n ~ ä m ~ ae r ~ u: ~ 'ä s	ACR NOM	swe	swe
+NN	"ä n ~ ,ä n	ACR NOM	swe	swe
+NNH	ä n ~ ä n ~ h 'o:	ACR NOM	swe	swe
+NNP	"ä n ~ ä n ~ p ,e:	ACR NOM	swe	swe
+NNR	ä n ~ ä n ~ 'ae r	ACR NOM	swe	swe
+NNs	"ä n ~ ,ä n s	ACR GEN	swe	swe
+NNT	"ä n ~ ä n ~ t ,e:	ACR NOM	swe	swe
+NO	"ä n ~ ,u:	ACR NOM	swe	swe
+NOS-H	ä n ~ u: ~ ä s ~ h 'o:	ACR NOM	swe	swe
+NOU	ä n ~ u: ~ 'uu:	ACR NOM	swe	swe
+NPF	ä n ~ p e: ~ 'ä f	ACR NOM	swe	swe
+NPH	ä n ~ p e: ~ h 'o:	ACR NOM	swe	swe
+NPI	ä n ~ p e: ~ 'i:	ACR NOM	swe	swe
+NPM	ä n ~ p e: ~ 'ä m	ACR NOM	swe	swe
+NPPV	ä n ~ p e: ~ p e: ~ v 'e:	ACR NOM	swe	swe
+NPY	ä n ~ p e: ~ 'y:	ACR NOM	swe	swe
+NPÖ	ä n ~ p e: ~ 'ö:	ACR NOM	swe	swe
+NRK	"ä n ~ ae r ~ k ,o:	ACR NOM	swe	swe
+NRL:s	ä n ~ ae r ~ 'ä l s	ACR GEN	swe	swe
+NRP	"ä n ~ ae r ~ p ,e:	ACR NOM	swe	swe
+NRS	ä n ~ ae r ~ 'ä s	ACR NOM	swe	swe
+NS	"ä n ~ ,ä s	ACR NOM	swe	swe
+NSAID	ä n ~ ä s ~ a: ~ i: ~ d 'e:	ACR NOM	swe	swe
+NSAID:s	ä n ~ ä s ~ a: ~ i: ~ d 'e: s	ACR GEN	swe	swe
+NSAL	ä n ~ ä s ~ "a: ~ ,ä l	ACR NOM	swe	swe
+NSC	ä n ~ ä s ~ s 'e:	ACR NOM	swe	swe
+NSFR	ä n ~ ä s ~ ä f ~ 'ae r	ACR NOM	swe	swe
 NSFS	ä n ~ ä s ~ ä f ~ 'ä s	ACR NOM	swe	swe
 NSL	ä n ~ ä s ~ 'ä l	ACR NOM	swe	swe
-NT	"ä n ~ t `e2:	ACR NOM	swe	swe
-NTBF	ä n ~ t e2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-NTBFs	ä n ~ t e2: ~ b e2: ~ 'ä f s	ACR GEN	swe	swe
-NTF	ä n ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-NTNU	ä n ~ t e2: ~ ä n ~ 'u2:	ACR NOM	swe	swe
-NTO	ä n ~ t e2: ~ 'o2:	ACR NOM	swe	swe
-NTS	ä n ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-NUB	ä n ~ u2: ~ b 'e2:	ACR NOM	swe	swe
-NUT	ä n ~ u2: ~ t 'e2:	ACR NOM	swe	swe
-NV	"ä n ~ v `e2:	ACR NOM	swe	swe
-NVC	ä n ~ v e2: ~ s 'e2:	ACR NOM	swe	swe
-NVG	ä n ~ v e2: ~ g 'e2:	ACR NOM	swe	swe
-NWT	ä n ~ v e2: ~ t 'e2:	ACR NOM	swe	swe
-NYHA	ä n ~ y2: ~ h å2: ~ 'a2:	ACR NOM	swe	swe
-OAE	o2: ~ a2: ~ 'e2:	ACR NOM	swe	swe
-OAU	o2: ~ a2: ~ 'u2:	ACR NOM	swe	swe
-OBK	o2: ~ b e2: ~ k 'å2:	ACR NOM	swe	swe
-OBT	o2: ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-OC	"o2: ~ s `e2:	ACR NOM	swe	swe
-OCD	o2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-OCR	o2: ~ s e2: ~ 'ä3 r	ACR NOM	swe	swe
-ODCI	o2: ~ d e2: ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-ODL	o2: ~ d e2: ~ 'ä l	ACR NOM	swe	swe
-oe	"o2: ~ `e2:	ACR NOM	swe	swe
-OEC	o2: ~ e2: ~ s 'e2:	ACR NOM	swe	swe
-Oecd	o2: ~ e2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-OECD	o2: ~ e2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-OECD:s	o2: ~ e2: ~ s e2: ~ d 'e2: s	ACR GEN	swe	swe
-OECDs	o2: ~ e2: ~ s e2: ~ d 'e2: s	ACR GEN	swe	swe
-OED	o2: ~ e2: ~ d 'e2:	ACR NOM	swe	swe
-OGE	o2: ~ e2: ~ g 'e2:	ACR NOM	swe	swe
-OGS	o2: ~ g e2: ~ 'ä s	ACR NOM	swe	swe
-OGTT	o2: ~ g e2: ~ t e2: ~ t 'e2:	ACR NOM	swe	swe
-OH	"o2: ~ h `å2:	ACR NOM	swe	swe
-Ohj	o2: ~ h å2: ~ j 'i2:	ACR NOM	swe	swe
-OHS	o2: ~ h å2: ~ 'ä s	ACR NOM	swe	swe
-OKT	o2: ~ k å2: ~ t 'e2:	ACR NOM	swe	swe
-OL	"o2: ~ `ä l	ACR NOM	swe	swe
-OLP	o2: ~ ä l ~ p 'e2:	ACR NOM	swe	swe
-OMB	o2: ~ ä m ~ b 'e2:	ACR NOM	swe	swe
-OMG	o2: ~ ä m ~ g 'e2:	ACR NOM	swe	swe
-OMT	"o2: ~ ä m ~ t `e2:	ACR NOM	swe	swe
-OMX:S	o2: ~ ä m ~ 'ä k s	ACR GEN	swe	swe
-OMXSB	o2: ~ ä m ~ ä k s ~ ä s ~ b 'e2:	ACR NOM	swe	swe
-ONJ	o2: ~ ä n ~ j 'i2:	ACR NOM	swe	swe
-OP	"o2: ~ p `e2:	ACR NOM	swe	swe
-OPG	o2: ~ p e2: ~ g 'e2:	ACR NOM	swe	swe
-OS	"o2: ~ `ä s	ACR NOM	swe	swe
-OSCE	o2: ~ ä s ~ s e2: ~ 'e2:	ACR NOM	swe	swe
-OSSE	o2: ~ ä s ~ ä s ~ 'e2:	ACR NOM	swe	swe
-OSU	o2: ~ ä s ~ 'u2:	ACR NOM	swe	swe
-OTA	o2: ~ t e2: ~ 'a2:	ACR NOM	swe	swe
-OTC	o2: ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-OTW	o2: ~ t e2: ~ v 'e2:	ACR NOM	swe	swe
-OU	"o2: ~ `u2:	ACR NOM	swe	swe
-OUP	o2: ~ u2: ~ p 'e2:	ACR NOM	swe	swe
-OVD	o2: ~ v e2: ~ d 'e2:	ACR NOM	swe	swe
-OVK	o2: ~ v e2: ~ k 'å2:	ACR NOM	swe	swe
-OXA	o2: ~ ä k s ~ 'a2:	ACR NOM	swe	swe
-OXB	o2: ~ ä k s ~ b 'e2:	ACR NOM	swe	swe
-oxh	o2: ~ ä k s ~ h 'å2:	ACR NOM	swe	swe
-OXM	o2: ~ ä k s ~ 'ä m	ACR NOM	swe	swe
-Oä	"o2: ~ `ä2:	ACR NOM	swe	swe
-P-ACTH	p "e2: - a2: ~ s e2: ~ t e2: ~ h `å2:	ACR NOM	swe	swe
-p-ANCA	p "e2: - a2: ~ ä n ~ s e2: ~ `a2:	ACR NOM	swe	swe
-P-CRP	p "e2: - s e2: ~ ä3 r ~ p `e2:	ACR NOM	swe	swe
-PA	p "e2: ~ `a2:	ACR NOM	swe	swe
-PaCO	p e2: ~ a2: ~ s "e2: ~ `o2:	ACR NOM	swe	swe
-PAF	p e2: ~ a2: ~ 'ä f	ACR NOM	swe	swe
-PAG	p e2: ~ a2: ~ g 'e2:	ACR NOM	swe	swe
-PAH	p e2: ~ a2: ~ h 'å2:	ACR NOM	swe	swe
-PAI	p e2: ~ a2: ~ 'i2:	ACR NOM	swe	swe
-PAS	p e2: ~ a2: ~ 'ä s	ACR NOM	swe	swe
-PB	p "e2: ~ b `e2:	ACR NOM	swe	swe
-PBB	p e2: ~ b e2: ~ b 'e2:	ACR NOM	swe	swe
-PBC	p e2: ~ b e2: ~ s 'e2:	ACR NOM	swe	swe
-PBD	p e2: ~ b e2: ~ d 'e2:	ACR NOM	swe	swe
-PBF	p e2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-PBG	p e2: ~ b e2: ~ g 'e2:	ACR NOM	swe	swe
-PBGD	p e2: ~ b e2: ~ g "e2: ~ d `e2:	ACR NOM	swe	swe
-PBI	p e2: ~ b e2: ~ 'i2:	ACR NOM	swe	swe
-PBL	p e2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-PBL:s	p e2: ~ b e2: ~ 'ä l s	ACR GEN	swe	swe
-PBP	p e2: ~ b e2: ~ p 'e2:	ACR NOM	swe	swe
-PBS	p e2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-PBSs	p e2: ~ b e2: ~ 'ä s	ACR GEN	swe	swe
-PBU	p e2: ~ b e2: ~ 'u2:	ACR NOM	swe	swe
-PC	p "e2: ~ s `e2:	# ACR NOM	swe	swe
-PCA	p e2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-PCAOB	p e2: ~ s e2: ~ a2: ~ o2: ~ b 'e2:	ACR NOM	swe	swe
-PCB	p e2: ~ s e2: ~ b 'e2:	ACR NOM	swe	swe
-PCCS	p e2: ~ s e2: ~ s e2: ~ 'ä s	ACR NOM	swe	swe
-PCD	p e2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-PCI	p e2: ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-PCI-E	p e2: ~ s e2: ~ 'i2: | 'e2:	ACR NOM	swe	swe
-PCL	p e2: ~ s e2: ~ 'ä l	ACR NOM	swe	swe
-PCL-R	p e2: ~ s e2: ~ ä l ~ 'ä3 r	ACR NOM	swe	swe
-PCO	p e2: ~ s e2: ~ 'o2:	ACR NOM	swe	swe
-PCOS	p e2: ~ s e2: ~ o2: ~ 'ä s	ACR NOM	swe	swe
-PCR	p e2: ~ s e2: ~ 'ä3 r	ACR NOM	swe	swe
-PCT	p e2: ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-pcV	p e2: ~ s e2: ~ v 'e2:	ACR NOM	swe	swe
-PD	p "e2: ~ d `e2:	ACR NOM	swe	swe
-PDA	p e2: ~ d e2: ~ 'a2:	ACR NOM	swe	swe
-PDF	p e2: ~ d e2: ~ 'ä f	ACR NOM	swe	swe
-pdf	p e2: ~ d e2: ~ 'ä f	ACR NOM	swe	swe
-PDGF	p e2: ~ d e2: ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-pdm	p e2: ~ d e2: ~ 'ä m	ACR NOM	swe	swe
-PE	p "e2: ~ `e2:	ACR NOM	swe	swe
-PEEP	p e2: ~ e2: ~ e2: ~ p 'e2:	ACR NOM	swe	swe
-PEM	p e2: ~ e2: ~ 'ä m	ACR NOM	swe	swe
-PF	p "e2: ~ `ä f	ACR NOM	swe	swe
-PFAPA	p e2: ~ ä f ~ a2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-PFO	p e2: ~ ä f ~ 'o2:	ACR NOM	swe	swe
-PFP	p e2: ~ ä f ~ p 'e2:	ACR NOM	swe	swe
-PG	p "e2: ~ g `e2:	ACR NOM	swe	swe
-PGD	p e2: ~ g e2: ~ d 'e2:	ACR NOM	swe	swe
-PGE	p e2: ~ g e2: ~ 'e2:	ACR NOM	swe	swe
-PGI	p e2: ~ g e2: ~ 'i2:	ACR NOM	swe	swe
-PGU	p e2: ~ g e2: ~ 'u2:	ACR NOM	swe	swe
-PGV	p e2: ~ g e2: ~ v 'e2:	ACR NOM	swe	swe
-Ph	p "e2: ~ h `å2:	ACR NOM	swe	swe
-Phe	p e2: ~ h å2: ~ 'e2:	ACR NOM	swe	swe
-PHMB	p e2: ~ h å2: ~ ä m ~ b 'e2:	ACR NOM	swe	swe
-php	p e2: ~ h å2: ~ p 'e2:	ACR NOM	swe	swe
-pHPT	p e2: ~ h å2: ~ p e2: ~ t 'e2:	ACR NOM	swe	swe
-PHTLS	p e2: ~ h å2: ~ t e2: ~ ä l ~ 'ä s	ACR NOM	swe	swe
-PID	p e2: ~ i2: ~ d 'e2:	ACR NOM	swe	swe
-PJ	p "e2: ~ j `i2:	ACR NOM	swe	swe
-PjL	p e2: ~ j i2: ~ 'ä l	ACR NOM	swe	swe
-PjLs	p e2: ~ j i2: ~ 'ä l s	ACR GEN	swe	swe
-PK	p "e2: ~ k `å2:	ACR NOM	swe	swe
-PKU	p e2: ~ k å2: ~ 'u2:	ACR NOM	swe	swe
-PL	p "e2: ~ `ä l	ACR NOM	swe	swe
-PLA	p e2: ~ ä l ~ 'a2:	ACR NOM	swe	swe
-PLB	p e2: ~ ä l ~ b 'e2:	ACR NOM	swe	swe
-PLO	p e2: ~ ä l ~ 'o2:	ACR NOM	swe	swe
-PLT	p e2: ~ ä l ~ t 'e2:	ACR NOM	swe	swe
-PM	p "e2: ~ `ä m	ACR NOM	swe	swe
-PMDS	p e2: ~ ä m ~ d "e2: ~ `ä s	ACR NOM	swe	swe
-PMI	p e2: ~ ä m ~ 'i2:	ACR NOM	swe	swe
-PMS	p e2: ~ ä m ~ 'ä s	ACR NOM	swe	swe
-PN	p "e2: ~ `ä n	ACR NOM	swe	swe
-PNC	p e2: ~ ä n ~ s 'e2:	ACR NOM	swe	swe
-PNH	p e2: ~ ä n ~ h 'å2:	ACR NOM	swe	swe
-PNTR	p e2: ~ ä n ~ t e2: ~ 'ä3 r	ACR NOM	swe	swe
-PO	p "e2: ~ `o2:	ACR NOM	swe	swe
-PON	p e2: ~ o2: ~ 'ä n	ACR NOM	swe	swe
-PPARG	p e2: ~ p e2: ~ "a2: ~ ä3 r ~ g `e2:	ACR NOM	swe	swe
-PPCM	p e2: ~ p e2: ~ s e2: ~ 'ä m	ACR NOM	swe	swe
-PPD	p e2: ~ p e2: ~ d 'e2:	ACR NOM	swe	swe
-PPI	p e2: ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-PPM	p e2: ~ p e2: ~ 'ä m	ACR NOM	swe	swe
-PPP	p e2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-PPT	p e2: ~ p e2: ~ t 'e2:	ACR NOM	swe	swe
-PQ	p "e2: ~ k `u2:	ACR NOM	swe	swe
-PQS	p e2: ~ k u2: ~ 'ä s	ACR NOM	swe	swe
-PR	p "e2: ~ `ä3 r	ACR NOM	swe	swe
-Pr-	p "e2: ~ `ä3 r	ACR NOM	swe	swe
-PR-	p "e2: ~ `ä3 r	ACR NOM	swe	swe
-PrA	p e2: ~ ä3 r ~ 'a2:	ACR NOM	swe	swe
-PrCA	p e2: ~ ä3 r ~ s "e2: ~ `a2:	ACR NOM	swe	swe
-PrL	p e2: ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-PrP	p e2: ~ ä3 r ~ p 'e2:	ACR NOM	swe	swe
-PrPc	p e2: ~ ä3 r ~ p "e2: ~ s `e2:	ACR NOM	swe	swe
-PrPSc	p e2: ~ ä3 r ~ p "e2: ~ ä s ~ s `e2:	ACR NOM	swe	swe
-PRT	p e2: ~ ä3 r ~ t 'e2:	ACR NOM	swe	swe
-PRV	p "e2: ~ ä3 r ~ v `e2:	ACR NOM	swe	swe
-PS	p "e2: ~ `ä s	ACR NOM	swe	swe
-PSA	p e2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-PSO	p e2: ~ ä s ~ 'o2:	ACR NOM	swe	swe
-PSP	p e2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-pss	p "e2: ~ `ä s s	ACR NOM	swe	swe
-pSS	p e2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-PSVT	p e2: ~ ä s ~ v e2: ~ t 'e2:	ACR NOM	swe	swe
-PT	p "e2: ~ t `e2:	ACR NOM	swe	swe
-PTA	p e2: ~ t e2: ~ 'a2:	ACR NOM	swe	swe
-PTB	p e2: ~ t e2: ~ b 'e2:	ACR NOM	swe	swe
-PTC	p e2: ~ t e2: ~ s 'e2:	ACR NOM	swe	swe
-PTCA	p e2: ~ t e2: ~ s "e2: ~ `a2:	ACR NOM	swe	swe
-PTF	p e2: ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-PTH	p e2: ~ t e2: ~ h 'å2:	ACR NOM	swe	swe
-PTK	p e2: ~ t e2: ~ k 'å2:	ACR NOM	swe	swe
-pTNM	p e2: ~ t e2: ~ ä n ~ 'ä m	ACR NOM	swe	swe
-PTS	p e2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-PTSD	p e2: ~ t e2: ~ "ä s ~ d `e2:	ACR NOM	swe	swe
-PTSS	p e2: ~ t e2: ~ "ä s ~ `ä s	ACR NOM	swe	swe
-PU	p "e2: ~ `u2:	ACR NOM	swe	swe
-PUF	p e2: ~ u2: ~ 'ä f	ACR NOM	swe	swe
-PUPPP	p e2: ~ u2: ~ p e2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-PV	p "e2: ~ v `e2:	ACR NOM	swe	swe
-PVK	p e2: ~ v e2: ~ k 'å2:	ACR NOM	swe	swe
-PVN	p e2: ~ v e2: ~ 'ä n	ACR NOM	swe	swe
-px	p "e2: ~ `ä k s	ACR NOM	swe	swe
-PYT	p e2: ~ y2: ~ t 'e2:	ACR NOM	swe	swe
-PYY	p e2: ~ y2: ~ 'y2:	ACR NOM	swe	swe
-q	k 'u2:	ACR NOM	swe	swe
-qac	k u2: ~ a2: ~ s 'e2:	ACR NOM	swe	swe
-qnr	k u2: ~ ä n ~ 'ä3 r	ACR NOM	swe	swe
-qnrA	k u2: ~ ä n ~ 'ä3 r | 'a2:	ACR NOM	swe	swe
-qnrB	k u2: ~ ä n ~ 'ä3 r | b 'e2:	ACR NOM	swe	swe
-qnrk	k u2: ~ ä n ~ "ä3 r ~ k 'å2:	ACR NOM	swe	swe
-qnrS	k u2: ~ ä n ~ 'ä3 r | 'ä s	ACR NOM	swe	swe
-QoL	k u2: ~ o2: ~ 'ä l	ACR NOM	swe	swe
-Qq	k "u2: ~ k `u2:	ACR NOM	swe	swe
-QRS	k u2: ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-QX	k "u2: ~ `ä k s	ACR NOM	swe	swe
-RA	"ä3 r ~ `a2:	ACR NOM	swe	swe
-RAF	ä3 r ~ a2: ~ 'ä f	ACR NOM	swe	swe
-rAOM	ä3 r ~ a2: ~ o2: ~ 'ä m	ACR NOM	swe	swe
-RAÄ	ä3 r ~ a2: ~ 'ä2:	ACR NOM	swe	swe
-RB	"ä3 r ~ b `e2:	ACR NOM	swe	swe
-rBBB	ä3 r ~ b e2: ~ b e2: ~ b 'e2:	ACR NOM	swe	swe
-RBC	ä3 r ~ b e2: ~ s 'e2:	ACR NOM	swe	swe
-RBD	ä3 r ~ b e2: ~ d 'e2:	ACR NOM	swe	swe
-rBP	ä3 r ~ b e2: ~ p 'e2:	ACR NOM	swe	swe
-RBS	ä3 r ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-RC	"ä3 r ~ s `e2:	ACR NOM	swe	swe
-rCBF	ä3 r ~ s e2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-RCT	ä3 r ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-RD	"ä3 r ~ d `e2:	ACR NOM	swe	swe
-RDS	ä3 r ~ d e2: ~ 'ä s	ACR NOM	swe	swe
-REG	ä3 r ~ e2: ~ g 'e2:	ACR NOM	swe	swe
-RF	"ä3 r ~ `ä f	ACR NOM	swe	swe
-RFK	"ä3 r ~ ä f ~ k `å2:	ACR NOM	swe	swe
-RFL	ä3 r ~ ä f ~ 'ä l	ACR NOM	swe	swe
-rFLP	ä3 r ~ ä f ~ "ä l ~ p `e2:	ACR NOM	swe	swe
-RFS	ä3 r ~ ä f ~ 'ä s	ACR NOM	swe	swe
-RFSL	ä3 r ~ ä f ~ ä s ~ 'ä l	ACR NOM	swe	swe
-RFSU	ä3 r ~ ä f ~ ä s ~ 'u2:	ACR NOM	swe	swe
-rfv	"ä3 r ~ ä f ~ v `e2:	ACR NOM	swe	swe
-RG	"ä3 r ~ g `e2:	ACR NOM	swe	swe
-RGK	ä3 r ~ g e2: ~ k 'å2:	ACR NOM	swe	swe
-RH	"ä3 r ~ h `å2:	ACR NOM	swe	swe
-rhu-t-PA	ä3 r ~ h å2: ~ 'u2: | t 'e2: | p "e2: ~ `a2:	ACR NOM	swe	swe
-RJ	"ä3 r ~ j `i2:	ACR NOM	swe	swe
-RK	"ä3 r ~ k `å2:	ACR NOM	swe	swe
-RKC	ä3 r ~ k å2: ~ s 'e2:	ACR NOM	swe	swe
-RKP	ä3 r ~ k å2: ~ p 'e2:	ACR NOM	swe	swe
-RKT	ä3 r ~ k å2: ~ t 'e2:	ACR NOM	swe	swe
-RL	"ä3 r ~ `ä l	ACR NOM	swe	swe
-RLS	ä3 r ~ ä l ~ 'ä s	ACR NOM	swe	swe
-RM	"ä3 r ~ `ä m	ACR NOM	swe	swe
-RME	ä3 r ~ ä m ~ 'e2:	ACR NOM	swe	swe
-RMI	ä3 r ~ ä m ~ 'i2:	ACR NOM	swe	swe
-RMP	ä3 r ~ ä m ~ p 'e2:	ACR NOM	swe	swe
-RMR	ä3 r ~ ä m ~ 'ä3 r	ACR NOM	swe	swe
-RMV	"ä3 r ~ ä m ~ v `e2:	ACR NOM	swe	swe
-RN	"ä3 r ~ `ä n	ACR NOM	swe	swe
-RNA	ä3 r ~ ä n ~ 'a2:	ACR NOM	swe	swe
-RNL	ä3 r ~ ä n ~ 'ä l	ACR NOM	swe	swe
-RNS	ä3 r ~ ä n ~ 'ä s	ACR NOM	swe	swe
-RP	"ä3 r ~ p `e2:	ACR NOM	swe	swe
-RPE	ä3 r ~ p e2: ~ 'e2:	ACR NOM	swe	swe
-RPF	ä3 r ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-RPG	ä3 r ~ p e2: ~ g 'e2:	ACR NOM	swe	swe
-RPL	ä3 r ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-RPS	ä3 r ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-RPU	ä3 r ~ p e2: ~ 'u2:	ACR NOM	swe	swe
-rQ	"ä3 r ~ k `u2:	ACR NOM	swe	swe
-RR	"ä3 r ~ `ä3 r	ACR NOM	swe	swe
-rRNA	"ä3 r ~ ä3 r ~ ä n ~ `a2:	ACR NOM	swe	swe
-RRR	ä3 r ~ ä3 r ~ 'ä3 r	ACR NOM	swe	swe
-RRV	"ä3 r ~ ä3 r ~ v `e2:	ACR NOM	swe	swe
-RS	"ä3 r ~ `ä s	ACR NOM	swe	swe
-RSFH	ä3 r ~ ä s ~ ä f ~ h 'å2:	ACR NOM	swe	swe
-RSFS	ä3 r ~ ä s ~ ä f ~ 'ä s	ACR NOM	swe	swe
-rshs	ä3 r ~ ä s ~ h "å2: ~ `ä s	ACR NOM	swe	swe
-rskr	ä3 r ~ ä s ~ k å2: ~ 'ä3 r	ACR NOM	swe	swe
-rSSE	ä3 r ~ ä s ~ ä s ~ 'e2:	ACR NOM	swe	swe
-RSV	"ä3 r ~ ä s ~ v `e2:	ACR NOM	swe	swe
-RSV:s	"ä3 r ~ ä s ~ v `e2: s	ACR GEN	swe	swe
-rT	"ä3 r ~ t `e2:	ACR NOM	swe	swe
-rt-PA	"ä3 r ~ t `e2: | p "e2: ~ `a2:	ACR NOM	swe	swe
-RTCQ	ä3 r ~ t e2: ~ s e2: ~ k 'u2:	ACR NOM	swe	swe
-RTL	ä3 r ~ t e2: ~ 'ä l	ACR NOM	swe	swe
-RTP	ä3 r ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-rTS	ä3 r ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-RTVL	ä3 r ~ t e2: ~ v e2: ~ 'ä l	ACR NOM	swe	swe
-RUC	ä3 r ~ u2: ~ s 'e2:	ACR NOM	swe	swe
-RUF	ä3 r ~ u2: ~ 'ä f	ACR NOM	swe	swe
-RV	"ä3 r ~ v `e2:	ACR NOM	swe	swe
-RVF	"ä3 r ~ ä f ~ v `e2:	ACR NOM	swe	swe
-RW	'ä3 r | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-RÅC	ä3 r ~ å2: ~ s 'e2:	ACR NOM	swe	swe
-S-ALP	'ä s | a2: ~ ä l ~ p 'e2:	ACR NOM	swe	swe
-S-Ca	'ä s | s "e2: ~ `a2:	ACR NOM	swe	swe
-S-Cl	'ä s | s "e2: ~ `ä l	ACR NOM	swe	swe
-S-Na	'ä s | "ä n ~ `a2:	ACR NOM	swe	swe
-S-PSA	'ä s | p e2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-S-PTH	'ä s | p e2: ~ t e2: ~ h 'å2:	ACR NOM	swe	swe
-S-TfR	'ä s | t e2: ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-S-TSH	'ä s | t e2: ~ ä s ~ h 'å2:	ACR NOM	swe	swe
-SAA	ä s ~ a2: ~ 'a2:	ACR NOM	swe	swe
-SAB	"ä s ~ a2: ~ b `e2:	ACR NOM	swe	swe
-SAC	ä s ~ a2: ~ s 'e2:	ACR NOM	swe	swe
-SAGB	ä s ~ a2: ~ g "e2: ~ b `e2:	ACR NOM	swe	swe
-SAOB	ä s ~ a2: ~ o2: ~ b 'e2:	ACR NOM	swe	swe
-SAP	ä s ~ a2: ~ p 'e2:	ACR NOM	swe	swe
-SAP:s	ä s ~ a2: ~ p `e2: s	ACR GEN	swe	swe
-SB	"ä s ~ b `e2:	ACR NOM	swe	swe
-SBA	ä s ~ b e2: ~ 'a2:	ACR NOM	swe	swe
-SBC:s	ä s ~ b e2: ~ s 'e2: s	ACR GEN	swe	swe
-SBetL	ä s ~ b e2: ~ e2: ~ t e2: ~ 'ä l	ACR NOM	swe	swe
-SBF	ä s ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-SBIC	ä s ~ b e2: ~ i2: ~ s 'e2:	ACR NOM	swe	swe
-SBL	ä s ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-SBL:s	ä s ~ b e2: ~ 'ä l s	ACR GEN	swe	swe
-SBS	ä s ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-SBT	ä s ~ b e2: ~ t 'e2:	ACR NOM	swe	swe
-SBU	ä s ~ b e2: ~ 'u2:	ACR NOM	swe	swe
-SBUs	ä s ~ b e2: ~ 'u2: s	ACR GEN	swe	swe
-SC	"ä s ~ s `e2:	ACR NOM	swe	swe
-SCA	ä s ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-SCAE	ä s ~ s e2: ~ a2: ~ 'e2:	ACR NOM	swe	swe
-scb	"ä s ~ s e2: ~ b `e2:	ACR NOM	swe	swe
-SCB:s	"ä s ~ s e2: ~ b `e2: s	ACR GEN	swe	swe
-SCB:s	ä s ~ s e2: ~ b 'e2: s	ACR GEN	swe	swe
-SCBs	"ä s ~ s e2: ~ b `e2: s	ACR GEN	swe	swe
-Sci	ä s ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-SCI	ä s ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-SCID	ä s ~ s e2: ~ i2: ~ d 'e2:	ACR NOM	swe	swe
-SCID-D	ä s ~ s e2: ~ i2: ~ d `e2: | d 'e2:	ACR NOM	swe	swe
-SCM	ä s ~ s e2: ~ 'ä m	ACR NOM	swe	swe
-SCT	ä s ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-SD	"ä s ~ d `e2:	ACR NOM	swe	swe
-SDAT	ä s ~ d e2: ~ a2: ~ t 'e2:	ACR NOM	swe	swe
-SDLT	ä s ~ d e2: ~ ä l ~ t 'e2:	ACR NOM	swe	swe
-SDR	ä s ~ d e2: ~ 'ä3 r	ACR NOM	swe	swe
-SDS	ä s ~ d e2: ~ 'ä s	ACR NOM	swe	swe
-SEB	"ä s ~ e2: ~ b `e2:	ACR NOM	swe	swe
-SEC	ä s ~ e2: ~ s 'e2:	ACR NOM	swe	swe
-SEO	ä s ~ e2: ~ 'o2:	ACR NOM	swe	swe
-SF	"ä s ~ `ä f	ACR NOM	swe	swe
-SFA	ä s ~ ä f ~ 'a2:	ACR NOM	swe	swe
-SFHL	ä s ~ ä f ~ h "å2: ~ `ä l	ACR NOM	swe	swe
-Sfi	ä s ~ ä f ~ 'i2:	ACR NOM	swe	swe
-sfi	ä s ~ ä f ~ 'i2:	ACR NOM	swe	swe
+NT	"ä n ~ t ,e:	ACR NOM	swe	swe
+NTBF	ä n ~ t e: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+NTBFs	ä n ~ t e: ~ b e: ~ 'ä f s	ACR GEN	swe	swe
+NTF	ä n ~ t e: ~ 'ä f	ACR NOM	swe	swe
+NTNU	ä n ~ t e: ~ ä n ~ 'uu:	ACR NOM	swe	swe
+NTO	ä n ~ t e: ~ 'u:	ACR NOM	swe	swe
+NTS	ä n ~ t e: ~ 'ä s	ACR NOM	swe	swe
+NUB	ä n ~ uu: ~ b 'e:	ACR NOM	swe	swe
+NUT	ä n ~ uu: ~ t 'e:	ACR NOM	swe	swe
+NV	"ä n ~ v ,e:	ACR NOM	swe	swe
+NVC	ä n ~ v e: ~ s 'e:	ACR NOM	swe	swe
+NVG	ä n ~ v e: ~ g 'e:	ACR NOM	swe	swe
+NWT	ä n ~ v e: ~ t 'e:	ACR NOM	swe	swe
+NYHA	ä n ~ y: ~ h o: ~ 'a:	ACR NOM	swe	swe
+OAE	u: ~ a: ~ 'e:	ACR NOM	swe	swe
+OAU	u: ~ a: ~ 'uu:	ACR NOM	swe	swe
+OBK	u: ~ b e: ~ k 'o:	ACR NOM	swe	swe
+OBT	u: ~ b e: ~ t 'e:	ACR NOM	swe	swe
+OC	"u: ~ s ,e:	ACR NOM	swe	swe
+OCD	u: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+OCR	u: ~ s e: ~ 'ae r	ACR NOM	swe	swe
+ODCI	u: ~ d e: ~ s e: ~ 'i:	ACR NOM	swe	swe
+ODL	u: ~ d e: ~ 'ä l	ACR NOM	swe	swe
+oe	"u: ~ ,e:	ACR NOM	swe	swe
+OEC	u: ~ e: ~ s 'e:	ACR NOM	swe	swe
+Oecd	u: ~ e: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+OECD	u: ~ e: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+OECD:s	u: ~ e: ~ s e: ~ d 'e: s	ACR GEN	swe	swe
+OECDs	u: ~ e: ~ s e: ~ d 'e: s	ACR GEN	swe	swe
+OED	u: ~ e: ~ d 'e:	ACR NOM	swe	swe
+OGE	u: ~ e: ~ g 'e:	ACR NOM	swe	swe
+OGS	u: ~ g e: ~ 'ä s	ACR NOM	swe	swe
+OGTT	u: ~ g e: ~ t e: ~ t 'e:	ACR NOM	swe	swe
+OH	"u: ~ h ,o:	ACR NOM	swe	swe
+Ohj	u: ~ h o: ~ j 'i:	ACR NOM	swe	swe
+OHS	u: ~ h o: ~ 'ä s	ACR NOM	swe	swe
+OKT	u: ~ k o: ~ t 'e:	ACR NOM	swe	swe
+OL	"u: ~ ,ä l	ACR NOM	swe	swe
+OLP	u: ~ ä l ~ p 'e:	ACR NOM	swe	swe
+OMB	u: ~ ä m ~ b 'e:	ACR NOM	swe	swe
+OMG	u: ~ ä m ~ g 'e:	ACR NOM	swe	swe
+OMT	"u: ~ ä m ~ t ,e:	ACR NOM	swe	swe
+OMX:S	u: ~ ä m ~ 'ä k s	ACR GEN	swe	swe
+OMXSB	u: ~ ä m ~ ä k s ~ ä s ~ b 'e:	ACR NOM	swe	swe
+ONJ	u: ~ ä n ~ j 'i:	ACR NOM	swe	swe
+OP	"u: ~ p ,e:	ACR NOM	swe	swe
+OPG	u: ~ p e: ~ g 'e:	ACR NOM	swe	swe
+OS	"u: ~ ,ä s	ACR NOM	swe	swe
+OSCE	u: ~ ä s ~ s e: ~ 'e:	ACR NOM	swe	swe
+OSSE	u: ~ ä s ~ ä s ~ 'e:	ACR NOM	swe	swe
+OSU	u: ~ ä s ~ 'uu:	ACR NOM	swe	swe
+OTA	u: ~ t e: ~ 'a:	ACR NOM	swe	swe
+OTC	u: ~ t e: ~ s 'e:	ACR NOM	swe	swe
+OTW	u: ~ t e: ~ v 'e:	ACR NOM	swe	swe
+OU	"u: ~ ,uu:	ACR NOM	swe	swe
+OUP	u: ~ uu: ~ p 'e:	ACR NOM	swe	swe
+OVD	u: ~ v e: ~ d 'e:	ACR NOM	swe	swe
+OVK	u: ~ v e: ~ k 'o:	ACR NOM	swe	swe
+OXA	u: ~ ä k s ~ 'a:	ACR NOM	swe	swe
+OXB	u: ~ ä k s ~ b 'e:	ACR NOM	swe	swe
+oxh	u: ~ ä k s ~ h 'o:	ACR NOM	swe	swe
+OXM	u: ~ ä k s ~ 'ä m	ACR NOM	swe	swe
+Oä	"u: ~ ,ä:	ACR NOM	swe	swe
+P-ACTH	p "e: - a: ~ s e: ~ t e: ~ h ,o:	ACR NOM	swe	swe
+p-ANCA	p "e: - a: ~ ä n ~ s e: ~ ,a:	ACR NOM	swe	swe
+P-CRP	p "e: - s e: ~ ae r ~ p ,e:	ACR NOM	swe	swe
+PA	p "e: ~ ,a:	ACR NOM	swe	swe
+PaCO	p e: ~ a: ~ s "e: ~ ,u:	ACR NOM	swe	swe
+PAF	p e: ~ a: ~ 'ä f	ACR NOM	swe	swe
+PAG	p e: ~ a: ~ g 'e:	ACR NOM	swe	swe
+PAH	p e: ~ a: ~ h 'o:	ACR NOM	swe	swe
+PAI	p e: ~ a: ~ 'i:	ACR NOM	swe	swe
+PAS	p e: ~ a: ~ 'ä s	ACR NOM	swe	swe
+PB	p "e: ~ b ,e:	ACR NOM	swe	swe
+PBB	p e: ~ b e: ~ b 'e:	ACR NOM	swe	swe
+PBC	p e: ~ b e: ~ s 'e:	ACR NOM	swe	swe
+PBD	p e: ~ b e: ~ d 'e:	ACR NOM	swe	swe
+PBF	p e: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+PBG	p e: ~ b e: ~ g 'e:	ACR NOM	swe	swe
+PBGD	p e: ~ b e: ~ g "e: ~ d ,e:	ACR NOM	swe	swe
+PBI	p e: ~ b e: ~ 'i:	ACR NOM	swe	swe
+PBL	p e: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+PBL:s	p e: ~ b e: ~ 'ä l s	ACR GEN	swe	swe
+PBP	p e: ~ b e: ~ p 'e:	ACR NOM	swe	swe
+PBS	p e: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+PBSs	p e: ~ b e: ~ 'ä s	ACR GEN	swe	swe
+PBU	p e: ~ b e: ~ 'uu:	ACR NOM	swe	swe
+PCA	p e: ~ s e: ~ 'a:	ACR NOM	swe	swe
+PCAOB	p e: ~ s e: ~ a: ~ u: ~ b 'e:	ACR NOM	swe	swe
+PCB	p e: ~ s e: ~ b 'e:	ACR NOM	swe	swe
+PCCS	p e: ~ s e: ~ s e: ~ 'ä s	ACR NOM	swe	swe
+PCD	p e: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+PCI	p e: ~ s e: ~ 'i:	ACR NOM	swe	swe
+PCI-E	p e: ~ s e: ~ 'i: | 'e:	ACR NOM	swe	swe
+PCL	p e: ~ s e: ~ 'ä l	ACR NOM	swe	swe
+PCL-R	p e: ~ s e: ~ ä l ~ 'ae r	ACR NOM	swe	swe
+PCO	p e: ~ s e: ~ 'u:	ACR NOM	swe	swe
+PCOS	p e: ~ s e: ~ u: ~ 'ä s	ACR NOM	swe	swe
+PCR	p e: ~ s e: ~ 'ae r	ACR NOM	swe	swe
+PCT	p e: ~ s e: ~ t 'e:	ACR NOM	swe	swe
+pcV	p e: ~ s e: ~ v 'e:	ACR NOM	swe	swe
+PD	p "e: ~ d ,e:	ACR NOM	swe	swe
+PDA	p e: ~ d e: ~ 'a:	ACR NOM	swe	swe
+PDF	p e: ~ d e: ~ 'ä f	ACR NOM	swe	swe
+pdf	p e: ~ d e: ~ 'ä f	ACR NOM	swe	swe
+PDGF	p e: ~ d e: ~ g e: ~ 'ä f	ACR NOM	swe	swe
+pdm	p e: ~ d e: ~ 'ä m	ACR NOM	swe	swe
+PE	p "e: ~ ,e:	ACR NOM	swe	swe
+PEEP	p e: ~ e: ~ e: ~ p 'e:	ACR NOM	swe	swe
+PEM	p e: ~ e: ~ 'ä m	ACR NOM	swe	swe
+PF	p "e: ~ ,ä f	ACR NOM	swe	swe
+PFAPA	p e: ~ ä f ~ a: ~ p e: ~ 'a:	ACR NOM	swe	swe
+PFO	p e: ~ ä f ~ 'u:	ACR NOM	swe	swe
+PFP	p e: ~ ä f ~ p 'e:	ACR NOM	swe	swe
+PG	p "e: ~ g ,e:	ACR NOM	swe	swe
+PGD	p e: ~ g e: ~ d 'e:	ACR NOM	swe	swe
+PGE	p e: ~ g e: ~ 'e:	ACR NOM	swe	swe
+PGI	p e: ~ g e: ~ 'i:	ACR NOM	swe	swe
+PGU	p e: ~ g e: ~ 'uu:	ACR NOM	swe	swe
+PGV	p e: ~ g e: ~ v 'e:	ACR NOM	swe	swe
+Ph	p "e: ~ h ,o:	ACR NOM	swe	swe
+Phe	p e: ~ h o: ~ 'e:	ACR NOM	swe	swe
+PHMB	p e: ~ h o: ~ ä m ~ b 'e:	ACR NOM	swe	swe
+php	p e: ~ h o: ~ p 'e:	ACR NOM	swe	swe
+pHPT	p e: ~ h o: ~ p e: ~ t 'e:	ACR NOM	swe	swe
+PHTLS	p e: ~ h o: ~ t e: ~ ä l ~ 'ä s	ACR NOM	swe	swe
+PID	p e: ~ i: ~ d 'e:	ACR NOM	swe	swe
+PJ	p "e: ~ j ,i:	ACR NOM	swe	swe
+PjL	p e: ~ j i: ~ 'ä l	ACR NOM	swe	swe
+PjLs	p e: ~ j i: ~ 'ä l s	ACR GEN	swe	swe
+PK	p "e: ~ k ,o:	ACR NOM	swe	swe
+PKU	p e: ~ k o: ~ 'uu:	ACR NOM	swe	swe
+PL	p "e: ~ ,ä l	ACR NOM	swe	swe
+PLA	p e: ~ ä l ~ 'a:	ACR NOM	swe	swe
+PLB	p e: ~ ä l ~ b 'e:	ACR NOM	swe	swe
+PLO	p e: ~ ä l ~ 'u:	ACR NOM	swe	swe
+PLT	p e: ~ ä l ~ t 'e:	ACR NOM	swe	swe
+PM	p "e: ~ ,ä m	ACR NOM	swe	swe
+PMDS	p e: ~ ä m ~ d "e: ~ ,ä s	ACR NOM	swe	swe
+PMI	p e: ~ ä m ~ 'i:	ACR NOM	swe	swe
+PMS	p e: ~ ä m ~ 'ä s	ACR NOM	swe	swe
+PN	p "e: ~ ,ä n	ACR NOM	swe	swe
+PNC	p e: ~ ä n ~ s 'e:	ACR NOM	swe	swe
+PNH	p e: ~ ä n ~ h 'o:	ACR NOM	swe	swe
+PNTR	p e: ~ ä n ~ t e: ~ 'ae r	ACR NOM	swe	swe
+PO	p "e: ~ ,u:	ACR NOM	swe	swe
+PON	p e: ~ u: ~ 'ä n	ACR NOM	swe	swe
+PPARG	p e: ~ p e: ~ "a: ~ ae r ~ g ,e:	ACR NOM	swe	swe
+PPCM	p e: ~ p e: ~ s e: ~ 'ä m	ACR NOM	swe	swe
+PPD	p e: ~ p e: ~ d 'e:	ACR NOM	swe	swe
+PPI	p e: ~ p e: ~ 'i:	ACR NOM	swe	swe
+PPM	p e: ~ p e: ~ 'ä m	ACR NOM	swe	swe
+PPP	p e: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+PPT	p e: ~ p e: ~ t 'e:	ACR NOM	swe	swe
+PQ	p "e: ~ k ,uu:	ACR NOM	swe	swe
+PQS	p e: ~ k uu: ~ 'ä s	ACR NOM	swe	swe
+PR	p "e: ~ ,ae r	ACR NOM	swe	swe
+Pr-	p "e: ~ ,ae r	ACR NOM	swe	swe
+PR-	p "e: ~ ,ae r	ACR NOM	swe	swe
+PrA	p e: ~ ae r ~ 'a:	ACR NOM	swe	swe
+PrCA	p e: ~ ae r ~ s "e: ~ ,a:	ACR NOM	swe	swe
+PrL	p e: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+PrP	p e: ~ ae r ~ p 'e:	ACR NOM	swe	swe
+PrPc	p e: ~ ae r ~ p "e: ~ s ,e:	ACR NOM	swe	swe
+PrPSc	p e: ~ ae r ~ p "e: ~ ä s ~ s ,e:	ACR NOM	swe	swe
+PRT	p e: ~ ae r ~ t 'e:	ACR NOM	swe	swe
+PRV	p "e: ~ ae r ~ v ,e:	ACR NOM	swe	swe
+PS	p "e: ~ ,ä s	ACR NOM	swe	swe
+PSA	p e: ~ ä s ~ 'a:	ACR NOM	swe	swe
+PSO	p e: ~ ä s ~ 'u:	ACR NOM	swe	swe
+PSP	p e: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+pss	p "e: ~ ,ä s s	ACR NOM	swe	swe
+pSS	p e: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+PSVT	p e: ~ ä s ~ v e: ~ t 'e:	ACR NOM	swe	swe
+PT	p "e: ~ t ,e:	ACR NOM	swe	swe
+PTA	p e: ~ t e: ~ 'a:	ACR NOM	swe	swe
+PTB	p e: ~ t e: ~ b 'e:	ACR NOM	swe	swe
+PTC	p e: ~ t e: ~ s 'e:	ACR NOM	swe	swe
+PTCA	p e: ~ t e: ~ s "e: ~ ,a:	ACR NOM	swe	swe
+PTF	p e: ~ t e: ~ 'ä f	ACR NOM	swe	swe
+PTH	p e: ~ t e: ~ h 'o:	ACR NOM	swe	swe
+PTK	p e: ~ t e: ~ k 'o:	ACR NOM	swe	swe
+pTNM	p e: ~ t e: ~ ä n ~ 'ä m	ACR NOM	swe	swe
+PTS	p e: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+PTSD	p e: ~ t e: ~ "ä s ~ d ,e:	ACR NOM	swe	swe
+PTSS	p e: ~ t e: ~ "ä s ~ ,ä s	ACR NOM	swe	swe
+PU	p "e: ~ ,uu:	ACR NOM	swe	swe
+PUF	p e: ~ uu: ~ 'ä f	ACR NOM	swe	swe
+PUPPP	p e: ~ uu: ~ p e: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+PV	p "e: ~ v ,e:	ACR NOM	swe	swe
+PVK	p e: ~ v e: ~ k 'o:	ACR NOM	swe	swe
+PVN	p e: ~ v e: ~ 'ä n	ACR NOM	swe	swe
+px	p "e: ~ ,ä k s	ACR NOM	swe	swe
+PYT	p e: ~ y: ~ t 'e:	ACR NOM	swe	swe
+PYY	p e: ~ y: ~ 'y:	ACR NOM	swe	swe
+q	k 'uu:	ACR NOM	swe	swe
+qac	k uu: ~ a: ~ s 'e:	ACR NOM	swe	swe
+qnr	k uu: ~ ä n ~ 'ae r	ACR NOM	swe	swe
+qnrA	k uu: ~ ä n ~ 'ae r | 'a:	ACR NOM	swe	swe
+qnrB	k uu: ~ ä n ~ 'ae r | b 'e:	ACR NOM	swe	swe
+qnrk	k uu: ~ ä n ~ "ae r ~ k ,o:	ACR NOM	swe	swe
+qnrS	k uu: ~ ä n ~ 'ae r | 'ä s	ACR NOM	swe	swe
+QoL	k uu: ~ u: ~ 'ä l	ACR NOM	swe	swe
+Qq	k "uu: ~ k ,uu:	ACR NOM	swe	swe
+QRS	k uu: ~ ae r ~ 'ä s	ACR NOM	swe	swe
+QX	k "uu: ~ ,ä k s	ACR NOM	swe	swe
+RA	"ae r ~ ,a:	ACR NOM	swe	swe
+RAF	ae r ~ a: ~ 'ä f	ACR NOM	swe	swe
+rAOM	ae r ~ a: ~ u: ~ 'ä m	ACR NOM	swe	swe
+RAÄ	ae r ~ a: ~ 'ä:	ACR NOM	swe	swe
+RB	"ae r ~ b ,e:	ACR NOM	swe	swe
+rBBB	ae r ~ b e: ~ b e: ~ b 'e:	ACR NOM	swe	swe
+RBC	ae r ~ b e: ~ s 'e:	ACR NOM	swe	swe
+RBD	ae r ~ b e: ~ d 'e:	ACR NOM	swe	swe
+rBP	ae r ~ b e: ~ p 'e:	ACR NOM	swe	swe
+RBS	ae r ~ b e: ~ 'ä s	ACR NOM	swe	swe
+RC	"ae r ~ s ,e:	ACR NOM	swe	swe
+rCBF	ae r ~ s e: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+RCT	ae r ~ s e: ~ t 'e:	ACR NOM	swe	swe
+RD	"ae r ~ d ,e:	ACR NOM	swe	swe
+RDS	ae r ~ d e: ~ 'ä s	ACR NOM	swe	swe
+REG	ae r ~ e: ~ g 'e:	ACR NOM	swe	swe
+RF	"ae r ~ ,ä f	ACR NOM	swe	swe
+RFK	"ae r ~ ä f ~ k ,o:	ACR NOM	swe	swe
+RFL	ae r ~ ä f ~ 'ä l	ACR NOM	swe	swe
+rFLP	ae r ~ ä f ~ "ä l ~ p ,e:	ACR NOM	swe	swe
+RFS	ae r ~ ä f ~ 'ä s	ACR NOM	swe	swe
+RFSL	ae r ~ ä f ~ ä s ~ 'ä l	ACR NOM	swe	swe
+RFSU	ae r ~ ä f ~ ä s ~ 'uu:	ACR NOM	swe	swe
+rfv	"ae r ~ ä f ~ v ,e:	ACR NOM	swe	swe
+RG	"ae r ~ g ,e:	ACR NOM	swe	swe
+RGK	ae r ~ g e: ~ k 'o:	ACR NOM	swe	swe
+RH	"ae r ~ h ,o:	ACR NOM	swe	swe
+rhu-t-PA	ae r ~ h o: ~ 'uu: | t 'e: | p "e: ~ ,a:	ACR NOM	swe	swe
+RJ	"ae r ~ j ,i:	ACR NOM	swe	swe
+RK	"ae r ~ k ,o:	ACR NOM	swe	swe
+RKC	ae r ~ k o: ~ s 'e:	ACR NOM	swe	swe
+RKP	ae r ~ k o: ~ p 'e:	ACR NOM	swe	swe
+RKT	ae r ~ k o: ~ t 'e:	ACR NOM	swe	swe
+RL	"ae r ~ ,ä l	ACR NOM	swe	swe
+RLS	ae r ~ ä l ~ 'ä s	ACR NOM	swe	swe
+RM	"ae r ~ ,ä m	ACR NOM	swe	swe
+RME	ae r ~ ä m ~ 'e:	ACR NOM	swe	swe
+RMI	ae r ~ ä m ~ 'i:	ACR NOM	swe	swe
+RMP	ae r ~ ä m ~ p 'e:	ACR NOM	swe	swe
+RMR	ae r ~ ä m ~ 'ae r	ACR NOM	swe	swe
+RMV	"ae r ~ ä m ~ v ,e:	ACR NOM	swe	swe
+RN	"ae r ~ ,ä n	ACR NOM	swe	swe
+RNA	ae r ~ ä n ~ 'a:	ACR NOM	swe	swe
+RNL	ae r ~ ä n ~ 'ä l	ACR NOM	swe	swe
+RNS	ae r ~ ä n ~ 'ä s	ACR NOM	swe	swe
+RP	"ae r ~ p ,e:	ACR NOM	swe	swe
+RPE	ae r ~ p e: ~ 'e:	ACR NOM	swe	swe
+RPF	ae r ~ p e: ~ 'ä f	ACR NOM	swe	swe
+RPG	ae r ~ p e: ~ g 'e:	ACR NOM	swe	swe
+RPL	ae r ~ p e: ~ 'ä l	ACR NOM	swe	swe
+RPS	ae r ~ p e: ~ 'ä s	ACR NOM	swe	swe
+RPU	ae r ~ p e: ~ 'uu:	ACR NOM	swe	swe
+rQ	"ae r ~ k ,uu:	ACR NOM	swe	swe
+RR	"ae r ~ ,ae r	ACR NOM	swe	swe
+rRNA	"ae r ~ ae r ~ ä n ~ ,a:	ACR NOM	swe	swe
+RRR	ae r ~ ae r ~ 'ae r	ACR NOM	swe	swe
+RRV	"ae r ~ ae r ~ v ,e:	ACR NOM	swe	swe
+RS	"ae r ~ ,ä s	ACR NOM	swe	swe
+RSFH	ae r ~ ä s ~ ä f ~ h 'o:	ACR NOM	swe	swe
+RSFS	ae r ~ ä s ~ ä f ~ 'ä s	ACR NOM	swe	swe
+rshs	ae r ~ ä s ~ h "o: ~ ,ä s	ACR NOM	swe	swe
+rskr	ae r ~ ä s ~ k o: ~ 'ae r	ACR NOM	swe	swe
+rSSE	ae r ~ ä s ~ ä s ~ 'e:	ACR NOM	swe	swe
+RSV	"ae r ~ ä s ~ v ,e:	ACR NOM	swe	swe
+RSV:s	"ae r ~ ä s ~ v ,e: s	ACR GEN	swe	swe
+rT	"ae r ~ t ,e:	ACR NOM	swe	swe
+rt-PA	"ae r ~ t ,e: | p "e: ~ ,a:	ACR NOM	swe	swe
+RTCQ	ae r ~ t e: ~ s e: ~ k 'uu:	ACR NOM	swe	swe
+RTL	ae r ~ t e: ~ 'ä l	ACR NOM	swe	swe
+RTP	ae r ~ t e: ~ p 'e:	ACR NOM	swe	swe
+rTS	ae r ~ t e: ~ 'ä s	ACR NOM	swe	swe
+RTVL	ae r ~ t e: ~ v e: ~ 'ä l	ACR NOM	swe	swe
+RUC	ae r ~ uu: ~ s 'e:	ACR NOM	swe	swe
+RUF	ae r ~ uu: ~ 'ä f	ACR NOM	swe	swe
+RV	"ae r ~ v ,e:	ACR NOM	swe	swe
+RVF	"ae r ~ ä f ~ v ,e:	ACR NOM	swe	swe
+RW	'ae r | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+RÅC	ae r ~ o: ~ s 'e:	ACR NOM	swe	swe
+S-ALP	'ä s | a: ~ ä l ~ p 'e:	ACR NOM	swe	swe
+S-Ca	'ä s | s "e: ~ ,a:	ACR NOM	swe	swe
+S-Cl	'ä s | s "e: ~ ,ä l	ACR NOM	swe	swe
+S-Na	'ä s | "ä n ~ ,a:	ACR NOM	swe	swe
+S-PSA	'ä s | p e: ~ ä s ~ 'a:	ACR NOM	swe	swe
+S-PTH	'ä s | p e: ~ t e: ~ h 'o:	ACR NOM	swe	swe
+S-TfR	'ä s | t e: ~ ä f ~ 'ae r	ACR NOM	swe	swe
+S-TSH	'ä s | t e: ~ ä s ~ h 'o:	ACR NOM	swe	swe
+SAA	ä s ~ a: ~ 'a:	ACR NOM	swe	swe
+SAB	"ä s ~ a: ~ b ,e:	ACR NOM	swe	swe
+SAC	ä s ~ a: ~ s 'e:	ACR NOM	swe	swe
+SAGB	ä s ~ a: ~ g "e: ~ b ,e:	ACR NOM	swe	swe
+SAOB	ä s ~ a: ~ u: ~ b 'e:	ACR NOM	swe	swe
+SAP	ä s ~ a: ~ p 'e:	ACR NOM	swe	swe
+SAP:s	"ä s ~ a: ~ p ,e: s	ACR GEN	swe	swe
+SB	"ä s ~ b ,e:	ACR NOM	swe	swe
+SBA	ä s ~ b e: ~ 'a:	ACR NOM	swe	swe
+SBC:s	ä s ~ b e: ~ s 'e: s	ACR GEN	swe	swe
+SBetL	ä s ~ b e: ~ e: ~ t e: ~ 'ä l	ACR NOM	swe	swe
+SBF	ä s ~ b e: ~ 'ä f	ACR NOM	swe	swe
+SBIC	ä s ~ b e: ~ i: ~ s 'e:	ACR NOM	swe	swe
+SBL	ä s ~ b e: ~ 'ä l	ACR NOM	swe	swe
+SBL:s	ä s ~ b e: ~ 'ä l s	ACR GEN	swe	swe
+SBS	ä s ~ b e: ~ 'ä s	ACR NOM	swe	swe
+SBT	ä s ~ b e: ~ t 'e:	ACR NOM	swe	swe
+SBU	ä s ~ b e: ~ 'uu:	ACR NOM	swe	swe
+SBUs	ä s ~ b e: ~ 'uu: s	ACR GEN	swe	swe
+SC	"ä s ~ s ,e:	ACR NOM	swe	swe
+SCA	ä s ~ s e: ~ 'a:	ACR NOM	swe	swe
+SCAE	ä s ~ s e: ~ a: ~ 'e:	ACR NOM	swe	swe
+scb	"ä s ~ s e: ~ b ,e:	ACR NOM	swe	swe
+SCB:s	"ä s ~ s e: ~ b ,e: s	ACR GEN	swe	swe
+SCB:s	ä s ~ s e: ~ b 'e: s	ACR GEN	swe	swe
+SCBs	"ä s ~ s e: ~ b ,e: s	ACR GEN	swe	swe
+Sci	ä s ~ s e: ~ 'i:	ACR NOM	swe	swe
+SCI	ä s ~ s e: ~ 'i:	ACR NOM	swe	swe
+SCID	ä s ~ s e: ~ i: ~ d 'e:	ACR NOM	swe	swe
+SCID-D	ä s ~ s e: ~ i: ~ d 'e: | d 'e:	ACR NOM	swe	swe
+SCM	ä s ~ s e: ~ 'ä m	ACR NOM	swe	swe
+SCT	ä s ~ s e: ~ t 'e:	ACR NOM	swe	swe
+SD	"ä s ~ d ,e:	ACR NOM	swe	swe
+SDAT	ä s ~ d e: ~ a: ~ t 'e:	ACR NOM	swe	swe
+SDLT	ä s ~ d e: ~ ä l ~ t 'e:	ACR NOM	swe	swe
+SDR	ä s ~ d e: ~ 'ae r	ACR NOM	swe	swe
+SDS	ä s ~ d e: ~ 'ä s	ACR NOM	swe	swe
+SEB	"ä s ~ e: ~ b ,e:	ACR NOM	swe	swe
+SEC	ä s ~ e: ~ s 'e:	ACR NOM	swe	swe
+SEO	ä s ~ e: ~ 'u:	ACR NOM	swe	swe
+SF	"ä s ~ ,ä f	ACR NOM	swe	swe
+SFA	ä s ~ ä f ~ 'a:	ACR NOM	swe	swe
+SFHL	ä s ~ ä f ~ h "o: ~ ,ä l	ACR NOM	swe	swe
+Sfi	ä s ~ ä f ~ 'i:	ACR NOM	swe	swe
+sfi	ä s ~ ä f ~ 'i:	ACR NOM	swe	swe
 SFL	ä s ~ ä f ~ 'ä l	ACR NOM	swe	swe
-SFO-V	ä s ~ v e2: ~ o2: ~ v 'e2:	ACR NOM	swe	swe
-SFOR	ä s ~ ä f ~ o2: ~ 'ä3 r	ACR NOM	swe	swe
-SFR	ä s ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
+SFO-V	ä s ~ v e: ~ u: ~ v 'e:	ACR NOM	swe	swe
+SFOR	ä s ~ ä f ~ u: ~ 'ae r	ACR NOM	swe	swe
+SFR	ä s ~ ä f ~ 'ae r	ACR NOM	swe	swe
 SFS	ä s ~ ä f ~ 'ä s	ACR NOM	swe	swe
-SfU	ä s ~ ä f ~ 'u2:	ACR NOM	swe	swe
-SG	"ä s ~ g `e2:	ACR NOM	swe	swe
-SGA	ä s ~ g e2: ~ 'a2:	ACR NOM	swe	swe
-SGI	ä s ~ g e2: ~ 'i2:	ACR NOM	swe	swe
-SGRQ	ä s ~ g e2: ~ ä3 r ~ k 'u2:	ACR NOM	swe	swe
-SGRQ-C	ä s ~ g e2: ~ ä3 r ~ k "u2: ~ s `e2:	ACR NOM	swe	swe
-SGU	ä s ~ g e2: ~ 'u2:	ACR NOM	swe	swe
-SH	"ä s ~ h `å2:	ACR NOM	swe	swe
-SHA	ä s ~ h å2: ~ 'a2:	ACR NOM	swe	swe
-SHBG	ä s ~ h å2: ~ b "e2: ~ g `e2:	ACR NOM	swe	swe
-SHBL	ä s ~ h å2: ~ b "e2: ~ `ä l	ACR NOM	swe	swe
-SHIF	ä s ~ h å2: ~ i2: ~ 'ä f	ACR NOM	swe	swe
-SHK	"ä s ~ h å2: ~ k `å2:	ACR NOM	swe	swe
-SHR	ä s ~ h å2: ~ 'ä3 r	ACR NOM	swe	swe
-SIADH	ä s ~ i2: ~ a2: ~ d e2: ~ h 'å2:	ACR NOM	swe	swe
-SIH	ä s ~ i2: ~ h 'å2:	ACR NOM	swe	swe
-SIP	ä s ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-SIQ	ä s ~ i2: ~ k 'u2:	ACR NOM	swe	swe
-SIT	ä s ~ i2: ~ t 'e2:	ACR NOM	swe	swe
-SJ	"ä s ~ j `i2:	ACR NOM	swe	swe
-sjg	ä s ~ j i2: ~ g 'e2:	ACR NOM	swe	swe
-SjLL	ä s ~ j i2: ~ "ä l ~ `ä l	ACR NOM	swe	swe
-sjm	ä s ~ j i2: ~ 'ä m	ACR NOM	swe	swe
-SJV	ä s ~ j i2: ~ v 'e2:	ACR NOM	swe	swe
-SK	"ä s ~ k `å2:	ACR NOM	swe	swe
-skb	"ä s ~ k å2: ~ b `e2:	ACR NOM	swe	swe
-SKCC	ä s ~ k å2: ~ s "e2: ~ s `e2:	ACR NOM	swe	swe
-SKF	"ä s ~ k å2: ~ `ä f	ACR NOM	swe	swe
-SKFs	"ä s ~ k å2: ~ `ä f s	ACR GEN	swe	swe
-SKI	ä s ~ k å2: ~ 'i2:	ACR NOM	swe	swe
-SkL	ä s ~ k å2: ~ 'ä l	ACR NOM	swe	swe
-SKM:S	ä s ~ k å2: ~ 'ä m s	ACR GEN	swe	swe
-SKP	"ä s ~ k å2: ~ p `e2:	ACR NOM	swe	swe
-SKS	"ä s ~ k å2: ~ `ä s	ACR NOM	swe	swe
-SKTF	ä s ~ k å2: ~ t "e2: ~ `ä f	ACR NOM	swe	swe
-SkU	ä s ~ k å2: ~ 'u2:	ACR NOM	swe	swe
-SkU	ä s ~ k å2: ~ 'u2:	ACR NOM	swe	swe
-SKV	"ä s ~ k å2: ~ v `e2:	ACR NOM	swe	swe
-SL	"ä s ~ `ä l	ACR NOM	swe	swe
-SLBA	ä s ~ ä l ~ b e2: ~ 'a2:	ACR NOM	swe	swe
-SLE	ä s ~ ä l ~ 'e2:	ACR NOM	swe	swe
+SfU	ä s ~ ä f ~ 'uu:	ACR NOM	swe	swe
+SG	"ä s ~ g ,e:	ACR NOM	swe	swe
+SGA	ä s ~ g e: ~ 'a:	ACR NOM	swe	swe
+SGI	ä s ~ g e: ~ 'i:	ACR NOM	swe	swe
+SGRQ	ä s ~ g e: ~ ae r ~ k 'uu:	ACR NOM	swe	swe
+SGRQ-C	ä s ~ g e: ~ ae r ~ k "uu: ~ s ,e:	ACR NOM	swe	swe
+SGU	ä s ~ g e: ~ 'uu:	ACR NOM	swe	swe
+SH	"ä s ~ h ,o:	ACR NOM	swe	swe
+SHA	ä s ~ h o: ~ 'a:	ACR NOM	swe	swe
+SHBG	ä s ~ h o: ~ b "e: ~ g ,e:	ACR NOM	swe	swe
+SHBL	ä s ~ h o: ~ b "e: ~ ,ä l	ACR NOM	swe	swe
+SHIF	ä s ~ h o: ~ i: ~ 'ä f	ACR NOM	swe	swe
+SHK	"ä s ~ h o: ~ k ,o:	ACR NOM	swe	swe
+SHR	ä s ~ h o: ~ 'ae r	ACR NOM	swe	swe
+SIADH	ä s ~ i: ~ a: ~ d e: ~ h 'o:	ACR NOM	swe	swe
+SIH	ä s ~ i: ~ h 'o:	ACR NOM	swe	swe
+SIP	ä s ~ i: ~ p 'e:	ACR NOM	swe	swe
+SIQ	ä s ~ i: ~ k 'uu:	ACR NOM	swe	swe
+SIT	ä s ~ i: ~ t 'e:	ACR NOM	swe	swe
+SJ	"ä s ~ j ,i:	ACR NOM	swe	swe
+sjg	ä s ~ j i: ~ g 'e:	ACR NOM	swe	swe
+SjLL	ä s ~ j i: ~ "ä l ~ ,ä l	ACR NOM	swe	swe
+sjm	ä s ~ j i: ~ 'ä m	ACR NOM	swe	swe
+SJV	ä s ~ j i: ~ v 'e:	ACR NOM	swe	swe
+SK	"ä s ~ k ,o:	ACR NOM	swe	swe
+skb	"ä s ~ k o: ~ b ,e:	ACR NOM	swe	swe
+SKCC	ä s ~ k o: ~ s "e: ~ s ,e:	ACR NOM	swe	swe
+SKF	"ä s ~ k o: ~ ,ä f	ACR NOM	swe	swe
+SKFs	"ä s ~ k o: ~ ,ä f s	ACR GEN	swe	swe
+SKI	ä s ~ k o: ~ 'i:	ACR NOM	swe	swe
+SkL	ä s ~ k o: ~ 'ä l	ACR NOM	swe	swe
+SKM:S	ä s ~ k o: ~ 'ä m s	ACR GEN	swe	swe
+SKP	"ä s ~ k o: ~ p ,e:	ACR NOM	swe	swe
+SKS	"ä s ~ k o: ~ ,ä s	ACR NOM	swe	swe
+SKTF	ä s ~ k o: ~ t "e: ~ ,ä f	ACR NOM	swe	swe
+SkU	ä s ~ k o: ~ 'uu:	ACR NOM	swe	swe
+SkU	ä s ~ k o: ~ 'uu:	ACR NOM	swe	swe
+SKV	"ä s ~ k o: ~ v ,e:	ACR NOM	swe	swe
+SL	"ä s ~ ,ä l	ACR NOM	swe	swe
+SLBA	ä s ~ ä l ~ b e: ~ 'a:	ACR NOM	swe	swe
+SLE	ä s ~ ä l ~ 'e:	ACR NOM	swe	swe
 SLS	ä s ~ ä l ~ 'ä s	ACR NOM	swe	swe
-SLU	ä s ~ ä l ~ 'u2:	ACR NOM	swe	swe
-slv	"ä s ~ ä l ~ v `e2:	ACR NOM	swe	swe
-SM	"ä s ~ `ä m	ACR NOM	swe	swe
-SMA	ä s ~ ä m ~ 'a2:	ACR NOM	swe	swe
-SME	ä s ~ ä m ~ 'e2:	ACR NOM	swe	swe
-SMEs	ä s ~ ä m ~ 'e2: s	ACR GEN	swe	swe
+SLU	ä s ~ ä l ~ 'uu:	ACR NOM	swe	swe
+slv	"ä s ~ ä l ~ v ,e:	ACR NOM	swe	swe
+SM	"ä s ~ ,ä m	ACR NOM	swe	swe
+SMA	ä s ~ ä m ~ 'a:	ACR NOM	swe	swe
+SME	ä s ~ ä m ~ 'e:	ACR NOM	swe	swe
+SMEs	ä s ~ ä m ~ 'e: s	ACR GEN	swe	swe
 SMF	ä s ~ ä m ~ 'ä f	ACR NOM	swe	swe
-SMHI	ä s ~ ä m ~ h "å2: ~ `i2:	ACR NOM	swe	swe
-SMI	ä s ~ ä m ~ 'i2:	ACR NOM	swe	swe
+SMHI	ä s ~ ä m ~ h "o: ~ ,i:	ACR NOM	swe	swe
+SMI	ä s ~ ä m ~ 'i:	ACR NOM	swe	swe
 SmL	ä s ~ ä m ~ 'ä l	ACR NOM	swe	swe
 SMS	ä s ~ ä m ~ 'ä s	ACR NOM	swe	swe
-SMU	ä s ~ ä m ~ 'u2:	ACR NOM	swe	swe
-SN	"ä s ~ `ä n	ACR NOM	swe	swe
-SNA	ä s ~ ä n ~ 'a2:	ACR NOM	swe	swe
-SND	ä s ~ ä n ~ d 'e2:	ACR NOM	swe	swe
+SMU	ä s ~ ä m ~ 'uu:	ACR NOM	swe	swe
+SN	"ä s ~ ,ä n	ACR NOM	swe	swe
+SNA	ä s ~ ä n ~ 'a:	ACR NOM	swe	swe
+SND	ä s ~ ä n ~ d 'e:	ACR NOM	swe	swe
 SNF	ä s ~ ä n ~ 'ä f	ACR NOM	swe	swe
-SNI	ä s ~ ä n ~ 'i2:	ACR NOM	swe	swe
-SNP	ä s ~ ä n ~ p 'e2:	ACR NOM	swe	swe
-SNR	ä s ~ ä n ~ 'ä3 r	ACR NOM	swe	swe
-SNrI	ä s ~ ä n ~ "ä3 r ~ i2:	ACR NOM	swe	swe
+SNI	ä s ~ ä n ~ 'i:	ACR NOM	swe	swe
+SNP	ä s ~ ä n ~ p 'e:	ACR NOM	swe	swe
+SNR	ä s ~ ä n ~ 'ae r	ACR NOM	swe	swe
+SNrI	ä s ~ ä n ~ ae r ~ 'i:	ACR NOM	swe	swe
 SNS	ä s ~ ä n ~ 'ä s	ACR NOM	swe	swe
-SO	"ä s ~ `o2:	ACR NOM	swe	swe
-SOB-HF	ä s ~ o2: ~ b 'e2: | h "å2: ~ `ä f	ACR NOM	swe	swe
-SOSFS	ä s ~ o2: ~ ä s ~ ä f ~ 'ä s	ACR NOM	swe	swe
-SOU	ä s ~ o2: ~ 'u2:	ACR NOM	swe	swe
-SP	"ä s ~ p `e2:	ACR NOM	swe	swe
-SPF	ä s ~ p e2: ~ 'ä f	ACR NOM	swe	swe
-SPI	ä s ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-SpO	ä s ~ p e2: ~ 'o2:	ACR NOM	swe	swe
-SPP	"ä s ~ p e2: ~ p `e2:	ACR NOM	swe	swe
-SPS	ä s ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-SPSS	ä s ~ p e2: ~ "ä s ~ `ä s	ACR NOM	swe	swe
-SPV	ä s ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-SQ	"ä s ~ k `u2:	ACR NOM	swe	swe
-Sr	"ä s ~ `ä3 r	ACR NOM	swe	swe
-SRA	ä s ~ ä3 r ~ 'a2:	ACR NOM	swe	swe
-SRE	ä s ~ ä3 r ~ 'e2:	ACR NOM	swe	swe
-SRF	ä s ~ ä3 r ~ 'ä f	ACR NOM	swe	swe
-SRFs	ä s ~ ä3 r ~ 'ä f s	ACR GEN	swe	swe
-sRGB	ä s ~ ä3 r ~ g "e2: ~ b `e2:	ACR NOM	swe	swe
-SRGB1	ä s ~ ä3 r ~ g "e2: ~ b `e2:	ACR NOM	swe	swe
-sRGB:s	ä s ~ ä3 r ~ g "e2: ~ b `e2: s	ACR GEN	swe	swe
-SRL	ä s ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-SRN	ä s ~ ä3 r ~ 'ä n	ACR NOM	swe	swe
-SRV	"ä s ~ ä3 r ~ v `e2:	ACR NOM	swe	swe
-SRY	ä s ~ ä3 r ~ 'y2:	ACR NOM	swe	swe
-SS	"ä s ~ `ä s	ACR NOM	swe	swe
-SS-A	ä s ~ ä s ~ 'a2:	ACR NOM	swe	swe
-SS-B	ä s ~ ä s ~ b 'e2:	ACR NOM	swe	swe
-ss-LPH	"ä s ~ `ä s | ä l ~ p e2: ~ h 'å2:	ACR NOM	swe	swe
-SSAB	ä s ~ ä s ~ "a2: ~ b `e2:	ACR NOM	swe	swe
-SSAG	ä s ~ ä s ~ "a2: ~ g `e2:	ACR NOM	swe	swe
-SSCI	ä s ~ ä s ~ s e2: ~ 'i2:	ACR NOM	swe	swe
-SSE	ä s ~ ä s ~ 'e2:	ACR NOM	swe	swe
-SSI	ä s ~ ä s ~ 'i2:	ACR NOM	swe	swe
+SO	"ä s ~ ,u:	ACR NOM	swe	swe
+SOB-HF	ä s ~ u: ~ b 'e: | h "o: ~ ,ä f	ACR NOM	swe	swe
+SOSFS	ä s ~ u: ~ ä s ~ ä f ~ 'ä s	ACR NOM	swe	swe
+SOU	ä s ~ u: ~ 'uu:	ACR NOM	swe	swe
+SP	"ä s ~ p ,e:	ACR NOM	swe	swe
+SPF	ä s ~ p e: ~ 'ä f	ACR NOM	swe	swe
+SPI	ä s ~ p e: ~ 'i:	ACR NOM	swe	swe
+SpO	ä s ~ p e: ~ 'u:	ACR NOM	swe	swe
+SPP	"ä s ~ p e: ~ p ,e:	ACR NOM	swe	swe
+SPS	ä s ~ p e: ~ 'ä s	ACR NOM	swe	swe
+SPSS	ä s ~ p e: ~ "ä s ~ ,ä s	ACR NOM	swe	swe
+SPV	ä s ~ p e: ~ v 'e:	ACR NOM	swe	swe
+SQ	"ä s ~ k ,uu:	ACR NOM	swe	swe
+Sr	"ä s ~ ,ae r	ACR NOM	swe	swe
+SRA	ä s ~ ae r ~ 'a:	ACR NOM	swe	swe
+SRE	ä s ~ ae r ~ 'e:	ACR NOM	swe	swe
+SRF	ä s ~ ae r ~ 'ä f	ACR NOM	swe	swe
+SRFs	ä s ~ ae r ~ 'ä f s	ACR GEN	swe	swe
+sRGB	ä s ~ ae r ~ g "e: ~ b ,e:	ACR NOM	swe	swe
+SRGB1	ä s ~ ae r ~ g "e: ~ b ,e:	ACR NOM	swe	swe
+sRGB:s	ä s ~ ae r ~ g "e: ~ b ,e: s	ACR GEN	swe	swe
+SRL	ä s ~ ae r ~ 'ä l	ACR NOM	swe	swe
+SRN	ä s ~ ae r ~ 'ä n	ACR NOM	swe	swe
+SRV	"ä s ~ ae r ~ v ,e:	ACR NOM	swe	swe
+SRY	ä s ~ ae r ~ 'y:	ACR NOM	swe	swe
+SS	"ä s ~ ,ä s	ACR NOM	swe	swe
+SS-A	ä s ~ ä s ~ 'a:	ACR NOM	swe	swe
+SS-B	ä s ~ ä s ~ b 'e:	ACR NOM	swe	swe
+ss-LPH	"ä s ~ ,ä s | ä l ~ p e: ~ h 'o:	ACR NOM	swe	swe
+SSAB	ä s ~ ä s ~ "a: ~ b ,e:	ACR NOM	swe	swe
+SSAG	ä s ~ ä s ~ "a: ~ g ,e:	ACR NOM	swe	swe
+SSCI	ä s ~ ä s ~ s e: ~ 'i:	ACR NOM	swe	swe
+SSE	ä s ~ ä s ~ 'e:	ACR NOM	swe	swe
+SSI	ä s ~ ä s ~ 'i:	ACR NOM	swe	swe
 SSL:s	ä s ~ ä s ~ 'ä l s	ACR GEN	swe	swe
 ssml	ä s ~ ä s ~ ä m ~ 'ä l	ACR NOM	swe	swe
-SSPE	ä s ~ ä s ~ p e2: ~ 'e2:	ACR NOM	swe	swe
-SSRI	ä s ~ ä s ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
+SSPE	ä s ~ ä s ~ p e: ~ 'e:	ACR NOM	swe	swe
+SSRI	ä s ~ ä s ~ ae r ~ 'i:	ACR NOM	swe	swe
 SSS	ä s ~ ä s ~ 'ä s	ACR NOM	swe	swe
-SSSR	ä s ~ ä s ~ ä s ~ 'ä3 r	ACR NOM	swe	swe
-SST	"ä s ~ ä s ~ t `e2:	ACR NOM	swe	swe
-SSU	ä s ~ ä s ~ 'u2:	ACR NOM	swe	swe
-SSUs	ä s ~ ä s ~ 'u2: s	ACR GEN	swe	swe
-SSV	"ä s ~ ä s ~ v `e2:	ACR NOM	swe	swe
-SSYK	ä s ~ ä s ~ y2: ~ k 'å2:	ACR NOM	swe	swe
-ST	"ä s ~ t `e2:	ACR NOM	swe	swe
-STD	ä s ~ t e2: ~ d 'e2:	ACR NOM	swe	swe
-Stf	ä s ~ t e2: ~ 'ä f	ACR NOM	swe	swe
-STH	ä s ~ t e2: ~ h 'å2:	ACR NOM	swe	swe
-STI	ä s ~ t e2: ~ 'i2:	ACR NOM	swe	swe
-STK	"ä s ~ t e2: ~ k `å2:	ACR NOM	swe	swe
-STm	ä s ~ t e2: ~ 'ä m	ACR NOM	swe	swe
-str	ä s ~ t e2: ~ 'ä3 r	ACR NOM	swe	swe
-strA	ä s ~ t e2: ~ 'ä3 r | 'a2:	ACR NOM	swe	swe
-strB	ä s ~ t e2: ~ 'ä3 r | b 'e2:	ACR NOM	swe	swe
-STSS	ä s ~ t e2: ~ "ä s ~ `ä s	ACR NOM	swe	swe
-SU	"ä s ~ `u2:	ACR NOM	swe	swe
-SUHF	ä s ~ u2: ~ h "å2: ~ `ä f	ACR NOM	swe	swe
-SUK	ä s ~ u2: ~ k 'å2:	ACR NOM	swe	swe
-SV	"ä s ~ v `e2:	ACR NOM	swe	swe
-SVCA	ä s ~ v e2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-SvD	"ä s ~ v e2: ~ d `e2:	ACR NOM	swe	swe
-SvJT	ä s ~ v e2: ~ j i2: ~ t 'e2:	ACR NOM	swe	swe
-SVL	ä s ~ v e2: ~ 'ä l	ACR NOM	swe	swe
-SVO	ä s ~ v e2: ~ 'o2:	ACR NOM	swe	swe
-SVs	"ä s ~ v `e2: s	ACR GEN	swe	swe
-SVS	ä s ~ v e2: ~ 'ä s	ACR NOM	swe	swe
-SvSkt	"ä s ~ v `e2: | ä s ~ k å2: ~ t 'e2:	ACR NOM	swe	swe
-SVT	"ä s ~ v e2: ~ t `e2:	ACR NOM	swe	swe
-SVT:s	"ä s ~ v e2: ~ t `e2: s	ACR GEN	swe	swe
-SZ	"ä s ~ s `ä2: $ t a	ACR NOM	swe	swe
-SÖ	"ä s ~ `ö2:	ACR NOM	swe	swe
-t-PA	t "e2: ~ p e2: ~ `a2:	ACR NOM	swe	swe
-TAB	t e2: ~ a2: ~ b 'e2:	ACR NOM	swe	swe
-TB	t "e2: ~ b `e2:	ACR NOM	swe	swe
-tbc	t e2: ~ b e2: ~ s 'e2:	ACR NOM	swe	swe
-TBE	t e2: ~ b e2: ~ 'e2:	ACR NOM	swe	swe
-TBG	t e2: ~ b e2: ~ g 'e2:	ACR NOM	swe	swe
-TBL	t e2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-TBPA	t e2: ~ b e2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-TBV	t e2: ~ b e2: ~ v 'e2:	ACR NOM	swe	swe
-TBVs	t e2: ~ b e2: ~ v 'e2: s	ACR GEN	swe	swe
-TBW	t e2: ~ b e2: ~ d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-Tc	t "e2: ~ s `e2:	ACR NOM	swe	swe
-TCA	t e2: ~ s e2: ~ 'a2:	ACR NOM	swe	swe
-TCO	t "e2: ~ s e2: ~ `o2:	ACR NOM	swe	swe
-TCOs	t "e2: ~ s e2: ~ `o2: s	ACR GEN	swe	swe
-tcPb	t e2: ~ s e2: ~ p e2: ~ b 'e2:	ACR NOM	swe	swe
-tcPO	t e2: ~ s e2: ~ p e2: ~ 'o2:	ACR NOM	swe	swe
-TCr	t e2: ~ s e2: ~ 'ä3 r	ACR NOM	swe	swe
-TD	t "e2: ~ d `e2:	ACR NOM	swe	swe
-TEC	t e2: ~ e2: ~ s 'e2:	ACR NOM	swe	swe
-TEM	t e2: ~ e2: ~ 'ä m	ACR NOM	swe	swe
-TF	t "e2: ~ `ä f	ACR NOM	swe	swe
-TFA	t e2: ~ ä f ~ 'a2:	ACR NOM	swe	swe
-TFA-KL	t e2: ~ ä f ~ 'a2: | k "å2: ~ `ä l	ACR NOM	swe	swe
-TFEQ	t e2: ~ ä f ~ "e2: ~ k `u2:	ACR NOM	swe	swe
-TFF	t e2: ~ ä f ~ 'ä f	ACR NOM	swe	swe
-TfR	t e2: ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-TfR	t e2: ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-TG	t "e2: ~ g `e2:	ACR NOM	swe	swe
-TGA	t e2: ~ g e2: ~ 'a2:	ACR NOM	swe	swe
-TGF	t e2: ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-TGOJ	t e2: ~ g e2: ~ o2: ~ j 'i2:	ACR NOM	swe	swe
-TGV	t e2: ~ g e2: ~ v 'e2:	ACR NOM	swe	swe
-th	t "e2: ~ h `å2:	ACR NOM	swe	swe
-THC	t e2: ~ h å2: ~ s 'e2:	ACR NOM	swe	swe
-Thr	t e2: ~ h å2: ~ 'ä3 r	ACR NOM	swe	swe
-THX	t e2: ~ h å2: ~ 'ä k s	ACR NOM	swe	swe
-TIBC	t e2: ~ i2: ~ b e2: ~ s 'e2:	ACR NOM	swe	swe
-TIMSS	t e2: ~ i2: ~ ä m ~ ä s ~ 'ä s	ACR NOM	swe	swe
-TJ	t "e2: ~ j `i2:	ACR NOM	swe	swe
-TK	t "e2: ~ k `å2:	ACR NOM	swe	swe
-TKI	t e2: ~ k å2: ~ 'i2:	ACR NOM	swe	swe
-TKL	t e2: ~ k å2: ~ 'ä l	ACR NOM	swe	swe
-TL	t "e2: ~ `ä l	ACR NOM	swe	swe
-TLC	t e2: ~ ä l ~ s 'e2:	ACR NOM	swe	swe
-tlv	t e2: ~ ä l ~ v 'e2:	ACR NOM	swe	swe
-TM	t "e2: ~ `ä m	ACR NOM	swe	swe
-TMD	t e2: ~ ä m ~ d 'e2:	ACR NOM	swe	swe
-tmv	t e2: ~ ä m ~ v 'e2:	ACR NOM	swe	swe
-TN	t "e2: ~ `ä n	ACR NOM	swe	swe
-TNF	t e2: ~ ä n ~ 'ä f	ACR NOM	swe	swe
-TNF-a	t e2: ~ ä n ~ 'ä f | 'a2:	ACR NOM	swe	swe
-TNS	t e2: ~ ä n ~ 'ä s	ACR NOM	swe	swe
-TP	t "e2: ~ p `e2:	ACR NOM	swe	swe
-TPA	t e2: ~ p e2: ~ 'a2:	ACR NOM	swe	swe
-TPB	t e2: ~ p e2: ~ b 'e2:	ACR NOM	swe	swe
-TPBs	t e2: ~ p e2: ~ b 'e2: s	ACR GEN	swe	swe
-TPG	t e2: ~ p e2: ~ g 'e2:	ACR NOM	swe	swe
-TPK	t e2: ~ p e2: ~ k 'å2:	ACR NOM	swe	swe
-TPMT	t e2: ~ p e2: ~ ä m ~ t 'e2:	ACR NOM	swe	swe
-TPN	t e2: ~ p e2: ~ 'ä n	ACR NOM	swe	swe
-TPO	t e2: ~ p e2: ~ 'o2:	ACR NOM	swe	swe
-TPS	t e2: ~ p e2: ~ 'ä s	ACR NOM	swe	swe
-TPV	t e2: ~ p e2: ~ v 'e2:	ACR NOM	swe	swe
-TQM	t e2: ~ k u2: ~ 'ä m	ACR NOM	swe	swe
-TR	t "e2: ~ `ä3 r	ACR NOM	swe	swe
-TrH	t "e2: ~ ä3 r ~ h `å2:	ACR NOM	swe	swe
-TrkA	t e2: ~ ä3 r ~ k 'å2: | 'a2:	ACR NOM	swe	swe
-TrkB	t e2: ~ ä3 r ~ k 'å2: | b 'e2:	ACR NOM	swe	swe
-trNA	t e2: ~ ä3 r ~ "ä n ~ `a2:	ACR NOM	swe	swe
-Trp	t e2: ~ ä3 r ~ p 'e2:	ACR NOM	swe	swe
-TRR	t e2: ~ ä3 r ~ 'ä3 r	ACR NOM	swe	swe
-ts	t "e2: ~ `ä s	ACR NOM	swe	swe
-TSA	t e2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-TSH	t "e2: ~ ä s ~ h `å2:	ACR NOM	swe	swe
-TSI	t e2: ~ ä s ~ 'i2:	ACR NOM	swe	swe
-TSL	t e2: ~ ä s ~ 'ä l	ACR NOM	swe	swe
-TSM	t e2: ~ ä s ~ 'ä m	ACR NOM	swe	swe
-TSP	t e2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-TSS	t e2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-TT	t "e2: ~ t `e2:	ACR NOM	swe	swe
-TTP	t e2: ~ t e2: ~ p 'e2:	ACR NOM	swe	swe
-TTS	t e2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-TU	t "e2: ~ `u2:	ACR NOM	swe	swe
-TV	t "e2: ~ v `e2:	ACR NOM	swe	swe
-TVA	t e2: ~ v e2: ~ 'a2:	ACR NOM	swe	swe
-TVBL	t e2: ~ v e2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-TvL	t e2: ~ v e2: ~ 'ä l	ACR NOM	swe	swe
-TW	t 'e2: | d "u $ b ë l - v `e2:	ACR NOM	swe	swe
-TX	t e2: ~ 'ä k s	ACR NOM	swe	swe
-TXA	t e2: ~ ä k s ~ 'a2:	ACR NOM	swe	swe
-U.S.	u2: ~ 'ä s	ACR NOM	swe	swe
-UAL	u2: ~ a2: ~ 'ä l	ACR NOM	swe	swe
-UARS	u2: ~ a2: ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-UB	"u2: ~ b `e2:	ACR NOM	swe	swe
-UBA	u2: ~ b e2: ~ 'a2:	ACR NOM	swe	swe
-UBF	u2: ~ b e2: ~ 'ä f	ACR NOM	swe	swe
-UBL	u2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-UBS	u2: ~ b e2: ~ 'ä s	ACR NOM	swe	swe
-UC	""u2: ~ s `e2:	ACR NOM	swe	swe
-UCB	u2: ~ s e2: ~ b 'e2:	ACR NOM	swe	swe
-UCG	u2: ~ s e2: ~ g 'e2:	ACR NOM	swe	swe
-UCITS	u2: ~ s e2: ~ i2: ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-UCL	u2: ~ s e2: ~ 'ä l	ACR NOM	swe	swe
-UCP	u2: ~ s e2: ~ p 'e2:	ACR NOM	swe	swe
-UD	"u2: ~ d `e2:	ACR NOM	swe	swe
-UDK	u2: ~ d e2: ~ k 'å2:	ACR NOM	swe	swe
-UES	u2: ~ e2: ~ 'ä s	ACR NOM	swe	swe
-UF	"u2: ~ `ä f	ACR NOM	swe	swe
-UFB	u2: ~ ä f ~ b 'e2:	ACR NOM	swe	swe
-UFL	u2: ~ ä f ~ 'ä l	ACR NOM	swe	swe
-UfR	u2: ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-UGU	u2: ~ g e2: ~ 'u2:	ACR NOM	swe	swe
-UHÄ	u2: ~ h å2: ~ 'ä2:	ACR NOM	swe	swe
-UI	"u2: ~ `i2:	ACR NOM	swe	swe
-UI:s	"u2: ~ `i2: s	ACR GEN	swe	swe
-UID	u2: ~ i2: ~ d 'e2:	ACR NOM	swe	swe
-UIN	u2: ~ i2: ~ 'ä n	ACR NOM	swe	swe
-UIP	u2: ~ i2: ~ p 'e2:	ACR NOM	swe	swe
-UIs	"u2: ~ `i2: s	ACR GEN	swe	swe
-uk	"u2: ~ k `å2:	ACR NOM	swe	swe
-UKG	u2: ~ k å2: ~ g 'e2:	ACR NOM	swe	swe
-UKPDS	u2: ~ k å2: ~ p e2: ~ d e2: ~ 'ä s	ACR NOM	swe	swe
-UL	"u2: ~ `ä l	ACR NOM	swe	swe
-UMD	u2: ~ ä m ~ d 'e2:	ACR NOM	swe	swe
-UMI	u2: ~ ä m ~ 'i2:	ACR NOM	swe	swe
-UMKL	u2: ~ ä m ~ k "å2: ~ `ä l	ACR NOM	swe	swe
-UML	u2: ~ ä m ~ 'ä l	ACR NOM	swe	swe
-UMP	u2: ~ ä m ~ p 'e2:	ACR NOM	swe	swe
-UMTS	u2: ~ ä m ~ t e2: ~ 'ä s	ACR NOM	swe	swe
-UN	"u2: ~ `ä n	ACR NOM	swe	swe
-UNCSD	u2: ~ ä n ~ s e2: ~ ä s ~ d 'e2:	ACR NOM	swe	swe
-UNDP	u2: ~ ä n ~ d e2: ~ p 'e2:	ACR NOM	swe	swe
-UNHCR	u2: ~ ä n ~ h "å2: ~ s e2: ~ `ä3 r	ACR NOM	swe	swe
-UNHCR:s	u2: ~ ä n ~ h "å2: ~ s e2: ~ `ä3 r s	ACR GEN	swe	swe
-UNICE	u2: ~ ä n ~ i2: ~ s 'e2:	ACR NOM	swe	swe
-UNODC	u2: ~ ä n ~ o2: ~ d e2: ~ s 'e2:	ACR NOM	swe	swe
-UNTWTO	u2: ~ ä n ~ t e2: ~ d "u $ b ë l - v `e2: | t e2: ~ 'o2:	ACR NOM	swe	swe
-UNWTO	u2: ~ ä n ~ d "u $ b ë l - v `e2: | t e2: ~ 'o2:	ACR NOM	swe	swe
-Uo	"u2: ~ `o2:	ACR NOM	swe	swe
-UPC	u2: ~ p e2: ~ s 'e2:	ACR NOM	swe	swe
-UPG	u2: ~ p e2: ~ g 'e2:	ACR NOM	swe	swe
-UPI	u2: ~ p e2: ~ 'i2:	ACR NOM	swe	swe
-UPL	u2: ~ p e2: ~ 'ä l	ACR NOM	swe	swe
-UPPP	u2: ~ p e2: ~ p e2: ~ p 'e2:	ACR NOM	swe	swe
-UR:s	"u2: ~ `ä3 r s	ACR GEN	swe	swe
-URG	u2: ~ ä3 r ~ g 'e2:	ACR NOM	swe	swe
-URL	u2: ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-url	u2: ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-URN	u2: ~ ä3 r ~ 'ä n	ACR NOM	swe	swe
-usa	u2: ~ ä s ~ 'a2:	ACR NOM	swe	swe
-USA:s	u2: ~ ä s ~ 'a2: s	ACR GEN	swe	swe
-USAL	u2: ~ ä s ~ "a2: ~ `ä l	ACR NOM	swe	swe
-USAs	u2: ~ ä s ~ 'a2: s	ACR GEN	swe	swe
-USB	u2: ~ ä s ~ b 'e2:	ACR NOM	swe	swe
-USL	u2: ~ ä s ~ 'ä l	ACR NOM	swe	swe
-USM	u2: ~ ä s ~ 'ä m	ACR NOM	swe	swe
-USO	u2: ~ ä s ~ 'o2:	ACR NOM	swe	swe
-USOs	u2: ~ ä s ~ 'o2: s	ACR GEN	swe	swe
-USP	u2: ~ ä s ~ p 'e2:	ACR NOM	swe	swe
-usr	u2: ~ ä s ~ 'ä3 r	ACR NOM	swe	swe
-USS	u2: ~ ä s ~ 'ä s	ACR NOM	swe	swe
-UTM	u2: ~ t e2: ~ 'ä m	ACR NOM	swe	swe
-UU	"u2: ~ `u2:	ACR NOM	swe	swe
-UUB	u2: ~ u2: ~ b 'e2:	ACR NOM	swe	swe
-UUU	u2: ~ u2: ~ 'u2:	ACR NOM	swe	swe
-UV	"u2: ~ v `e2:	ACR NOM	swe	swe
-UVA	u2: ~ v e2: ~ 'a2:	ACR NOM	swe	swe
-UVB	u2: ~ v e2: ~ b 'e2:	ACR NOM	swe	swe
-UVI	u2: ~ v e2: ~ 'i2:	ACR NOM	swe	swe
-UX	"u2: ~ `ä k s	ACR NOM	swe	swe
-VAT	v e2: ~ a2: ~ t 'e2:	ACR NOM	swe	swe
-vb	v "e2: ~ b `e2:	ACR NOM	swe	swe
-VBG	v e2: ~ b e2: ~ g 'e2:	ACR NOM	swe	swe
-vbl	v e2: ~ b e2: ~ 'ä l	ACR NOM	swe	swe
-VC	v "e2: ~ s `e2:	ACR NOM	swe	swe
-VCD	v e2: ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-vCJS	v e2: ~ s e2: ~ j "i2: ~ `ä s	ACR NOM	swe	swe
-VCO	v e2: ~ s e2: ~ 'o2:	ACR NOM	swe	swe
-VD	v "e2: ~ d `e2:	ACR NOM	swe	swe
-VDR	v e2: ~ d e2: ~ 'ä3 r	ACR NOM	swe	swe
-VEGF	v e2: ~ e2: ~ g e2: ~ 'ä f	ACR NOM	swe	swe
-VF	v "e2: ~ `ä f	ACR NOM	swe	swe
-vfsu	v e2: ~ ä f ~ ä s ~ 'u2:	ACR NOM	swe	swe
-VG	v "e2: ~ g `e2:	ACR NOM	swe	swe
-VGB	v e2: ~ g e2: ~ b 'e2:	ACR NOM	swe	swe
-VGL	v e2: ~ g e2: ~ 'ä l	ACR NOM	swe	swe
-VHL	v e2: ~ h å2: ~ 'ä l	ACR NOM	swe	swe
-VHS	v e2: ~ h å2: ~ 'ä s	ACR NOM	swe	swe
-VK	v "e2: ~ k `å2:	ACR NOM	swe	swe
-VL	v "e2: ~ `ä l	ACR NOM	swe	swe
-VLCD	v e2: ~ ä l ~ s e2: ~ d 'e2:	ACR NOM	swe	swe
-VLDL	v e2: ~ ä l ~ d e2: ~ 'ä l	ACR NOM	swe	swe
-VM	v "e2: ~ `ä m	ACR NOM	swe	swe
-VMA	v e2: ~ ä m ~ 'a2:	ACR NOM	swe	swe
-VMF	v e2: ~ ä m ~ 'ä f	ACR NOM	swe	swe
-VMH	v "e2: ~ ä m ~ h `å2:	ACR NOM	swe	swe
-VML	v e2: ~ ä m ~ 'ä l	ACR NOM	swe	swe
-VNTr	v e2: ~ ä n ~ t "e2: ~ `ä3 r	ACR NOM	swe	swe
-VO	v "e2: ~ `o2:	ACR NOM	swe	swe
-VOC	v e2: ~ o2: ~ s 'e2:	ACR NOM	swe	swe
-VP	v "e2: ~ p `e2:	ACR NOM	swe	swe
-VPC	v e2: ~ p e2: ~ s 'e2:	ACR NOM	swe	swe
-VPC:s	v e2: ~ p e2: ~ s 'e2: s	ACR GEN	swe	swe
-VPK	v e2: ~ p e2: ~ k 'å2:	ACR NOM	swe	swe
-VrE	v e2: ~ ä3 r ~ 'e2:	ACR NOM	swe	swe
-VRI	v e2: ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
-VrL	v e2: ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-VrSU	v e2: ~ ä3 r ~ "ä s ~ `u2:	ACR NOM	swe	swe
-VrU	v e2: ~ ä3 r ~ 'u2:	ACR NOM	swe	swe
-VSD	v e2: ~ ä s ~ d 'e2:	ACR NOM	swe	swe
-VT	v "e2: ~ t `e2:	ACR NOM	swe	swe
-VTALRM	v e2: ~ t e2: ~ a2: ~ ä l ~ ä3 r ~ 'ä m	ACR NOM	swe	swe
-VTE	v e2: ~ t e2: ~ 'e2:	ACR NOM	swe	swe
-VTI	v e2: ~ t e2: ~ 'i2:	ACR NOM	swe	swe
-VTK	v e2: ~ t e2: ~ k 'å2:	ACR NOM	swe	swe
-VUK	v e2: ~ u2: ~ k 'å2:	ACR NOM	swe	swe
-VV	v "e2: ~ v `e2:	ACR NOM	swe	swe
-VVFS	v e2: ~ v e2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-VVI	v e2: ~ v e2: ~ 'i2:	ACR NOM	swe	swe
-VVS	v e2: ~ v e2: ~ 'ä s	ACR NOM	swe	swe
-vWf	v 'e2: | d "u $ b ë l - v `e2: | 'ä f	ACR NOM	swe	swe
-VWS	v 'e2: | d "u $ b ë l - v `e2: | 'ä s	ACR NOM	swe	swe
-VZV	v 'e2: | s "ä2: $ t `a | v 'e2:	ACR NOM	swe	swe
-WCC	v e2: ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-WFPHA	v e2: ~ ä f ~ p e2: ~ h å2: ~ 'a2:	ACR NOM	swe	swe
-WHO	v e2: ~ h å2: ~ 'o2:	ACR NOM	swe	swe
-WHO:s	v e2: ~ h å2: ~ 'o2: s	ACR GEN	swe	swe
-whocc	d "u $ b ë l - v `e2: | h å2: ~ o2: ~ s e2: ~ s 'e2:	ACR NOM	swe	swe
-WHOs	v e2: ~ h å2: ~ 'o2: s	ACR GEN	swe	swe
-WJ	d "u $ b ë l - v `e2: | j 'i2:	ACR NOM	swe	swe
-wnyc	d "u $ b ë l - v `e2: | ä n ~ y2: ~ s 'e2:	ACR NOM	swe	swe
-Wr	d "u $ b ë l - v `e2: | 'ä3 r	ACR NOM	swe	swe
-WRI	v e2: ~ ä3 r ~ 'i2:	ACR NOM	swe	swe
-WRX	v e2: ~ ä3 r ~ 'ä k s	ACR NOM	swe	swe
-WTO	v e2: ~ t e2: ~ 'o2:	ACR NOM	swe	swe
-WTOs	v e2: ~ t e2: ~ 'o2: s	ACR GEN	swe	swe
-WWW	v e2: ~ v e2: ~ v 'e2:	ACR NOM	swe	swe
-XC	"ä k s ~ s `e2:	ACR NOM	swe	swe
-Xe	"ä k s ~ `e2:	ACR NOM	swe	swe
-Xga	ä k s ~ g e2: ~ 'a2:	ACR NOM	swe	swe
-XLMr	ä k s ~ ä l ~ "ä m ~ `ä3 r	ACR NOM	swe	swe
+SSSR	ä s ~ ä s ~ ä s ~ 'ae r	ACR NOM	swe	swe
+SST	"ä s ~ ä s ~ t ,e:	ACR NOM	swe	swe
+SSU	ä s ~ ä s ~ 'uu:	ACR NOM	swe	swe
+SSUs	ä s ~ ä s ~ 'uu: s	ACR GEN	swe	swe
+SSV	"ä s ~ ä s ~ v ,e:	ACR NOM	swe	swe
+SSYK	ä s ~ ä s ~ y: ~ k 'o:	ACR NOM	swe	swe
+ST	"ä s ~ t ,e:	ACR NOM	swe	swe
+STD	ä s ~ t e: ~ d 'e:	ACR NOM	swe	swe
+Stf	ä s ~ t e: ~ 'ä f	ACR NOM	swe	swe
+STH	ä s ~ t e: ~ h 'o:	ACR NOM	swe	swe
+STI	ä s ~ t e: ~ 'i:	ACR NOM	swe	swe
+STK	"ä s ~ t e: ~ k ,o:	ACR NOM	swe	swe
+STm	ä s ~ t e: ~ 'ä m	ACR NOM	swe	swe
+str	ä s ~ t e: ~ 'ae r	ACR NOM	swe	swe
+strA	ä s ~ t e: ~ 'ae r | 'a:	ACR NOM	swe	swe
+strB	ä s ~ t e: ~ 'ae r | b 'e:	ACR NOM	swe	swe
+STSS	ä s ~ t e: ~ "ä s ~ ,ä s	ACR NOM	swe	swe
+SU	"ä s ~ ,uu:	ACR NOM	swe	swe
+SUHF	ä s ~ uu: ~ h "o: ~ ,ä f	ACR NOM	swe	swe
+SUK	ä s ~ uu: ~ k 'o:	ACR NOM	swe	swe
+SV	"ä s ~ v ,e:	ACR NOM	swe	swe
+SVCA	ä s ~ v e: ~ s e: ~ 'a:	ACR NOM	swe	swe
+SvD	"ä s ~ v e: ~ d ,e:	ACR NOM	swe	swe
+SvJT	ä s ~ v e: ~ j i: ~ t 'e:	ACR NOM	swe	swe
+SVL	ä s ~ v e: ~ 'ä l	ACR NOM	swe	swe
+SVO	ä s ~ v e: ~ 'u:	ACR NOM	swe	swe
+SVs	"ä s ~ v ,e: s	ACR GEN	swe	swe
+SVS	ä s ~ v e: ~ 'ä s	ACR NOM	swe	swe
+SvSkt	"ä s ~ v ,e: | ä s ~ k o: ~ t 'e:	ACR NOM	swe	swe
+SVT	"ä s ~ v e: ~ t ,e:	ACR NOM	swe	swe
+SVT:s	"ä s ~ v e: ~ t ,e: s	ACR GEN	swe	swe
+SZ	"ä s ~ s ,ä: . t a	ACR NOM	swe	swe
+SÖ	"ä s ~ ,ö:	ACR NOM	swe	swe
+t-PA	t "e: ~ p e: ~ ,a:	ACR NOM	swe	swe
+TAB	t e: ~ a: ~ b 'e:	ACR NOM	swe	swe
+TB	t "e: ~ b ,e:	ACR NOM	swe	swe
+tbc	t e: ~ b e: ~ s 'e:	ACR NOM	swe	swe
+TBE	t e: ~ b e: ~ 'e:	ACR NOM	swe	swe
+TBG	t e: ~ b e: ~ g 'e:	ACR NOM	swe	swe
+TBL	t e: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+TBPA	t e: ~ b e: ~ p e: ~ 'a:	ACR NOM	swe	swe
+TBV	t e: ~ b e: ~ v 'e:	ACR NOM	swe	swe
+TBVs	t e: ~ b e: ~ v 'e: s	ACR GEN	swe	swe
+TBW	t e: ~ b e: ~ d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+Tc	t "e: ~ s ,e:	ACR NOM	swe	swe
+TCA	t e: ~ s e: ~ 'a:	ACR NOM	swe	swe
+TCO	t "e: ~ s e: ~ ,u:	ACR NOM	swe	swe
+TCOs	t "e: ~ s e: ~ ,u: s	ACR GEN	swe	swe
+tcPb	t e: ~ s e: ~ p e: ~ b 'e:	ACR NOM	swe	swe
+tcPO	t e: ~ s e: ~ p e: ~ 'u:	ACR NOM	swe	swe
+TCr	t e: ~ s e: ~ 'ae r	ACR NOM	swe	swe
+TD	t "e: ~ d ,e:	ACR NOM	swe	swe
+TEC	t e: ~ e: ~ s 'e:	ACR NOM	swe	swe
+TEM	t e: ~ e: ~ 'ä m	ACR NOM	swe	swe
+TF	t "e: ~ ,ä f	ACR NOM	swe	swe
+TFA	t e: ~ ä f ~ 'a:	ACR NOM	swe	swe
+TFA-KL	t e: ~ ä f ~ 'a: | k "o: ~ ,ä l	ACR NOM	swe	swe
+TFEQ	t e: ~ ä f ~ "e: ~ k ,uu:	ACR NOM	swe	swe
+TFF	t e: ~ ä f ~ 'ä f	ACR NOM	swe	swe
+TfR	t e: ~ ä f ~ 'ae r	ACR NOM	swe	swe
+TfR	t e: ~ ä f ~ 'ae r	ACR NOM	swe	swe
+TG	t "e: ~ g ,e:	ACR NOM	swe	swe
+TGA	t e: ~ g e: ~ 'a:	ACR NOM	swe	swe
+TGF	t e: ~ g e: ~ 'ä f	ACR NOM	swe	swe
+TGOJ	t e: ~ g e: ~ u: ~ j 'i:	ACR NOM	swe	swe
+TGV	t e: ~ g e: ~ v 'e:	ACR NOM	swe	swe
+th	t "e: ~ h ,o:	ACR NOM	swe	swe
+THC	t e: ~ h o: ~ s 'e:	ACR NOM	swe	swe
+Thr	t e: ~ h o: ~ 'ae r	ACR NOM	swe	swe
+THX	t e: ~ h o: ~ 'ä k s	ACR NOM	swe	swe
+TIBC	t e: ~ i: ~ b e: ~ s 'e:	ACR NOM	swe	swe
+TIMSS	t e: ~ i: ~ ä m ~ ä s ~ 'ä s	ACR NOM	swe	swe
+TJ	t "e: ~ j ,i:	ACR NOM	swe	swe
+TK	t "e: ~ k ,o:	ACR NOM	swe	swe
+TKI	t e: ~ k o: ~ 'i:	ACR NOM	swe	swe
+TKL	t e: ~ k o: ~ 'ä l	ACR NOM	swe	swe
+TL	t "e: ~ ,ä l	ACR NOM	swe	swe
+TLC	t e: ~ ä l ~ s 'e:	ACR NOM	swe	swe
+tlv	t e: ~ ä l ~ v 'e:	ACR NOM	swe	swe
+TM	t "e: ~ ,ä m	ACR NOM	swe	swe
+TMD	t e: ~ ä m ~ d 'e:	ACR NOM	swe	swe
+tmv	t e: ~ ä m ~ v 'e:	ACR NOM	swe	swe
+TN	t "e: ~ ,ä n	ACR NOM	swe	swe
+TNF	t e: ~ ä n ~ 'ä f	ACR NOM	swe	swe
+TNF-a	t e: ~ ä n ~ 'ä f | 'a:	ACR NOM	swe	swe
+TNS	t e: ~ ä n ~ 'ä s	ACR NOM	swe	swe
+TP	t "e: ~ p ,e:	ACR NOM	swe	swe
+TPA	t e: ~ p e: ~ 'a:	ACR NOM	swe	swe
+TPB	t e: ~ p e: ~ b 'e:	ACR NOM	swe	swe
+TPBs	t e: ~ p e: ~ b 'e: s	ACR GEN	swe	swe
+TPG	t e: ~ p e: ~ g 'e:	ACR NOM	swe	swe
+TPK	t e: ~ p e: ~ k 'o:	ACR NOM	swe	swe
+TPMT	t e: ~ p e: ~ ä m ~ t 'e:	ACR NOM	swe	swe
+TPN	t e: ~ p e: ~ 'ä n	ACR NOM	swe	swe
+TPO	t e: ~ p e: ~ 'u:	ACR NOM	swe	swe
+TPS	t e: ~ p e: ~ 'ä s	ACR NOM	swe	swe
+TPV	t e: ~ p e: ~ v 'e:	ACR NOM	swe	swe
+TQM	t e: ~ k uu: ~ 'ä m	ACR NOM	swe	swe
+TR	t "e: ~ ,ae r	ACR NOM	swe	swe
+TrH	t "e: ~ ae r ~ h ,o:	ACR NOM	swe	swe
+TrkA	t e: ~ ae r ~ k 'o: | 'a:	ACR NOM	swe	swe
+TrkB	t e: ~ ae r ~ k 'o: | b 'e:	ACR NOM	swe	swe
+trNA	t e: ~ ae r ~ "ä n ~ ,a:	ACR NOM	swe	swe
+Trp	t e: ~ ae r ~ p 'e:	ACR NOM	swe	swe
+TRR	t e: ~ ae r ~ 'ae r	ACR NOM	swe	swe
+ts	t "e: ~ ,ä s	ACR NOM	swe	swe
+TSA	t e: ~ ä s ~ 'a:	ACR NOM	swe	swe
+TSH	t "e: ~ ä s ~ h ,o:	ACR NOM	swe	swe
+TSI	t e: ~ ä s ~ 'i:	ACR NOM	swe	swe
+TSL	t e: ~ ä s ~ 'ä l	ACR NOM	swe	swe
+TSM	t e: ~ ä s ~ 'ä m	ACR NOM	swe	swe
+TSP	t e: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+TSS	t e: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+TT	t "e: ~ t ,e:	ACR NOM	swe	swe
+TTP	t e: ~ t e: ~ p 'e:	ACR NOM	swe	swe
+TTS	t e: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+TU	t "e: ~ ,uu:	ACR NOM	swe	swe
+TV	t "e: ~ v ,e:	ACR NOM	swe	swe
+TVA	t e: ~ v e: ~ 'a:	ACR NOM	swe	swe
+TVBL	t e: ~ v e: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+TvL	t e: ~ v e: ~ 'ä l	ACR NOM	swe	swe
+TW	t 'e: | d "uu . b ex l - v ,e:	ACR NOM	swe	swe
+TX	t e: ~ 'ä k s	ACR NOM	swe	swe
+TXA	t e: ~ ä k s ~ 'a:	ACR NOM	swe	swe
+U.S.	uu: ~ 'ä s	ACR NOM	swe	swe
+UAL	uu: ~ a: ~ 'ä l	ACR NOM	swe	swe
+UARS	uu: ~ a: ~ ae r ~ 'ä s	ACR NOM	swe	swe
+UB	"uu: ~ b ,e:	ACR NOM	swe	swe
+UBA	uu: ~ b e: ~ 'a:	ACR NOM	swe	swe
+UBF	uu: ~ b e: ~ 'ä f	ACR NOM	swe	swe
+UBL	uu: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+UBS	uu: ~ b e: ~ 'ä s	ACR NOM	swe	swe
+UC	"uu: ~ s ,e:	ACR NOM	swe	swe
+UCB	uu: ~ s e: ~ b 'e:	ACR NOM	swe	swe
+UCG	uu: ~ s e: ~ g 'e:	ACR NOM	swe	swe
+UCITS	uu: ~ s e: ~ i: ~ t e: ~ 'ä s	ACR NOM	swe	swe
+UCL	uu: ~ s e: ~ 'ä l	ACR NOM	swe	swe
+UCP	uu: ~ s e: ~ p 'e:	ACR NOM	swe	swe
+UD	"uu: ~ d ,e:	ACR NOM	swe	swe
+UDK	uu: ~ d e: ~ k 'o:	ACR NOM	swe	swe
+UES	uu: ~ e: ~ 'ä s	ACR NOM	swe	swe
+UF	"uu: ~ ,ä f	ACR NOM	swe	swe
+UFB	uu: ~ ä f ~ b 'e:	ACR NOM	swe	swe
+UFL	uu: ~ ä f ~ 'ä l	ACR NOM	swe	swe
+UfR	uu: ~ ä f ~ 'ae r	ACR NOM	swe	swe
+UGU	uu: ~ g e: ~ 'uu:	ACR NOM	swe	swe
+UHÄ	uu: ~ h o: ~ 'ä:	ACR NOM	swe	swe
+UI	"uu: ~ ,i:	ACR NOM	swe	swe
+UI:s	"uu: ~ ,i: s	ACR GEN	swe	swe
+UID	uu: ~ i: ~ d 'e:	ACR NOM	swe	swe
+UIN	uu: ~ i: ~ 'ä n	ACR NOM	swe	swe
+UIP	uu: ~ i: ~ p 'e:	ACR NOM	swe	swe
+UIs	"uu: ~ ,i: s	ACR GEN	swe	swe
+uk	"uu: ~ k ,o:	ACR NOM	swe	swe
+UKG	uu: ~ k o: ~ g 'e:	ACR NOM	swe	swe
+UKPDS	uu: ~ k o: ~ p e: ~ d e: ~ 'ä s	ACR NOM	swe	swe
+UL	"uu: ~ ,ä l	ACR NOM	swe	swe
+UMD	uu: ~ ä m ~ d 'e:	ACR NOM	swe	swe
+UMI	uu: ~ ä m ~ 'i:	ACR NOM	swe	swe
+UMKL	uu: ~ ä m ~ k "o: ~ ,ä l	ACR NOM	swe	swe
+UML	uu: ~ ä m ~ 'ä l	ACR NOM	swe	swe
+UMP	uu: ~ ä m ~ p 'e:	ACR NOM	swe	swe
+UMTS	uu: ~ ä m ~ t e: ~ 'ä s	ACR NOM	swe	swe
+UN	"uu: ~ ,ä n	ACR NOM	swe	swe
+UNCSD	uu: ~ ä n ~ s e: ~ ä s ~ d 'e:	ACR NOM	swe	swe
+UNDP	uu: ~ ä n ~ d e: ~ p 'e:	ACR NOM	swe	swe
+UNHCR	uu: ~ ä n ~ h "o: ~ s e: ~ ,ae r	ACR NOM	swe	swe
+UNHCR:s	uu: ~ ä n ~ h "o: ~ s e: ~ ,ae r s	ACR GEN	swe	swe
+UNICE	uu: ~ ä n ~ i: ~ s 'e:	ACR NOM	swe	swe
+UNODC	uu: ~ ä n ~ u: ~ d e: ~ s 'e:	ACR NOM	swe	swe
+UNTWTO	uu: ~ ä n ~ t e: ~ d "uu . b ex l - v ,e: | t e: ~ 'u:	ACR NOM	swe	swe
+UNWTO	uu: ~ ä n ~ d "uu . b ex l - v ,e: | t e: ~ 'u:	ACR NOM	swe	swe
+Uo	"uu: ~ ,u:	ACR NOM	swe	swe
+UPC	uu: ~ p e: ~ s 'e:	ACR NOM	swe	swe
+UPG	uu: ~ p e: ~ g 'e:	ACR NOM	swe	swe
+UPI	uu: ~ p e: ~ 'i:	ACR NOM	swe	swe
+UPL	uu: ~ p e: ~ 'ä l	ACR NOM	swe	swe
+UPPP	uu: ~ p e: ~ p e: ~ p 'e:	ACR NOM	swe	swe
+UR:s	"uu: ~ ,ae r s	ACR GEN	swe	swe
+URG	uu: ~ ae r ~ g 'e:	ACR NOM	swe	swe
+URL	uu: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+url	uu: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+URN	uu: ~ ae r ~ 'ä n	ACR NOM	swe	swe
+usa	uu: ~ ä s ~ 'a:	ACR NOM	swe	swe
+USA:s	uu: ~ ä s ~ 'a: s	ACR GEN	swe	swe
+USAL	uu: ~ ä s ~ "a: ~ ,ä l	ACR NOM	swe	swe
+USAs	uu: ~ ä s ~ 'a: s	ACR GEN	swe	swe
+USB	uu: ~ ä s ~ b 'e:	ACR NOM	swe	swe
+USL	uu: ~ ä s ~ 'ä l	ACR NOM	swe	swe
+USM	uu: ~ ä s ~ 'ä m	ACR NOM	swe	swe
+USO	uu: ~ ä s ~ 'u:	ACR NOM	swe	swe
+USOs	uu: ~ ä s ~ 'u: s	ACR GEN	swe	swe
+USP	uu: ~ ä s ~ p 'e:	ACR NOM	swe	swe
+usr	uu: ~ ä s ~ 'ae r	ACR NOM	swe	swe
+USS	uu: ~ ä s ~ 'ä s	ACR NOM	swe	swe
+UTM	uu: ~ t e: ~ 'ä m	ACR NOM	swe	swe
+UU	"uu: ~ ,uu:	ACR NOM	swe	swe
+UUB	uu: ~ uu: ~ b 'e:	ACR NOM	swe	swe
+UUU	uu: ~ uu: ~ 'uu:	ACR NOM	swe	swe
+UV	"uu: ~ v ,e:	ACR NOM	swe	swe
+UVA	uu: ~ v e: ~ 'a:	ACR NOM	swe	swe
+UVB	uu: ~ v e: ~ b 'e:	ACR NOM	swe	swe
+UVI	uu: ~ v e: ~ 'i:	ACR NOM	swe	swe
+UX	"uu: ~ ,ä k s	ACR NOM	swe	swe
+VAT	v e: ~ a: ~ t 'e:	ACR NOM	swe	swe
+vb	v "e: ~ b ,e:	ACR NOM	swe	swe
+VBG	v e: ~ b e: ~ g 'e:	ACR NOM	swe	swe
+vbl	v e: ~ b e: ~ 'ä l	ACR NOM	swe	swe
+VC	v "e: ~ s ,e:	ACR NOM	swe	swe
+VCD	v e: ~ s e: ~ d 'e:	ACR NOM	swe	swe
+vCJS	v e: ~ s e: ~ j "i: ~ ,ä s	ACR NOM	swe	swe
+VCO	v e: ~ s e: ~ 'u:	ACR NOM	swe	swe
+VD	v "e: ~ d ,e:	ACR NOM	swe	swe
+VDR	v e: ~ d e: ~ 'ae r	ACR NOM	swe	swe
+VEGF	v e: ~ e: ~ g e: ~ 'ä f	ACR NOM	swe	swe
+VF	v "e: ~ ,ä f	ACR NOM	swe	swe
+vfsu	v e: ~ ä f ~ ä s ~ 'uu:	ACR NOM	swe	swe
+VG	v "e: ~ g ,e:	ACR NOM	swe	swe
+VGB	v e: ~ g e: ~ b 'e:	ACR NOM	swe	swe
+VGL	v e: ~ g e: ~ 'ä l	ACR NOM	swe	swe
+VHL	v e: ~ h o: ~ 'ä l	ACR NOM	swe	swe
+VHS	v e: ~ h o: ~ 'ä s	ACR NOM	swe	swe
+VK	v "e: ~ k ,o:	ACR NOM	swe	swe
+VL	v "e: ~ ,ä l	ACR NOM	swe	swe
+VLCD	v e: ~ ä l ~ s e: ~ d 'e:	ACR NOM	swe	swe
+VLDL	v e: ~ ä l ~ d e: ~ 'ä l	ACR NOM	swe	swe
+VM	v "e: ~ ,ä m	ACR NOM	swe	swe
+VMA	v e: ~ ä m ~ 'a:	ACR NOM	swe	swe
+VMF	v e: ~ ä m ~ 'ä f	ACR NOM	swe	swe
+VMH	v "e: ~ ä m ~ h ,o:	ACR NOM	swe	swe
+VML	v e: ~ ä m ~ 'ä l	ACR NOM	swe	swe
+VNTr	v e: ~ ä n ~ t "e: ~ ,ae r	ACR NOM	swe	swe
+VO	v "e: ~ ,u:	ACR NOM	swe	swe
+VOC	v e: ~ u: ~ s 'e:	ACR NOM	swe	swe
+VP	v "e: ~ p ,e:	ACR NOM	swe	swe
+VPC	v e: ~ p e: ~ s 'e:	ACR NOM	swe	swe
+VPC:s	v e: ~ p e: ~ s 'e: s	ACR GEN	swe	swe
+VPK	v e: ~ p e: ~ k 'o:	ACR NOM	swe	swe
+VrE	v e: ~ ae r ~ 'e:	ACR NOM	swe	swe
+VRI	v e: ~ ae r ~ 'i:	ACR NOM	swe	swe
+VrL	v e: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+VrSU	v e: ~ ae r ~ "ä s ~ ,uu:	ACR NOM	swe	swe
+VrU	v e: ~ ae r ~ 'uu:	ACR NOM	swe	swe
+VSD	v e: ~ ä s ~ d 'e:	ACR NOM	swe	swe
+VT	v "e: ~ t ,e:	ACR NOM	swe	swe
+VTALRM	v e: ~ t e: ~ a: ~ ä l ~ ae r ~ 'ä m	ACR NOM	swe	swe
+VTE	v e: ~ t e: ~ 'e:	ACR NOM	swe	swe
+VTI	v e: ~ t e: ~ 'i:	ACR NOM	swe	swe
+VTK	v e: ~ t e: ~ k 'o:	ACR NOM	swe	swe
+VUK	v e: ~ uu: ~ k 'o:	ACR NOM	swe	swe
+VV	v "e: ~ v ,e:	ACR NOM	swe	swe
+VVFS	v e: ~ v e: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+VVI	v e: ~ v e: ~ 'i:	ACR NOM	swe	swe
+VVS	v e: ~ v e: ~ 'ä s	ACR NOM	swe	swe
+vWf	v 'e: | d "uu . b ex l - v ,e: | 'ä f	ACR NOM	swe	swe
+VWS	v 'e: | d "uu . b ex l - v ,e: | 'ä s	ACR NOM	swe	swe
+VZV	v 'e: | s "ä: . t ,a | v 'e:	ACR NOM	swe	swe
+WCC	v e: ~ s e: ~ s 'e:	ACR NOM	swe	swe
+WFPHA	v e: ~ ä f ~ p e: ~ h o: ~ 'a:	ACR NOM	swe	swe
+WHO	v e: ~ h o: ~ 'u:	ACR NOM	swe	swe
+WHO:s	v e: ~ h o: ~ 'u: s	ACR GEN	swe	swe
+whocc	d "uu . b ex l - v ,e: | h o: ~ u: ~ s e: ~ s 'e:	ACR NOM	swe	swe
+WHOs	v e: ~ h o: ~ 'u: s	ACR GEN	swe	swe
+WJ	d "uu . b ex l - v ,e: | j 'i:	ACR NOM	swe	swe
+wnyc	d "uu . b ex l - v ,e: | ä n ~ y: ~ s 'e:	ACR NOM	swe	swe
+Wr	d "uu . b ex l - v ,e: | 'ae r	ACR NOM	swe	swe
+WRI	v e: ~ ae r ~ 'i:	ACR NOM	swe	swe
+WRX	v e: ~ ae r ~ 'ä k s	ACR NOM	swe	swe
+WTO	v e: ~ t e: ~ 'u:	ACR NOM	swe	swe
+WTOs	v e: ~ t e: ~ 'u: s	ACR GEN	swe	swe
+WWW	v e: ~ v e: ~ v 'e:	ACR NOM	swe	swe
+XC	"ä k s ~ s ,e:	ACR NOM	swe	swe
+Xe	"ä k s ~ ,e:	ACR NOM	swe	swe
+Xga	ä k s ~ g e: ~ 'a:	ACR NOM	swe	swe
+XLMr	ä k s ~ ä l ~ "ä m ~ ,ae r	ACR NOM	swe	swe
 XML	ä k s ~ ä m ~ 'ä l	ACR NOM	swe	swe
-XP	"ä k s ~ p `e2:	ACR NOM	swe	swe
-XXXVI	ä k s ~ ä k s ~ ä k s ~ v e2: ~ 'i2:	ACR NOM	swe	swe
-XXY	ä k s ~ ä k s ~ 'y2:	ACR NOM	swe	swe
-XY	"ä k s ~ `y2:	ACR NOM	swe	swe
-YFC	y2: ~ ä f ~ s 'e2:	ACR NOM	swe	swe
-YGL	y2: ~ g e2: ~ 'ä l	ACR NOM	swe	swe
-YH	"y2: ~ h `å2:	ACR NOM	swe	swe
-YIS	y2: ~ i2: ~ 'ä s	ACR NOM	swe	swe
-YM	"y2: ~ `ä m	ACR NOM	swe	swe
-YSM	y2: ~ ä s ~ 'ä m	ACR NOM	swe	swe
-YTH	y2: ~ t e2: ~ h 'å2:	ACR NOM	swe	swe
-YTL	y2: ~ t e2: ~ 'ä l	ACR NOM	swe	swe
-YY	"y2: ~ `y2:	ACR NOM	swe	swe
-Zn	s "ä2: $ t `a | 'ä n	ACR NOM	swe	swe
-ZOG	s "ä2: $ t `a | 'o2: | g 'e2:	ACR NOM	swe	swe
-ZPD	s "ä2: $ t `a | p 'e2: | d 'e2:	ACR NOM	swe	swe
-ZTV	s "ä2: $ t a ~ t `e2: ~ v e2:	ACR NOM	swe	swe
-ZZ	s "ä2: $ t `a | s "ä2: $ t `a	ACR NOM	swe	swe
-ÄB	"ä2: ~ b `e2:	ACR NOM	swe	swe
-ÄFS	ä2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-ÄGK	ä2: ~ g e2: ~ k 'å2:	ACR NOM	swe	swe
-ÄHU	ä2: ~ h å2: ~ 'u2:	ACR NOM	swe	swe
-ÄJB	ä2: ~ j i2: ~ b 'e2:	ACR NOM	swe	swe
-ÄL	"ä2: ~ `ä l	ACR NOM	swe	swe
-ÄLL	ä2: ~ ä l ~ 'ä l	ACR NOM	swe	swe
-ÄP	"ä2: ~ p `e2:	ACR NOM	swe	swe
-ÄULL	ä2: ~ u2: ~ ä l ~ 'ä l	ACR NOM	swe	swe
-ÅB	"å2: ~ b `e2:	ACR NOM	swe	swe
-ÅFF	å2: ~ ä f ~ 'ä f	ACR NOM	swe	swe
-ÅFS	å2: ~ ä f ~ 'ä s	ACR NOM	swe	swe
-ÅP	"å2: ~ p `e2:	ACR NOM	swe	swe
-åRL	å2: ~ ä3 r ~ 'ä l	ACR NOM	swe	swe
-ÅRLs	å2: ~ ä3 r ~ 'ä l s	ACR GEN	swe	swe
-ÅÅÅÅ-MM-DD	å2: ~ å2: ~ å2: ~ 'å2: | "ä m ~ `ä m | d "e2: ~ d `e2:	ACR NOM	swe	swe
-öb	"ö2: ~ b `e2:	ACR NOM	swe	swe
-ÖBK	ö2: ~ b e2: ~ k 'å2:	ACR NOM	swe	swe
-ÖCB	ö2: ~ s e2: ~ b 'e2:	ACR NOM	swe	swe
-ÖI	"ö2: ~ `i2:	ACR NOM	swe	swe
-ÖLI	ö2: ~ ä l ~ 'i2:	ACR NOM	swe	swe
-ÖN	"ö2: ~ `ä n	ACR NOM	swe	swe
-önh	ö2: ~ ä n ~ h 'å2:	ACR NOM	swe	swe
-ÖPwC	ö2: ~ p e2: ~ v e2: ~ s 'e2:	ACR NOM	swe	swe
-ÖSK	"ö2: ~ ä s ~ k `å2:	ACR NOM	swe	swe
-Öö	"ö2: ~ `ö2:	ACR NOM	swe	swe
-EKG	e2: ~ k å2: ~ g 'e2:	ACR NOM	swe	swe
-PSL	p e2: ~ ä s ~ 'ä l	ACR NOM	swe	swe
-DC	d "e2: ~ s `e2:	ACR NOM	swe	swe
-FFT	ä f ~ ä f ~ t 'e2:	ACR NOM	swe	swe
-BN	b "e2: ~ `ä n	ACR NOM	swe	swe
-EMDR	e2: ~ ä m ~ d e2: ~ 'ä3 r	ACR NOM	swe	swe
-SRS	ä s ~ ä3 r ~ 'ä s	ACR NOM	swe	swe
-SSB	ä s ~ ä s ~ b 'e2:	ACR NOM	swe	swe
-MCT	ä m ~ s e2: ~ t 'e2:	ACR NOM	swe	swe
-EBP	e2: ~ b e2: ~ p 'e2:	ACR NOM	swe	swe
-OSL	o2: ~ ä s ~ 'ä l	ACR NOM	swe	swe
-nih	ä n ~ i2: ~ h 'å2:	ACR NOM	swe	swe
-BPSD	b e2: ~ p e2: ~ ä s ~ d 'e2:	ACR NOM	swe	swe
-WAD	v e2: ~ a2: ~ d 'e2:	ACR NOM	swe	swe
-RSMH	ä3 r ~ ä s ~ ä m ~ h 'å2:	ACR NOM	swe	swe
-SBAR	ä s ~ b e2: ~ a2: ~ 'ä3 r	ACR NOM	swe	swe
-SS-EN	"ä s ~ ä s ~ `e2: ~ ä n	ACR NOM	swe	swe
-FHV	ä f ~ h å2: ~ v 'e2:	ACR NOM	swe	swe
-KT	k "å2: ~ t `e2:	ACR NOM	swe	swe
-SoSB	ä s ~ o2: ~ ä s ~ b 'e2:	ACR NOM	swe	swe
-XX	"ä k s ~ `ä k s	ACR NOM	swe	swe
-edn	e2: ~ d e2: ~ 'ä n	ACR NOM	swe	swe
-PONV	p e2: ~ o2: ~ ä n ~ v 'e2:	ACR NOM	swe	swe
-ncbi	ä n ~ s e2: ~ b e2: ~ 'i2:	ACR NOM	swe	swe
-EPJ	e2: ~ p e2: ~ j 'i2:	ACR NOM	swe	swe
-RDI	ä3 r ~ d e2: ~ 'i2:	ACR NOM	swe	swe
-DoH	d e2: ~ o2: ~ h 'å2:	ACR NOM	swe	swe
-LRU	ä l ~ ä3 r ~ 'u2:	ACR NOM	swe	swe
-MVU	ä m ~ v e2: ~ 'u2:	ACR NOM	swe	swe
-RFT	ä3 r ~ ä f ~ t 'e2:	ACR NOM	swe	swe
-MFR	ä m ~ ä f ~ 'ä3 r	ACR NOM	swe	swe
-MBKT	ä m ~ b e2: ~ k å2: ~ t 'e2:	ACR NOM	swe	swe
-CRA	s e2: ~ ä3 r ~ 'a2:	ACR NOM	swe	swe
-VTA	v e2: ~ t e2: ~ 'a2:	ACR NOM	swe	swe
-H&M	h "å2: ~ `ä m	ACR NOM	swe	swe
-ÖBO	ö2: ~ b e2: ~ 'o2:	ACR NOM	swe	swe
-GRU	g e2: ~ ä3 r ~'u2:	ACR NOM	swe	swe
-CIA	s i2: ~ a j ~ 'e j	ACR NOM	swe	swe
+XP	"ä k s ~ p ,e:	ACR NOM	swe	swe
+XXXVI	ä k s ~ ä k s ~ ä k s ~ v e: ~ 'i:	ACR NOM	swe	swe
+XXY	ä k s ~ ä k s ~ 'y:	ACR NOM	swe	swe
+XY	"ä k s ~ ,y:	ACR NOM	swe	swe
+YFC	y: ~ ä f ~ s 'e:	ACR NOM	swe	swe
+YGL	y: ~ g e: ~ 'ä l	ACR NOM	swe	swe
+YH	"y: ~ h ,o:	ACR NOM	swe	swe
+YIS	y: ~ i: ~ 'ä s	ACR NOM	swe	swe
+YM	"y: ~ ,ä m	ACR NOM	swe	swe
+YSM	y: ~ ä s ~ 'ä m	ACR NOM	swe	swe
+YTH	y: ~ t e: ~ h 'o:	ACR NOM	swe	swe
+YTL	y: ~ t e: ~ 'ä l	ACR NOM	swe	swe
+YY	"y: ~ ,y:	ACR NOM	swe	swe
+Zn	s "ä: . t ,a | 'ä n	ACR NOM	swe	swe
+ZOG	s "ä: . t ,a | 'u: | g 'e:	ACR NOM	swe	swe
+ZPD	s "ä: . t ,a | p 'e: | d 'e:	ACR NOM	swe	swe
+ZTV	s "ä: . t a ~ t ,e: ~ v e:	ACR NOM	swe	swe
+ZZ	s "ä: . t ,a | s "ä: . t ,a	ACR NOM	swe	swe
+ÄB	"ä: ~ b ,e:	ACR NOM	swe	swe
+ÄFS	ä: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+ÄGK	ä: ~ g e: ~ k 'o:	ACR NOM	swe	swe
+ÄHU	ä: ~ h o: ~ 'uu:	ACR NOM	swe	swe
+ÄJB	ä: ~ j i: ~ b 'e:	ACR NOM	swe	swe
+ÄL	"ä: ~ ,ä l	ACR NOM	swe	swe
+ÄLL	ä: ~ ä l ~ 'ä l	ACR NOM	swe	swe
+ÄP	"ä: ~ p ,e:	ACR NOM	swe	swe
+ÄULL	ä: ~ uu: ~ ä l ~ 'ä l	ACR NOM	swe	swe
+ÅB	"o: ~ b ,e:	ACR NOM	swe	swe
+ÅFF	o: ~ ä f ~ 'ä f	ACR NOM	swe	swe
+ÅFS	o: ~ ä f ~ 'ä s	ACR NOM	swe	swe
+ÅP	"o: ~ p ,e:	ACR NOM	swe	swe
+åRL	o: ~ ae r ~ 'ä l	ACR NOM	swe	swe
+ÅRLs	o: ~ ae r ~ 'ä l s	ACR GEN	swe	swe
+ÅÅÅÅ-MM-DD	o: ~ o: ~ o: ~ 'o: | "ä m ~ ,ä m | d "e: ~ d ,e:	ACR NOM	swe	swe
+öb	"ö: ~ b ,e:	ACR NOM	swe	swe
+ÖBK	ö: ~ b e: ~ k 'o:	ACR NOM	swe	swe
+ÖCB	ö: ~ s e: ~ b 'e:	ACR NOM	swe	swe
+ÖI	"ö: ~ ,i:	ACR NOM	swe	swe
+ÖLI	ö: ~ ä l ~ 'i:	ACR NOM	swe	swe
+ÖN	"ö: ~ ,ä n	ACR NOM	swe	swe
+önh	ö: ~ ä n ~ h 'o:	ACR NOM	swe	swe
+ÖPwC	ö: ~ p e: ~ v e: ~ s 'e:	ACR NOM	swe	swe
+ÖSK	"ö: ~ ä s ~ k ,o:	ACR NOM	swe	swe
+Öö	"ö: ~ ,ö:	ACR NOM	swe	swe
+EKG	e: ~ k o: ~ g 'e:	ACR NOM	swe	swe
+PSL	p e: ~ ä s ~ 'ä l	ACR NOM	swe	swe
+DC	d "e: ~ s ,e:	ACR NOM	swe	swe
+FFT	ä f ~ ä f ~ t 'e:	ACR NOM	swe	swe
+BN	b "e: ~ ,ä n	ACR NOM	swe	swe
+EMDR	e: ~ ä m ~ d e: ~ 'ae r	ACR NOM	swe	swe
+SRS	ä s ~ ae r ~ 'ä s	ACR NOM	swe	swe
+SSB	ä s ~ ä s ~ b 'e:	ACR NOM	swe	swe
+MCT	ä m ~ s e: ~ t 'e:	ACR NOM	swe	swe
+EBP	e: ~ b e: ~ p 'e:	ACR NOM	swe	swe
+OSL	u: ~ ä s ~ 'ä l	ACR NOM	swe	swe
+nih	ä n ~ i: ~ h 'o:	ACR NOM	swe	swe
+BPSD	b e: ~ p e: ~ ä s ~ d 'e:	ACR NOM	swe	swe
+WAD	v e: ~ a: ~ d 'e:	ACR NOM	swe	swe
+RSMH	ae r ~ ä s ~ ä m ~ h 'o:	ACR NOM	swe	swe
+SBAR	ä s ~ b e: ~ a: ~ 'ae r	ACR NOM	swe	swe
+SS-EN	"ä s ~ ä s ~ ,e: ~ ä n	ACR NOM	swe	swe
+FHV	ä f ~ h o: ~ v 'e:	ACR NOM	swe	swe
+KT	k "o: ~ t ,e:	ACR NOM	swe	swe
+SoSB	ä s ~ u: ~ ä s ~ b 'e:	ACR NOM	swe	swe
+XX	"ä k s ~ ,ä k s	ACR NOM	swe	swe
+edn	e: ~ d e: ~ 'ä n	ACR NOM	swe	swe
+PONV	p e: ~ u: ~ ä n ~ v 'e:	ACR NOM	swe	swe
+ncbi	ä n ~ s e: ~ b e: ~ 'i:	ACR NOM	swe	swe
+EPJ	e: ~ p e: ~ j 'i:	ACR NOM	swe	swe
+RDI	ae r ~ d e: ~ 'i:	ACR NOM	swe	swe
+DoH	d e: ~ u: ~ h 'o:	ACR NOM	swe	swe
+LRU	ä l ~ ae r ~ 'uu:	ACR NOM	swe	swe
+MVU	ä m ~ v e: ~ 'uu:	ACR NOM	swe	swe
+RFT	ae r ~ ä f ~ t 'e:	ACR NOM	swe	swe
+MFR	ä m ~ ä f ~ 'ae r	ACR NOM	swe	swe
+MBKT	ä m ~ b e: ~ k o: ~ t 'e:	ACR NOM	swe	swe
+CRA	s e: ~ ae r ~ 'a:	ACR NOM	swe	swe
+VTA	v e: ~ t e: ~ 'a:	ACR NOM	swe	swe
+H&M	h "o: ~ ,ä m	ACR NOM	swe	swe
+ÖBO	ö: ~ b e: ~ 'u:	ACR NOM	swe	swe
+GRU	g e: ~ ae r ~ 'uu:	ACR NOM	swe	swe
+CIA	s i: ~ a j ~ 'e j	ACR NOM	swe	swe
